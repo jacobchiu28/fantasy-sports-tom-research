@@ -1,0 +1,1201 @@
+roster_id,team,prompt_type,prompt_text
+1,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+1,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+1,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+1,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+2,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+2,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+2,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+2,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+3,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+3,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+3,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+3,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+4,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=0, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+4,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=0, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+4,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=0, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+4,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=0, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+5,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+5,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+5,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+5,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+6,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=0, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+6,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=0, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+6,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=0, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+6,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=0, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+7,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+7,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+7,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+7,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+8,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+8,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+8,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+8,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+9,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=0, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+9,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=0, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+9,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=0, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+9,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=0, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+10,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=2, TEs=1, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+10,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=2, TEs=1, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+10,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=2, TEs=1, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+10,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=2, TEs=1, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+11,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+11,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+11,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+11,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+12,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+12,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+12,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+12,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+13,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=2, TEs=1, QBs=0. Your trade need score: 3.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+13,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=2, TEs=1, QBs=0. Your trade need score: 3.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+13,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=2, TEs=1, QBs=0. Their trade need score: 3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+13,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=2, TEs=1, QBs=0. Their trade need score: 3.
+What trade would you propose?"
+14,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+14,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+14,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+14,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+15,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+15,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+15,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+15,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+16,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=2, TEs=2, QBs=0. Your trade need score: 3.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+16,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=2, TEs=2, QBs=0. Your trade need score: 3.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+16,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=5, WRs=2, TEs=2, QBs=0. Their trade need score: 3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+16,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=5, WRs=2, TEs=2, QBs=0. Their trade need score: 3.
+What trade would you propose?"
+17,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+17,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+17,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+17,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+18,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+18,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+18,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+18,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+19,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+19,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+19,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+19,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+20,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=0, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+20,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=0, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+20,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=0, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+20,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=0, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+21,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+21,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+21,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+21,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+22,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+22,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+22,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+22,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+23,1,ToM,"You are the manager of Team 1. Your roster: RBs=1, WRs=4, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+23,1,Baseline,"You are the manager of Team 1. Your roster: RBs=1, WRs=4, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+23,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=1, WRs=4, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+23,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=1, WRs=4, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+24,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+24,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+24,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+24,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+25,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+25,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+25,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+25,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+26,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=2, WRs=3, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+26,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=2, WRs=3, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+26,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=3, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+26,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=3, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+27,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=0, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+27,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=0, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+27,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=0, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+27,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=0, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+28,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=2, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+28,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=2, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+28,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=2, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+28,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=2, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+29,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+29,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+29,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+29,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+30,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+30,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+30,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+30,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+31,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+31,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+31,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+31,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+32,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+32,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+32,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+32,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+33,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+33,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+33,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+33,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+34,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+34,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+34,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+34,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+35,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+35,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+35,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+35,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+36,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+36,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+36,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+36,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+37,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+37,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+37,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+37,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+38,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+38,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+38,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+38,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+39,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+39,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+39,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+39,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+40,1,ToM,"You are the manager of Team 1. Your roster: RBs=1, WRs=3, TEs=0, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+40,1,Baseline,"You are the manager of Team 1. Your roster: RBs=1, WRs=3, TEs=0, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+40,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=1, WRs=3, TEs=0, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+40,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=1, WRs=3, TEs=0, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+41,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+41,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+41,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+41,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+42,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+42,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+42,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+42,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+43,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+43,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+43,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+43,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+44,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=3, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+44,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=3, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+44,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=3, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+44,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=3, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+45,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+45,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+45,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+45,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+46,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=0, WRs=4, TEs=2, QBs=0. Their trade need score: -4.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+46,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=0, WRs=4, TEs=2, QBs=0. Their trade need score: -4.
+What trade would you propose?"
+46,2,ToM,"You are the manager of Team 2. Your roster: RBs=0, WRs=4, TEs=2, QBs=0. Your trade need score: -4.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+46,2,Baseline,"You are the manager of Team 2. Your roster: RBs=0, WRs=4, TEs=2, QBs=0. Your trade need score: -4.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+47,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+47,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+47,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+47,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+48,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+48,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+48,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+48,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+49,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+49,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+49,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+49,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+50,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=0, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+50,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=0, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+50,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=0, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+50,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=0, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+51,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+51,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+51,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+51,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+52,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+52,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+52,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+52,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+53,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=1, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=2, WRs=2, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+53,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=1, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=2, WRs=2, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+53,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=2, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=1, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+53,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=2, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=1, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+54,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+54,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+54,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+54,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+55,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+55,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+55,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+55,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+56,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+56,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+56,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+56,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+57,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+57,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+57,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+57,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+58,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=3, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+58,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=3, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+58,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=3, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+58,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=3, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+59,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+59,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+59,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+59,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+60,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+60,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+60,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+60,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+61,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+61,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+61,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+61,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+62,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+62,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+62,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+62,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+63,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+63,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+63,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+63,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+64,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=1, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+64,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=1, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+64,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=1, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+64,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=1, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+65,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+65,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+65,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+65,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+66,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+66,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+66,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+66,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+67,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+67,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+67,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+67,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+68,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+68,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+68,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+68,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+69,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+69,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+69,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+69,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+70,1,ToM,"You are the manager of Team 1. Your roster: RBs=1, WRs=3, TEs=3, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+70,1,Baseline,"You are the manager of Team 1. Your roster: RBs=1, WRs=3, TEs=3, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+70,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=1, WRs=3, TEs=3, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+70,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=1, WRs=3, TEs=3, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+71,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+71,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+71,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+71,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+72,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+72,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+72,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+72,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+73,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+73,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=2, WRs=4, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+73,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+73,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=4, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+74,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+74,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 2) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+74,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+74,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+75,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+75,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+75,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+75,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+76,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+76,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=2, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+76,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+76,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=2, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+77,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+77,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+77,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+77,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+78,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=2, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+78,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=2, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+78,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=2, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+78,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=2, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+79,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+79,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+79,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+79,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+80,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=2, WRs=3, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+80,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=2, WRs=3, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+80,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=3, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+80,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=3, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+81,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+81,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+81,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+81,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+82,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+82,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+82,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+82,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+83,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+83,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+83,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+83,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+84,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+84,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+84,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+84,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+85,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+85,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=1, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+85,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+85,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=1, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+86,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+86,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+86,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+86,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+87,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+87,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=4, TEs=3, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+87,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+87,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=4, TEs=3, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+88,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+88,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=1, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+88,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+88,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=1, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+89,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+89,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+89,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+89,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+90,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+90,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=5, WRs=4, TEs=1, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+90,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+90,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=4, TEs=1, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+91,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+91,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=4, TEs=3, QBs=0. Your trade need score: 0.
+Your opponent (Team 2) has: RBs=2, WRs=5, TEs=2, QBs=0. Their trade need score: -3.
+What trade would you propose?"
+91,2,ToM,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+91,2,Baseline,"You are the manager of Team 2. Your roster: RBs=2, WRs=5, TEs=2, QBs=0. Your trade need score: -3.
+Your opponent (Team 1) has: RBs=4, WRs=4, TEs=3, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+92,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+92,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+92,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+92,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+93,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+93,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 2) has: RBs=3, WRs=3, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+93,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+93,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=3, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+94,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+94,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=3, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=2, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+94,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+94,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=2, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=3, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+95,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=0, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+95,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=0, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+95,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=0, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+95,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=0, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+96,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+96,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=5, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+96,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+96,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=5, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+97,1,ToM,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+97,1,Baseline,"You are the manager of Team 1. Your roster: RBs=5, WRs=4, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=5, WRs=3, TEs=2, QBs=0. Their trade need score: 2.
+What trade would you propose?"
+97,2,ToM,"You are the manager of Team 2. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+97,2,Baseline,"You are the manager of Team 2. Your roster: RBs=5, WRs=3, TEs=2, QBs=0. Your trade need score: 2.
+Your opponent (Team 1) has: RBs=5, WRs=4, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+98,1,ToM,"You are the manager of Team 1. Your roster: RBs=2, WRs=3, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+98,1,Baseline,"You are the manager of Team 1. Your roster: RBs=2, WRs=3, TEs=2, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=4, WRs=4, TEs=2, QBs=0. Their trade need score: 0.
+What trade would you propose?"
+98,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=3, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+98,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=4, TEs=2, QBs=0. Your trade need score: 0.
+Your opponent (Team 1) has: RBs=2, WRs=3, TEs=2, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+99,1,ToM,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=0, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+99,1,Baseline,"You are the manager of Team 1. Your roster: RBs=3, WRs=4, TEs=0, QBs=0. Your trade need score: -1.
+Your opponent (Team 2) has: RBs=3, WRs=5, TEs=1, QBs=0. Their trade need score: -2.
+What trade would you propose?"
+99,2,ToM,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=0, QBs=0. Their trade need score: -1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+99,2,Baseline,"You are the manager of Team 2. Your roster: RBs=3, WRs=5, TEs=1, QBs=0. Your trade need score: -2.
+Your opponent (Team 1) has: RBs=3, WRs=4, TEs=0, QBs=0. Their trade need score: -1.
+What trade would you propose?"
+100,1,ToM,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+100,1,Baseline,"You are the manager of Team 1. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 2) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
+100,2,ToM,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose, and why? Consider what your opponent needs and what they believe about your needs."
+100,2,Baseline,"You are the manager of Team 2. Your roster: RBs=4, WRs=3, TEs=2, QBs=0. Your trade need score: 1.
+Your opponent (Team 1) has: RBs=4, WRs=3, TEs=2, QBs=0. Their trade need score: 1.
+What trade would you propose?"
