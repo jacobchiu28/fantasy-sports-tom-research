@@ -1,55 +1,55 @@
 You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
+Jordan Mason | RB | 7.4
+Kareem Hunt | RB | 4.8
+Roschon Johnson | RB | 5.3
+Ray Davis | RB | 5.9
 Josh Jacobs | RB | 15.5
 Dylan Sampson | RB | 6.0
-Will Shipley | RB | 3.7
-Saquon Barkley | RB | 19.3
-Miles Sanders | RB | 4.0
-TreVeyon Henderson | RB | 12.2
-Isaac Guerendo | RB | 4.2
-Omarion Hampton | RB | 14.0
-DeMario Douglas | WR | 7.6
-Darius Slayton | WR | 6.6
-Cooper Kupp | WR | 11.1
-Keon Coleman | WR | 10.0
-Brian Thomas Jr. | WR | 16.0
-Xavier Worthy | WR | 14.9
-Jayden Reed | WR | 11.0
-Rashod Bateman | WR | 8.5
-Kyle Pitts Sr. | TE | 8.0
-Ja'Tavion Sanders | TE | 6.0
+James Cook | RB | 14.2
+Tony Pollard | RB | 10.4
+Tutu Atwell | WR | 5.6
+Puka Nacua | WR | 16.9
+George Pickens | WR | 12.1
+Curtis Samuel | WR | 4.0
+Jaxon Smith-Njigba | WR | 13.8
+Tyler Lockett | WR | 6.0
+Drake London | WR | 15.2
+Dyami Brown | WR | 6.7
+Colston Loveland | TE | 7.8
 Dallas Goedert | TE | 9.2
-Isaiah Likely | TE | 5.5
-Tua Tagovailoa | QB | 15.5
-Cameron Ward | QB | 13.9
-J.J. McCarthy | QB | 16.7
-Dak Prescott | QB | 16.4
+Brenton Strange | TE | 7.7
+Tyler Warren | TE | 8.2
+Trevor Lawrence | QB | 17.9
+Jordan Love | QB | 16.3
+Jalen Hurts | QB | 22.0
+Caleb Williams | QB | 16.1
 
 Team B Roster (name | pos | proj):
-Rico Dowdle | RB | 5.1
-Ty Johnson | RB | 4.2
-RJ Harvey | RB | 11.8
-De'Von Achane | RB | 17.1
-Kaleb Johnson | RB | 10.7
-Tank Bigsby | RB | 7.4
-Roschon Johnson | RB | 5.3
-Chuba Hubbard | RB | 13.8
-Michael Wilson | WR | 6.9
-Nico Collins | WR | 15.9
-DJ Moore | WR | 13.1
-Jerry Jeudy | WR | 12.4
-Garrett Wilson | WR | 12.6
+D'Andre Swift | RB | 11.4
+Nick Chubb | RB | 4.7
+Najee Harris | RB | 6.7
+Bijan Robinson | RB | 18.5
+Blake Corum | RB | 2.4
+Kyle Monangai | RB | 2.4
+MarShawn Lloyd | RB | 3.3
+Jaylen Warren | RB | 11.0
+Rashod Bateman | WR | 8.5
 Luther Burden III | WR | 7.8
-Jack Bech | WR | 7.3
-Allen Lazard | WR | 4.4
-Colston Loveland | TE | 7.8
-AJ Barner | TE | 4.7
-Hunter Henry | TE | 8.3
-Noah Gray | TE | 5.0
-Baker Mayfield | QB | 19.2
-Caleb Williams | QB | 16.1
-C.J. Stroud | QB | 16.2
-Bryce Young | QB | 15.5
+Ray-Ray McCloud III | WR | 5.1
+Joshua Palmer | WR | 7.6
+Adonai Mitchell | WR | 5.1
+Greg Dortch | WR | 3.9
+Cooper Kupp | WR | 11.1
+Jaylen Waddle | WR | 11.7
+George Kittle | TE | 13.2
+David Njoku | TE | 10.6
+T.J. Hockenson | TE | 10.7
+Kyle Pitts Sr. | TE | 8.0
+Russell Wilson | QB | 15.4
+Lamar Jackson | QB | 21.6
+Bo Nix | QB | 18.8
+Michael Penix Jr. | QB | 15.2
 
 Task: Your goal is to improve Team A while proposing a trade that Team B is likely to accept. Explicitly consider Team B's needs and incentives before proposing. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

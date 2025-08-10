@@ -1,55 +1,55 @@
 You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
-Austin Ekeler | RB | 8.2
-Isaac Guerendo | RB | 4.2
-Cam Skattebo | RB | 7.8
-Tank Bigsby | RB | 7.4
-Saquon Barkley | RB | 19.3
-Alvin Kamara | RB | 14.7
-Joe Mixon | RB | 8.9
-Ty Johnson | RB | 4.2
-Wan'Dale Robinson | WR | 8.5
-Noah Brown | WR | 4.3
-Andrei Iosivas | WR | 4.2
-Tre' Harris | WR | 6.7
-Keenan Allen | WR | 9.1
-Jerry Jeudy | WR | 12.4
-Puka Nacua | WR | 16.9
-Jaylen Waddle | WR | 11.7
-Travis Kelce | TE | 11.0
-Kyle Pitts Sr. | TE | 8.0
-Chig Okonkwo | TE | 7.0
+Quinshon Judkins | RB | 5.0
+Ashton Jeanty | RB | 15.5
+Zach Charbonnet | RB | 8.0
+Will Shipley | RB | 3.7
+Josh Jacobs | RB | 15.5
+Derrick Henry | RB | 16.2
+Kyle Monangai | RB | 2.4
+Jordan Mason | RB | 7.4
+Jayden Reed | WR | 11.0
+Zay Flowers | WR | 13.1
+Ladd McConkey | WR | 14.6
+Tyreek Hill | WR | 14.7
+DeMario Douglas | WR | 7.6
+Khalil Shakir | WR | 11.7
+Deebo Samuel Sr. | WR | 11.5
+Adam Thielen | WR | 9.0
+Jonnu Smith | TE | 6.8
+Noah Gray | TE | 5.0
 Trey McBride | TE | 14.6
-Dak Prescott | QB | 16.4
+Isaiah Likely | TE | 5.5
+Drake Maye | QB | 17.1
+Geno Smith | QB | 14.4
 Bo Nix | QB | 18.8
-Bryce Young | QB | 15.5
-Baker Mayfield | QB | 19.2
+Jalen Hurts | QB | 22.0
 
 Team B Roster (name | pos | proj):
-Justice Hill | RB | 6.1
-Rico Dowdle | RB | 5.1
-Kyle Monangai | RB | 2.4
-Blake Corum | RB | 2.4
-Raheem Mostert | RB | 3.3
-Kenneth Walker III | RB | 13.7
-Travis Etienne Jr. | RB | 10.0
+Tyler Allgeier | RB | 5.6
+Kyren Williams | RB | 15.2
 De'Von Achane | RB | 17.1
+Tyjae Spears | RB | 7.5
+Ty Johnson | RB | 4.2
+Jaylen Warren | RB | 11.0
+Kenneth Walker III | RB | 13.7
+Austin Ekeler | RB | 8.2
+Ja'Marr Chase | WR | 19.5
+Xavier Legette | WR | 7.4
 Diontae Johnson | WR | 5.4
-Cedric Tillman | WR | 8.2
-Jalen Coker | WR | 5.0
-Marquise Brown | WR | 10.1
-Justin Jefferson | WR | 18.4
-DeAndre Hopkins | WR | 5.7
-Ladd McConkey | WR | 14.6
-Rashid Shaheed | WR | 9.8
-George Kittle | TE | 13.2
-Mike Gesicki | TE | 7.1
-Noah Fant | TE | 4.6
-Darren Waller | TE | 7.2
-Trevor Lawrence | QB | 17.9
-C.J. Stroud | QB | 16.2
-Jayden Daniels | QB | 21.4
-Joe Burrow | QB | 20.0
+Drake London | WR | 15.2
+Nico Collins | WR | 15.9
+Keenan Allen | WR | 9.1
+Rome Odunze | WR | 11.6
+Jordan Whittington | WR | 4.9
+Michael Mayer | TE | 4.0
+Juwan Johnson | TE | 5.6
+Dalton Kincaid | TE | 8.6
+Cole Kmet | TE | 3.9
+Matthew Stafford | QB | 15.3
+Baker Mayfield | QB | 19.2
+J.J. McCarthy | QB | 16.7
+Josh Allen | QB | 21.8
 
 Task: First, internally simulate what Team B would accept given its roster, then propose a trade from Team A accordingly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

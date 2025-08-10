@@ -62,7 +62,7 @@ def write_prompts(scenarios):
     (OUTDIR/'scenarios.json').write_text(json.dumps(scenarios,indent=2))
     return man
 
-MODEL_MAP={'gpt-5':'gpt-5','claude-3.5-sonnet':'claude-3-5-sonnet-20240620','gemini-2.5-pro':'gemini-2.5-pro'}
+MODEL_MAP={'gpt-5':'gpt-5','claude-3.5-sonnet':'claude-3-5-sonnet-20240620','gemini-2.5-pro':'models/gemini-2.5-pro'}
 
 def call_openai(prompt,model_id):
     try:

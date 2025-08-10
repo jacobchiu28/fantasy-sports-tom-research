@@ -1,55 +1,55 @@
 You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
-Raheem Mostert | RB | 3.3
-Travis Etienne Jr. | RB | 10.0
-Breece Hall | RB | 12.7
-Austin Ekeler | RB | 8.2
-Quinshon Judkins | RB | 5.0
-Jerome Ford | RB | 9.0
-Omarion Hampton | RB | 14.0
-Kaleb Johnson | RB | 10.7
-Adonai Mitchell | WR | 5.1
+David Montgomery | RB | 11.5
+Isaac Guerendo | RB | 4.2
+Bijan Robinson | RB | 18.5
+Rachaad White | RB | 8.1
+Derrick Henry | RB | 16.2
+RJ Harvey | RB | 11.8
+Jaylen Warren | RB | 11.0
+Jaylen Wright | RB | 5.0
+Dyami Brown | WR | 6.7
+Jalen Coker | WR | 5.0
+Ray-Ray McCloud III | WR | 5.1
+Jaylin Noel | WR | 4.8
+Pat Bryant | WR | 4.5
+Deebo Samuel Sr. | WR | 11.5
 Chris Godwin | WR | 4.8
-Calvin Austin III | WR | 5.5
-Rome Odunze | WR | 11.6
-Marquise Brown | WR | 10.1
-Brandin Cooks | WR | 5.4
-Jalen Nailor | WR | 6.6
-Brian Thomas Jr. | WR | 16.0
-Travis Kelce | TE | 11.0
-Tyler Conklin | TE | 4.9
-Evan Engram | TE | 9.7
-Zach Ertz | TE | 8.1
-Caleb Williams | QB | 16.1
-Baker Mayfield | QB | 19.2
-Kenny Pickett | QB | 15.9
-Russell Wilson | QB | 15.4
+DJ Moore | WR | 13.1
+Brock Bowers | TE | 14.4
+Noah Gray | TE | 5.0
+Mason Taylor | TE | 7.0
+Dalton Kincaid | TE | 8.6
+Cameron Ward | QB | 13.9
+Bryce Young | QB | 15.5
+Tua Tagovailoa | QB | 15.5
+Michael Penix Jr. | QB | 15.2
 
 Team B Roster (name | pos | proj):
-Joe Mixon | RB | 8.9
-Tony Pollard | RB | 10.4
-Tyler Allgeier | RB | 5.6
-Jahmyr Gibbs | RB | 17.9
-Zach Charbonnet | RB | 8.0
-TreVeyon Henderson | RB | 12.2
-Rico Dowdle | RB | 5.1
-Derrick Henry | RB | 16.2
-Diontae Johnson | WR | 5.4
-Marvin Mims Jr. | WR | 9.2
-Jerry Jeudy | WR | 12.4
-Jakobi Meyers | WR | 11.5
-Travis Hunter | WR | 12.7
-Tetairoa McMillan | WR | 12.4
+Jaydon Blue | RB | 5.3
+Josh Jacobs | RB | 15.5
+Aaron Jones Sr. | RB | 11.5
+Kenneth Walker III | RB | 13.7
+Elijah Mitchell | RB | 2.7
+Blake Corum | RB | 2.4
+Tyrone Tracy Jr. | RB | 11.0
+Jordan Mason | RB | 7.4
+CeeDee Lamb | WR | 17.4
 Joshua Palmer | WR | 7.6
-Keon Coleman | WR | 10.0
-Brenton Strange | TE | 7.7
-Mike Gesicki | TE | 7.1
-Mason Taylor | TE | 7.0
-Jake Ferguson | TE | 8.5
-Drake Maye | QB | 17.1
-Lamar Jackson | QB | 21.6
-Brock Purdy | QB | 17.7
+Jalen Nailor | WR | 6.6
+Matthew Golden | WR | 11.6
+Allen Lazard | WR | 4.4
+Jaylen Waddle | WR | 11.7
+Rashid Shaheed | WR | 9.8
+Drake London | WR | 15.2
+George Kittle | TE | 13.2
+Mark Andrews | TE | 10.8
+Michael Mayer | TE | 4.0
+Chig Okonkwo | TE | 7.0
 Anthony Richardson Sr. | QB | 13.8
+Geno Smith | QB | 14.4
+Trevor Lawrence | QB | 17.9
+C.J. Stroud | QB | 16.2
 
 Task: Propose a trade to maximize Team A's projected points. Do not consider Team B's perspective. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.
