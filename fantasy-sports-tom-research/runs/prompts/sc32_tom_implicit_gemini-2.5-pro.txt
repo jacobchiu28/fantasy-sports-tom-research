@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Tyjae Spears | RB | 7.5
+James Cook | RB | 14.2
+Bucky Irving | RB | 16.3
+De'Von Achane | RB | 17.1
+Derrick Henry | RB | 16.2
+Saquon Barkley | RB | 19.3
+Jaydon Blue | RB | 5.3
+Josh Jacobs | RB | 15.5
+Xavier Legette | WR | 7.4
+Jayden Higgins | WR | 9.5
+Jaylen Waddle | WR | 11.7
+Adam Thielen | WR | 9.0
+Jaxon Smith-Njigba | WR | 13.8
+Justin Jefferson | WR | 18.4
+Jalen McMillan | WR | 9.2
+Nico Collins | WR | 15.9
+Juwan Johnson | TE | 5.6
+Mike Gesicki | TE | 7.1
+Trey McBride | TE | 14.6
+Jonnu Smith | TE | 6.8
+C.J. Stroud | QB | 16.2
+Jordan Love | QB | 16.3
+Tua Tagovailoa | QB | 15.5
+Dak Prescott | QB | 16.4
+
+Team B Roster (name | pos | proj):
+Kaleb Johnson | RB | 10.7
+Joe Mixon | RB | 8.9
+Rico Dowdle | RB | 5.1
+Austin Ekeler | RB | 8.2
+Omarion Hampton | RB | 14.0
+J.K. Dobbins | RB | 10.9
+Elijah Mitchell | RB | 2.7
+Jaylen Warren | RB | 11.0
+George Pickens | WR | 12.1
+Rashod Bateman | WR | 8.5
+Luther Burden III | WR | 7.8
+Khalil Shakir | WR | 11.7
+Jack Bech | WR | 7.3
+Drake London | WR | 15.2
+Terry McLaurin | WR | 14.3
+Troy Franklin | WR | 4.0
+Zach Ertz | TE | 8.1
+Cole Kmet | TE | 3.9
+Mark Andrews | TE | 10.8
+Travis Kelce | TE | 11.0
+Lamar Jackson | QB | 21.6
+Bo Nix | QB | 18.8
+Matthew Stafford | QB | 15.3
+Geno Smith | QB | 14.4
+
+Task: Propose a mutually beneficial trade. Infer what Team B might value from the rosters; do not state assumptions explicitly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Saquon Barkley | RB | 19.3
+Kyle Monangai | RB | 2.4
+Aaron Jones Sr. | RB | 11.5
+Jaydon Blue | RB | 5.3
+Rhamondre Stevenson | RB | 10.3
+TreVeyon Henderson | RB | 12.2
+Kenneth Walker III | RB | 13.7
+Blake Corum | RB | 2.4
+Ja'Marr Chase | WR | 19.5
+Jayden Reed | WR | 11.0
+Pat Bryant | WR | 4.5
+Matthew Golden | WR | 11.6
+Greg Dortch | WR | 3.9
+Luther Burden III | WR | 7.8
+DeMario Douglas | WR | 7.6
+Deebo Samuel Sr. | WR | 11.5
+Noah Fant | TE | 4.6
+Pat Freiermuth | TE | 7.1
+T.J. Hockenson | TE | 10.7
+George Kittle | TE | 13.2
+Tua Tagovailoa | QB | 15.5
+J.J. McCarthy | QB | 16.7
+Kyler Murray | QB | 18.5
+Joe Burrow | QB | 20.0
+
+Team B Roster (name | pos | proj):
+Josh Jacobs | RB | 15.5
+Jordan Mason | RB | 7.4
+Jerome Ford | RB | 9.0
+Jaylen Warren | RB | 11.0
+Ty Johnson | RB | 4.2
+D'Andre Swift | RB | 11.4
+James Cook | RB | 14.2
+Bucky Irving | RB | 16.3
+Diontae Johnson | WR | 5.4
+Michael Pittman Jr. | WR | 10.3
+Justin Jefferson | WR | 18.4
+Kyle Williams | WR | 6.6
+Brian Thomas Jr. | WR | 16.0
+Rashee Rice | WR | 6.7
+Jordan Whittington | WR | 4.9
+Malik Nabers | WR | 16.7
+Tyler Higbee | TE | 6.7
+Cade Otton | TE | 7.7
+Mark Andrews | TE | 10.8
+Dalton Schultz | TE | 7.0
+Jayden Daniels | QB | 21.4
+Jordan Love | QB | 16.3
+Patrick Mahomes II | QB | 19.9
+Justin Herbert | QB | 16.6
+
+Task: Propose a mutually beneficial trade. Infer what Team B might value from the rosters; do not state assumptions explicitly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

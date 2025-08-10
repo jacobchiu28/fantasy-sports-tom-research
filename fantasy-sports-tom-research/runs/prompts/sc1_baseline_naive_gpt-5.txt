@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+David Montgomery | RB | 11.5
+Jaydon Blue | RB | 5.3
+TreVeyon Henderson | RB | 12.2
+Omarion Hampton | RB | 14.0
+Isaac Guerendo | RB | 4.2
+Breece Hall | RB | 12.7
+Ashton Jeanty | RB | 15.5
+Chase Brown | RB | 15.4
+Terry McLaurin | WR | 14.3
+Jalen Royals | WR | 4.1
+Darius Slayton | WR | 6.6
+Alec Pierce | WR | 5.8
+Jauan Jennings | WR | 12.2
+Jaylen Waddle | WR | 11.7
+Kyle Williams | WR | 6.6
+Nick Westbrook-Ikhine | WR | 5.5
+Mark Andrews | TE | 10.8
+Isaiah Likely | TE | 5.5
+Dallas Goedert | TE | 9.2
+Zach Ertz | TE | 8.1
+Michael Penix Jr. | QB | 15.2
+Tua Tagovailoa | QB | 15.5
+Jordan Love | QB | 16.3
+Patrick Mahomes II | QB | 19.9
+
+Team B Roster (name | pos | proj):
+Elijah Mitchell | RB | 2.7
+Raheem Mostert | RB | 3.3
+Najee Harris | RB | 6.7
+Miles Sanders | RB | 4.0
+Samaje Perine | RB | 3.5
+Isiah Pacheco | RB | 11.5
+Tyjae Spears | RB | 7.5
+Cam Skattebo | RB | 7.8
+Romeo Doubs | WR | 7.6
+Demarcus Robinson | WR | 4.9
+Tre' Harris | WR | 6.7
+Ja'Marr Chase | WR | 19.5
+Courtland Sutton | WR | 12.9
+Malik Nabers | WR | 16.7
+DeAndre Hopkins | WR | 5.7
+Puka Nacua | WR | 16.9
+Dalton Schultz | TE | 7.0
+Sam LaPorta | TE | 11.2
+Hunter Henry | TE | 8.3
+Darren Waller | TE | 7.2
+Trevor Lawrence | QB | 17.9
+Jayden Daniels | QB | 21.4
+Jared Goff | QB | 16.2
+Geno Smith | QB | 14.4
+
+Task: Propose a trade to maximize Team A's projected points. Do not consider Team B's perspective. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

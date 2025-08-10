@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Trey Benson | RB | 7.6
+James Conner | RB | 14.1
+Jaylen Wright | RB | 5.0
+Jonathan Taylor | RB | 16.2
+Elijah Mitchell | RB | 2.7
+Jaylen Warren | RB | 11.0
+Javonte Williams | RB | 8.8
+Tyjae Spears | RB | 7.5
+Josh Reynolds | WR | 6.1
+Michael Pittman Jr. | WR | 10.3
+Tyreek Hill | WR | 14.7
+Ladd McConkey | WR | 14.6
+Jayden Higgins | WR | 9.5
+Jalen Coker | WR | 5.0
+Tyler Lockett | WR | 6.0
+Justin Jefferson | WR | 18.4
+Dalton Kincaid | TE | 8.6
+Colston Loveland | TE | 7.8
+AJ Barner | TE | 4.7
+Travis Kelce | TE | 11.0
+Baker Mayfield | QB | 19.2
+Joe Burrow | QB | 20.0
+Caleb Williams | QB | 16.1
+Anthony Richardson Sr. | QB | 13.8
+
+Team B Roster (name | pos | proj):
+Brian Robinson Jr. | RB | 10.4
+Jordan Mason | RB | 7.4
+Tyler Allgeier | RB | 5.6
+Chase Brown | RB | 15.4
+Rachaad White | RB | 8.1
+Joe Mixon | RB | 8.9
+Isiah Pacheco | RB | 11.5
+Bijan Robinson | RB | 18.5
+Cooper Kupp | WR | 11.1
+Nick Westbrook-Ikhine | WR | 5.5
+Stefon Diggs | WR | 10.6
+Jalen Nailor | WR | 6.6
+Quentin Johnston | WR | 6.3
+Andrei Iosivas | WR | 4.2
+Jameson Williams | WR | 12.6
+Wan'Dale Robinson | WR | 8.5
+Tyler Higbee | TE | 6.7
+T.J. Hockenson | TE | 10.7
+Ja'Tavion Sanders | TE | 6.0
+Mark Andrews | TE | 10.8
+Justin Fields | QB | 15.8
+J.J. McCarthy | QB | 16.7
+Justin Herbert | QB | 16.6
+Jalen Hurts | QB | 22.0
+
+Task: First, internally simulate what Team B would accept given its roster, then propose a trade from Team A accordingly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Austin Ekeler | RB | 8.2
+Isaac Guerendo | RB | 4.2
+Cam Skattebo | RB | 7.8
+Tank Bigsby | RB | 7.4
+Saquon Barkley | RB | 19.3
+Alvin Kamara | RB | 14.7
+Joe Mixon | RB | 8.9
+Ty Johnson | RB | 4.2
+Wan'Dale Robinson | WR | 8.5
+Noah Brown | WR | 4.3
+Andrei Iosivas | WR | 4.2
+Tre' Harris | WR | 6.7
+Keenan Allen | WR | 9.1
+Jerry Jeudy | WR | 12.4
+Puka Nacua | WR | 16.9
+Jaylen Waddle | WR | 11.7
+Travis Kelce | TE | 11.0
+Kyle Pitts Sr. | TE | 8.0
+Chig Okonkwo | TE | 7.0
+Trey McBride | TE | 14.6
+Dak Prescott | QB | 16.4
+Bo Nix | QB | 18.8
+Bryce Young | QB | 15.5
+Baker Mayfield | QB | 19.2
+
+Team B Roster (name | pos | proj):
+Justice Hill | RB | 6.1
+Rico Dowdle | RB | 5.1
+Kyle Monangai | RB | 2.4
+Blake Corum | RB | 2.4
+Raheem Mostert | RB | 3.3
+Kenneth Walker III | RB | 13.7
+Travis Etienne Jr. | RB | 10.0
+De'Von Achane | RB | 17.1
+Diontae Johnson | WR | 5.4
+Cedric Tillman | WR | 8.2
+Jalen Coker | WR | 5.0
+Marquise Brown | WR | 10.1
+Justin Jefferson | WR | 18.4
+DeAndre Hopkins | WR | 5.7
+Ladd McConkey | WR | 14.6
+Rashid Shaheed | WR | 9.8
+George Kittle | TE | 13.2
+Mike Gesicki | TE | 7.1
+Noah Fant | TE | 4.6
+Darren Waller | TE | 7.2
+Trevor Lawrence | QB | 17.9
+C.J. Stroud | QB | 16.2
+Jayden Daniels | QB | 21.4
+Joe Burrow | QB | 20.0
+
+Task: Propose a mutually beneficial trade. Infer what Team B might value from the rosters; do not state assumptions explicitly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

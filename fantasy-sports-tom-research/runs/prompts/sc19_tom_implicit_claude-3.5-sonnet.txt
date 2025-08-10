@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Quinshon Judkins | RB | 5.0
+RJ Harvey | RB | 11.8
+Jaydon Blue | RB | 5.3
+Kyle Monangai | RB | 2.4
+Saquon Barkley | RB | 19.3
+Christian McCaffrey | RB | 18.6
+TreVeyon Henderson | RB | 12.2
+Rhamondre Stevenson | RB | 10.3
+KaVontae Turpin | WR | 4.2
+Jaylen Waddle | WR | 11.7
+Stefon Diggs | WR | 10.6
+Rome Odunze | WR | 11.6
+Travis Hunter | WR | 12.7
+Calvin Austin III | WR | 5.5
+Kyle Williams | WR | 6.6
+Chris Godwin | WR | 4.8
+Will Dissly | TE | 4.1
+Tyler Warren | TE | 8.2
+Michael Mayer | TE | 4.0
+Noah Gray | TE | 5.0
+Jordan Love | QB | 16.3
+Michael Penix Jr. | QB | 15.2
+Trevor Lawrence | QB | 17.9
+Brock Purdy | QB | 17.7
+
+Team B Roster (name | pos | proj):
+D'Andre Swift | RB | 11.4
+Trey Benson | RB | 7.6
+Bucky Irving | RB | 16.3
+Rico Dowdle | RB | 5.1
+Josh Jacobs | RB | 15.5
+De'Von Achane | RB | 17.1
+Aaron Jones Sr. | RB | 11.5
+Roschon Johnson | RB | 5.3
+Terry McLaurin | WR | 14.3
+Andrei Iosivas | WR | 4.2
+Pat Bryant | WR | 4.5
+Mike Evans | WR | 14.6
+Adonai Mitchell | WR | 5.1
+Tutu Atwell | WR | 5.6
+George Pickens | WR | 12.1
+Jalen Coker | WR | 5.0
+Travis Kelce | TE | 11.0
+Trey McBride | TE | 14.6
+Mike Gesicki | TE | 7.1
+Kyle Pitts Sr. | TE | 8.0
+Russell Wilson | QB | 15.4
+C.J. Stroud | QB | 16.2
+Anthony Richardson Sr. | QB | 13.8
+Baker Mayfield | QB | 19.2
+
+Task: Propose a mutually beneficial trade. Infer what Team B might value from the rosters; do not state assumptions explicitly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

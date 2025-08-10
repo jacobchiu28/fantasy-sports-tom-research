@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+D'Andre Swift | RB | 11.4
+Kendre Miller | RB | 3.5
+Brian Robinson Jr. | RB | 10.4
+Josh Jacobs | RB | 15.5
+David Montgomery | RB | 11.5
+Kenneth Walker III | RB | 13.7
+Cam Skattebo | RB | 7.8
+Tank Bigsby | RB | 7.4
+Tetairoa McMillan | WR | 12.4
+A.J. Brown | WR | 15.7
+Jayden Higgins | WR | 9.5
+DK Metcalf | WR | 12.7
+Adonai Mitchell | WR | 5.1
+Tutu Atwell | WR | 5.6
+Amon-Ra St. Brown | WR | 16.9
+Michael Wilson | WR | 6.9
+Chig Okonkwo | TE | 7.0
+Will Dissly | TE | 4.1
+Brock Bowers | TE | 14.4
+T.J. Hockenson | TE | 10.7
+Patrick Mahomes II | QB | 19.9
+Justin Herbert | QB | 16.6
+Baker Mayfield | QB | 19.2
+Michael Penix Jr. | QB | 15.2
+
+Team B Roster (name | pos | proj):
+Quinshon Judkins | RB | 5.0
+Omarion Hampton | RB | 14.0
+Kaleb Johnson | RB | 10.7
+Derrick Henry | RB | 16.2
+Ty Johnson | RB | 4.2
+Roschon Johnson | RB | 5.3
+TreVeyon Henderson | RB | 12.2
+RJ Harvey | RB | 11.8
+Terry McLaurin | WR | 14.3
+Josh Downs | WR | 9.9
+DeMario Douglas | WR | 7.6
+Jalen Coker | WR | 5.0
+Romeo Doubs | WR | 7.6
+Andrei Iosivas | WR | 4.2
+Ricky Pearsall | WR | 11.1
+DJ Moore | WR | 13.1
+Dalton Schultz | TE | 7.0
+Dallas Goedert | TE | 9.2
+Jake Ferguson | TE | 8.5
+Mark Andrews | TE | 10.8
+Caleb Williams | QB | 16.1
+Dak Prescott | QB | 16.4
+Geno Smith | QB | 14.4
+Brock Purdy | QB | 17.7
+
+Task: Propose a trade to maximize Team A's projected points. Do not consider Team B's perspective. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

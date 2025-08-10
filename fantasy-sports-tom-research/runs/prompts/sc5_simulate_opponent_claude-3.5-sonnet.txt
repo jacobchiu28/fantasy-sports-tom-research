@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Omarion Hampton | RB | 14.0
+Isiah Pacheco | RB | 11.5
+Chase Brown | RB | 15.4
+Ashton Jeanty | RB | 15.5
+Jaylen Warren | RB | 11.0
+Najee Harris | RB | 6.7
+Zach Charbonnet | RB | 8.0
+Jaydon Blue | RB | 5.3
+Tyreek Hill | WR | 14.7
+Christian Kirk | WR | 7.8
+Brandin Cooks | WR | 5.4
+Rome Odunze | WR | 11.6
+Emeka Egbuka | WR | 10.6
+Jayden Higgins | WR | 9.5
+Davante Adams | WR | 13.4
+George Pickens | WR | 12.1
+David Njoku | TE | 10.6
+Noah Fant | TE | 4.6
+Brock Bowers | TE | 14.4
+AJ Barner | TE | 4.7
+Tua Tagovailoa | QB | 15.5
+Jayden Daniels | QB | 21.4
+Patrick Mahomes II | QB | 19.9
+Justin Herbert | QB | 16.6
+
+Team B Roster (name | pos | proj):
+Jonathan Taylor | RB | 16.2
+Breece Hall | RB | 12.7
+Tyjae Spears | RB | 7.5
+Kendre Miller | RB | 3.5
+De'Von Achane | RB | 17.1
+D'Andre Swift | RB | 11.4
+Elijah Mitchell | RB | 2.7
+Bhayshul Tuten | RB | 4.9
+Calvin Austin III | WR | 5.5
+Jalen Royals | WR | 4.1
+Jaylen Waddle | WR | 11.7
+Jack Bech | WR | 7.3
+Pat Bryant | WR | 4.5
+Dyami Brown | WR | 6.7
+Joshua Palmer | WR | 7.6
+Adonai Mitchell | WR | 5.1
+Mason Taylor | TE | 7.0
+Evan Engram | TE | 9.7
+Colston Loveland | TE | 7.8
+Jonnu Smith | TE | 6.8
+Trevor Lawrence | QB | 17.9
+Justin Fields | QB | 15.8
+Jared Goff | QB | 16.2
+Kyler Murray | QB | 18.5
+
+Task: First, internally simulate what Team B would accept given its roster, then propose a trade from Team A accordingly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

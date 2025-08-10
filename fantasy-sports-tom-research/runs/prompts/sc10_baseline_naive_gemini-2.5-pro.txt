@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Breece Hall | RB | 12.7
+Cam Skattebo | RB | 7.8
+Rhamondre Stevenson | RB | 10.3
+Justice Hill | RB | 6.1
+Trey Benson | RB | 7.6
+Javonte Williams | RB | 8.8
+Isaac Guerendo | RB | 4.2
+TreVeyon Henderson | RB | 12.2
+Troy Franklin | WR | 4.0
+DK Metcalf | WR | 12.7
+KaVontae Turpin | WR | 4.2
+Pat Bryant | WR | 4.5
+Tre' Harris | WR | 6.7
+Stefon Diggs | WR | 10.6
+Calvin Austin III | WR | 5.5
+Quentin Johnston | WR | 6.3
+Colston Loveland | TE | 7.8
+Dallas Goedert | TE | 9.2
+Dalton Kincaid | TE | 8.6
+Tyler Warren | TE | 8.2
+Matthew Stafford | QB | 15.3
+Sam Darnold | QB | 15.3
+Caleb Williams | QB | 16.1
+Bryce Young | QB | 15.5
+
+Team B Roster (name | pos | proj):
+Kenneth Walker III | RB | 13.7
+Aaron Jones Sr. | RB | 11.5
+Ty Johnson | RB | 4.2
+Ashton Jeanty | RB | 15.5
+Rachaad White | RB | 8.1
+Samaje Perine | RB | 3.5
+Tyjae Spears | RB | 7.5
+Austin Ekeler | RB | 8.2
+Deebo Samuel Sr. | WR | 11.5
+Jaylen Waddle | WR | 11.7
+Josh Reynolds | WR | 6.1
+Nico Collins | WR | 15.9
+Cooper Kupp | WR | 11.1
+Andrei Iosivas | WR | 4.2
+Marquez Valdes-Scantling | WR | 4.5
+Tee Higgins | WR | 14.4
+David Njoku | TE | 10.6
+Chig Okonkwo | TE | 7.0
+Sam LaPorta | TE | 11.2
+Mark Andrews | TE | 10.8
+Jayden Daniels | QB | 21.4
+Russell Wilson | QB | 15.4
+Josh Allen | QB | 21.8
+Kyler Murray | QB | 18.5
+
+Task: Propose a trade to maximize Team A's projected points. Do not consider Team B's perspective. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

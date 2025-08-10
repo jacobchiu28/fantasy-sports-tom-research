@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Alvin Kamara | RB | 14.7
+D'Andre Swift | RB | 11.4
+Kyren Williams | RB | 15.2
+Kareem Hunt | RB | 4.8
+Christian McCaffrey | RB | 18.6
+Jaydon Blue | RB | 5.3
+Braelon Allen | RB | 4.2
+Quinshon Judkins | RB | 5.0
+Dyami Brown | WR | 6.7
+Justin Jefferson | WR | 18.4
+Tyreek Hill | WR | 14.7
+Tyler Lockett | WR | 6.0
+Jaylin Noel | WR | 4.8
+KaVontae Turpin | WR | 4.2
+Nico Collins | WR | 15.9
+Allen Lazard | WR | 4.4
+Dalton Schultz | TE | 7.0
+Cole Kmet | TE | 3.9
+Tyler Conklin | TE | 4.9
+Will Dissly | TE | 4.1
+Kyler Murray | QB | 18.5
+Baker Mayfield | QB | 19.2
+Trevor Lawrence | QB | 17.9
+Anthony Richardson Sr. | QB | 13.8
+
+Team B Roster (name | pos | proj):
+Derrick Henry | RB | 16.2
+Roschon Johnson | RB | 5.3
+James Conner | RB | 14.1
+RJ Harvey | RB | 11.8
+Tank Bigsby | RB | 7.4
+Elijah Mitchell | RB | 2.7
+Isiah Pacheco | RB | 11.5
+Jaylen Wright | RB | 5.0
+Curtis Samuel | WR | 4.0
+Noah Brown | WR | 4.3
+Troy Franklin | WR | 4.0
+Quentin Johnston | WR | 6.3
+Michael Wilson | WR | 6.9
+Malik Nabers | WR | 16.7
+Nick Westbrook-Ikhine | WR | 5.5
+Calvin Ridley | WR | 11.8
+Travis Kelce | TE | 11.0
+Darren Waller | TE | 7.2
+Colston Loveland | TE | 7.8
+Kyle Pitts Sr. | TE | 8.0
+Brock Purdy | QB | 17.7
+Geno Smith | QB | 14.4
+Caleb Williams | QB | 16.1
+Joe Burrow | QB | 20.0
+
+Task: Propose a trade to maximize Team A's projected points. Do not consider Team B's perspective. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

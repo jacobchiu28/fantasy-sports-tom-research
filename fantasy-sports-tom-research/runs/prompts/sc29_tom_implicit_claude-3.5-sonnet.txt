@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Jordan Mason | RB | 7.4
+Braelon Allen | RB | 4.2
+Rico Dowdle | RB | 5.1
+Joe Mixon | RB | 8.9
+Rhamondre Stevenson | RB | 10.3
+Trey Benson | RB | 7.6
+TreVeyon Henderson | RB | 12.2
+Tank Bigsby | RB | 7.4
+Jerry Jeudy | WR | 12.4
+Josh Reynolds | WR | 6.1
+Rashid Shaheed | WR | 9.8
+Courtland Sutton | WR | 12.9
+Joshua Palmer | WR | 7.6
+Darnell Mooney | WR | 9.8
+Troy Franklin | WR | 4.0
+Jameson Williams | WR | 12.6
+Cole Kmet | TE | 3.9
+Mason Taylor | TE | 7.0
+T.J. Hockenson | TE | 10.7
+Trey McBride | TE | 14.6
+Patrick Mahomes II | QB | 19.9
+Kenny Pickett | QB | 15.9
+Jayden Daniels | QB | 21.4
+Josh Allen | QB | 21.8
+
+Team B Roster (name | pos | proj):
+Breece Hall | RB | 12.7
+Javonte Williams | RB | 8.8
+Dylan Sampson | RB | 6.0
+Samaje Perine | RB | 3.5
+Quinshon Judkins | RB | 5.0
+Tyjae Spears | RB | 7.5
+Alvin Kamara | RB | 14.7
+Christian McCaffrey | RB | 18.6
+Marvin Harrison Jr. | WR | 13.3
+Chris Olave | WR | 10.9
+Wan'Dale Robinson | WR | 8.5
+Mike Evans | WR | 14.6
+Justin Jefferson | WR | 18.4
+Ja'Marr Chase | WR | 19.5
+Christian Kirk | WR | 7.8
+Allen Lazard | WR | 4.4
+Brenton Strange | TE | 7.7
+Darren Waller | TE | 7.2
+David Njoku | TE | 10.6
+Juwan Johnson | TE | 5.6
+Jordan Love | QB | 16.3
+Cameron Ward | QB | 13.9
+Anthony Richardson Sr. | QB | 13.8
+Jalen Hurts | QB | 22.0
+
+Task: Propose a mutually beneficial trade. Infer what Team B might value from the rosters; do not state assumptions explicitly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

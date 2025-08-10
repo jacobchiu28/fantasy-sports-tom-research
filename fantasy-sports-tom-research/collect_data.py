@@ -25,9 +25,9 @@ def scrape_position_data(position, limit):
     """Scrape player projections (name, team, points) from FantasyPros"""
     url_map = {
         'QB': "https://www.fantasypros.com/nfl/projections/qb.php",
-        'RB': "https://www.fantasypros.com/nfl/projections/rb.php",
-        'WR': "https://www.fantasypros.com/nfl/projections/wr.php",
-        'TE': "https://www.fantasypros.com/nfl/projections/te.php"
+        'RB': "https://www.fantasypros.com/nfl/projections/rb.php?week=1&scoring=PPR",
+        'WR': "https://www.fantasypros.com/nfl/projections/wr.php?week=1&scoring=PPR",
+        'TE': "https://www.fantasypros.com/nfl/projections/te.php?week=1&scoring=PPR"
     }
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(url_map[position], headers=headers)
@@ -81,7 +81,7 @@ def create_fantasy_dataset():
             'name': name,
             'position': pos,
             'team': team,
-            'average_weekly_points': pts,
+            'projected_points': pts,
             'injury_status': status
         })
     df = pd.DataFrame(records)

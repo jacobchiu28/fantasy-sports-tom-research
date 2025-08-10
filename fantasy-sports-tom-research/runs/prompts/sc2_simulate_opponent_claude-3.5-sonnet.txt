@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Alvin Kamara | RB | 14.7
+TreVeyon Henderson | RB | 12.2
+Tony Pollard | RB | 10.4
+Ray Davis | RB | 5.9
+Isaac Guerendo | RB | 4.2
+Kyren Williams | RB | 15.2
+David Montgomery | RB | 11.5
+Jerome Ford | RB | 9.0
+Rashod Bateman | WR | 8.5
+Travis Hunter | WR | 12.7
+Jaylin Noel | WR | 4.8
+Davante Adams | WR | 13.4
+Dyami Brown | WR | 6.7
+Xavier Legette | WR | 7.4
+Joshua Palmer | WR | 7.6
+Romeo Doubs | WR | 7.6
+Jake Ferguson | TE | 8.5
+Dalton Kincaid | TE | 8.6
+Will Dissly | TE | 4.1
+Isaiah Likely | TE | 5.5
+Jordan Love | QB | 16.3
+Jalen Hurts | QB | 22.0
+Dak Prescott | QB | 16.4
+Trevor Lawrence | QB | 17.9
+
+Team B Roster (name | pos | proj):
+Zach Charbonnet | RB | 8.0
+Jordan Mason | RB | 7.4
+Nick Chubb | RB | 4.7
+Dylan Sampson | RB | 6.0
+Josh Jacobs | RB | 15.5
+Ashton Jeanty | RB | 15.5
+Jaylen Warren | RB | 11.0
+Joe Mixon | RB | 8.9
+Keon Coleman | WR | 10.0
+Garrett Wilson | WR | 12.6
+DeAndre Hopkins | WR | 5.7
+Jaxon Smith-Njigba | WR | 13.8
+Tetairoa McMillan | WR | 12.4
+Amon-Ra St. Brown | WR | 16.9
+Emeka Egbuka | WR | 10.6
+Brandin Cooks | WR | 5.4
+Noah Gray | TE | 5.0
+Colston Loveland | TE | 7.8
+Mason Taylor | TE | 7.0
+Dallas Goedert | TE | 9.2
+Jared Goff | QB | 16.2
+J.J. McCarthy | QB | 16.7
+Tua Tagovailoa | QB | 15.5
+Brock Purdy | QB | 17.7
+
+Task: First, internally simulate what Team B would accept given its roster, then propose a trade from Team A accordingly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

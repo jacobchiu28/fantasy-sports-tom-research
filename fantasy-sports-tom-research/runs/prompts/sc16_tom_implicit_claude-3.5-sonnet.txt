@@ -1,0 +1,55 @@
+You are negotiating an NFL fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), rationale (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+David Montgomery | RB | 11.5
+Isiah Pacheco | RB | 11.5
+Rachaad White | RB | 8.1
+Ty Johnson | RB | 4.2
+Blake Corum | RB | 2.4
+Chase Brown | RB | 15.4
+Christian McCaffrey | RB | 18.6
+Chuba Hubbard | RB | 13.8
+Curtis Samuel | WR | 4.0
+DeAndre Hopkins | WR | 5.7
+Calvin Austin III | WR | 5.5
+Noah Brown | WR | 4.3
+Pat Bryant | WR | 4.5
+Jayden Reed | WR | 11.0
+DK Metcalf | WR | 12.7
+Courtland Sutton | WR | 12.9
+Darren Waller | TE | 7.2
+Dalton Kincaid | TE | 8.6
+David Njoku | TE | 10.6
+Tucker Kraft | TE | 8.8
+Caleb Williams | QB | 16.1
+Cameron Ward | QB | 13.9
+J.J. McCarthy | QB | 16.7
+Jared Goff | QB | 16.2
+
+Team B Roster (name | pos | proj):
+Jaylen Warren | RB | 11.0
+Isaac Guerendo | RB | 4.2
+Jahmyr Gibbs | RB | 17.9
+Austin Ekeler | RB | 8.2
+Tyjae Spears | RB | 7.5
+TreVeyon Henderson | RB | 12.2
+James Cook | RB | 14.2
+Tyrone Tracy Jr. | RB | 11.0
+CeeDee Lamb | WR | 17.4
+Calvin Ridley | WR | 11.8
+Tyreek Hill | WR | 14.7
+Tee Higgins | WR | 14.4
+Jerry Jeudy | WR | 12.4
+Jalen McMillan | WR | 9.2
+Jack Bech | WR | 7.3
+Darius Slayton | WR | 6.6
+Zach Ertz | TE | 8.1
+Theo Johnson | TE | 6.9
+Juwan Johnson | TE | 5.6
+Tyler Warren | TE | 8.2
+Justin Herbert | QB | 16.6
+Baker Mayfield | QB | 19.2
+Jayden Daniels | QB | 21.4
+Bo Nix | QB | 18.8
+
+Task: Propose a mutually beneficial trade. Infer what Team B might value from the rosters; do not state assumptions explicitly. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.
