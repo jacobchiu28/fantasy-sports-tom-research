@@ -1,0 +1,55 @@
+You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Aaron Jones Sr. | RB | 11.5
+Will Shipley | RB | 3.7
+Tyjae Spears | RB | 7.5
+RJ Harvey | RB | 11.8
+D'Andre Swift | RB | 11.4
+Kareem Hunt | RB | 4.8
+Kaleb Johnson | RB | 10.7
+Travis Etienne Jr. | RB | 10.0
+Jayden Reed | WR | 11.0
+Curtis Samuel | WR | 4.0
+DeVonta Smith | WR | 13.0
+Jaylen Waddle | WR | 11.7
+DJ Moore | WR | 13.1
+Rashid Shaheed | WR | 9.8
+Pat Bryant | WR | 4.5
+Courtland Sutton | WR | 12.9
+Elijah Arroyo | TE | 6.4
+Michael Mayer | TE | 4.0
+George Kittle | TE | 13.2
+Mike Gesicki | TE | 7.1
+Trevor Lawrence | QB | 17.9
+Justin Herbert | QB | 16.6
+J.J. McCarthy | QB | 16.7
+Jared Goff | QB | 16.2
+
+Team B Roster (name | pos | proj):
+J.K. Dobbins | RB | 10.9
+Tank Bigsby | RB | 7.4
+Ray Davis | RB | 5.9
+James Conner | RB | 14.1
+Bijan Robinson | RB | 18.5
+Jaylen Warren | RB | 11.0
+Jahmyr Gibbs | RB | 17.9
+Jordan Mason | RB | 7.4
+Drake London | WR | 15.2
+Diontae Johnson | WR | 5.4
+Matthew Golden | WR | 11.6
+Josh Downs | WR | 9.9
+Khalil Shakir | WR | 11.7
+Allen Lazard | WR | 4.4
+Andrei Iosivas | WR | 4.2
+Garrett Wilson | WR | 12.6
+Zach Ertz | TE | 8.1
+Tyler Higbee | TE | 6.7
+Will Dissly | TE | 4.1
+Dalton Kincaid | TE | 8.6
+Dak Prescott | QB | 16.4
+Brock Purdy | QB | 17.7
+Sam Darnold | QB | 15.3
+Patrick Mahomes II | QB | 19.9
+
+Task: You are the manager of Team A in a fantasy football league. Your goal is to improve your team by proposing a trade with team B. Review both rosters and propose a trade that accomplishes your goal. Provide a detailed explanation for your trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

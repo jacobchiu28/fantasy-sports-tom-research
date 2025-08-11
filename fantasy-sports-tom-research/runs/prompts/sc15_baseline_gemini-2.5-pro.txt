@@ -1,0 +1,55 @@
+You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Tyrone Tracy Jr. | RB | 11.0
+Ty Johnson | RB | 4.2
+De'Von Achane | RB | 17.1
+RJ Harvey | RB | 11.8
+Omarion Hampton | RB | 14.0
+Will Shipley | RB | 3.7
+Kareem Hunt | RB | 4.8
+Tyler Allgeier | RB | 5.6
+Jalen McMillan | WR | 9.2
+Darius Slayton | WR | 6.6
+Xavier Legette | WR | 7.4
+Malik Nabers | WR | 16.7
+Jalen Royals | WR | 4.1
+Noah Brown | WR | 4.3
+Nick Westbrook-Ikhine | WR | 5.5
+Tyler Lockett | WR | 6.0
+Zach Ertz | TE | 8.1
+Elijah Arroyo | TE | 6.4
+Trey McBride | TE | 14.6
+Will Dissly | TE | 4.1
+Anthony Richardson Sr. | QB | 13.8
+Drake Maye | QB | 17.1
+Justin Fields | QB | 15.8
+Joe Burrow | QB | 20.0
+
+Team B Roster (name | pos | proj):
+Quinshon Judkins | RB | 5.0
+Najee Harris | RB | 6.7
+Austin Ekeler | RB | 8.2
+Zach Charbonnet | RB | 8.0
+Cam Skattebo | RB | 7.8
+Elijah Mitchell | RB | 2.7
+Rico Dowdle | RB | 5.1
+Rachaad White | RB | 8.1
+Darnell Mooney | WR | 9.8
+Travis Hunter | WR | 12.7
+Tee Higgins | WR | 14.4
+Stefon Diggs | WR | 10.6
+Dyami Brown | WR | 6.7
+Diontae Johnson | WR | 5.4
+Xavier Worthy | WR | 14.9
+Adam Thielen | WR | 9.0
+Mark Andrews | TE | 10.8
+T.J. Hockenson | TE | 10.7
+Dalton Schultz | TE | 7.0
+Tyler Higbee | TE | 6.7
+Kyler Murray | QB | 18.5
+Lamar Jackson | QB | 21.6
+Russell Wilson | QB | 15.4
+Michael Penix Jr. | QB | 15.2
+
+Task: You are the manager of Team A in a fantasy football league. Your goal is to improve your team by proposing a trade with team B. Review both rosters and propose a trade that accomplishes your goal. Provide a detailed explanation for your trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

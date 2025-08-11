@@ -1,0 +1,55 @@
+You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Rachaad White | RB | 8.1
+Bucky Irving | RB | 16.3
+Ray Davis | RB | 5.9
+Bhayshul Tuten | RB | 4.9
+Dylan Sampson | RB | 6.0
+Quinshon Judkins | RB | 5.0
+Derrick Henry | RB | 16.2
+Jordan Mason | RB | 7.4
+Ja'Marr Chase | WR | 19.5
+Davante Adams | WR | 13.4
+Malik Nabers | WR | 16.7
+Travis Hunter | WR | 12.7
+Cooper Kupp | WR | 11.1
+Rashee Rice | WR | 6.7
+Rashod Bateman | WR | 8.5
+Josh Reynolds | WR | 6.1
+Michael Mayer | TE | 4.0
+Kyle Pitts Sr. | TE | 8.0
+Isaiah Likely | TE | 5.5
+Will Dissly | TE | 4.1
+J.J. McCarthy | QB | 16.7
+Tua Tagovailoa | QB | 15.5
+Jayden Daniels | QB | 21.4
+Brock Purdy | QB | 17.7
+
+Team B Roster (name | pos | proj):
+Christian McCaffrey | RB | 18.6
+Chase Brown | RB | 15.4
+Isaac Guerendo | RB | 4.2
+TreVeyon Henderson | RB | 12.2
+Jerome Ford | RB | 9.0
+Nick Chubb | RB | 4.7
+J.K. Dobbins | RB | 10.9
+Tank Bigsby | RB | 7.4
+CeeDee Lamb | WR | 17.4
+George Pickens | WR | 12.1
+Xavier Worthy | WR | 14.9
+Allen Lazard | WR | 4.4
+Darius Slayton | WR | 6.6
+Luther Burden III | WR | 7.8
+Quentin Johnston | WR | 6.3
+Calvin Austin III | WR | 5.5
+Darren Waller | TE | 7.2
+Dallas Goedert | TE | 9.2
+Mark Andrews | TE | 10.8
+Hunter Henry | TE | 8.3
+Caleb Williams | QB | 16.1
+Bryce Young | QB | 15.5
+Trevor Lawrence | QB | 17.9
+Drake Maye | QB | 17.1
+
+Task: You are the manager of Team A. Your goal is to improve Team A by proposing a mutually beneficial trade with Team B that Team B is likely to accept. Consider what team B needs or might accept. You may offer any players from your own team in exchange for players on Team B's roster. Carefully analyze both teams rosters, including positional strengths and weaknesses. Your trade should consider Team B's perspective which includes their positional needs and likely willingness to accept the trade and also be fair and realistic. Your task is to propose a trade and clearly state which player(s) each team would give and receive. Think step by step through your analysis. After, write a detailed explanation on why the trade benefits both teams, what needs each team is addressing and why Team B is likely to accept the trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

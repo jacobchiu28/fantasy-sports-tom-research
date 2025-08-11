@@ -1,0 +1,55 @@
+You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Jonathan Taylor | RB | 16.2
+Nick Chubb | RB | 4.7
+Saquon Barkley | RB | 19.3
+Breece Hall | RB | 12.7
+Jerome Ford | RB | 9.0
+Tyrone Tracy Jr. | RB | 11.0
+Tony Pollard | RB | 10.4
+Aaron Jones Sr. | RB | 11.5
+Marquise Brown | WR | 10.1
+Curtis Samuel | WR | 4.0
+Jameson Williams | WR | 12.6
+Chris Godwin | WR | 4.8
+CeeDee Lamb | WR | 17.4
+Ladd McConkey | WR | 14.6
+Jack Bech | WR | 7.3
+Garrett Wilson | WR | 12.6
+Sam LaPorta | TE | 11.2
+Cade Otton | TE | 7.7
+Chig Okonkwo | TE | 7.0
+Brenton Strange | TE | 7.7
+C.J. Stroud | QB | 16.2
+Justin Herbert | QB | 16.6
+Jalen Hurts | QB | 22.0
+J.J. McCarthy | QB | 16.7
+
+Team B Roster (name | pos | proj):
+Justice Hill | RB | 6.1
+Braelon Allen | RB | 4.2
+Isiah Pacheco | RB | 11.5
+Jaylen Warren | RB | 11.0
+Kaleb Johnson | RB | 10.7
+Chase Brown | RB | 15.4
+Bucky Irving | RB | 16.3
+Tank Bigsby | RB | 7.4
+Calvin Austin III | WR | 5.5
+Calvin Ridley | WR | 11.8
+Jalen McMillan | WR | 9.2
+Jalen Royals | WR | 4.1
+Tutu Atwell | WR | 5.6
+Tetairoa McMillan | WR | 12.4
+Tre' Harris | WR | 6.7
+Adonai Mitchell | WR | 5.1
+Noah Fant | TE | 4.6
+David Njoku | TE | 10.6
+Colston Loveland | TE | 7.8
+Kyle Pitts Sr. | TE | 8.0
+Joe Burrow | QB | 20.0
+Bryce Young | QB | 15.5
+Cameron Ward | QB | 13.9
+Caleb Williams | QB | 16.1
+
+Task: You are the manager of Team A in a fantasy football league. Your goal is to improve your team by proposing a trade with team B. Review both rosters and propose a trade that accomplishes your goal. Provide a detailed explanation for your trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

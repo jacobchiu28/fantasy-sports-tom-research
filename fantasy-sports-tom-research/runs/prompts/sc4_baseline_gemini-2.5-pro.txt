@@ -1,0 +1,55 @@
+You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
+
+Team A Roster (name | pos | proj):
+Roschon Johnson | RB | 5.3
+Bhayshul Tuten | RB | 4.9
+Saquon Barkley | RB | 19.3
+Raheem Mostert | RB | 3.3
+Trey Benson | RB | 7.6
+Ray Davis | RB | 5.9
+TreVeyon Henderson | RB | 12.2
+Woody Marks | RB | 3.3
+Nick Westbrook-Ikhine | WR | 5.5
+Darius Slayton | WR | 6.6
+Zay Flowers | WR | 13.1
+DK Metcalf | WR | 12.7
+Keenan Allen | WR | 9.1
+Garrett Wilson | WR | 12.6
+Jalen Nailor | WR | 6.6
+Cedric Tillman | WR | 8.2
+Theo Johnson | TE | 6.9
+Darren Waller | TE | 7.2
+T.J. Hockenson | TE | 10.7
+George Kittle | TE | 13.2
+Kyler Murray | QB | 18.5
+Joe Burrow | QB | 20.0
+Anthony Richardson Sr. | QB | 13.8
+Josh Allen | QB | 21.8
+
+Team B Roster (name | pos | proj):
+Breece Hall | RB | 12.7
+Jaydon Blue | RB | 5.3
+Travis Etienne Jr. | RB | 10.0
+Chuba Hubbard | RB | 13.8
+Brian Robinson Jr. | RB | 10.4
+Ashton Jeanty | RB | 15.5
+Tyjae Spears | RB | 7.5
+Alvin Kamara | RB | 14.7
+Kyle Williams | WR | 6.6
+Cooper Kupp | WR | 11.1
+Tutu Atwell | WR | 5.6
+Chris Godwin | WR | 4.8
+KaVontae Turpin | WR | 4.2
+Jaylin Noel | WR | 4.8
+Stefon Diggs | WR | 10.6
+Curtis Samuel | WR | 4.0
+Trey McBride | TE | 14.6
+Noah Fant | TE | 4.6
+Elijah Arroyo | TE | 6.4
+AJ Barner | TE | 4.7
+Russell Wilson | QB | 15.4
+Baker Mayfield | QB | 19.2
+Geno Smith | QB | 14.4
+Dak Prescott | QB | 16.4
+
+Task: You are the manager of Team A in a fantasy football league. Your goal is to improve your team by proposing a trade with team B. Review both rosters and propose a trade that accomplishes your goal. Provide a detailed explanation for your trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.
