@@ -2,8 +2,8 @@
   {
     "scenario_id": 0,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc0_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc0_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 0,
@@ -20,8 +20,8 @@
   {
     "scenario_id": 0,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc0_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc0_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 0,
@@ -38,8 +38,8 @@
   {
     "scenario_id": 1,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc1_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc1_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 1,
@@ -56,8 +56,8 @@
   {
     "scenario_id": 1,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc1_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc1_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 1,
@@ -74,8 +74,8 @@
   {
     "scenario_id": 2,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc2_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc2_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 2,
@@ -92,8 +92,8 @@
   {
     "scenario_id": 2,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc2_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc2_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 2,
@@ -110,8 +110,8 @@
   {
     "scenario_id": 3,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc3_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc3_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 3,
@@ -128,8 +128,8 @@
   {
     "scenario_id": 3,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc3_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc3_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 3,
@@ -146,8 +146,8 @@
   {
     "scenario_id": 4,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc4_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc4_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 4,
@@ -164,8 +164,8 @@
   {
     "scenario_id": 4,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc4_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc4_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 4,
@@ -182,8 +182,8 @@
   {
     "scenario_id": 5,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc5_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc5_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 5,
@@ -200,8 +200,8 @@
   {
     "scenario_id": 5,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc5_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc5_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 5,
@@ -218,8 +218,8 @@
   {
     "scenario_id": 6,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc6_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc6_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 6,
@@ -236,8 +236,8 @@
   {
     "scenario_id": 6,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc6_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc6_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 6,
@@ -254,8 +254,8 @@
   {
     "scenario_id": 7,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc7_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc7_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 7,
@@ -272,8 +272,8 @@
   {
     "scenario_id": 7,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc7_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc7_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 7,
@@ -290,8 +290,8 @@
   {
     "scenario_id": 8,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc8_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc8_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 8,
@@ -308,8 +308,8 @@
   {
     "scenario_id": 8,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc8_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc8_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 8,
@@ -326,8 +326,8 @@
   {
     "scenario_id": 9,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc9_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc9_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 9,
@@ -344,8 +344,8 @@
   {
     "scenario_id": 9,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc9_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc9_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 9,
@@ -362,8 +362,8 @@
   {
     "scenario_id": 10,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc10_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc10_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 10,
@@ -380,8 +380,8 @@
   {
     "scenario_id": 10,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc10_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc10_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 10,
@@ -398,8 +398,8 @@
   {
     "scenario_id": 11,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc11_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc11_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 11,
@@ -416,8 +416,8 @@
   {
     "scenario_id": 11,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc11_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc11_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 11,
@@ -434,8 +434,8 @@
   {
     "scenario_id": 12,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc12_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc12_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 12,
@@ -452,8 +452,8 @@
   {
     "scenario_id": 12,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc12_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc12_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 12,
@@ -470,8 +470,8 @@
   {
     "scenario_id": 13,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc13_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc13_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 13,
@@ -488,8 +488,8 @@
   {
     "scenario_id": 13,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc13_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc13_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 13,
@@ -506,8 +506,8 @@
   {
     "scenario_id": 14,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc14_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc14_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 14,
@@ -524,8 +524,8 @@
   {
     "scenario_id": 14,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc14_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc14_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 14,
@@ -542,8 +542,8 @@
   {
     "scenario_id": 15,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc15_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc15_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 15,
@@ -560,8 +560,8 @@
   {
     "scenario_id": 15,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc15_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc15_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 15,
@@ -578,8 +578,8 @@
   {
     "scenario_id": 16,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc16_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc16_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 16,
@@ -596,8 +596,8 @@
   {
     "scenario_id": 16,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc16_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc16_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 16,
@@ -614,8 +614,8 @@
   {
     "scenario_id": 17,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc17_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc17_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 17,
@@ -632,8 +632,8 @@
   {
     "scenario_id": 17,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc17_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc17_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 17,
@@ -650,8 +650,8 @@
   {
     "scenario_id": 18,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc18_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc18_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 18,
@@ -668,8 +668,8 @@
   {
     "scenario_id": 18,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc18_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc18_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 18,
@@ -686,8 +686,8 @@
   {
     "scenario_id": 19,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc19_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc19_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 19,
@@ -704,8 +704,8 @@
   {
     "scenario_id": 19,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc19_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc19_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 19,
@@ -722,8 +722,8 @@
   {
     "scenario_id": 20,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc20_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc20_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 20,
@@ -740,8 +740,8 @@
   {
     "scenario_id": 20,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc20_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc20_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 20,
@@ -758,8 +758,8 @@
   {
     "scenario_id": 21,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc21_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc21_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 21,
@@ -776,8 +776,8 @@
   {
     "scenario_id": 21,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc21_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc21_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 21,
@@ -794,8 +794,8 @@
   {
     "scenario_id": 22,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc22_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc22_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 22,
@@ -812,8 +812,8 @@
   {
     "scenario_id": 22,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc22_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc22_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 22,
@@ -830,8 +830,8 @@
   {
     "scenario_id": 23,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc23_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc23_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 23,
@@ -848,8 +848,8 @@
   {
     "scenario_id": 23,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc23_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc23_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 23,
@@ -866,8 +866,8 @@
   {
     "scenario_id": 24,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc24_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc24_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 24,
@@ -884,8 +884,8 @@
   {
     "scenario_id": 24,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc24_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc24_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 24,
@@ -902,8 +902,8 @@
   {
     "scenario_id": 25,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc25_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc25_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 25,
@@ -920,8 +920,8 @@
   {
     "scenario_id": 25,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc25_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc25_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 25,
@@ -938,8 +938,8 @@
   {
     "scenario_id": 26,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc26_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc26_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 26,
@@ -956,8 +956,8 @@
   {
     "scenario_id": 26,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc26_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc26_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 26,
@@ -974,8 +974,8 @@
   {
     "scenario_id": 27,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc27_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc27_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 27,
@@ -992,8 +992,8 @@
   {
     "scenario_id": 27,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc27_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc27_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 27,
@@ -1010,8 +1010,8 @@
   {
     "scenario_id": 28,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc28_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc28_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 28,
@@ -1028,8 +1028,8 @@
   {
     "scenario_id": 28,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc28_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc28_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 28,
@@ -1046,8 +1046,8 @@
   {
     "scenario_id": 29,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc29_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc29_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 29,
@@ -1064,8 +1064,8 @@
   {
     "scenario_id": 29,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc29_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc29_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 29,
@@ -1082,8 +1082,8 @@
   {
     "scenario_id": 30,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc30_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc30_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 30,
@@ -1100,8 +1100,8 @@
   {
     "scenario_id": 30,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc30_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc30_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 30,
@@ -1118,8 +1118,8 @@
   {
     "scenario_id": 31,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc31_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc31_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 31,
@@ -1136,8 +1136,8 @@
   {
     "scenario_id": 31,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc31_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc31_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 31,
@@ -1154,8 +1154,8 @@
   {
     "scenario_id": 32,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc32_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc32_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 32,
@@ -1172,8 +1172,8 @@
   {
     "scenario_id": 32,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc32_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc32_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 32,
@@ -1190,8 +1190,8 @@
   {
     "scenario_id": 33,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc33_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc33_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 33,
@@ -1208,8 +1208,8 @@
   {
     "scenario_id": 33,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc33_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc33_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 33,
@@ -1226,8 +1226,8 @@
   {
     "scenario_id": 34,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc34_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc34_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 34,
@@ -1244,8 +1244,8 @@
   {
     "scenario_id": 34,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc34_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc34_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 34,
@@ -1262,8 +1262,8 @@
   {
     "scenario_id": 35,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc35_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc35_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 35,
@@ -1280,8 +1280,8 @@
   {
     "scenario_id": 35,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc35_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc35_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 35,
@@ -1298,8 +1298,8 @@
   {
     "scenario_id": 36,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc36_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc36_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 36,
@@ -1316,8 +1316,8 @@
   {
     "scenario_id": 36,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc36_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc36_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 36,
@@ -1334,8 +1334,8 @@
   {
     "scenario_id": 37,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc37_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc37_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 37,
@@ -1352,8 +1352,8 @@
   {
     "scenario_id": 37,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc37_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc37_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 37,
@@ -1370,8 +1370,8 @@
   {
     "scenario_id": 38,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc38_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc38_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 38,
@@ -1388,8 +1388,8 @@
   {
     "scenario_id": 38,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc38_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc38_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 38,
@@ -1406,8 +1406,8 @@
   {
     "scenario_id": 39,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc39_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc39_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 39,
@@ -1424,8 +1424,8 @@
   {
     "scenario_id": 39,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc39_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc39_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 39,
@@ -1442,8 +1442,8 @@
   {
     "scenario_id": 40,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc40_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc40_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 40,
@@ -1460,8 +1460,8 @@
   {
     "scenario_id": 40,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc40_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc40_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 40,
@@ -1478,8 +1478,8 @@
   {
     "scenario_id": 41,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc41_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc41_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 41,
@@ -1496,8 +1496,8 @@
   {
     "scenario_id": 41,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc41_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc41_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 41,
@@ -1514,8 +1514,8 @@
   {
     "scenario_id": 42,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc42_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc42_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 42,
@@ -1532,8 +1532,8 @@
   {
     "scenario_id": 42,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc42_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc42_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 42,
@@ -1550,8 +1550,8 @@
   {
     "scenario_id": 43,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc43_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc43_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 43,
@@ -1568,8 +1568,8 @@
   {
     "scenario_id": 43,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc43_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc43_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 43,
@@ -1586,8 +1586,8 @@
   {
     "scenario_id": 44,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc44_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc44_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 44,
@@ -1604,8 +1604,8 @@
   {
     "scenario_id": 44,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc44_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc44_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 44,
@@ -1622,8 +1622,8 @@
   {
     "scenario_id": 45,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc45_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc45_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 45,
@@ -1640,8 +1640,8 @@
   {
     "scenario_id": 45,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc45_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc45_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 45,
@@ -1658,8 +1658,8 @@
   {
     "scenario_id": 46,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc46_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc46_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 46,
@@ -1676,8 +1676,8 @@
   {
     "scenario_id": 46,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc46_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc46_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 46,
@@ -1694,8 +1694,8 @@
   {
     "scenario_id": 47,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc47_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc47_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 47,
@@ -1712,8 +1712,8 @@
   {
     "scenario_id": 47,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc47_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc47_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 47,
@@ -1730,8 +1730,8 @@
   {
     "scenario_id": 48,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc48_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc48_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 48,
@@ -1748,8 +1748,8 @@
   {
     "scenario_id": 48,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc48_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc48_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 48,
@@ -1766,8 +1766,8 @@
   {
     "scenario_id": 49,
     "variant": "tom",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc49_tom_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc49_tom_gpt-4o.txt"
   },
   {
     "scenario_id": 49,
@@ -1784,8 +1784,8 @@
   {
     "scenario_id": 49,
     "variant": "baseline",
-    "model": "GPT-4o",
-    "prompt_path": "runs/prompts/sc49_baseline_GPT-4o.txt"
+    "model": "gpt-4o",
+    "prompt_path": "runs/prompts/sc49_baseline_gpt-4o.txt"
   },
   {
     "scenario_id": 49,

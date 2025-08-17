@@ -1,55 +1,55 @@
 You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
-Blake Corum | RB | 2.4
-Chase Brown | RB | 15.4
-Will Shipley | RB | 3.7
-Quinshon Judkins | RB | 5.0
-Josh Jacobs | RB | 15.5
-Alvin Kamara | RB | 14.7
 Jahmyr Gibbs | RB | 17.9
-Ray Davis | RB | 5.9
-Michael Wilson | WR | 6.9
-A.J. Brown | WR | 15.7
-Xavier Legette | WR | 7.4
-Josh Downs | WR | 9.9
-Noah Brown | WR | 4.3
-DeMario Douglas | WR | 7.6
-DK Metcalf | WR | 12.7
-Adonai Mitchell | WR | 5.1
-Travis Kelce | TE | 11.0
-Dalton Kincaid | TE | 8.6
-David Njoku | TE | 10.6
+Jaydon Blue | RB | 5.3
+De'Von Achane | RB | 17.1
+Jaylen Warren | RB | 11.0
+Isaac Guerendo | RB | 4.2
+Elijah Mitchell | RB | 2.7
+Bijan Robinson | RB | 18.5
+Derrick Henry | RB | 16.2
+Greg Dortch | WR | 3.9
+Cedric Tillman | WR | 8.2
+Jerry Jeudy | WR | 12.4
+Nico Collins | WR | 15.9
+Pat Bryant | WR | 4.5
+Allen Lazard | WR | 4.4
+Chris Godwin | WR | 4.8
+Rashee Rice | WR | 6.7
+Colston Loveland | TE | 7.8
+Trey McBride | TE | 14.6
+Michael Mayer | TE | 4.0
 Mark Andrews | TE | 10.8
-Bo Nix | QB | 18.8
-Jordan Love | QB | 16.3
-Baker Mayfield | QB | 19.2
+Dak Prescott | QB | 16.4
+Drake Maye | QB | 17.1
 Michael Penix Jr. | QB | 15.2
+Jalen Hurts | QB | 22.0
 
 Team B Roster (name | pos | proj):
-TreVeyon Henderson | RB | 12.2
-Braelon Allen | RB | 4.2
-D'Andre Swift | RB | 11.4
-Breece Hall | RB | 12.7
-Isaac Guerendo | RB | 4.2
-Tyjae Spears | RB | 7.5
-Tyler Allgeier | RB | 5.6
-Miles Sanders | RB | 4.0
-Terry McLaurin | WR | 14.3
-Rashod Bateman | WR | 8.5
-Romeo Doubs | WR | 7.6
-Marvin Mims Jr. | WR | 9.2
-Jaylin Noel | WR | 4.8
-Alec Pierce | WR | 5.8
-Tre' Harris | WR | 6.7
-Cooper Kupp | WR | 11.1
-Evan Engram | TE | 9.7
-Dalton Schultz | TE | 7.0
-Chig Okonkwo | TE | 7.0
-Noah Fant | TE | 4.6
+Will Shipley | RB | 3.7
+Alvin Kamara | RB | 14.7
+Roschon Johnson | RB | 5.3
+Brian Robinson Jr. | RB | 10.4
+Nick Chubb | RB | 4.7
+James Conner | RB | 14.1
+Rhamondre Stevenson | RB | 10.3
+Bucky Irving | RB | 16.3
+Davante Adams | WR | 13.4
+Rome Odunze | WR | 11.6
+Brandin Cooks | WR | 5.4
+Jalen Tolbert | WR | 4.3
+Josh Downs | WR | 9.9
+Wan'Dale Robinson | WR | 8.5
+DeMario Douglas | WR | 7.6
+Matthew Golden | WR | 11.6
+Tyler Warren | TE | 8.2
+Mike Gesicki | TE | 7.1
+Tyler Conklin | TE | 4.9
+Will Dissly | TE | 4.1
+Caleb Williams | QB | 16.1
+Bryce Young | QB | 15.5
 Russell Wilson | QB | 15.4
-J.J. McCarthy | QB | 16.7
-Dak Prescott | QB | 16.4
-Joe Burrow | QB | 20.0
+Trevor Lawrence | QB | 17.9
 
 Task: You are the manager of Team A in a fantasy football league. Your goal is to improve your team by proposing a trade with team B. Review both rosters and propose a trade that accomplishes your goal. Provide a detailed explanation for your trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

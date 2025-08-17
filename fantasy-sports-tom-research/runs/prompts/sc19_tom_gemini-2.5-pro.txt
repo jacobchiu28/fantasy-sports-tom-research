@@ -1,55 +1,55 @@
 You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
-Bijan Robinson | RB | 18.5
-Aaron Jones Sr. | RB | 11.5
-Christian McCaffrey | RB | 18.6
-Brian Robinson Jr. | RB | 10.4
-Blake Corum | RB | 2.4
-Tony Pollard | RB | 10.4
-Saquon Barkley | RB | 19.3
-Ty Johnson | RB | 4.2
-Quentin Johnston | WR | 6.3
-Darnell Mooney | WR | 9.8
-Jerry Jeudy | WR | 12.4
-Tyler Lockett | WR | 6.0
+Ashton Jeanty | RB | 15.5
+Travis Etienne Jr. | RB | 10.0
+Zach Charbonnet | RB | 8.0
+James Cook | RB | 14.2
+James Conner | RB | 14.1
+Chuba Hubbard | RB | 13.8
+Trey Benson | RB | 7.6
+Braelon Allen | RB | 4.2
+Diontae Johnson | WR | 5.4
+Rashod Bateman | WR | 8.5
+Marquez Valdes-Scantling | WR | 4.5
 Marvin Harrison Jr. | WR | 13.3
-Jayden Reed | WR | 11.0
-Andrei Iosivas | WR | 4.2
-Terry McLaurin | WR | 14.3
-Tyler Conklin | TE | 4.9
-Will Dissly | TE | 4.1
-Dalton Schultz | TE | 7.0
-Brenton Strange | TE | 7.7
-Bo Nix | QB | 18.8
-Trevor Lawrence | QB | 17.9
-Justin Herbert | QB | 16.6
-Jayden Daniels | QB | 21.4
+Drake London | WR | 15.2
+Chris Godwin | WR | 4.8
+Zay Flowers | WR | 13.1
+Xavier Worthy | WR | 14.9
+Evan Engram | TE | 9.7
+T.J. Hockenson | TE | 10.7
+Darren Waller | TE | 7.2
+Colston Loveland | TE | 7.8
+Jordan Love | QB | 16.3
+C.J. Stroud | QB | 16.2
+Brock Purdy | QB | 17.7
+Cameron Ward | QB | 13.9
 
 Team B Roster (name | pos | proj):
-Rico Dowdle | RB | 5.1
-Justice Hill | RB | 6.1
-David Montgomery | RB | 11.5
-Jaydon Blue | RB | 5.3
-J.K. Dobbins | RB | 10.9
-Cam Skattebo | RB | 7.8
-Quinshon Judkins | RB | 5.0
-Jahmyr Gibbs | RB | 17.9
-DeAndre Hopkins | WR | 5.7
-Marquez Valdes-Scantling | WR | 4.5
-Amon-Ra St. Brown | WR | 16.9
-Troy Franklin | WR | 4.0
-Calvin Austin III | WR | 5.5
-Jalen Coker | WR | 5.0
-Tre' Harris | WR | 6.7
-A.J. Brown | WR | 15.7
-Theo Johnson | TE | 6.9
-Michael Mayer | TE | 4.0
-Jake Ferguson | TE | 8.5
+Roschon Johnson | RB | 5.3
+Tyrone Tracy Jr. | RB | 11.0
+Aaron Jones Sr. | RB | 11.5
+De'Von Achane | RB | 17.1
+Jordan Mason | RB | 7.4
+Samaje Perine | RB | 3.5
+Miles Sanders | RB | 4.0
+Javonte Williams | RB | 8.8
+Khalil Shakir | WR | 11.7
+Xavier Legette | WR | 7.4
+Calvin Ridley | WR | 11.8
+Marvin Mims Jr. | WR | 9.2
+Matthew Golden | WR | 11.6
+Kyle Williams | WR | 6.6
+Luther Burden III | WR | 7.8
+Tetairoa McMillan | WR | 12.4
+Noah Fant | TE | 4.6
 Sam LaPorta | TE | 11.2
-Kyler Murray | QB | 18.5
-Kenny Pickett | QB | 15.9
-Matthew Stafford | QB | 15.3
-Cameron Ward | QB | 13.9
+Dallas Goedert | TE | 9.2
+Dalton Kincaid | TE | 8.6
+Jayden Daniels | QB | 21.4
+Drake Maye | QB | 17.1
+Michael Penix Jr. | QB | 15.2
+Dak Prescott | QB | 16.4
 
 Task: You are the manager of Team A. Your goal is to improve Team A by proposing a mutually beneficial trade with Team B that Team B is likely to accept. Consider what team B needs or might accept. You may offer any players from your own team in exchange for players on Team B's roster. Carefully analyze both teams rosters, including positional strengths and weaknesses. Your trade should consider Team B's perspective which includes their positional needs and likely willingness to accept the trade and also be fair and realistic. Your task is to propose a trade and clearly state which player(s) each team would give and receive. Think step by step through your analysis. After, write a detailed explanation on why the trade benefits both teams, what needs each team is addressing and why Team B is likely to accept the trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

@@ -1,55 +1,55 @@
 You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
-James Conner | RB | 14.1
-Tyler Allgeier | RB | 5.6
-Tony Pollard | RB | 10.4
+Jaylen Wright | RB | 5.0
+Jaydon Blue | RB | 5.3
 Kareem Hunt | RB | 4.8
-Rachaad White | RB | 8.1
-Derrick Henry | RB | 16.2
-Breece Hall | RB | 12.7
+Aaron Jones Sr. | RB | 11.5
+Nick Chubb | RB | 4.7
+Trey Benson | RB | 7.6
 D'Andre Swift | RB | 11.4
-Tutu Atwell | WR | 5.6
-Curtis Samuel | WR | 4.0
-Ladd McConkey | WR | 14.6
-Amon-Ra St. Brown | WR | 16.9
-Xavier Worthy | WR | 14.9
-Wan'Dale Robinson | WR | 8.5
-Khalil Shakir | WR | 11.7
-Adam Thielen | WR | 9.0
-Dalton Schultz | TE | 7.0
-Dalton Kincaid | TE | 8.6
-Isaiah Likely | TE | 5.5
+Tony Pollard | RB | 10.4
+Tre' Harris | WR | 6.7
+Nick Westbrook-Ikhine | WR | 5.5
+Jalen McMillan | WR | 9.2
+Andrei Iosivas | WR | 4.2
+Terry McLaurin | WR | 14.3
+Jauan Jennings | WR | 12.2
+Justin Jefferson | WR | 18.4
+Ricky Pearsall | WR | 11.1
+Jonnu Smith | TE | 6.8
+Colston Loveland | TE | 7.8
+Brenton Strange | TE | 7.7
 Dallas Goedert | TE | 9.2
-Lamar Jackson | QB | 21.6
+Jordan Love | QB | 16.3
 Kenny Pickett | QB | 15.9
-Kyler Murray | QB | 18.5
-Tua Tagovailoa | QB | 15.5
+Michael Penix Jr. | QB | 15.2
+Bryce Young | QB | 15.5
 
 Team B Roster (name | pos | proj):
-Travis Etienne Jr. | RB | 10.0
-Saquon Barkley | RB | 19.3
-Quinshon Judkins | RB | 5.0
-Josh Jacobs | RB | 15.5
-RJ Harvey | RB | 11.8
-Bucky Irving | RB | 16.3
-Braelon Allen | RB | 4.2
-Samaje Perine | RB | 3.5
-Brian Thomas Jr. | WR | 16.0
-Keon Coleman | WR | 10.0
-Ray-Ray McCloud III | WR | 5.1
-Jayden Reed | WR | 11.0
-KaVontae Turpin | WR | 4.2
-Jayden Higgins | WR | 9.5
+Tyjae Spears | RB | 7.5
+Jordan Mason | RB | 7.4
+Justice Hill | RB | 6.1
+Derrick Henry | RB | 16.2
+Isaac Guerendo | RB | 4.2
+Jonathan Taylor | RB | 16.2
+Alvin Kamara | RB | 14.7
+Kaleb Johnson | RB | 10.7
+Rashod Bateman | WR | 8.5
 Calvin Austin III | WR | 5.5
-Dyami Brown | WR | 6.7
-Jonnu Smith | TE | 6.8
-Hunter Henry | TE | 8.3
-Michael Mayer | TE | 4.0
-Juwan Johnson | TE | 5.6
-Jayden Daniels | QB | 21.4
-Sam Darnold | QB | 15.3
-Jalen Hurts | QB | 22.0
-Bo Nix | QB | 18.8
+Cooper Kupp | WR | 11.1
+Deebo Samuel Sr. | WR | 11.5
+Jaylin Noel | WR | 4.8
+CeeDee Lamb | WR | 17.4
+Josh Reynolds | WR | 6.1
+Jameson Williams | WR | 12.6
+Trey McBride | TE | 14.6
+Chig Okonkwo | TE | 7.0
+Cade Otton | TE | 7.7
+Travis Kelce | TE | 11.0
+Trevor Lawrence | QB | 17.9
+J.J. McCarthy | QB | 16.7
+Cameron Ward | QB | 13.9
+Justin Herbert | QB | 16.6
 
 Task: You are the manager of Team A in a fantasy football league. Your goal is to improve your team by proposing a trade with team B. Review both rosters and propose a trade that accomplishes your goal. Provide a detailed explanation for your trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.

@@ -1,55 +1,55 @@
 You are negotiating a fantasy football trade for Team A. Strictly output a single-line JSON with keys: offer_from_A (list of names), ask_from_B (list of names), reasoning (string). Names must exactly match the provided rosters. Keep the JSON minified with double quotes.
 
 Team A Roster (name | pos | proj):
-Ashton Jeanty | RB | 15.5
-Raheem Mostert | RB | 3.3
-Chase Brown | RB | 15.4
+Woody Marks | RB | 3.3
+Travis Etienne Jr. | RB | 10.0
+Rachaad White | RB | 8.1
+Quinshon Judkins | RB | 5.0
+Tyjae Spears | RB | 7.5
 Cam Skattebo | RB | 7.8
-Kareem Hunt | RB | 4.8
-Kyren Williams | RB | 15.2
-James Conner | RB | 14.1
-Zach Charbonnet | RB | 8.0
-Adonai Mitchell | WR | 5.1
-Jaylen Waddle | WR | 11.7
-Travis Hunter | WR | 12.7
-Marquez Valdes-Scantling | WR | 4.5
-Christian Kirk | WR | 7.8
-Tyreek Hill | WR | 14.7
-Brandin Cooks | WR | 5.4
-Tyler Lockett | WR | 6.0
-Evan Engram | TE | 9.7
-Michael Mayer | TE | 4.0
-Will Dissly | TE | 4.1
-Theo Johnson | TE | 6.9
-Lamar Jackson | QB | 21.6
-J.J. McCarthy | QB | 16.7
+Ashton Jeanty | RB | 15.5
+Jonathan Taylor | RB | 16.2
+Khalil Shakir | WR | 11.7
+Jalen Royals | WR | 4.1
+Jaxon Smith-Njigba | WR | 13.8
+Chris Godwin | WR | 4.8
+Jalen McMillan | WR | 9.2
+Noah Brown | WR | 4.3
+Greg Dortch | WR | 3.9
+Demarcus Robinson | WR | 4.9
+Darren Waller | TE | 7.2
+Noah Gray | TE | 5.0
+Colston Loveland | TE | 7.8
+Cade Otton | TE | 7.7
 Justin Fields | QB | 15.8
-Dak Prescott | QB | 16.4
+Cameron Ward | QB | 13.9
+Brock Purdy | QB | 17.7
+Lamar Jackson | QB | 21.6
 
 Team B Roster (name | pos | proj):
-Woody Marks | RB | 3.3
-TreVeyon Henderson | RB | 12.2
-Derrick Henry | RB | 16.2
-Joe Mixon | RB | 8.9
-Jaylen Warren | RB | 11.0
-Tyrone Tracy Jr. | RB | 11.0
-Jordan Mason | RB | 7.4
-Isaac Guerendo | RB | 4.2
-DeAndre Hopkins | WR | 5.7
-Nico Collins | WR | 15.9
-Marvin Harrison Jr. | WR | 13.3
-Jameson Williams | WR | 12.6
+Chase Brown | RB | 15.4
+Brian Robinson Jr. | RB | 10.4
+Dylan Sampson | RB | 6.0
+Samaje Perine | RB | 3.5
+Ray Davis | RB | 5.9
+RJ Harvey | RB | 11.8
+Saquon Barkley | RB | 19.3
+Austin Ekeler | RB | 8.2
+Darius Slayton | WR | 6.6
+Jayden Higgins | WR | 9.5
+Troy Franklin | WR | 4.0
+Cedric Tillman | WR | 8.2
+DK Metcalf | WR | 12.7
+Drake London | WR | 15.2
 Rome Odunze | WR | 11.6
-Demarcus Robinson | WR | 4.9
-Diontae Johnson | WR | 5.4
-Romeo Doubs | WR | 7.6
-Chig Okonkwo | TE | 7.0
-Ja'Tavion Sanders | TE | 6.0
-Mark Andrews | TE | 10.8
-Noah Gray | TE | 5.0
-C.J. Stroud | QB | 16.2
-Geno Smith | QB | 14.4
-Caleb Williams | QB | 16.1
+DJ Moore | WR | 13.1
+Cole Kmet | TE | 3.9
+AJ Barner | TE | 4.7
+Tyler Higbee | TE | 6.7
+George Kittle | TE | 13.2
+J.J. McCarthy | QB | 16.7
+Dak Prescott | QB | 16.4
+Jordan Love | QB | 16.3
 Justin Herbert | QB | 16.6
 
 Task: You are the manager of Team A. Your goal is to improve Team A by proposing a mutually beneficial trade with Team B that Team B is likely to accept. Consider what team B needs or might accept. You may offer any players from your own team in exchange for players on Team B's roster. Carefully analyze both teams rosters, including positional strengths and weaknesses. Your trade should consider Team B's perspective which includes their positional needs and likely willingness to accept the trade and also be fair and realistic. Your task is to propose a trade and clearly state which player(s) each team would give and receive. Think step by step through your analysis. After, write a detailed explanation on why the trade benefits both teams, what needs each team is addressing and why Team B is likely to accept the trade. You may trade any number of players. Trade must not include names outside rosters. Return JSON only, no prose.
