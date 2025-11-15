@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It notes B\u2019s ceiling-chasing and rankings trust and offers a dual-threat QB plus boom WR, aligning with preferences. But it neglects B\u2019s urgent need for wins: trading a Tier 1 workhorse (minor injury) for an Out QB and Doubtful WR hurts short-term outcomes. The explanation is terse and doesn\u2019t engage B\u2019s roster context (RB depth vs QB need) or timeline. Plausible but not well-tailored ToM.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B: labels Brandon Martinez as a stable possession WR, but he\u2019s a Tier 5 outside WR with variance\u2014misaligned with B\u2019s preference for possession targets and floor. Little evidence of B\u2019s consensus-driven, injury-averse mindset or 7\u20131 incentives. Trade is feasible, but A gives up Sean Hernandez (Tier 1, friendly playoffs) for Xavier Rodriguez (Tier 1, declining role, tough playoffs), clashing with A\u2019s conservative priorities. Rationale is generic and lacks context; p_accept_B is overstated for a lateral RB swap plus fringe WR.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

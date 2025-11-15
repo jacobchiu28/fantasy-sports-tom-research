@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "David Campbell"
+  ],
+  "ask_from_B": [
+    "David Flores"
+  ],
+  "rationale": "B gets a consistent, low-volatility veteran WR for his boom-bust corps. A fills a major TE need with a breakout player.",
+  "p_accept_B": 0.65
+}

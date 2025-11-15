@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Chris Adams", "Nick Roberts"],
+  "ask_from_B": ["Ryan Moore", "Xavier Foster"],
+  "rationale": "B 1-7, consensus-leaning: gains dual-threat QB + RB now; moves surplus boom WR + TE. Helps immediate wins.",
+  "p_accept_B": 0.52
+}

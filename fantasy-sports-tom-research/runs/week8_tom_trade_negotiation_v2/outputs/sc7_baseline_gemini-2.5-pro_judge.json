@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Proposal centers on A\u2019s upgrade with little modeling of B\u2019s beliefs. B needs wins now, values high-upside dual-threat QBs, and trusts consensus\u2014trading away Tier 2 Chris Adams for Tier 4 Isaiah Lee plus an injured committee RB doesn\u2019t fit B\u2019s incentives. A already has a stable Tier 2 pocket passer (David Nelson) and prefers pocket QBs, making the target somewhat misaligned. The offer is feasible roster-wise but unlikely to be accepted. Rationale is generic and omits B\u2019s motivations or player context.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

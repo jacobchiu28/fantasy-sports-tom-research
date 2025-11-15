@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Campbell", "Isaiah Thompson"],
+  "ask_from_B": ["David Campbell", "Liam Carter"],
+  "rationale": "Low-vol RB+WR for Team B's stable vets; B needs wins now, values consensus players with friendly schedules",
+  "p_accept_B": 0.62
+}
+```

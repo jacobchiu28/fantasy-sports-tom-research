@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good read on Team B: values dual-threat QBs, friendly playoff schedule, and can spare a depth RB. However, it doesn\u2019t note B\u2019s lack of a viable QB explicitly or their injury aversion (though both players are healthy). Perspective-taking is weak: little discussion of Team A\u2019s needs, surplus QBs, or urgency. Trade is coherent and likely accepted by B, but the explanation is brief and misses nuanced factors like B\u2019s consensus-trusting mindset. Overall: solid but shallow ToM.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

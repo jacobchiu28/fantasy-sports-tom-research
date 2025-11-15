@@ -1,0 +1,85 @@
+{
+  "player_id": "rb44_2025",
+  "name": "Ryan Taylor",
+  "position": "RB",
+  "team": "TEN",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      80,
+      93
+    ],
+    "rush_share_pct_range": [
+      55,
+      77
+    ],
+    "target_share_pct_range": [
+      9,
+      14
+    ],
+    "red_zone_carry_share_pct_range": [
+      29,
+      51
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      10,
+      31
+    ],
+    "trend_5g": "Flat",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.72
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.64,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.6
+  },
+  "archetype_tags": [
+    "workhorse_rb"
+  ],
+  "role_description": "Workhorse RB with heavy workload, high production volatility",
+  "summary_text": "Healthy Tier 1 RB in high-volume passing offense, slow tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Workhorse RB with heavy workload, high production volatility",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "High pass rate, Slow tempo",
+    "market": "Tier 1 (Very High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

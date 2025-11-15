@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Carter", "Matt Adams"],
+  "ask_from_B": ["Brandon Taylor", "Ethan Jones"],
+  "rationale": "Matches B: loves upside rookies, deep threats; gets Carter+Matt. A gets rookie TE + WR w/friendly PO. Win-now, fair.",
+  "p_accept_B": 0.46
+}

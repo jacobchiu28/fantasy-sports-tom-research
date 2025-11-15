@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Correctly spots Team B\u2019s TE hole and pitches a high-upside rookie WR, aligning somewhat with B\u2019s rookie/upside taste. However, it ignores B\u2019s likely reluctance to part with an ascending rookie RB and their consensus-driven mindset. The trade is feasible and role-coherent, and A deals from TE surplus, but the rationale is brief and lacks depth on B\u2019s RB depth, playoff outlook, or rankings context.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

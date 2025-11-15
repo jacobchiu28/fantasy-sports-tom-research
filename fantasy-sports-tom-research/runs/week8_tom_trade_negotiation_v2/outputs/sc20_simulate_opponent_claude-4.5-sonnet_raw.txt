@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "David Campbell"],
+  "ask_from_B": ["Jake Green", "Austin Williams"],
+  "rationale": "B gets proven dual-threat QB + stable deep threat; A gets young ascending QB + rookie upside WR",
+  "p_accept_B": 0.72
+}
+```

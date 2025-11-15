@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Claims B needs a QB upgrade ignore that B already has Logan Holt (Tier 2). Offering Jamal Lopez (Out) doesn\u2019t help a 1-7 team \u2018win now,\u2019 despite B\u2019s general willingness to buy injuries. The rationale that A gets a \u201cmajor TE upgrade\u201d is incorrect\u2014A already has a healthy Tier 1 TE, while Xavier Foster is Out (Tier 3). The value and motivations are mismatched and inconsistently explained.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

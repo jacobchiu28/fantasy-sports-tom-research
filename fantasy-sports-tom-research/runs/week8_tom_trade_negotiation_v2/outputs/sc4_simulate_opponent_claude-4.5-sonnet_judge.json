@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 65,
+  "justification": "Good ToM: A sends a rookie ceiling WR and volatile RB to entice B\u2019s risk-seeking, breakout-friendly profile, while A seeks a steadier veteran RB. However, it underplays A\u2019s injury caution (Martin Q) and preference for possession WRs (Torres isn\u2019t). Value coherence is mixed: B upgrades WR (Tier 1 to Tier 2 swap favoring B) with similar RB tier. Rationale is brief and lacks specifics (records, stacks, schedules). Overall solid but shallow.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

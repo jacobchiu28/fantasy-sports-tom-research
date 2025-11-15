@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Proposal barely models Team B\u2019s mindset. It ignores B\u2019s elite RB value, existing TE strength (has a Tier 1 TE), and preference for high-upside/injured targets with playoff edges. Throw-ins are low-tier (two Tier 4 TEs, Tier 5 rookie WR) and don\u2019t match B\u2019s needs despite liking rookies. Rationale is Team A\u2013centric and generic. While a 3-for-1 is structurally coherent, it\u2019s value-incoherent for a 7\u20131 team giving up a Tier 1 RB.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

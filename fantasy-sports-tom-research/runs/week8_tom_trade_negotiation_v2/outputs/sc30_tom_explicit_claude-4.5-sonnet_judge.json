@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 4,
+  "overall": 70,
+  "justification": "Good recognition of B\u2019s urgent RB need, WR surplus, and TE depth, and separates A\u2019s playoff aims from B\u2019s short-term priorities. However, it overlooks B\u2019s stated fade of run-heavy offenses while sending them Justin Young from a low-volume passing offense, and over-infers a preference for veterans. Value-wise, B giving up a Tier 1 WR (Thompson) for a Tier 3 RB plus a Tier 2 WR seems optimistic, and the TE \u201cupgrade\u201d for A is marginal. Reasoning is clear but slightly misaligned with B\u2019s preferences.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

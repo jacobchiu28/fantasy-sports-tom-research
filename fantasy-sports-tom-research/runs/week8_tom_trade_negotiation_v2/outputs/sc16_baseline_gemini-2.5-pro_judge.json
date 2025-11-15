@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Fails to account for Team B's love of workhorse RBs and need for healthy, consistent players; asks for B's top workhorse Ryan Taylor while offering a Tier 3 dual-threat QB (not B's preference) and a doubtful deep-threat WR. Misdiagnoses Team A\u2019s weakness\u2014A already has multiple Tier 1 RBs; WR/TE are weaker. Reasoning centers on A only, with minimal ToM. Trade is technically feasible but poorly aligned with both teams\u2019 contexts; acceptance odds overstated.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

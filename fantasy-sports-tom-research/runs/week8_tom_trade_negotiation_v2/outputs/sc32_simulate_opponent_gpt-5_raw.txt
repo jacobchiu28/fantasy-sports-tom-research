@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Chris Adams"],
+  "ask_from_B": ["Ryan Moore"],
+  "rationale": "B upgrades to dual-threat QB now; A converts QB surplus into playoff-friendly deep-threat WR",
+  "p_accept_B": 0.7
+}

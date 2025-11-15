@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sean Holt",
+    "Darian Robinson"
+  ],
+  "ask_from_B": [
+    "Ethan Campbell",
+    "Brandon Martinez"
+  ],
+  "rationale": "Upgrade RB floor stability and WR consistency for playoff push, trading volatility for reliable production",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_baseline_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": "te3_2025",
+  "name": "Brian Scott",
+  "position": "TE",
+  "team": "WAS",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      58,
+      81
+    ],
+    "route_participation_pct_range": [
+      58,
+      83
+    ],
+    "target_share_pct_range": [
+      12,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      34,
+      59
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.88
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "Low",
+    "confidence": 0.76,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.63
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+  "summary_text": "Healthy Tier 3 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 3 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

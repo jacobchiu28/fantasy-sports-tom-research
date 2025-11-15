@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Sean Hernandez"
+  ],
+  "ask_from_B": [
+    "Logan Clark"
+  ],
+  "rationale": "A upgrades to dual-threat QB; B gains TE starter and RB depth for immediate help",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_implicit_gpt-5.txt"
+  }
+}

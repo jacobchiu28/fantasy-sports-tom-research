@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Misreads Team B\u2019s values/roster: calls Justin Wright (Tier 5, Out, declining role) a TE upgrade over B\u2019s Tier 1 Walker and Tier 2 Allen. Mislabels Austin Wright (veteran) as rookie fit and calls Josh Garcia ascending despite listed declining role. Contradicts Team A\u2019s injury-averse profile by asking for doubtful Walker. Trade is severely lopsided against B and the p_accept_B=0.6 is unrealistic. Some attempt at perspective (SoS, rookies) but applied inaccurately.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

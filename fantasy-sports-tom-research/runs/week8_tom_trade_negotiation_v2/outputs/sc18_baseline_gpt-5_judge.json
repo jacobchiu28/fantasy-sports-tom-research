@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Slight nod to B\u2019s possible QB stability need, but it ignores B\u2019s stated preferences (possession WRs, buying injured, OL/SOS) and gives up B\u2019s lone workhorse. Claims A has QB surplus when A would be left without a healthy QB, conflicting with A\u2019s stability ethos. Values and roster impacts are underdeveloped; rationale is generic and A-centric. Coherence is shaky but not impossible.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

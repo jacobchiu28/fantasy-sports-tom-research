@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies Team B\u2019s taste for dual-threat QBs and playoff schedule, and offloads an injured RB, but ignores B\u2019s consensus-driven valuation of a Tier 1 RB and need to maintain RB depth. Offer leverages A\u2019s QB depth and A\u2019s willingness to buy injury risk, yet it\u2019s an overpay ask for B. Probability of acceptance is overstated. Explanation is terse and misses key context (B has no healthy QB, B\u2019s injury aversion, and roster balance). Coherent but not realistically attractive for B.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

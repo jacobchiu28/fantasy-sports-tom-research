@@ -1,0 +1,85 @@
+{
+  "player_id": "rb1_2025",
+  "name": "Michael Walker",
+  "position": "RB",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      42,
+      79
+    ],
+    "rush_share_pct_range": [
+      35,
+      77
+    ],
+    "target_share_pct_range": [
+      6,
+      11
+    ],
+    "red_zone_carry_share_pct_range": [
+      33,
+      57
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "pass_block_snap_share_pct_range": [
+      11,
+      32
+    ],
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.78
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.79,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.53
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, high production volatility",
+  "summary_text": "Healthy Tier 2 RB in high-volume passing offense, slow tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, high production volatility",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "High pass rate, Slow tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

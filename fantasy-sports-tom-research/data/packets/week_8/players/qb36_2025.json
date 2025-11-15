@@ -1,0 +1,86 @@
+{
+  "player_id": "qb36_2025",
+  "name": "Lucas Martin",
+  "position": "QB",
+  "team": "KC",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      26,
+      44
+    ],
+    "completion_pct_range": [
+      61,
+      71
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      17
+    ],
+    "rush_share_pct_range": [
+      6,
+      17
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "IR",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.15
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.71,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.66
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+  "summary_text": "IR with availability unclear Tier 1 QB in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "volatility": "Low",
+    "health": "IR",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

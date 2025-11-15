@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sam Martin",
+    "Sean Thompson"
+  ],
+  "ask_from_B": [
+    "Brian Harris",
+    "Xavier Johnson"
+  ],
+  "rationale": "Team B gets high-ceiling deep threat + upside WR; Team A gets stable RB + playoff schedule WR for win-now push",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

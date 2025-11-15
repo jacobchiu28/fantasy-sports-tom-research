@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Mentions B needs wins, but misreads B\u2019s values: calls an Out tier-5 WR a weekly starter and ignores B\u2019s preference for consistency. Labels Noah Brown a \u201cstud\u201d while offering A\u2019s tier-1 RB, which A likely shouldn\u2019t trade given RB depth and existing TE strength. Little separation of A\u2019s ceiling-chasing goals from B\u2019s reliability focus. Trade is feasible and might appeal to B due to a big RB upgrade, but rationale is generic and fact-light.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

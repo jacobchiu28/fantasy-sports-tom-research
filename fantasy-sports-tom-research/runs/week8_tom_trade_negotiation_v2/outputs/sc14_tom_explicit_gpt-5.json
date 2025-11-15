@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson (WR)",
+    "Eric Torres (WR)"
+  ],
+  "ask_from_B": [
+    "Noah Brown (TE)",
+    "Sean Thompson (WR)"
+  ],
+  "rationale": "B conservative: trades surplus TE+boom WR for steadier WR (Isaiah) + vet depth; A upgrades TE, keeps upside.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_explicit_gpt-5.txt"
+  }
+}

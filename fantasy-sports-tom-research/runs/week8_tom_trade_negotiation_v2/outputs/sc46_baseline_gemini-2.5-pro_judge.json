@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Rationale is A-centric and generic, with no clear modeling of B\u2019s upside/rookie preferences or willingness to move a young ascending RB. It asks B to trade away Darian Campbell (fits B\u2019s profile) for a veteran pocket QB (misaligned with B\u2019s stated QB preference). It also mislabels TE as an upgrade: Liam Adams (Tier 4, declining) is a downgrade from A\u2019s Tier 3 TE. Trade is feasible but internally inconsistent with profiles and poorly justified.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

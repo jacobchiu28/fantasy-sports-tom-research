@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Matt Adams",
+    "Josh Garcia"
+  ],
+  "ask_from_B": [
+    "Devon Lewis"
+  ],
+  "rationale": "Consolidating depth pieces to acquire a superior starting running back, directly addressing my roster's primary weakness."
+}

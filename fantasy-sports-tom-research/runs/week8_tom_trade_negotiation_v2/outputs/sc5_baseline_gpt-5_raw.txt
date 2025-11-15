@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Alex Thomas", "Michael Mitchell"],
+  "ask_from_B": ["Justin Wright"],
+  "rationale": "Upgrade TE from blocker to high-usage; move surplus deep WR with tough playoff slate"
+}

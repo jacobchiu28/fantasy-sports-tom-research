@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ben Martin", "Matt Wright"],
+  "ask_from_B": ["Darian Thomas"],
+  "rationale": "Team B gets two rookie breakout WRs for consistent low-variance possession vet; fits B's contrarian style",
+  "p_accept_B": 0.42
+}
+```

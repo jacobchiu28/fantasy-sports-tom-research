@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: they value reliable RB workloads and consistency, not \u2018shake-up\u2019 upside WRs. Asking for B\u2019s most stable RB (Sam Lewis) for a declining-role, boom-bust WR (Devon Moore) clashes with B\u2019s needs and preferences. Ignores B\u2019s TE issues and stack preference. Value/tier imbalance and inflated 0.7 accept probability. Rationale is generic and lacks roster- or context-specific evidence.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

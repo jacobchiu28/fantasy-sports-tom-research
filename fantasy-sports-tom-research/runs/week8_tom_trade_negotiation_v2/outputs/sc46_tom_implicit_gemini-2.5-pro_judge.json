@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Understands B may value a young, high-upside QB with a good playoff slate and is willing to move depth TE/RB, but misses key specifics (B\u2019s QB injury need, TE redundancy, RB surplus, and dual-threat preference). The swap fits A\u2019s risk-averse profile and need for RB depth, though calling the TE \u2018consistent\u2019 ignores his declining role. Plausible, but rationale is thin.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

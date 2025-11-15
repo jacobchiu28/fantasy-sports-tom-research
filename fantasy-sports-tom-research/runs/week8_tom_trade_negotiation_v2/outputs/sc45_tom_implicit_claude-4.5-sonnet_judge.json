@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies B\u2019s RB depth need and playoff-schedule awareness, but ignores B\u2019s strong preference for high-tier, young deep-threat WRs and adherence to consensus. Asking for two Tier 2 WRs for a Tier 5 RB and Tier 3 WR is lopsided. A\u2019s injury-cautious profile conflicts with targeting a Questionable WR. The rationale is vague and inaccurate (\u201cswapping deep threats\u201d when Isaiah isn\u2019t one). Acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

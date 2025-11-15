@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Devon Lewis",
+    "Justin Young"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "Team A consolidates RB/WR depth to upgrade at its weakest position (TE). Team B fills a massive need at RB with a starter.",
+  "p_accept_B": 0.65
+}

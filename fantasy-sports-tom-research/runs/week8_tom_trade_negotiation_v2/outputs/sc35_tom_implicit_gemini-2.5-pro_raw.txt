@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Xavier Johnson",
+    "Trevor Clark"
+  ],
+  "ask_from_B": [
+    "Liam Carter"
+  ],
+  "rationale": "A consolidates for a title run. B gets a veteran WR with a great playoff schedule plus needed RB depth to compete now.",
+  "p_accept_B": 0.55
+}

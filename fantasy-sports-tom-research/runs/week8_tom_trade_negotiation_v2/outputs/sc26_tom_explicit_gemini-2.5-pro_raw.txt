@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Josh Martin",
+    "Justin Miller"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson",
+    "Nick Holt"
+  ],
+  "rationale": "You get a veteran workhorse RB to fix your biggest weakness. I upgrade my TE and swap a volatile rookie for a steadier vet.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Offer ignores Team B\u2019s zero-RB, consensus-trusting mindset and injury caution, and misestimates acceptance (B would snap-accept an elite RB for low-tier WR/TE depth). It frames only Team A\u2019s needs and falsely claims a TE upgrade despite swapping a Tier 3 TE for a Tier 4. Rationale is generic and not grounded in roster tiers or B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

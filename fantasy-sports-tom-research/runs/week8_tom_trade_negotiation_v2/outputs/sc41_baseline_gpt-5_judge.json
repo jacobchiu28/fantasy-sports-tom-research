@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Rationale is A-centric and ignores B\u2019s needs. Team B (1-7) values consistent, target-heavy options; Noah Brown fits that profile, while Darian Moore is a high-variance outside WR and Darian Taylor is a lateral TE move at best. B already has multiple TEs, so swapping their premium receiving TE for a similar-tier TE plus a boom-bust WR is misaligned. The offer is feasible but poorly tailored, with minimal evidence-based explanation.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

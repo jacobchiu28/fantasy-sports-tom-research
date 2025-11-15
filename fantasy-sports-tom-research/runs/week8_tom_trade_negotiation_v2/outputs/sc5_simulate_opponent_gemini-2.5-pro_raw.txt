@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Trey Mitchell",
+    "Darian Anderson"
+  ],
+  "ask_from_B": [
+    "Justin Wright"
+  ],
+  "rationale": "Team B gets two stable veterans to raise their weekly floor, trading from their TE depth. Team A consolidates for a stud TE.",
+  "p_accept_B": 0.65
+}

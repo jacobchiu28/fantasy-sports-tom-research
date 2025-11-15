@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Justin Reed", "Matt Wright"],
+  "ask_from_B": ["Lucas Carter"],
+  "rationale": "Team B gets stable WR depth; Team A gets dual-threat QB they value. Aligns with B's conservative style.",
+  "p_accept_B": 0.72
+}
+```

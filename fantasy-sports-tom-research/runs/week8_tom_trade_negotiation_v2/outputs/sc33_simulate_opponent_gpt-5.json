@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Trey Adams"
+  ],
+  "ask_from_B": [
+    "Brandon Martinez"
+  ],
+  "rationale": "B gains a low-variance RB to stabilize floors; A gains a steadier WR for must-win weeks.",
+  "p_accept_B": 0.56,
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_simulate_opponent_gpt-5.txt"
+  }
+}

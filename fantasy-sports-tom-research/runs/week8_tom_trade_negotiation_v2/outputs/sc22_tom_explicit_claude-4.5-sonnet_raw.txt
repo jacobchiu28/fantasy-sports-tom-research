@@ -1,0 +1,16 @@
+```json
+{
+  "offer_from_A": ["Ryan Moore", "Ethan Campbell"],
+  "ask_from_B": ["Liam Torres", "Nick Holt"],
+  "rationale": "B gets consistent low-vol RB + possession WR; A gets mid-vol workhorse RB + deep threat with upside",
+  "p_accept_B": 0.62,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B (8-0) seeks consistency and reliability for playoff push. Manager B values workhorse RBs and possession receivers, trusts expert consensus, and buys injured players as opportunities.",
+    "team_b_perception": "Ryan Moore offers possession receiver traits with veteran reliability despite high variance label. Ethan Campbell is low-volatility veteran RB with friendly playoff schedule - exactly B's profile preference.",
+    "what_b_likely_wants": "B would want consistent veterans over rookies, low-variance players over high-upside gambles, and players in favorable playoff situations.",
+    "fairness_assessment": "B receives two veterans with playoff-friendly schedules fitting their consistency preference. Moore's dual archetype (deep-threat + possession) and Campbell's workhorse committee role align with B's values.",
+    "team_a_motivation": "A upgrades RB depth with Liam Torres (mid-vol, young breakout, friendly schedule) and adds Nick Holt (deep-threat with mid variance and possession traits) - both fit A's upside preference while maintaining playoff competitiveness.",
+    "risk_tolerance_match": "Trade balances A's high-upside preference with B's consistency needs. B gets lower variance players; A gets breakout potential and deep-threat ability."
+  }
+}
+```

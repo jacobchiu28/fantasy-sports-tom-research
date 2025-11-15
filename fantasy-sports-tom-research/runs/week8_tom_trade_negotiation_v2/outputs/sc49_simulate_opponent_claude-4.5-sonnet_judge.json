@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Notes B\u2019s veteran/stability lean but ignores B\u2019s desire for workhorse volume and heavy touches; both incoming RBs are committee types. Offer clashes with A\u2019s ceiling-chasing profile and mislabels the move as \u2018consolidating depth\u2019 while trading two superior RBs for a tier-4 rookie. Rationale is thin, skipping B\u2019s urgent need for wins, roster/waiver implications, and injury aversion context.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

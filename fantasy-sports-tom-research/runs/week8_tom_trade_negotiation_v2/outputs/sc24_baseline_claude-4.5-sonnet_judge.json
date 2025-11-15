@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal ignores B\u2019s conservative, injury-averse, volume-first profile: it asks B to give up a Tier 2 possession WR (Holt) and a healthy Tier 1 RB for an injured, volatile RB (Foster) and a boom-bust WR (Kyle). Rationale centers on A\u2019s benefits and omits B\u2019s priorities (health, workload stability, strength of schedule). While trade mechanics are feasible, it\u2019s contextually misaligned and B\u2019s acceptance is likely much lower than 0.35.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

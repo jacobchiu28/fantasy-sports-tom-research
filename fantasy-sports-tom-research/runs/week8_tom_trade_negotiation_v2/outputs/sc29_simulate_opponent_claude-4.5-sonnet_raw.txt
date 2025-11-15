@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Justin Wright", "Brian Harris"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "B gets high-upside TE + depth RB for workhorse; A gets stable RB1 with friendly playoff schedule",
+  "p_accept_B": 0.72
+}
+```

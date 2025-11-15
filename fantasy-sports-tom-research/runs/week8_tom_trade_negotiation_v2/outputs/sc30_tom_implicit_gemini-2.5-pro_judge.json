@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 70,
+  "justification": "Good read that B needs RB help and has TE depth; asks for a TE while sending a usable RB and WR. Separates A\u2019s playoff push (TE upgrade) from B\u2019s short-term need. However, it ignores B\u2019s tendency to fade low-volume offenses (Justin Young\u2019s context) and urgency specifics. Valuation is lopsided: A gives a Tier 2 WR and Tier 3 RB for a Tier 4 TE, a marginal upgrade that weakens A\u2019s WRs. Rationale is clear but thin on roster/tier detail.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

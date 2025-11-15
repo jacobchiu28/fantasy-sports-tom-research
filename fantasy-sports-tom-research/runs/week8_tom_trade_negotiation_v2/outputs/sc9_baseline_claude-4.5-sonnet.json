@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Lucas Thompson",
+    "Austin Young"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor",
+    "Michael Roberts"
+  ],
+  "rationale": "Upgrade to workhorse RB and receiving TE; trade away committee back and redundant deep threat",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_baseline_claude-4.5-sonnet.txt"
+  }
+}

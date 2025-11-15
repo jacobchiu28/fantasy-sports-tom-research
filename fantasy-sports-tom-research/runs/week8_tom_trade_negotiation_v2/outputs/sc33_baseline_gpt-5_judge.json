@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "The offer ignores Team B\u2019s conservative, consensus-driven mindset. B would not trade a Tier 1, high-floor TE (Logan Mitchell, friendly playoff slate) for a questionable Tier 4 TE and a volatile deep-threat WR, which contradicts their preference for stability and possession types. The proposal serves Team A\u2019s needs but gives B less stability. The rationale is generic and does not reference either team\u2019s context or values, undermining credibility.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

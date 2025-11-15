@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "The rationale is A-centric and ignores B\u2019s conservative, floor-seeking, injury-averse mindset and zero-RB lean. B likely won\u2019t swap a healthy, steady RB (Hernandez, friendly playoffs) for a boom-bust deep-threat WR (Justin Miller) and a questionable, volatile RB (Lucas Thompson). While the value could be plausible, the fit for B\u2019s needs and preferences is poor, and the explanation lacks B-oriented reasoning.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Alex Thompson",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "Jordan Williams"
+  ],
+  "rationale": "A consolidates two young assets for a vet RB. B gets two high-ceiling lottery tickets, fitting their aggressive style.",
+  "p_accept_B": 0.65
+}

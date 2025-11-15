@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Shows some awareness of B\u2019s conservatism and playoff focus, but misreads B\u2019s zero-RB/roster reality (B has 3 RBs, not 4) and floor preferences. Asking B to give up a Tier 2 RB (Flores) and Tier 2 WR (Austin Torres) for a Tier 2 WR (Isaiah Thompson, Q) plus a Tier 5 WR (Brandon Martinez) reduces B\u2019s stability. Offered WRs aren\u2019t clear floor upgrades. Reasoning cites playoff schedules but ignores expert-consensus valuation B trusts. Feasible trade, but misaligned with B\u2019s incentives and contains factual errors.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

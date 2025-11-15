@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Austin Martin",
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Liam Wright",
+    "James Holt"
+  ],
+  "rationale": "Team A (2-6) sells floor for ceiling. Team B (8-0) adds low-volatility depth with friendly playoff schedules.",
+  "p_accept_B": 0.65
+}

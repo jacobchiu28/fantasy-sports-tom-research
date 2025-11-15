@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Rationale focuses only on Team A\u2019s needs and ignores Team B\u2019s preferences (dual\u2011threat QBs, injury aversion) and roster context (already strong at RB). Calling James Jones a \u201csignificant upgrade\u201d over Kevin Flores is dubious since both are Tier 3. The trade is feasible, and adding a Tier 1 RB could tempt B, but it conflicts with B\u2019s stated QB preferences and urgency. Explanation lacks concrete, two-sided reasoning.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

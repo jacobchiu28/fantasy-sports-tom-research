@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Torres", "Alex White"],
+  "ask_from_B": ["James Rivera"],
+  "rationale": "Conservative B needs floor/volume; swap boom WR for steadier WR + RB touches; A adds playoff-upside deep threat.",
+  "p_accept_B": 0.56
+}

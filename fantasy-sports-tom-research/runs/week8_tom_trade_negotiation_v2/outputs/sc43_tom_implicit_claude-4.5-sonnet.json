@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Jones",
+    "Michael Walker"
+  ],
+  "ask_from_B": [
+    "Matt Nguyen",
+    "Sam Reed"
+  ],
+  "rationale": "Trading high-variance deep threats for stable mid-variance players B prefers; both need wins now",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

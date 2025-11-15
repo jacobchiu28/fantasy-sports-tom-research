@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sean Adams",
+    "Sam Martin"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Caleb Foster"
+  ],
+  "rationale": "You need wins. Adams is a floor upgrade on your RBs. Martin adds the big-play upside your team has been missing all year.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

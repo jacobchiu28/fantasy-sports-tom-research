@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Josh Martin"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Team A trades a workhorse RB from a position of depth to acquire a top-tier TE, its biggest positional weakness."
+}

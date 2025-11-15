@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "It notes B\u2019s appetite for ceiling/rookies (Nick Torres + volatile Garcia) and A\u2019s desire for steadier pieces (Ben King, low-variance Scott). However, it underestimates B\u2019s likely reluctance to trade a Tier 1 rookie (Scott) and to lose RB depth for a Tier 5 WR. It also glosses over A\u2019s preference for proven vets and urgent win-now needs. The rationale is terse and light on roster/usage context, making the 0.6 acceptance estimate optimistic.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

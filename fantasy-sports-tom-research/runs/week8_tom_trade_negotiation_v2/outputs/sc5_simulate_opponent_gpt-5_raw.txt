@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Robinson", "Marcus Taylor"],
+  "ask_from_B": ["Justin Wright", "Tyler Miller"],
+  "rationale": "B gains a workhorse RB and veteran slot; A upgrades TE and adds QB2 from B’s surplus.",
+  "p_accept_B": 0.66
+}

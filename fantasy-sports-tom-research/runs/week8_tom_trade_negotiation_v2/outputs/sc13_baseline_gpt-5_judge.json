@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Proposal centers on A\u2019s needs, not B\u2019s. It overlooks B\u2019s preferences (consistency, veterans, pocket passers) and B\u2019s TE weakness. B already has a Tier 1 QB, reducing the appeal of a dual-threat QB; Anderson fits but may not justify losing RB depth. The 2-for-1 for a Tier 5 \u201cworkhorse\u201d only loosely supports A\u2019s stated stability goal. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

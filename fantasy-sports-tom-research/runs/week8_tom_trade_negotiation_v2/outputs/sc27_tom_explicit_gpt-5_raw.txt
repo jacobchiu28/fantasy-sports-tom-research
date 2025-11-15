@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Jamal Miller", "Alex White"],
+  "ask_from_B": ["Sam Lewis", "Sam Martinez"],
+  "rationale": "B 0-8; trusts established vets: gets Jamal's upside, keeps RB depth. A gains Sam's floor + steadier QB.",
+  "p_accept_B": 0.44
+}

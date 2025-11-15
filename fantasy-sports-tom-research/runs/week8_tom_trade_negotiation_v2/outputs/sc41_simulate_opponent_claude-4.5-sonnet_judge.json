@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B values possession/consistency and that B can spare a TE, but mislabels Derek Allen as consistent (he\u2019s high-variance) and adds another volatile deep threat (Sam Martin), clashing with B\u2019s risk-averse, win-now needs. A\u2019s ceiling-chasing profile also clashes with trading a deep threat for a lower-variance TE. Trade is feasible roster-wise, but the rationale is thin and ignores tiers, depth, and immediate-week impact. Overall ToM reasoning is superficial.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

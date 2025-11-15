@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Sean Scott"
+  ],
+  "rationale": "You get two stable players with great playoff schedules for one volatile WR. Lowers your team's variance for the title run.",
+  "p_accept_B": 0.55
+}

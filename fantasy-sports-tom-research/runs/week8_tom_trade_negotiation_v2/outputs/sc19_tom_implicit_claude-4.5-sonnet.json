@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "Isaiah Adams"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Kyle Martinez"
+  ],
+  "rationale": "Swapping depth for rookie upside and friendly schedule fits",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

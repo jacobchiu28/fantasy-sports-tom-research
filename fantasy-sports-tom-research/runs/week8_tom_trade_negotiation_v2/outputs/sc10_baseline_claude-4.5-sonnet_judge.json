@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Offer ignores Team B\u2019s win-now, conservative, volume-focused mindset. Asking them to give up a Tier 1 workhorse RB (Justin Garcia) and a veteran WR for an injured boom/bust WR (Eric Davis) and a volatile Tier 4 RB (David Adams) contradicts their stated preferences. Rationale centers on Team A\u2019s stability needs, not B\u2019s incentives. Trade is technically feasible but unrealistic given B\u2019s priorities; explanation is generic and lacks scenario-grounded reasoning.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

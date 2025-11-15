@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Noah Carter",
+    "Matt Adams"
+  ],
+  "ask_from_B": [
+    "Brandon Taylor",
+    "Ethan Jones"
+  ],
+  "rationale": "Matches B: loves upside rookies, deep threats; gets Carter+Matt. A gets rookie TE + WR w/friendly PO. Win-now, fair.",
+  "p_accept_B": 0.46,
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_explicit_gpt-5.txt"
+  }
+}

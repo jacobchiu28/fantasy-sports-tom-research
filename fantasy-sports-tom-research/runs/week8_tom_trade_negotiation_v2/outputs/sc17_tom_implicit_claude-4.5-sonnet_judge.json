@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Fails to model B\u2019s perspective: trading away their only healthy dual-threat QB (which they value) leaves them QB-less at 0-8. B might like RB help, but they\u2019re not RB-needy and prioritize dual-threat QBs. All players are healthy, so no injury leverage. The offer is feasible but contextually incoherent for B, making the 0.62 acceptance unlikely. Rationale is generic and ignores roster construction and needs.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

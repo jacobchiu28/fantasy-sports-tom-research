@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Liam Wright"
+  ],
+  "ask_from_B": [
+    "Noah Carter"
+  ],
+  "rationale": "Team A gets a needed high-upside RB. Team B gets a preferred WR archetype with a friendly playoff schedule.",
+  "p_accept_B": 0.55
+}

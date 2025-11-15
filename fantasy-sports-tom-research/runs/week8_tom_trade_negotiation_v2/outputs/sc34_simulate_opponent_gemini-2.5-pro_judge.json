@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It notes B\u2019s win-now and low-volatility needs and QB depth, but mislabels Kyle Martinez as a possession WR and ignores B\u2019s conservative profile and preference for stable targets/pocket QBs. It doesn\u2019t weigh B\u2019s week-11 QB bye risk or whether Campbell/Martinez upgrade B\u2019s starting lineup. A\u2019s motives aren\u2019t explained despite already having a Tier 1 QB. The offer is plausible but thinly reasoned; acceptance probability seems overstated.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

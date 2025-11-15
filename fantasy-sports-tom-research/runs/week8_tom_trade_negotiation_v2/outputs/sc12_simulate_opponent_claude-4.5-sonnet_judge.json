@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Captures B\u2019s preference for dual-threat QB and A\u2019s desire for a pocket passer/floor, but offers minimal ToM nuance. It doesn\u2019t reference B\u2019s 8-0 cushion, upside bias, IR QB context, or RB depth that would ease moving Ben King. It also overstates Ben King\u2019s \u201cconsistent floor\u201d despite a declining role and tough playoffs, and Isaiah Lee\u2019s stability is debatable (Tier 4, mid variance). Trade is generally coherent, but rationale is too brief and the 0.72 acceptance probability isn\u2019t justified.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Sean Adams"
+  ],
+  "ask_from_B": [
+    "Caleb Foster"
+  ],
+  "rationale": "Team B gets a desperately needed stable RB. Team A swaps RB depth for a high-floor WR better suited for a championship run.",
+  "p_accept_B": 0.75
+}

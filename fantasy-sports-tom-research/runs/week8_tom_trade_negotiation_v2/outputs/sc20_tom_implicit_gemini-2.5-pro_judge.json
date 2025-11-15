@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Misreads Team B\u2019s needs: they already have three Tier 1 QBs (including dual-threats), so a Tier 4 QB adds little. Offers a doubtful WR to an injury-averse manager. Asks for Devon Lewis, who fits B\u2019s young, healthy, ascending preference, making B less likely to part with him. Rationale is brief and ignores B\u2019s current roster strengths and injury stance, though the trade is structurally feasible.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

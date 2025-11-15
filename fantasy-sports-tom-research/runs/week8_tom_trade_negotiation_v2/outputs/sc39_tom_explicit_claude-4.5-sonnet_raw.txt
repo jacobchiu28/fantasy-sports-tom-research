@@ -1,0 +1,28 @@
+```json
+{
+  "offer_from_A": ["Derek White", "Liam Wright"],
+  "ask_from_B": ["Noah Carter", "Jordan Moore"],
+  "rationale": "B gets dual-threat QB depth+deep threat; A gets high-upside RB/WR for playoff push",
+  "p_accept_B": 0.42
+}
+```
+
+**Reasoning about Team B's perspective:**
+
+Team B's manager is a contrarian (6-2 record) who values high-upside players and deep threats. They already have Lucas Carter as their dual-threat QB, so Derek White (another dual-threat) has limited appeal as a starter but could be viewed as valuable depth or trade capital. However, as a contrarian, they likely won't be swayed by consensus value alone.
+
+Team B is deep at WR with multiple deep-threat receivers (Jordan Moore, Justin Miller, David Baker, Nick Torres) but thin at RB with only committee backs. They're willing to roster injured players for upside.
+
+The trade offers:
+- **Derek White**: Dual-threat QB with friendly playoff schedule - fits B's archetype preference but redundant with Lucas Carter
+- **Liam Wright**: Deep-threat WR with friendly playoff schedule - adds depth but B already has this archetype covered
+
+In return, A requests:
+- **Noah Carter**: High-volatility RB (young breakout) - the exact high-upside profile both managers favor, but B might view as expendable given RB depth
+- **Jordan Moore**: High-volatility deep threat - B's preferred archetype, making this a tough ask
+
+**Why B might accept:** They get QB insurance/flexibility and another deep threat with better playoff schedule. As a contrarian, they might fade Jordan Moore's consensus value.
+
+**Why B might reject:** Giving up their preferred archetype (high-variance deep threat) for redundant QB depth. The contrarian nature means they won't follow "expert consensus" that this is fair value.
+
+Probability: 0.42 - slightly unfavorable due to B's contrarian nature and reluctance to trade away their preferred player types.

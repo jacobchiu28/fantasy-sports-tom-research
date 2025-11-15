@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Fails to model Team B: a zero-RB, consensus-trusting manager valuing rookies is unlikely to trade Tier 1 rookie WR Cameron Scott at 6-2. Return (two volatile committee RBs) isn\u2019t compelling for B. Rationale mislabels a TE \u201cupgrade\u201d for A despite A already having a Tier 1 TE and Turner being Tier 4. A would be thin at RB post-trade. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

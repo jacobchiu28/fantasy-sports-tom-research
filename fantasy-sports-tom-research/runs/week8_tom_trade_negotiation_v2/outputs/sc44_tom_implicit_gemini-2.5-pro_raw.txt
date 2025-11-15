@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Austin Torres",
+    "Kyle Garcia"
+  ],
+  "rationale": "You get the workhorse RB1 you need to save your season. I diversify with a solid WR and a stable veteran RB.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Captures that Team B likes dual-threat upside and Team A wants floor, but ignores B\u2019s strong record, expert-ranking mindset, and the high market value of Jake Garcia. Trade fit is plausible (B upgrades QB; A gets a steady RB and pocket QB), yet value imbalance makes B\u2019s acceptance unlikely. Rationale is very brief and misses specifics (B\u2019s IR Tier 1 QB, RB depth, tiers/roles), limiting ToM depth.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

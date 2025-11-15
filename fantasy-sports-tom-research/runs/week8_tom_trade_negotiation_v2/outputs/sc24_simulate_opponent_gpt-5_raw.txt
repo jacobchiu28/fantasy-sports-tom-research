@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Alex Mitchell"],
+  "ask_from_B": ["Jamal Roberts"],
+  "rationale": "B gains RB volume depth; A gets steadier TE floor; aligns with both conservative styles",
+  "p_accept_B": 0.62
+}

@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Malik Moore", "Darian Moore"],
+  "ask_from_B": ["Ethan Campbell", "Ethan Turner"],
+  "rationale": "RB/TE upgrades; swap surplus boom/bust WR + committee RB for steadier starters"
+}

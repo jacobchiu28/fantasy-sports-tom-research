@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Liam Torres",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera",
+    "Ben Thompson"
+  ],
+  "rationale": "B gains needed RB depth + TE upgrade (friendly playoffs); A gets high-ceiling WR to swing weeks",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_implicit_gpt-5.txt"
+  }
+}

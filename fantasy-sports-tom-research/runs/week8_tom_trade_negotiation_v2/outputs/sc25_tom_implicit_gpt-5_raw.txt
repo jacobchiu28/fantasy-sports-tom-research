@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Jake Green", "Marcus Reed"],
+  "ask_from_B": ["Ethan Turner", "Kevin Allen"],
+  "rationale": "You get dual-threat QB + RB depth; we fix TE and add a boom WR for balance.",
+  "p_accept_B": 0.58
+}

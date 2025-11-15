@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Austin Torres", "Xavier Foster"],
+  "ask_from_B": ["Justin Garcia", "Cameron Holt"],
+  "rationale": "Team B gets low-volatility possession WR + TE depth; Team A gets veteran volume RB + deep threat",
+  "p_accept_B": 0.72
+}
+```

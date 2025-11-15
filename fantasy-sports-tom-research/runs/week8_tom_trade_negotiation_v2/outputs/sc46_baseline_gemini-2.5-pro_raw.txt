@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Alex Nelson",
+    "Ethan Adams"
+  ],
+  "ask_from_B": [
+    "Liam Adams",
+    "Darian Campbell"
+  ],
+  "rationale": "Upgrade at a key position of need (TE) and add a running back with a favorable playoff schedule by trading from depth at WR/QB.",
+  "p_accept_B": 0.4
+}

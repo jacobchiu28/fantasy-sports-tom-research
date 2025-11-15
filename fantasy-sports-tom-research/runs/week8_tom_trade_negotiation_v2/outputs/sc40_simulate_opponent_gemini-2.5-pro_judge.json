@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges B\u2019s desire for low-volatility depth and playoff schedules but ignores that a conservative 8-0 manager who trusts rankings won\u2019t trade a Tier 1 WR and Tier 1 RB with friendly playoff slates for a Tier 4 RB and Tier 5 WR. The offer is badly lopsided and the 0.65 acceptance is unrealistic. Rationale is vague and not grounded in player tiers/roles.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

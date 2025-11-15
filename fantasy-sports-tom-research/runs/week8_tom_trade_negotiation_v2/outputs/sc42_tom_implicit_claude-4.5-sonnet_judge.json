@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Identifies B might value a consistent Tier 1 QB, but overlooks B\u2019s QB surplus and preference for possession WRs and strength of schedule. Holt is primarily a deep threat with tough playoff matchups; Robinson has a friendly playoff slate and workhorse role B may prize. Offer is value-incoherent (Tier 1 QB + Tier 2 WR for Tier 5 RB) and leaves A thin at QB. Rationale is brief and overstates Holt as possession depth.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

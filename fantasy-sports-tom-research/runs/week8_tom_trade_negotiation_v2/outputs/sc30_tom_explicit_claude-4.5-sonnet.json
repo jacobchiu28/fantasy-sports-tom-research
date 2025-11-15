@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Justin Young"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Sean Thompson"
+  ],
+  "rationale": "B needs RB help urgently; Campbell has friendly playoff schedule. A upgrades TE position for playoff push.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

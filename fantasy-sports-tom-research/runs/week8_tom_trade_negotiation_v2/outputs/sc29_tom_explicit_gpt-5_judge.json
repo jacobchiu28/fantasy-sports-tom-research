@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Acknowledges B\u2019s love of deep threats/rookies but ignores B\u2019s strategy of buying injured players and need context (TE room, QB). Offer is lopsided: A gives a healthy Tier 1 RB for TE4/WR4\u2014poor for a 1-7 team needing wins. Minimal separation of A vs. B incentives and very thin rationale. Probability of B acceptance likely underestimated given value tilt.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

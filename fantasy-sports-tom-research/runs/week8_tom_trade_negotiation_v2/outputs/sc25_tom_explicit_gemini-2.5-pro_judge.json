@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Notes B\u2019s title run but ignores B\u2019s zero-RB tendency and preference for rookies (giving up young Xavier Rodriguez). Misreads A\u2019s needs: A already has a Tier 1 TE (Adam Wilson), so \u2018critical TE need\u2019 is inaccurate. The swap downgrades A at RB and adds a low-value TE, while B already has adequate TEs. Rationale is brief and not grounded in roster/role context, playoff schedules, or byes. Overall ToM and internal coherence are weak.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["David Campbell", "Alex King"],
+  "ask_from_B": ["Derek Foster", "David Flores"],
+  "rationale": "B prefers steady vets/SOS: add Campbell + Alex King (PO-friendly). Shed boom-bust Foster; Flores depth behind Adams.",
+  "p_accept_B": 0.58
+}

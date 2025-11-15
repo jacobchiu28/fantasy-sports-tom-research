@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Reed", "Trevor Brown"],
+  "ask_from_B": ["Ben King", "Cameron Baker"],
+  "rationale": "Team B gets stable veteran QB+WR for playoff push. Team A gets low-volatility RB+TE depth for rebuild.",
+  "p_accept_B": 0.62
+}
+```

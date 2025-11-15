@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Offer ignores Team B\u2019s beliefs and needs: they\u2019re 0-8, value healthy, stable workhorse RBs, yet A asks for B\u2019s RB2 cornerstone (Sam Lewis) and an injured TE while sending a doubtful RB and TE4. It also conflicts with Team A\u2019s injury-averse style by targeting a doubtful TE. Rationale is generic and A-centric, with no discussion of B\u2019s incentives or constraints. Trade is feasible but ill-aligned with both managers\u2019 profiles.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

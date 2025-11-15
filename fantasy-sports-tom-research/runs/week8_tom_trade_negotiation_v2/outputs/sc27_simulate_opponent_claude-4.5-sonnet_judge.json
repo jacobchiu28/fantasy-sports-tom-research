@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Shallow ToM: it nods to B wanting stability but ignores B\u2019s preference for workhorse RBs, existing Tier-2 QB (no QB need), and that B would be left with no healthy TE. It also misreads A\u2019s injury-cautious profile by targeting a Doubtful TE and calls B\u2019s situation a \u201cplayoff push\u201d at 0-8. The rationale is generic and not roster-specific. Overall, low coherence with team profiles and needs.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

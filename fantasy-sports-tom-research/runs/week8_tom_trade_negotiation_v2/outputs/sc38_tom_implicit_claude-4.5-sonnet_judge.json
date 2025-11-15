@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Proposal notes B\u2019s desire for big-play WRs and playoff schedules, but misses key beliefs: B trusts consensus and avoids injury risk, and would not gut RB depth. Trading Harris and Nelson leaves B with only Green (questionable) and Sam Reed at RB\u2014untenable for a 6\u20132, consensus-driven manager. Rationale is generic and frames B as ceiling-seeking, not balanced. A\u2019s floor-seeking also conflicts with A\u2019s ceiling-chasing style. Value is plausible, but ToM fit is weak.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

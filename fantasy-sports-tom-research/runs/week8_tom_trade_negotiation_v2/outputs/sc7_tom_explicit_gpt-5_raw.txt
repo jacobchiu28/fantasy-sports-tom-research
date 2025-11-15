@@ -1,0 +1,13 @@
+{
+  "offer_from_A": [
+    "Michael Foster (WR)",
+    "Alex Mitchell (RB)"
+  ],
+  "ask_from_B": [
+    "Sam Foster (QB)",
+    "Devon Moore (WR)"
+  ],
+  "rationale": "B gets upside WR+RB; A gains steadier QB/WR. Fits B boom needs, A floor-first build.",
+  "p_accept_B": 0.62,
+  "B_profile_reasoning": "B is 3-5 and chases ceiling; prefers rookies, deep-threat WRs, and committee RBs with upside. They have dual-threat QB depth (Chris Adams + Sam Foster), so moving Sam for two upside pieces preserves starter quality while adding week-swing potential. Trade reduces B’s Week 12 bye pile-up (Sam Foster, Justin Garcia, Michael Roberts, Justin Hernandez). Value feels fair by consensus: B receives a high-variance rookie WR (Michael Foster) and a young committee RB (Alex Mitchell) that match their style, while A gets a lower-variance QB and a steadier WR to fit a conservative, playoff-minded roster."
+}

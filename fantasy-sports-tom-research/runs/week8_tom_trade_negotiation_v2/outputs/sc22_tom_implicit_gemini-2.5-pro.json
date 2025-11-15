@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "Sean Thompson"
+  ],
+  "rationale": "Trading my consistent, veteran RB for your high-upside young WR. You get a reliable floor piece for your playoff run.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

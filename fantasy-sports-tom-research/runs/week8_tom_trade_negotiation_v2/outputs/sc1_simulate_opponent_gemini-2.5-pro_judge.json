@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Superficial read of Team B. B is conservative and values stable, workhorse-like RBs and possession WRs; trading away Ben King (low volatility) for a committee RB (Jordan Green) and an outside WR with mid variance (Trevor Brown) conflicts with B\u2019s preferences. It ignores B\u2019s RB uncertainty with Alex White doubtful, making RB depth less expendable. Calling Brown a \u201cstable veteran WR\u201d is inaccurate. Reasoning is brief and not grounded in B\u2019s actual priorities.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

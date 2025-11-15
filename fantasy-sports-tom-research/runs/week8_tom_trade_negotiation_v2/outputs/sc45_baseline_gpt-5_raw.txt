@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Sam Miller", "Jamal Adams"],
+  "ask_from_B": ["Isaiah Thompson"],
+  "rationale": "Leverage QB/TE surplus to upgrade A's WR corps without touching RB depth.",
+  "p_accept_B": 0.28
+}

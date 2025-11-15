@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Turner",
+    "Austin Wright"
+  ],
+  "ask_from_B": [
+    "Lucas Allen"
+  ],
+  "rationale": "B upgrades TE and RB depth; A gains steady veteran WR for weekly floor",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_simulate_opponent_gpt-5.txt"
+  }
+}

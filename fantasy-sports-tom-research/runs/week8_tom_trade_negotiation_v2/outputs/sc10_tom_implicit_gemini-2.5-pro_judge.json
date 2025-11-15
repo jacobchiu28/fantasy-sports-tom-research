@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s desire for stability but overlooks key beliefs: B prioritizes workhorse RB volume and immediate wins. Alex White is a committee back and doubtful, not a reliable floor, and B already has RB depth while needing WR stability. Trading a Tier 1, high-variance WR for Torres plus an injured RB mismatches B\u2019s incentives. Calling them \u201creliable weekly starters\u201d contradicts roles/health. Rationale is brief and lacks specific usage/injury context.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

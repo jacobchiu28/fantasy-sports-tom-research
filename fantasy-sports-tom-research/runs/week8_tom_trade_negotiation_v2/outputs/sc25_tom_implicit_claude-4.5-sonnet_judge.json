@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Notes B\u2019s zero-RB and youth lean superficially but misapplies it by asking for B\u2019s elite rookie WR/TE (youth they value) and ignores B\u2019s \u2018buy injured\u2019 tendency. Does recognize B might want a dual\u2011threat QB, but misses the Week 10 bye conflict (Jake Green and B\u2019s current QB both on bye). Trade is roughly value-coherent but weakly aligned with B\u2019s incentives and roster shape (TE downgrade, WR strength loss). Rationale is generic and not roster-specific; 0.68 accept feels optimistic.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

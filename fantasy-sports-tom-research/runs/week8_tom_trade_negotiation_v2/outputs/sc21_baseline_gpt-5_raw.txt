@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Alex White", "David Baker", "Isaiah Adams"],
+  "ask_from_B": ["David Campbell", "Ethan Turner"],
+  "rationale": "Consolidate depth to upgrade WR stability (Campbell) and TE targets (Turner), raising Team A's weekly floor."
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Liam Torres", "Sean Hernandez", "Ethan Turner"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "A consolidates for workhorse; B gets TE upgrade + two RBs with friendly playoff slates for safer depth.",
+  "p_accept_B": 0.4
+}

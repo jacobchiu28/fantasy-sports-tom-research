@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Acknowledges B might like consistency but misses key preferences (workhorse RBs, possession WRs). Labels an Out QB as \u201csafe\u201d depth and ignores B\u2019s existing healthy QB depth and reliance on expert rankings (making a Tier 2 WR-for-Tier 3 RB + injured QB swap unlikely). Value, playoff outlooks, and B\u2019s 8-0 risk profile are underanalyzed; acceptance odds overstated.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s values: B prefers consistent veterans and possession WRs, yet would trade a Tier 1 RB and a Tier 3 possession WR for a rookie TE (Tier 4) and a Tier 5 WR. Calling Martinez a more stable WR is incorrect versus Hernandez. While it notes A\u2019s RB need and B\u2019s TE weakness, it overstates the TE upgrade and ignores B\u2019s 8-0 risk profile. The deal is lopsided and unlikely, making the 0.7 acceptance probability unrealistic.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

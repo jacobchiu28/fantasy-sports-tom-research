@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Shows some ToM by targeting B\u2019s desire for a stable RB and offloading a boom WR, but overlooks B\u2019s zero-RB strategy and preference for possession WRs. Claims A upgrades TE despite Justin Wright being injured Tier 5 and A already having a Tier 1 TE. Value is lopsided (Tier 2 WR + negligible TE for a Tier 5 RB), so B\u2019s acceptance is overestimated. Reasoning is brief and misses key context.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

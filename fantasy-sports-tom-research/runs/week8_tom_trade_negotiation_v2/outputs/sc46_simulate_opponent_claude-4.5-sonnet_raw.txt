@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brian Harris", "Cameron Scott"],
+  "ask_from_B": ["Xavier Thompson", "Trevor Martin"],
+  "rationale": "Team B gets low-variance veteran RB + consistent WR; Team A gets high-upside young RB + veteran depth",
+  "p_accept_B": 0.72
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Offer unintentionally aligns with B\u2019s fondness for dual-threat QBs/injury buys (Adams, Robinson), but the rationale ignores B\u2019s urgent need for wins and their preferences. It mislabels Xavier Foster as a \u201chigh-upside starting TE\u201d despite being Out, and A already has a Tier 1 TE, making the need rationale wrong. The proposal is heavily A-centric, lacks clear multi-agent reasoning, and is internally inconsistent, leading to a poor Theory of Mind showing.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "David Campbell"],
+  "ask_from_B": ["Jake Green", "Devon Lewis"],
+  "rationale": "Team B gets dual-threat QB upgrade + stable WR; Team A gets young ascending QB/RB for playoff push",
+  "p_accept_B": 0.62
+}
+```

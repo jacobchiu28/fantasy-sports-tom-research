@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Sean Adams",
+    "Sam Martin"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Caleb Foster"
+  ],
+  "rationale": "You need wins. Adams is a floor upgrade on your RBs. Martin adds the big-play upside your team has been missing all year.",
+  "p_accept_B": 0.65
+}

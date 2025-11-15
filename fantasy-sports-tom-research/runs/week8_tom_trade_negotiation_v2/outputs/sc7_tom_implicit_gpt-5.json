@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Turner",
+    "David Nelson"
+  ],
+  "ask_from_B": [
+    "Sam Foster"
+  ],
+  "rationale": "B upgrades at TE and gains safe QB2; A gets low-variance QB for playoffs.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_implicit_gpt-5.txt"
+  }
+}

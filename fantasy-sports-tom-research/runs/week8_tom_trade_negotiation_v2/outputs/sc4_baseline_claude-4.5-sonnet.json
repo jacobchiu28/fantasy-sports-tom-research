@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Noah Garcia"
+  ],
+  "ask_from_B": [
+    "Austin Torres",
+    "Brandon Taylor"
+  ],
+  "rationale": "Upgrades A's WR depth and TE receiving; trades away high-volatility RB for consistent pass-catchers",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_baseline_claude-4.5-sonnet.txt"
+  }
+}

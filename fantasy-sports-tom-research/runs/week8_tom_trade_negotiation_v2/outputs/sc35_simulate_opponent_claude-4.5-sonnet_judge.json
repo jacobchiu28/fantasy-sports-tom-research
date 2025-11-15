@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Offer aligns with B\u2019s urgent need for healthy starters (Johnson + Campbell) and cautious injury stance, while A upgrades to a steadier RB and can stash an out WR given a 7-1 record. However, the rationale barely engages B\u2019s contrarian/established-talent bias and misstates A\u2019s return (\u201cascending youth with targets\u201d despite Ben Miller being out). Trade is feasible and roster-coherent, but the ToM reasoning is only moderately explicit and the explanation is thin and partly inaccurate.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

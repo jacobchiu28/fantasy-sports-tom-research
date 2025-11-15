@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal centers on Team A\u2019s gains and ignores Team B\u2019s stated preferences (volume, friendly schedule, injury avoidance). Asking for an injured TE (Anderson) contradicts Team A\u2019s injury-cautious profile. B would likely resist swapping Josh Garcia\u2019s friendly playoff schedule for Jordan Foster\u2019s tough slate and declining role. Rationale is brief and not tailored to B\u2019s mindset.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

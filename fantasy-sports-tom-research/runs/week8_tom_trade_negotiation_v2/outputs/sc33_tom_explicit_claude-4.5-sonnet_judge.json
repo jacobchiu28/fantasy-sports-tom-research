@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 4,
+  "overall": 75,
+  "justification": "Good ToM on B\u2019s conservative, floor-first mindset, trust in consensus, and QB redundancy; notes B\u2019s WR weakness and hesitation. Clear separation of A\u2019s urgent WR need from B\u2019s playoff priorities. However, it mislabels Darian Anderson and Brandon Martinez as \u201cstable\u201d (they\u2019re Tier 5 outside WRs with mid variance) and overstates B\u2019s WR depth. The trade is feasible but not aligned with B\u2019s needs; Caleb Garcia is a lateral, declining-role QB. Reasoning is mostly clear, with some inaccuracies.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

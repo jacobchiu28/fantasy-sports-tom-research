@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["David Young", "Michael Walker"],
+  "ask_from_B": ["Justin Young"],
+  "rationale": "Consolidate surplus QB/RB into a stable WR upgrade to bolster A's thin receiver depth"
+}

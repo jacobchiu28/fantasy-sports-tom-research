@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Minimal ToM: treats Josh Robinson as a \u201cconsistent bellcow\u201d without showing B\u2019s view. B prefers proven, consistent vets and possession WRs; offer includes a volatile committee RB and a high-variance young WR. No mention of B\u2019s 8-0 posture, playoff focus, or TE need. Trade is feasible and could appeal as a 2-for-1 depth upgrade, but rationale is thin and misaligned with B\u2019s stated preferences.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Nick Holt"
+  ],
+  "ask_from_B": [
+    "Ethan Turner",
+    "Xavier Rodriguez"
+  ],
+  "rationale": "Team B gets a workhorse RB to anchor their title run. Team A addresses a critical TE need to make the playoffs.",
+  "p_accept_B": 0.55
+}

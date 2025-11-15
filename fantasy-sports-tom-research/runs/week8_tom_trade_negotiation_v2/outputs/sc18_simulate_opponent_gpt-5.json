@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Liam Torres",
+    "Ethan Turner"
+  ],
+  "ask_from_B": [
+    "Mason Torres"
+  ],
+  "rationale": "B gets RB depth (friendly schedule) + TE upgrade; A gains steadier WR than current deep-threat options.",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_simulate_opponent_gpt-5.txt"
+  }
+}

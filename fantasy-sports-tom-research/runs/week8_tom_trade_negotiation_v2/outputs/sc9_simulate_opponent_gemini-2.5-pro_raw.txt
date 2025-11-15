@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Sam Lewis",
+    "Tyler Miller"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "B swaps a volatile RB for a stable one with a great playoff schedule and gets a pocket QB to raise its weekly floor now.",
+  "p_accept_B": 0.65
+}

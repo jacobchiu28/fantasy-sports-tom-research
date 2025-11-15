@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "A\u2019s ask fits its own goals (workhorse RB for playoffs) but doesn\u2019t model B\u2019s mindset. B prefers stable floors, possession WRs, and injured buy-lows; Allen is a high-variance deep threat and Caleb Turner is a committee back, so the package misaligns with B\u2019s preferences. The proposal ignores B\u2019s SoS/OL focus and consensus-driven approach. The trade itself is feasible and coherent, but the rationale is brief and A-centric, offering little evidence B would accept.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

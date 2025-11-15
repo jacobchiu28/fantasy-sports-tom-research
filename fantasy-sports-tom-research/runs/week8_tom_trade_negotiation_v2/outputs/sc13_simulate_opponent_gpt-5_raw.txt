@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Liam Wright", "Michael Roberts"],
+  "ask_from_B": ["Sean Thompson"],
+  "rationale": "B gets steadier WR vet + TE upgrade; A takes Sean's volatility for upside",
+  "p_accept_B": 0.63
+}

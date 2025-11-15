@@ -1,0 +1,83 @@
+{
+  "player_id": "qb7_2025",
+  "name": "Mason Davis",
+  "position": "QB",
+  "team": "ATL",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      30,
+      40
+    ],
+    "completion_pct_range": [
+      61,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      10,
+      16
+    ],
+    "rush_share_pct_range": [
+      3,
+      17
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.8,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.72
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with mid week-to-week variance",
+  "summary_text": "Healthy Tier 2 QB in low-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

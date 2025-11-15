@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Caleb Jackson"],
+  "ask_from_B": ["David Young", "Malik Carter"],
+  "rationale": "B upgrades to dual-threat QB; A gets steady QB plus reliable RB depth; fits both managers’ styles.",
+  "p_accept_B": 0.68
+}

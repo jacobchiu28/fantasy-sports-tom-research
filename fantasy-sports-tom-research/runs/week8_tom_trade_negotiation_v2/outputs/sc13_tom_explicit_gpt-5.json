@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Michael Roberts",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Jordan Lewis"
+  ],
+  "rationale": "8-0 B favors reliable targets; gets slot possession WR + pass-catching TE; we take volatile RB B devalues.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_explicit_gpt-5.txt"
+  }
+}

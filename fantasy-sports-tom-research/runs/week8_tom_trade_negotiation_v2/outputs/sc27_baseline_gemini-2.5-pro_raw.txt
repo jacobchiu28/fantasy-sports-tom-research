@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Austin Torres",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Team A consolidates its WR and TE depth to acquire an elite, high-target TE1 for a championship run.",
+  "p_accept_B": 0.6
+}

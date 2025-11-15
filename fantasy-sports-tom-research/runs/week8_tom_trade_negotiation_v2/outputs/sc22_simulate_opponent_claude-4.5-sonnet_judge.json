@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal misreads Team B: they prefer workhorse RBs and consistency, yet A offers a committee RB plus a high-variance deep-threat WR, and asks for an injured RB despite B\u2019s tendency to buy, not sell, injuries. Value is lopsided (Tier 3 RB + Tier 3 WR for Tier 4 RB). Rationale is contradictory and mislabeled, and p_accept is unrealistic. Limited, error-prone ToM and weak, unclear justification.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

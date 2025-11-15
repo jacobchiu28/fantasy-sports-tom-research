@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sean Holt", "Darian Robinson"],
+  "ask_from_B": ["Ethan Campbell", "Brandon Martinez"],
+  "rationale": "Upgrade RB floor stability and WR consistency for playoff push, trading volatility for reliable production",
+  "p_accept_B": 0.42
+}
+```

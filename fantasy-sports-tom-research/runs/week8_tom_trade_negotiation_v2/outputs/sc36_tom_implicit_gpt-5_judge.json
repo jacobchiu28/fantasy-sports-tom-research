@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offers B an Out QB and Doubtful WR for B\u2019s healthy Tier 1 RB despite B needing wins now. While B likes ceiling and may buy injured players, the rationale wrongly claims help \u201cnow\u201d and ignores B\u2019s consensus-driven valuation of Xavier Carter. Limited separation of A vs B goals, no discussion of B\u2019s current QB depth or immediate production needs. Acceptance probability is inflated.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

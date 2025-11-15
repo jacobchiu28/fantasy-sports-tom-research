@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Chris Torres",
+    "Xavier Carter"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Consolidate a depth RB and a mid-tier TE to acquire a high-upside, pass-catching TE, creating a clear positional advantage.",
+  "p_accept_B": 0.35
+}

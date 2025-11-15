@@ -1,0 +1,86 @@
+{
+  "player_id": "te18_2025",
+  "name": "Cameron Baker",
+  "position": "TE",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      61,
+      81
+    ],
+    "route_participation_pct_range": [
+      58,
+      84
+    ],
+    "target_share_pct_range": [
+      13,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      33,
+      62
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.91
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.85,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.63
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, low usage consistency",
+  "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, low usage consistency",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

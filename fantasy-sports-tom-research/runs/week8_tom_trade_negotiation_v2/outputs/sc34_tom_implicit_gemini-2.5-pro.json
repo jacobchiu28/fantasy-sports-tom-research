@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Cameron Harris",
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "Caleb Jackson",
+    "Marcus Reed"
+  ],
+  "rationale": "B gets stable vets for immediate floor. A gets high-upside youth for a playoff run. A classic floor vs. ceiling trade.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

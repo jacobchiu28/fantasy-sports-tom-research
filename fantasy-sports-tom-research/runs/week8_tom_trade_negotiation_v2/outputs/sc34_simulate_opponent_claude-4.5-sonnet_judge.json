@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Identifies B\u2019s need for stability and an immediate QB upgrade (pocket passer, low variance, friendly schedule). However, it overlooks B\u2019s stated preference for young ascending players and consensus rankings that likely value Josh Flores highly. The trade itself is coherent and could fit B\u2019s conservative style, but rationale is terse and lacks specifics on roster impact, bye/starter changes, or strength-of-schedule details. Balanced but shallow ToM.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

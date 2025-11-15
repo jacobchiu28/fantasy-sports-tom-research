@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Xavier Johnson",
+    "Darian Campbell"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Team B gets a proven vet WR and a rookie RB, both with good playoff schedules, to win now. I consolidate for a RB upgrade.",
+  "p_accept_B": 0.65
+}

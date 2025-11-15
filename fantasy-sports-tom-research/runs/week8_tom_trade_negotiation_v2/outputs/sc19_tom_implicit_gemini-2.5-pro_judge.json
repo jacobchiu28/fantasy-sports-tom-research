@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B\u2019s needs: B already has a Tier 1 (though doubtful) and a healthy Tier 2 TE, so no \u201chuge TE need.\u201d Justin Wright is Out and Tier 5 with declining role, not a high-upside fix. B trusts consensus and values SoS; Josh Garcia (Tier 2, friendly playoff schedule) would be valued higher than Baker/Wright. Some nod to A\u2019s floor-seeking, but rationale is vague and inaccurate. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

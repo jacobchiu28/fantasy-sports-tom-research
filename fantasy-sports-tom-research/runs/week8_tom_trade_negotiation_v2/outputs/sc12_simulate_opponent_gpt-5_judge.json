@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Recognizes B\u2019s preference for dual-threat upside and A\u2019s desire for floor via a pocket passer and steadier RB. Misses key context: B is 8-0, likely shouldn\u2019t dump a Tier-1 RB and become RB-thin, especially in a 1-QB format, and has a Tier-1 QB on IR. Reasoning is terse and doesn\u2019t address injury tolerance or playoff calculus. Coherent but value skewed toward A.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

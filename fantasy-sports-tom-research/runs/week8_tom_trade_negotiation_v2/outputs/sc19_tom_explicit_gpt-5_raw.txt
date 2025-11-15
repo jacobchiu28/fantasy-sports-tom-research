@@ -1,0 +1,7 @@
+{
+  "offer_from_A": ["Justin Wright", "Austin Wright"],
+  "ask_from_B": ["Josh Garcia", "Jordan Walker"],
+  "rationale": "B upgrades TE, keeps RB depth; A gets ascending RB w/friendly SoS; fair 2-for-2.",
+  "p_accept_B": 0.6,
+  "b_manager_reasoning": "Team B (5-3) seeks playoff-ready balance and trusts consensus. Their TEs (Adam Allen/Jordan Walker) are low-ceiling with tough SoS; Justin Wright is a consensus upgrade and weekly stabilizer. They value SoS and rookies—Austin Wright brings a friendly playoff schedule and fits their committee-back preference, offsetting the loss of rookie Josh Garcia. B retains RB depth (Noah Carter, Sean Holt, Malik White + Austin) and doesn’t touch their dual-threat QB strength. A fair, needs-based 2-for-2 that aligns with B’s balanced, consensus-driven approach."
+}

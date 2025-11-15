@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Shows some awareness of B\u2019s desire for consistency by offering a steady QB and a possession-leaning WR, and frames benefits to both sides. However, it ignores B\u2019s existing QB surplus and strength-of-schedule focus (giving up a RB with friendly playoff slate). For A, trading a Tier 1 QB and WR depth for a Tier 5 RB is incoherent given A\u2019s strong RB depth and risk-seeking, ceiling-chasing style. Rationale is terse and misses injury, role, and roster context.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

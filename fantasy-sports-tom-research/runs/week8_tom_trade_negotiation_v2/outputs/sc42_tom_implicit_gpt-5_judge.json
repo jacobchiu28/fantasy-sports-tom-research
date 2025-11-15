@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Trade favors A\u2019s preferences (upside WR, TE upgrade) but misreads B. B prefers healthy, consistent, consensus-ranked players; instead they\u2019d get a Tier 4 WR and an Out RB, while giving up a Tier 2 WR and a rising TE. The rationale is generic and ignores B\u2019s injury caution and consistency bias. Offer is mechanically feasible but not aligned with B\u2019s incentives, making the stated 0.6 acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

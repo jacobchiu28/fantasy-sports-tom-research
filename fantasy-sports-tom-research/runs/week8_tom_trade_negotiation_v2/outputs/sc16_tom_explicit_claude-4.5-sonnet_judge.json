@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Recognizes Thomas as a consistent possession WR and mentions B\u2019s contrarian streak, but ignores B\u2019s clear preference for proven, low-variance veterans and caution around injuries. Asking B to give up his reliable possession WR for two volatile rookies conflicts with his stated values, especially at 1-7 needing bankable points. Little discussion of B\u2019s roster needs, injury/bye context, or A\u2019s motives. Trade is feasible on value but misaligned with B\u2019s mindset.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

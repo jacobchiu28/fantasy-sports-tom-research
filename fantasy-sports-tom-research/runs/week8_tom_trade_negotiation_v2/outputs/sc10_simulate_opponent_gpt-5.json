@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Kyle Martinez",
+    "Alex White"
+  ],
+  "ask_from_B": [
+    "James Rivera"
+  ],
+  "rationale": "B gets possession WR + RB floor for urgent wins; A adds a high-upside deep threat.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_simulate_opponent_gpt-5.txt"
+  }
+}

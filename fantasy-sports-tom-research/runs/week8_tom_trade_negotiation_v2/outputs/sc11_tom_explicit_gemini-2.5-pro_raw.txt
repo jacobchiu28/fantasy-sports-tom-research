@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Kyle Taylor"
+  ],
+  "ask_from_B": [
+    "Caleb Foster"
+  ],
+  "rationale": "I'm looking for a more stable floor for my playoff run. You get a high-upside rookie with a great playoff schedule.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: they prefer stable floors, possession WRs, and often buy injured players; this deal gives them a Tier 5 workhorse and a high-variance deep threat while losing a steady Tier 2 RB. \u2018Consolidates depth\u2019 is inaccurate for a 2-for-2. Little reference to B\u2019s veteran/possession preferences or injury-buying tendency. Acceptance probability seems inflated. Rationale is generic and not grounded in roster context.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

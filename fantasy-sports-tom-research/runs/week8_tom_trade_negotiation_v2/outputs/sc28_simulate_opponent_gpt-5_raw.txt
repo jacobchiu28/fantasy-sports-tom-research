@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Derek Harris"],
+  "ask_from_B": ["Alex Thompson"],
+  "rationale": "B gains reliable TE + steadier WR; moves off volatile RB. A fills dire RB need.",
+  "p_accept_B": 0.66
+}

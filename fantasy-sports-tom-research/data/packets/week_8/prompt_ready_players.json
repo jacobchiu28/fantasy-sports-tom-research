@@ -1,0 +1,3893 @@
+[
+  {
+    "name": "Trey Rodriguez",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 4 QB in high-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 7
+  },
+  {
+    "name": "Sam Miller",
+    "position": "QB",
+    "career_stage": "rookie",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Out with availability unclear Tier 4 QB in mid-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Trevor Roberts",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 5 QB in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 8
+  },
+  {
+    "name": "Lucas Hernandez",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in low-volume passing offense, mid tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 5
+  },
+  {
+    "name": "David Nelson",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Noah Hall",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Minor injury concern Tier 5 QB in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Mason Davis",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in low-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Lucas Carter",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Out with availability unclear Tier 5 QB in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Lucas Hall",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 3 QB in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Jake Green",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "summary_text": "Healthy Tier 1 QB in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Logan Holt",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "Austin Reed",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 1 QB in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 6
+  },
+  {
+    "name": "Alex Nelson",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Sam Reed",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 1 QB in low-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Ethan Torres",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "summary_text": "Healthy Tier 4 QB in high-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 8
+  },
+  {
+    "name": "Chris Reed",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Healthy Tier 1 QB in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Chris Lee",
+    "position": "QB",
+    "career_stage": "rookie",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 3 QB in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Sam Foster",
+    "position": "QB",
+    "career_stage": "rookie",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Sean Anderson",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Minor injury concern Tier 4 QB in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Derek White",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Healthy Tier 3 QB in low-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 7
+  },
+  {
+    "name": "Mason Garcia",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Sam Martinez",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "David Young",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Out with availability unclear Tier 3 QB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Nick Turner",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Minor injury concern Tier 4 QB in high-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Caleb Jackson",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "summary_text": "Minor injury concern Tier 4 QB in mid-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Tyler Miller",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Healthy Tier 4 QB in mid-volume passing offense, slow tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Tyler Lewis",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with high week-to-week variance",
+    "summary_text": "Healthy Tier 3 QB in mid-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 8
+  },
+  {
+    "name": "Isaiah Campbell",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Minor injury concern Tier 2 QB in mid-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "James Jones",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Healthy Tier 3 QB in high-volume passing offense, slow tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Caleb Garcia",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Minor injury concern Tier 4 QB in mid-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 5
+  },
+  {
+    "name": "Devon Miller",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Healthy Tier 1 QB in high-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "James Taylor",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Traditional pocket passer with high week-to-week variance",
+    "summary_text": "Healthy Tier 2 QB in high-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Devon Green",
+    "position": "QB",
+    "career_stage": "rookie",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Healthy Tier 4 QB in mid-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Logan Clark",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "Out with availability unclear Tier 1 QB in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 8
+  },
+  {
+    "name": "Isaiah Lee",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Healthy Tier 4 QB in mid-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 8
+  },
+  {
+    "name": "Lucas Martin",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "summary_text": "IR with availability unclear Tier 1 QB in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "IR",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Jamal Miller",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Dual-threat QB who adds rushing value with high week-to-week variance",
+    "summary_text": "Minor injury concern Tier 5 QB in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Kevin Flores",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with mid week-to-week variance",
+    "summary_text": "Healthy Tier 3 QB in high-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 5
+  },
+  {
+    "name": "Chris Adams",
+    "position": "QB",
+    "career_stage": "young breakout",
+    "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "summary_text": "Minor injury concern Tier 2 QB in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "dual_threat_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Cameron Harris",
+    "position": "QB",
+    "career_stage": "veteran",
+    "role_description": "Traditional pocket passer with low week-to-week variance",
+    "summary_text": "Minor injury concern Tier 1 QB in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "pocket_qb"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 7
+  },
+  {
+    "name": "Michael Walker",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 2 RB in high-volume passing offense, slow tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Brian Harris",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 2 RB in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Derek Foster",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Minor injury concern Tier 1 RB in mid-volume passing offense, mid tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Malik Moore",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Jordan Lewis",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 12
+  },
+  {
+    "name": "Trevor Clark",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Liam Torres",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Minor injury concern Tier 4 RB in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Alex Mitchell",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Sean Adams",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Out with availability unclear Tier 5 RB in low-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 5",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Austin Martin",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 4 RB in low-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 7
+  },
+  {
+    "name": "Marcus Taylor",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 3 RB in low-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Josh Robinson",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Workhorse RB with heavy workload, mid production volatility",
+    "summary_text": "Healthy Tier 5 RB in low-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "workhorse_rb"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 5
+  },
+  {
+    "name": "Ben King",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Xavier Thompson",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 3 RB in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Eric Allen",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Noah Taylor",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Minor injury concern Tier 4 RB in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Jake Garcia",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in low-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Malik Carter",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Matt Hill",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Out with availability unclear Tier 1 RB in high-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Nick Turner",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 1 RB in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Darian Campbell",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Alex Thompson",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 1 RB in high-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Austin Wright",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 5 RB in mid-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Marcus Reed",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 3 RB in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 6
+  },
+  {
+    "name": "Jordan Green",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 4 RB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 6
+  },
+  {
+    "name": "Jordan Foster",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in high-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 8
+  },
+  {
+    "name": "Nick Roberts",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 2 RB in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Xavier Rodriguez",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in low-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 5
+  },
+  {
+    "name": "Tyler Walker",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Caleb Turner",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 4 RB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Lucas Thompson",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Minor injury concern Tier 1 RB in low-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Alex White",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Doubtful with availability unclear Tier 2 RB in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Doubtful",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Xavier Carter",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Josh Flores",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 2 RB in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Mason Robinson",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Doubtful with availability unclear Tier 3 RB in high-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Doubtful",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 10
+  },
+  {
+    "name": "David Carter",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in low-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Sam Reed",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 4 RB in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Trevor Martin",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Workhorse RB with heavy workload, mid production volatility",
+    "summary_text": "Minor injury concern Tier 4 RB in mid-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "workhorse_rb"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 8
+  },
+  {
+    "name": "Noah Carter",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 1 RB in low-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Eric Allen",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 1 RB in mid-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Josh Garcia",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 2 RB in mid-volume passing offense, mid tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 5
+  },
+  {
+    "name": "Matt Nelson",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 4 RB in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Liam Green",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Ryan Taylor",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Workhorse RB with heavy workload, high production volatility",
+    "summary_text": "Healthy Tier 1 RB in high-volume passing offense, slow tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "workhorse_rb"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Noah Brown",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Minor injury concern Tier 4 RB in low-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Trey Adams",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 4 RB in low-volume passing offense, fast tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 6
+  },
+  {
+    "name": "Jamal Lopez",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Out with availability unclear Tier 4 RB in mid-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Liam Carter",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 2 RB in high-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Sean Holt",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 2 RB in mid-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Marcus Reed",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 1 RB in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Trey Scott",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 2 RB in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Josh Martin",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Workhorse RB with heavy workload, mid production volatility",
+    "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "workhorse_rb"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Nick Torres",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in low-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Devon Reed",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Minor injury concern Tier 3 RB in low-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Jordan Williams",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Jordan King",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in high-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 8
+  },
+  {
+    "name": "Matt Wright",
+    "position": "RB",
+    "career_stage": "rookie",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Out with availability unclear Tier 4 RB in mid-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Justin Garcia",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in low-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Liam Adams",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 5 RB in low-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Alex King",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Out with availability unclear Tier 4 RB in mid-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "James Holt",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Malik White",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Minor injury concern Tier 2 RB in high-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Kyle Garcia",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 1 RB in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Sam Lewis",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 2 RB in mid-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Trey Mitchell",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 4 RB in mid-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 5
+  },
+  {
+    "name": "Kevin Lopez",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 2 RB in high-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Sean Hernandez",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 1 RB in low-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 6
+  },
+  {
+    "name": "Devon Lewis",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, mid production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Ethan Campbell",
+    "position": "RB",
+    "career_stage": "veteran",
+    "role_description": "Committee back sharing touches, low production volatility",
+    "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "David Adams",
+    "position": "RB",
+    "career_stage": "young breakout",
+    "role_description": "Committee back sharing touches, high production volatility",
+    "summary_text": "Healthy Tier 4 RB in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "standard"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Eric Davis",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Doubtful with availability unclear Tier 2 WR in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Doubtful",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Jamal Nelson",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Possession receiver operating from slot, high weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Devon Moore",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 3 WR in mid-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Justin Miller",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Minor injury concern Tier 1 WR in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 12
+  },
+  {
+    "name": "Ryan Moore",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Mason Mitchell",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Minor injury concern Tier 4 WR in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Ethan Adams",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Isaiah Thompson",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Minor injury concern Tier 2 WR in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "Liam Scott",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Minor injury concern Tier 3 WR in high-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Matt Adams",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Doubtful with availability unclear Tier 3 WR in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Doubtful",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Kevin Allen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Minor injury concern Tier 2 WR in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Trevor Rodriguez",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in mid-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Darian Anderson",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 7
+  },
+  {
+    "name": "Xavier Johnson",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 3 WR in mid-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Brandon Martinez",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Matt Nguyen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 1 WR in high-volume passing offense, slow tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Mason Baker",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Minor injury concern Tier 3 WR in low-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Cameron Scott",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Outside receiver with varied route tree, low weekly variance",
+    "summary_text": "Healthy Tier 1 WR in mid-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 6
+  },
+  {
+    "name": "Malik Flores",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Jordan Rivera",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Sean Thompson",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in low-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Cameron Holt",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 12
+  },
+  {
+    "name": "David Campbell",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, low weekly variance",
+    "summary_text": "Healthy Tier 4 WR in low-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Adam Anderson",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Possession receiver operating from slot, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Darian Thomas",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Possession receiver operating from slot, low weekly variance",
+    "summary_text": "Minor injury concern Tier 3 WR in high-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 8
+  },
+  {
+    "name": "Liam White",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Possession receiver operating from slot, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "Brandon Miller",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in low-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Darian Nelson",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Out with availability unclear Tier 1 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Out",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Sean Scott",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Malik Scott",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Justin Reed",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 3 WR in mid-volume passing offense, fast tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "Mason Torres",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Darian Robinson",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Minor injury concern Tier 2 WR in mid-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 6
+  },
+  {
+    "name": "Austin Young",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in high-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Michael Foster",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Kyle Taylor",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 6
+  },
+  {
+    "name": "Trey Scott",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in low-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Eric Allen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Minor injury concern Tier 2 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Noah Garcia",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Doubtful with availability unclear Tier 1 WR in low-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Doubtful",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Eric Torres",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in high-volume passing offense, slow tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Marcus Taylor",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Possession receiver operating from slot, high weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Michael Mitchell",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 5 WR in low-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Ethan Turner",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in low-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Justin Nelson",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Ben Miller",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Out with availability unclear Tier 3 WR in mid-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Justin Hernandez",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Possession receiver operating from slot, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in high-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 12
+  },
+  {
+    "name": "Devon Martinez",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Logan Allen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 4 WR in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Darian Allen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in high-volume passing offense, slow tempo with declining role. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Down",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "Ethan Jones",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Lucas Allen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Out with availability unclear Tier 5 WR in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Nick Torres",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 1 WR in mid-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Kyle Martinez",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 4 WR in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Austin Williams",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Minor injury concern Tier 5 WR in high-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Logan Walker",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Kyle Martin",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in low-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 10
+  },
+  {
+    "name": "Chris Garcia",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Derek Harris",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Out with availability unclear Tier 1 WR in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Caleb Foster",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Possession receiver operating from slot, mid weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Trevor Brown",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 3 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Trevor Martin",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Nick Holt",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 4 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Ben Jackson",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 1 WR in high-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "James Campbell",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "David Baker",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in mid-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 10
+  },
+  {
+    "name": "Brandon Hernandez",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 1 WR in high-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Kyle Mitchell",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 4 WR in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 5
+  },
+  {
+    "name": "James Rivera",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in high-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Jordan Moore",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "IR with availability unclear Tier 4 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "IR",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Derek Allen",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Possession receiver operating from slot, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in high-volume passing offense, slow tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 9
+  },
+  {
+    "name": "Sam Martin",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Trevor Martinez",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in low-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Austin Garcia",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Out with availability unclear Tier 3 WR in low-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "James Rivera",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 4 WR in mid-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 6
+  },
+  {
+    "name": "Justin Young",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 2 WR in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Ben Martin",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+    "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Austin Torres",
+    "position": "WR",
+    "career_stage": "young breakout",
+    "role_description": "Outside receiver with varied route tree, mid weekly variance",
+    "summary_text": "Healthy Tier 2 WR in high-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Darian Moore",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Outside receiver with varied route tree, high weekly variance",
+    "summary_text": "Healthy Tier 3 WR in mid-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Liam Wright",
+    "position": "WR",
+    "career_stage": "veteran",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 1 WR in low-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "possession_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Matt Wright",
+    "position": "WR",
+    "career_stage": "rookie",
+    "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "summary_text": "Healthy Tier 5 WR in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "deep_threat_wr",
+      "outside_wr"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Chris Torres",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 11
+  },
+  {
+    "name": "Alex Baker",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Brian Scott",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 3 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Jamal Jones",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, low usage consistency",
+    "summary_text": "Minor injury concern Tier 3 TE in mid-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Ethan Turner",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Pass-catching TE with high target share, low usage consistency",
+    "summary_text": "Healthy Tier 4 TE in mid-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te",
+      "receiving_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Noah Garcia",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 5
+  },
+  {
+    "name": "Michael Flores",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Doubtful with availability unclear Tier 3 TE in mid-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Doubtful",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Michael Wright",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "summary_text": "Healthy Tier 3 TE in mid-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Liam Adams",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Pass-catching TE with high target share, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te",
+      "receiving_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Jordan Walker",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Doubtful with availability unclear Tier 1 TE in high-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Doubtful",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Jamal Adams",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Out with availability unclear Tier 3 TE in mid-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Out",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 10
+  },
+  {
+    "name": "Jordan Wilson",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 5 TE in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Jamal Roberts",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 2 TE in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Brian Hill",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 2 TE in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Lucas Flores",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "David Flores",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Minor injury concern Tier 3 TE in low-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Austin Harris",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "summary_text": "Doubtful with availability unclear Tier 5 TE in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Doubtful",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 12
+  },
+  {
+    "name": "Cameron Baker",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, low usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 7
+  },
+  {
+    "name": "Michael Roberts",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Pass-catching TE with high target share, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te",
+      "receiving_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Eric Wright",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, low usage consistency",
+    "summary_text": "Healthy Tier 5 TE in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 5",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Marcus Gonzalez",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Minor injury concern Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Noah Brown",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Pass-catching TE with high target share, mid usage consistency",
+    "summary_text": "Healthy Tier 2 TE in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "receiving_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Josh Martinez",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Minor injury concern Tier 4 TE in mid-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Questionable",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 8
+  },
+  {
+    "name": "Noah Green",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Out with availability unclear Tier 4 TE in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Cameron Gonzalez",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Pass-catching TE with high target share, high usage consistency",
+    "summary_text": "Healthy Tier 2 TE in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te",
+      "receiving_te"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 10
+  },
+  {
+    "name": "Liam Adams",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Nick Mitchell",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 3 TE in high-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 8
+  },
+  {
+    "name": "Justin Wright",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "summary_text": "Out with availability unclear Tier 5 TE in mid-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Out",
+    "volatility": "High",
+    "market_tier": "Tier 5",
+    "trend": "Down",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 12
+  },
+  {
+    "name": "Logan Mitchell",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 1 TE in high-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 5
+  },
+  {
+    "name": "Adam Wilson",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 1 TE in high-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Adam Allen",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 2 TE in low-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Brandon Robinson",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, high usage consistency",
+    "summary_text": "Minor injury concern Tier 3 TE in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Jamal Garcia",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 6
+  },
+  {
+    "name": "Chris Lewis",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, low usage consistency",
+    "summary_text": "Doubtful with availability unclear Tier 3 TE in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Doubtful",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 9
+  },
+  {
+    "name": "Justin Turner",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, high usage consistency",
+    "summary_text": "Healthy Tier 3 TE in mid-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Alex Thomas",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 1 TE in mid-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 5
+  },
+  {
+    "name": "Brandon Taylor",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Pass-catching TE with high target share, mid usage consistency",
+    "summary_text": "Healthy Tier 4 TE in high-volume passing offense, slow tempo with ascending usage trend. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te",
+      "receiving_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 4
+  },
+  {
+    "name": "Mason Hill",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "IR with availability unclear Tier 4 TE in mid-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "IR",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 8
+  },
+  {
+    "name": "Xavier Foster",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Out with availability unclear Tier 3 TE in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Out",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 12
+  },
+  {
+    "name": "Isaiah Adams",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Healthy Tier 3 TE in high-volume passing offense, slow tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 4
+  },
+  {
+    "name": "Ben Thompson",
+    "position": "TE",
+    "career_stage": "young breakout",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 1 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 12
+  },
+  {
+    "name": "Kyle King",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Healthy Tier 3 TE in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 6
+  },
+  {
+    "name": "Austin Allen",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "summary_text": "Healthy Tier 3 TE in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "High",
+    "market_tier": "Tier 3",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 4
+  },
+  {
+    "name": "Marcus Garcia",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "summary_text": "Minor injury concern Tier 4 TE in mid-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Questionable",
+    "volatility": "High",
+    "market_tier": "Tier 4",
+    "trend": "Up",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 11
+  },
+  {
+    "name": "Tyler Anderson",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Pass-catching TE with high target share, high usage consistency",
+    "summary_text": "Doubtful with availability unclear Tier 1 TE in low-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "receiving_te"
+    ],
+    "health": "Doubtful",
+    "volatility": "High",
+    "market_tier": "Tier 1",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 7
+  },
+  {
+    "name": "Logan Flores",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Healthy Tier 3 TE in mid-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 9
+  },
+  {
+    "name": "Josh King",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+    "summary_text": "Doubtful with availability unclear Tier 4 TE in high-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+    "archetype_tags": [
+      "blocking_te"
+    ],
+    "health": "Doubtful",
+    "volatility": "Mid",
+    "market_tier": "Tier 4",
+    "trend": "Down",
+    "schedule_fit": "Mixed playoff outlook",
+    "bye_week": 7
+  },
+  {
+    "name": "Mason Holt",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Minor injury concern Tier 3 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Questionable",
+    "volatility": "Low",
+    "market_tier": "Tier 3",
+    "trend": "Flat",
+    "schedule_fit": "Friendly playoff schedule",
+    "bye_week": 8
+  },
+  {
+    "name": "Darian Taylor",
+    "position": "TE",
+    "career_stage": "veteran",
+    "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "summary_text": "Healthy Tier 2 TE in mid-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Mid",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 11
+  },
+  {
+    "name": "Ryan Turner",
+    "position": "TE",
+    "career_stage": "rookie",
+    "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "summary_text": "Healthy Tier 2 TE in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+    "archetype_tags": [
+      "hybrid_te"
+    ],
+    "health": "Healthy",
+    "volatility": "Low",
+    "market_tier": "Tier 2",
+    "trend": "Flat",
+    "schedule_fit": "Tough playoff matchups",
+    "bye_week": 6
+  }
+]

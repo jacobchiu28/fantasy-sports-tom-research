@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Chris Garcia", "Caleb Turner"],
+  "ask_from_B": ["Ben King"],
+  "rationale": "A gets steady RB floor; B gains upside WR and breakout RB, fitting B's ceiling-first style and RB depth",
+  "p_accept_B": 0.6
+}

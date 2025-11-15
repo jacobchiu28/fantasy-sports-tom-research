@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Darian Robinson"
+  ],
+  "ask_from_B": [
+    "Josh Martin",
+    "Austin Torres"
+  ],
+  "rationale": "A swaps high-volatility players for proven consistency. B acquires league-winning upside for a championship run.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

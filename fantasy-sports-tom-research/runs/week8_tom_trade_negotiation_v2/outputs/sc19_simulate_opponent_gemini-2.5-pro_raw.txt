@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "David Baker"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "A consolidates volatile depth for a stable RB. B fixes their massive TE weakness and gets a high-upside rookie WR.",
+  "p_accept_B": 0.65
+}

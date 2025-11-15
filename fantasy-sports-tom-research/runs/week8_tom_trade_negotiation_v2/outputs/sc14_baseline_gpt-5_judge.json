@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offer suits Team A\u2019s needs (RB floor, fill TE hole) but ignores Team B\u2019s conservative, floor-first mindset. B parts with a low-volatility RB (Ethan Campbell) and a depth TE for a mid-volatility committee RB (Malik Moore) and a high-variance WR with a declining role (Darian Moore). Little evidence the proposer modeled B\u2019s preferences or roster strengths (already deep at WR, has TE depth). Explanation is terse and one-sided.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

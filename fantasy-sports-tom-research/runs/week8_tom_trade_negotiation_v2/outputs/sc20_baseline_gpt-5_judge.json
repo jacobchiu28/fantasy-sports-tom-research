@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Purely A-centric and misreads B\u2019s incentives. B is cautious on injuries and likely keeps their only healthy, ascending TE (Taylor). Asking for Alex White (doubtful) contradicts A\u2019s injury-avoidant profile and urgent win needs. Claiming Alex White > James Holt ignores tiers (T2 vs T1) and health. A already has a better TE than Taylor, making the \u2018upgrade\u2019 rationale incorrect. Minimal, inaccurate explanation.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Notes B\u2019s zero-RB/targets preference, but ignores B\u2019s injury caution (Isaiah Q) and consensus-trusting tendencies. Doesn\u2019t address B already having a better TE (Jamal) or that zero-RB devalues the RB sweetener. For A, trading a Tier 2 WR plus RB for a Tier 4 TE is incoherent, especially with A already holding a Tier 3 TE. Rationale is brief and generic, lacking detail on tiers, roles, and incentives.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies Team B\u2019s desire for stable workloads, but ignores their reliance on expert consensus and the massive value gap (Tier 5 RB for a Tier 1 RB plus WR). Robinson\u2019s mid volatility in a run-heavy/low-pass offense also clashes with B\u2019s stated fades. The offer heavily favors A and the 0.6 acceptance probability is unrealistic. Rationale is brief and not grounded in tiers, roles, or B\u2019s incentives, yielding weak ToM and poor internal coherence.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

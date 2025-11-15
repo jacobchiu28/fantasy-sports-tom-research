@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Lucas Allen",
+    "Jordan King"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team B gets a consistent veteran WR and a solid RB for a TE from their strength, helping their immediate need for wins.",
+  "p_accept_B": 0.65
+}

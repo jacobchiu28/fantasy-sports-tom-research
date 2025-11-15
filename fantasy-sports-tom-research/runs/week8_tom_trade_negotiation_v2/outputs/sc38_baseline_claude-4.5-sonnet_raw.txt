@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Caleb Foster", "Matt Nguyen"],
+  "ask_from_B": ["Brian Harris"],
+  "rationale": "Team A needs RB depth badly; trades expendable WR depth for stable committee back with low volatility",
+  "p_accept_B": 0.45
+}
+```

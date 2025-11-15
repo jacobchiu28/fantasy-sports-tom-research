@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Cites B\u2019s preference for consistency but then asks B to give up their workhorse RB for a volatile RB and a young, high-variance WR\u2014misaligned with B\u2019s values. Little separation of A\u2019s playoff push from B\u2019s incentives/needs (e.g., B\u2019s TE weakness unaddressed). Trade is feasible but contextually weak for B\u2019s roster and strategy. Rationale is brief and somewhat contradictory; acceptance probability appears overstated.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

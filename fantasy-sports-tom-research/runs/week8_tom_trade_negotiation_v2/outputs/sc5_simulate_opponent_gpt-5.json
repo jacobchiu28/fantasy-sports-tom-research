@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Justin Wright",
+    "Tyler Miller"
+  ],
+  "rationale": "B gains a workhorse RB and veteran slot; A upgrades TE and adds QB2 from B\u2019s surplus.",
+  "p_accept_B": 0.66,
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_simulate_opponent_gpt-5.txt"
+  }
+}

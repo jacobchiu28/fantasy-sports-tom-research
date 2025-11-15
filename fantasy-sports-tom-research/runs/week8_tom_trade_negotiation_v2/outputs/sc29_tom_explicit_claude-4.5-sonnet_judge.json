@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s appetite for upside but mislabels players as rookies and ignores B\u2019s urgent need for immediate production. Offering an Out Tier-5 TE and a Doubtful WR for B\u2019s depth RB partly aligns with B\u2019s injured buy-low tendency, yet Wright\u2019s low ceiling and B\u2019s win-now need undermine it. A\u2019s ask (Tier-5 RB) doesn\u2019t fit A\u2019s urgent-win need given existing RB depth. Rationale is brief, lacks roster/role context, and misses B\u2019s RB depth and TE situation nuances.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

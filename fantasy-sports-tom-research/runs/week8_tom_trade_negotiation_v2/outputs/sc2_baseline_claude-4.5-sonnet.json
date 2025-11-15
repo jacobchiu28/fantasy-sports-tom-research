@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Trevor Martin",
+    "Michael Roberts"
+  ],
+  "rationale": "Trade workhorse RB for WR depth upgrade and receiving TE; strengthens A's weak TE position objectively",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_baseline_claude-4.5-sonnet.txt"
+  }
+}

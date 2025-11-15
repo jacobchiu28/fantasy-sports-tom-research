@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Logan Mitchell",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "Darian Campbell"
+  ],
+  "rationale": "You get a TE to fill a huge roster hole plus a high-upside rookie WR. I get an RB I desperately need. Helps us both.",
+  "p_accept_B": 0.6
+}

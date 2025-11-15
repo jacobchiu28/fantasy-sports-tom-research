@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Misreads Team B: calls Liam Wright and Alex Mitchell \u2018consistent\u2019 despite deep-threat WR and committee RB profiles. B needs immediate, reliable production and likely wouldn\u2019t downgrade from Josh Garcia (Tier 2 RB) to Mitchell (Tier 3). While B can spare a TE, giving up their best RB for another volatile WR clashes with their preferences. Rationale is brief and inaccurate, though the trade is mechanically feasible.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

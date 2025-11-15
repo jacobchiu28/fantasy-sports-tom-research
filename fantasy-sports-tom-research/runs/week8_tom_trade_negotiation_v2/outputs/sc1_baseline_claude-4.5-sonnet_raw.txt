@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Austin Young", "James Campbell"],
+  "ask_from_B": ["Ben King", "Cameron Baker"],
+  "rationale": "Team A upgrades RB depth with low-volatility workhorse and stable TE, trades away high-variance WR depth",
+  "p_accept_B": 0.35
+}
+```

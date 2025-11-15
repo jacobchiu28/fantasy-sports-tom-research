@@ -1,0 +1,87 @@
+{
+  "player_id": "te23_2025",
+  "name": "Josh Martinez",
+  "position": "TE",
+  "team": "LAR",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      61,
+      84
+    ],
+    "route_participation_pct_range": [
+      63,
+      85
+    ],
+    "target_share_pct_range": [
+      12,
+      20
+    ],
+    "air_yards_share_pct_range": [
+      11,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      36,
+      63
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.63
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.69,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "40-60%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.66
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+  "summary_text": "Minor injury concern Tier 4 TE in mid-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "Mid pass rate, Slow tempo",
+    "market": "Tier 4 (Low trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Josh Garcia"
+  ],
+  "ask_from_B": [
+    "Jake Green"
+  ],
+  "rationale": "You upgrade your RB room for the playoffs with a promising rookie, and get a solid dual-threat QB back from my team.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

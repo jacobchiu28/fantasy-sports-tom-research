@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Trey Scott"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "B gets a reliable veteran RB with a safe floor plus WR depth to win now. A upgrades a weak TE spot for the playoffs.",
+  "p_accept_B": 0.65
+}

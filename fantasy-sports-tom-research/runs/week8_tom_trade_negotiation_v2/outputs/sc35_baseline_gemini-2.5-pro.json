@@ -1,0 +1,15 @@
+{
+  "offer_from_A": [
+    "Chris Adams"
+  ],
+  "ask_from_B": [
+    "Austin Allen"
+  ],
+  "rationale": "Team A trades from its significant QB depth to acquire a high-usage TE, directly addressing its weakest starting position.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_baseline_gemini-2.5-pro.txt"
+  }
+}

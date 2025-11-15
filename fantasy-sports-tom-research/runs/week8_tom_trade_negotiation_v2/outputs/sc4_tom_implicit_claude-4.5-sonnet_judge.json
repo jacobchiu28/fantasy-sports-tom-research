@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s appetite for upside via a young RB, but ignores B\u2019s QB-WR stack preference and comfort buying injured players. The \u2018rookie stack potential\u2019 claim is incorrect, and A\u2019s injury caution clashes with targeting a Questionable RB. Trade is feasible but value tilts toward A (Tier 5 WR for B\u2019s Tier 2). Rationale is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

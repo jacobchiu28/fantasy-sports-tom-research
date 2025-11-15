@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Offer ignores Team B\u2019s conservative, floor-seeking mindset and urgent need for immediate, stable production. Ben Jackson is a high-variance deep threat and Jordan Walker is doubtful; neither fits B\u2019s preference for safe weekly floors. B also trusts consensus and likely views Josh Flores (Tier 2 RB, friendly playoffs) as too valuable to move. Claim that A won\u2019t hurt starters is dubious since Ben Jackson is likely A\u2019s WR1. Rationale is terse and one-sided.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

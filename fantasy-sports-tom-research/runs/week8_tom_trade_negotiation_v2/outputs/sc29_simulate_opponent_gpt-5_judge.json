@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s appetite for upside/injured buys and committee RBs, but ignores B\u2019s playoff-schedule emphasis when giving up Isaiah (friendly playoffs). The offer is an overpay by A (Tier 1 RB + WR for a Tier 2 WR) and undermines A\u2019s urgent win-now needs and injury caution. Perspective-taking is present but shallow and not roster-specific (e.g., B\u2019s QB/TE issues). Rationale is generic and doesn\u2019t justify acceptance odds.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

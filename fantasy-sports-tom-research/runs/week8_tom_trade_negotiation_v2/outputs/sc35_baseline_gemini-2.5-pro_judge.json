@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Focuses only on Team A\u2019s need at TE and QB depth. Little to no modeling of Team B\u2019s beliefs or incentives: B is contrarian, cautious on injuries, and would be giving up its best TE for another questionable QB. While the swap is plausible roster-wise, it weakens B\u2019s immediate TE spot despite urgent win needs. Rationale is brief and one-sided.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

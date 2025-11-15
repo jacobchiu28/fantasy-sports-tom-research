@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Alex Nelson",
+    "Ethan Adams"
+  ],
+  "ask_from_B": [
+    "Liam Adams",
+    "Darian Campbell"
+  ],
+  "rationale": "Upgrade at a key position of need (TE) and add a running back with a favorable playoff schedule by trading from depth at WR/QB.",
+  "p_accept_B": 0.4,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_baseline_gemini-2.5-pro.txt"
+  }
+}

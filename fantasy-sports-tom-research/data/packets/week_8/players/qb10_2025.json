@@ -1,0 +1,83 @@
+{
+  "player_id": "qb10_2025",
+  "name": "Jake Green",
+  "position": "QB",
+  "team": "CHI",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      27,
+      42
+    ],
+    "completion_pct_range": [
+      61,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      10,
+      18
+    ],
+    "rush_share_pct_range": [
+      4,
+      18
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.58,
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 10,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.8
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+  "summary_text": "Healthy Tier 1 QB in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Slow tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

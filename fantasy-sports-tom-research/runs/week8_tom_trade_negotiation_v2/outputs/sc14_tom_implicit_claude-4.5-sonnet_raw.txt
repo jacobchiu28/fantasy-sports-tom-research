@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sean Holt", "Isaiah Thompson"],
+  "ask_from_B": ["Ethan Campbell", "Trevor Martin"],
+  "rationale": "Swapping volatility for stability: A gets low-variance RB+WR, B gets upside depth with friendly playoff schedules",
+  "p_accept_B": 0.62
+}
+```

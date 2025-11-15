@@ -1,0 +1,88 @@
+{
+  "player_id": "rb43_2025",
+  "name": "Liam Green",
+  "position": "RB",
+  "team": "NE",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      40,
+      87
+    ],
+    "rush_share_pct_range": [
+      36,
+      74
+    ],
+    "target_share_pct_range": [
+      5,
+      13
+    ],
+    "red_zone_carry_share_pct_range": [
+      30,
+      58
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      10,
+      32
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.67
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.9,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.7
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "High pass rate, Slow tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

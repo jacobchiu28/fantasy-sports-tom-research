@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Team B already has multiple Tier 1 QBs (Jake Green, Chris Reed, Cameron Harris); Ethan Torres (Tier 4) is not an upgrade. David Campbell (Tier 4, low-volume veteran) conflicts with B\u2019s preference for young ascending players in high-powered offenses. The deal asks B to give up a top dual-threat QB and RB depth for bench pieces, ignores B\u2019s likely TE need, and mislabels the value. The rationale is generic and factually incorrect, and the acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

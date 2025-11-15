@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trey Rodriguez",
+    "Jordan Williams",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Team A consolidates into workhorse RB; Team B gains playoff-friendly QB plus deep-threat WR and RB depth.",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_implicit_gpt-5.txt"
+  }
+}

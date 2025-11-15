@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Justin Miller"
+  ],
+  "ask_from_B": [
+    "Nick Holt",
+    "Alex White"
+  ],
+  "rationale": "Team A trades volatile youth for a stable veteran WR and RB depth. Team B gets a high-upside workhorse RB it desperately needs.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

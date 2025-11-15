@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B\u2019s needs and preferences. B has Adam Allen (Tier 2, ascending) and Jordan Walker (Tier 1, doubtful) at TE; Justin Wright (Tier 5, out, declining) is not an upgrade. Josh Garcia (rookie RB, friendly playoff schedule) fits B\u2019s valued archetype and schedule focus, so moving him is unlikely. Rationale is brief and ignores injuries/tiers and B\u2019s consensus-trusting behavior. Trade is feasible but poorly aligned with motivations.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

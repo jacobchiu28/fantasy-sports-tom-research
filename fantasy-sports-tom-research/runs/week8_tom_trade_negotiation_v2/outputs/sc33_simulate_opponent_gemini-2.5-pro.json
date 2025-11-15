@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Trey Adams",
+    "Ben Miller"
+  ],
+  "ask_from_B": [
+    "Darian Anderson"
+  ],
+  "rationale": "B gets a low-volatility RB and a solid young WR for a playoff run. A consolidates depth to get a needed veteran starter.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

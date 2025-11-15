@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Clark",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Xavier Carter"
+  ],
+  "rationale": "B gets dual-threat QB + boom WR now; A shores up RB depth with upside",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_implicit_gpt-5.txt"
+  }
+}

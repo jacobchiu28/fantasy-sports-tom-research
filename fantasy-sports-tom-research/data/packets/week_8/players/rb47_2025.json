@@ -1,0 +1,88 @@
+{
+  "player_id": "rb47_2025",
+  "name": "Jamal Lopez",
+  "position": "RB",
+  "team": "WAS",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      81
+    ],
+    "rush_share_pct_range": [
+      36,
+      62
+    ],
+    "target_share_pct_range": [
+      7,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      33,
+      55
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      13,
+      34
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.11
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.73,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.75
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Out with availability unclear Tier 4 RB in mid-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Out",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 4 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

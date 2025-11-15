@@ -1,0 +1,88 @@
+{
+  "player_id": "rb31_2025",
+  "name": "Lucas Thompson",
+  "position": "RB",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      84
+    ],
+    "rush_share_pct_range": [
+      35,
+      68
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      29,
+      51
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      10,
+      33
+    ],
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Med",
+    "expected_workload_cap_pct": [
+      55,
+      75
+    ],
+    "confidence": 0.52
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.74,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.77
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, high production volatility",
+  "summary_text": "Minor injury concern Tier 1 RB in low-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, high production volatility",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

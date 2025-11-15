@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Caleb Foster"
+  ],
+  "rationale": "B gets immediate RB depth; A secures a steadier possession WR for weekly floor.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_implicit_gpt-5.txt"
+  }
+}

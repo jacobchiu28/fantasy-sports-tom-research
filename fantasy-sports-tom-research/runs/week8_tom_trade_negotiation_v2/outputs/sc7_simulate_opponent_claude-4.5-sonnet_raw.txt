@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["David Nelson", "Caleb Foster"],
+  "ask_from_B": ["Chris Adams"],
+  "rationale": "B gets stable QB+consistent WR for wins now; A upgrades to dual-threat QB with friendly playoff schedule",
+  "p_accept_B": 0.72
+}
+```

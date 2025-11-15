@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Brief rationale ignores Team B\u2019s stated priorities: they value consistent, workhorse-like RBs and urgently need wins; trading away their most stable RB (Sam Lewis) for a committee RB (Liam Carter) plus WR depth may not fit. No mention of B\u2019s TE problem or stack preferences. Offer is feasible and could be value-positive for B, but ToM reasoning is shallow and generic.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

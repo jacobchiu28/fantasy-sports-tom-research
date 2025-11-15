@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Assumes Team B \u201cdesperately needs\u201d an RB despite having Tier 1/2 RBs, and ignores B\u2019s preference for pocket passers/possession WRs and willingness to buy injured players. Asking for B\u2019s Tier 1 QB (Reed) plus a WR for A\u2019s Tier 5 workhorse is value-incoherent and unlikely given B\u2019s conservative style and win-now needs. It also contradicts Team A\u2019s preference for workhorse RBs by trading their only one. Rationale is generic and thin, lacking player-tier or role-based justification; 0.65 acceptance is unrealistic.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

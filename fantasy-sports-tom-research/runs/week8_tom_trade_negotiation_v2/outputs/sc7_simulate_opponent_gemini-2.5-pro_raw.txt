@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Michael Foster",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Devon Moore"
+  ],
+  "rationale": "Team B gets a high-upside rookie they'll love plus RB depth for their playoff push. Team A consolidates for a better starter.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Shows some ToM: matches B\u2019s taste for deep-threat WRs and injured buy-low (Eric Davis) and notes playoff schedule. Also offers RB depth and a QB while B\u2019s starter is out. But it overlooks that Trey is likely a downgrade from Chris Lee, B values rookies (making Josh Robinson harder to pry), and both teams need immediate points, making a doubtful WR unhelpful. Trade is feasible but value and timing are shaky; explanation is brief and generic.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

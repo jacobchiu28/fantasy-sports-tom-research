@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Darian Moore",
+    "Darian Taylor"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Upgrade to target-heavy TE; move expendable WR/TE depth to strengthen weakest slot",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_baseline_gpt-5.txt"
+  }
+}

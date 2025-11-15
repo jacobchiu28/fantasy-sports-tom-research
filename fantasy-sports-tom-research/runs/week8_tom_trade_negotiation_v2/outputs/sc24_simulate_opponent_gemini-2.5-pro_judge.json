@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: labels Anderson \u201chigh-volatility\u201d despite high usage; ignores B\u2019s injury aversion while assuming they\u2019ll trade an injured TE; offers a committee RB and Tier 4 WR that don\u2019t match B\u2019s workhorse/possession-volume preferences. Overlooks B\u2019s healthy Tier 2 TE (Roberts), so TE isn\u2019t a need. Also conflicts with Team A\u2019s injury-cautious profile by acquiring a doubtful TE. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

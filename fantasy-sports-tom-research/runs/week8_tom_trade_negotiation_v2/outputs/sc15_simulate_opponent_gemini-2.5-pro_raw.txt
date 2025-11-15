@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Chris Garcia"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "I need a more reliable RB to compete now. You get a high-ceiling WR, a perfect fit for your aggressive, playoff-bound team.",
+  "p_accept_B": 0.7
+}

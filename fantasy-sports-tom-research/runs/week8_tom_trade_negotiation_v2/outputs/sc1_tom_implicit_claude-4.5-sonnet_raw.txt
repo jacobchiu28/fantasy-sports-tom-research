@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trevor Roberts", "Liam Torres"],
+  "ask_from_B": ["Ben King", "Cameron Holt"],
+  "rationale": "Stable QB+RB for low-volatility RB+WR. Fits both rosters and manager styles.",
+  "p_accept_B": 0.62
+}
+```

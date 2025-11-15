@@ -1,0 +1,83 @@
+{
+  "player_id": "qb15_2025",
+  "name": "Ethan Torres",
+  "position": "QB",
+  "team": "TEN",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      28,
+      39
+    ],
+    "completion_pct_range": [
+      62,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      10,
+      17
+    ],
+    "rush_share_pct_range": [
+      6,
+      15
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.79,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "20-40%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.7
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+  "summary_text": "Healthy Tier 4 QB in high-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

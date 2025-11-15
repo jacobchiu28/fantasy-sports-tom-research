@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["David Campbell"],
+  "ask_from_B": ["Jordan Lewis"],
+  "rationale": "B shores up thin WR depth with stable deep threat; A gets upside rookie RB to chase ceiling now",
+  "p_accept_B": 0.6
+}

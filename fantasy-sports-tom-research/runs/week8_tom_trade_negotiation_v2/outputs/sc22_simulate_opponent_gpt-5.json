@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Eric Allen"
+  ],
+  "rationale": "B gains steady RB + possession WR; A gets high-upside deep threat fitting A\u2019s style.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_simulate_opponent_gpt-5.txt"
+  }
+}

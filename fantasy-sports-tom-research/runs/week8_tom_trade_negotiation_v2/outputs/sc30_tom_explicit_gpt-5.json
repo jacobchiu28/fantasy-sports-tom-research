@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Kyle Garcia",
+    "Tyler Walker"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "0-8 B lacks RBs; two stable RBs now for TE surplus (Roberts). A upgrades TE using depth; aligns with consensus fairness.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_explicit_gpt-5.txt"
+  }
+}

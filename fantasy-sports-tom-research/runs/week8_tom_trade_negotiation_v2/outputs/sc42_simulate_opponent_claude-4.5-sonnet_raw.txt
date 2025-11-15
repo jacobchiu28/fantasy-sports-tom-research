@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Reed", "David Campbell"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "A offers consistent dual-threat QB + possession WR for workhorse RB. B gets depth, A gets playoff upside RB.",
+  "p_accept_B": 0.72
+}
+```

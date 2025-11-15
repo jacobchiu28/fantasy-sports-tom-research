@@ -1,0 +1,85 @@
+{
+  "player_id": "rb65_2025",
+  "name": "Trey Mitchell",
+  "position": "RB",
+  "team": "PHI",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      81
+    ],
+    "rush_share_pct_range": [
+      35,
+      78
+    ],
+    "target_share_pct_range": [
+      6,
+      11
+    ],
+    "red_zone_carry_share_pct_range": [
+      28,
+      57
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      16,
+      29
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.85
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.61,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.5
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 4 RB in mid-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

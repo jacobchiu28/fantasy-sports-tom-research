@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Liam Torres", "Ethan Turner"],
+  "ask_from_B": ["Mason Torres"],
+  "rationale": "B gets RB depth (friendly schedule) + TE upgrade; A gains steadier WR than current deep-threat options.",
+  "p_accept_B": 0.68
+}

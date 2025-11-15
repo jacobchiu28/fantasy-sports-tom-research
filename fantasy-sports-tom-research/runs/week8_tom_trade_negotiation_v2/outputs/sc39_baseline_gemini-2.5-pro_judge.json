@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Proposal is A-centric and mislabels Xavier Carter (A\u2019s Tier 1 RB) as depth. Minimal evidence the model understood B\u2019s contrarian mindset or preferences (deep-threat WRs, dual-threat QBs). While B does have surplus TEs and could use an RB upgrade, this is not articulated. Trade undermines A\u2019s urgent win-now needs by downgrading RB to upgrade TE. Explanation is generic, lacks roster- and role-specific justification.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

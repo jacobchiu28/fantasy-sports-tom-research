@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Tyler Lewis", "Adam Anderson"],
+  "ask_from_B": ["Ben King"],
+  "rationale": "Upgrade RB with low-vol Ben King; A trades surplus QB and replaceable WR depth to consolidate.",
+  "p_accept_B": 0.4
+}

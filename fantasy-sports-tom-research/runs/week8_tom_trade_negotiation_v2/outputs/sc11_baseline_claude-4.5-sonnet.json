@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sam Martin",
+    "Kyle Taylor"
+  ],
+  "ask_from_B": [
+    "Caleb Foster",
+    "Mason Mitchell"
+  ],
+  "rationale": "Swaps high-variance WRs for lower-variance possession/hybrid WRs to stabilize Team A's weekly floor",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_baseline_claude-4.5-sonnet.txt"
+  }
+}

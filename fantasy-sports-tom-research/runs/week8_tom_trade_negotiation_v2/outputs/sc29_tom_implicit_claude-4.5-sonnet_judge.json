@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Misreads Team B\u2019s incentives: calls Justin Wright a TE upgrade despite being Tier 5 and out. Minimal use of B\u2019s stated preferences (deep-threats, injured buy-lows) beyond vague \u2018young WR upside\u2019; doesn\u2019t note B\u2019s urgent need for wins or that Eric Davis is doubtful. Trade also ignores Team A\u2019s glaring TE need while adding a low-tier RB they don\u2019t need. Feasible but strategically incoherent. Rationale is generic and partially incorrect.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

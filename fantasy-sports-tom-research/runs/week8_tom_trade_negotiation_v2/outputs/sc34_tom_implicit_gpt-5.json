@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell (RB)"
+  ],
+  "ask_from_B": [
+    "Marcus Reed (RB)"
+  ],
+  "rationale": "B gets steady RB with friendly playoff slate; A takes upside swing.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_implicit_gpt-5.txt"
+  }
+}

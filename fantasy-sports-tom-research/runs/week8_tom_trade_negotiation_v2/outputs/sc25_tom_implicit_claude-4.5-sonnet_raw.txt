@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Jake Green", "Sean Holt"],
+  "ask_from_B": ["Cameron Scott", "Ryan Turner"],
+  "rationale": "Dual-threat QB + RB depth for rookie WR + rookie TE; fits both zero-RB philosophy and youth preference",
+  "p_accept_B": 0.68
+}
+```

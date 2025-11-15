@@ -1,0 +1,1 @@
+{"offer_from_A":["Trevor Rodriguez"],"ask_from_B":["Marcus Gonzalez"],"rationale":"You gain a rookie ceiling WR; we stabilize TE with a veteran depth piece.","p_accept_B":0.78}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera"
+  ],
+  "rationale": "Consolidate RB/TE depth into a potential WR1, upgrading the starting lineup's ceiling and overall roster strength.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_baseline_gemini-2.5-pro.txt"
+  }
+}

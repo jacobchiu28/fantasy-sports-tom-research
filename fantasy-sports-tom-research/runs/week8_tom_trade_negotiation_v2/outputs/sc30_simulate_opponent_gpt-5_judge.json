@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Correctly notes B\u2019s RB scarcity and WR surplus and appeals to B\u2019s consensus-driven style. But it ignores B\u2019s fade of players in run-heavy contexts (possible for Kyle Garcia) and doesn\u2019t address urgency/bye timing. Little on A\u2019s motives. Also overstates Noah Taylor as \u201cstartable\u201d despite decline. Coherent but thin.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

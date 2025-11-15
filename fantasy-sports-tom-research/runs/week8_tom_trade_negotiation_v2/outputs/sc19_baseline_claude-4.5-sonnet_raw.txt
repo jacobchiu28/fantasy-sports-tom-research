@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["James Holt", "David Baker"],
+  "ask_from_B": ["Josh Garcia", "Kyle Martinez"],
+  "rationale": "Upgrade RB/WR volatility: acquire mid-variance rookie RB+WR, shed high-variance veteran committee back+rookie WR",
+  "p_accept_B": 0.45
+}
+```

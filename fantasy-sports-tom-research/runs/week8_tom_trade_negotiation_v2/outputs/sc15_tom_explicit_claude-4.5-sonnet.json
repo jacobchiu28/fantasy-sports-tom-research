@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Darian Anderson",
+    "Liam Green"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Cameron Scott"
+  ],
+  "rationale": "Team B gets young breakout RB + mid-variance WR; Team A gets stable floor RB + low-variance possession WR",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

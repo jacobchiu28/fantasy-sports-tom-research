@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Kyle Garcia", "Devon Lewis"],
+  "ask_from_B": ["Sean Thompson", "Michael Roberts"],
+  "rationale": "B gains immediate RB depth; A upgrades TE and balances WR risk; aligns with consensus tiers.",
+  "p_accept_B": 0.65
+}

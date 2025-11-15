@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Ben Martin"
+  ],
+  "ask_from_B": [
+    "Jake Garcia",
+    "Isaiah Lee"
+  ],
+  "rationale": "B upgrades to rushing QB and upside WR; A gains steadier RB and pocket passer floor.",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_simulate_opponent_gpt-5.txt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Adam Anderson",
+    "Liam Adams"
+  ],
+  "ask_from_B": [
+    "Jordan Lewis"
+  ],
+  "rationale": "B gets steady TE + slot WR; A adds upside RB depth for playoff push.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_implicit_gpt-5.txt"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Isaiah Lee",
+    "Liam Wright"
+  ],
+  "rationale": "Swapping dual-threat QB for pocket passer + upgrading WR depth with friendly playoff schedule",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

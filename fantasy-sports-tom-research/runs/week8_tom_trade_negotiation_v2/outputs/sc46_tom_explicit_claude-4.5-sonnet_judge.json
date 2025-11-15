@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Acknowledges Team B\u2019s interest in dual-threat QBs and young talent, loosely fitting their profile and QB need. However, it ignores B\u2019s RB depth and risk appetite. Mislabels Malik Carter as a workhorse; he\u2019s a Tier 3 committee RB, conflicting with Team A\u2019s preference for true workhorses. Trade is lopsided (A gives a Tier 1 ascending WR plus a QB for a middling RB). Rationale is terse and factually incorrect, lacking detail on roles, tiers, or playoff context.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

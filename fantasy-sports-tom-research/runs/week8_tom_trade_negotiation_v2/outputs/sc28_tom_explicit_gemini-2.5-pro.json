@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Alex Thompson"
+  ],
+  "rationale": "You get a stable veteran WR for your volatile RB. Helps both of our team styles and immediate needs.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

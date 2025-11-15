@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez"
+  ],
+  "ask_from_B": [
+    "Matt Nelson"
+  ],
+  "rationale": "B gets dual-threat QB with friendly playoffs; fair 1-for-1 for bench RB. A needs upside RB; Nelson's volatility fits A.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_explicit_gpt-5.txt"
+  }
+}

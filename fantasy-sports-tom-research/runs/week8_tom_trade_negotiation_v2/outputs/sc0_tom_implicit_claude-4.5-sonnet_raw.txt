@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Robinson", "Brandon Hernandez"],
+  "ask_from_B": ["Chris Reed", "Trevor Brown"],
+  "rationale": "Workhorse RB for stable dual-threat QB + possession WR; both get floor consistency",
+  "p_accept_B": 0.62
+}
+```

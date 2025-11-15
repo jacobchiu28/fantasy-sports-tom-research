@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: they need wins and floor/volume, yet the offer is an injured WR labeled as \u201cstable\u201d for B\u2019s Tier 1 RB. Ignores B\u2019s RB scarcity and WR depth and B\u2019s preference for reliable possession targets. Minimal, generic rationale with incorrect characterization of Harris; no schedule, role, or OL context. Overestimates acceptance probability. Slight nod to A\u2019s style (chasing volatile RB upside), but overall ToM and coherence are poor.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

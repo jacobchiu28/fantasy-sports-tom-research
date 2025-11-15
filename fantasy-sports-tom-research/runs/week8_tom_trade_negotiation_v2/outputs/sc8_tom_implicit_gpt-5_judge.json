@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "B prefers healthy, consistent possession WRs and already has a Tier 2 TE; this deal sends away their steady slot (Darian Thomas) for a Tier 4, Questionable QB and redundant TE. It ignores B\u2019s workhorse RB preference and injury caution. A is extremely injury-averse yet targets a Questionable WR, conflicting with their profile. The rationale is generic and doesn\u2019t address playoff schedules, depth needs, or ranking-based valuations, reducing ToM quality and coherence.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

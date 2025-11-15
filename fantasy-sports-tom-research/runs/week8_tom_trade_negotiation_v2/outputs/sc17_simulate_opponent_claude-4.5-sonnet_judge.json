@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "It notes B values dual-threat QBs and offers B a TE upgrade, but ignores that B would lose its only healthy QB (Logan Clark is out), making the deal impractical for a win-now 0-8 team. It also overlooks B\u2019s stated preference for committee backs by sending a workhorse. Rationale is brief and generic, with an unrealistically high accept probability given the QB hole.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

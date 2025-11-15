@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex Baker",
+    "Sean Hernandez"
+  ],
+  "ask_from_B": [
+    "Kyle Taylor"
+  ],
+  "rationale": "B flips WR surplus for RB depth and TE upgrade (friendly playoffs); A gains young upside WR with friendly schedule.",
+  "p_accept_B": 0.56,
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_simulate_opponent_gpt-5.txt"
+  }
+}

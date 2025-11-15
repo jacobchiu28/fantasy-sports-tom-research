@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["David Nelson", "Liam Adams", "Justin Garcia"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "B wants steady vets, pocket QB, TE upgrade; swaps volatile workhorse for reliable QB+TE+RB depth to win now.",
+  "p_accept_B": 0.38
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Reasoning centers on Team A\u2019s needs and ignores Team B\u2019s 1-7 urgency, contrarian stance, and preference for established healthy players. Offers a QB2 upgrade but asks for a key RB2; Sam Miller adds no value. Trade is feasible (QB surplus for A, TE depth on B), but the TE \u201cupgrade\u201d claim is shaky and value seems off. Explanation is brief and not B-focused.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

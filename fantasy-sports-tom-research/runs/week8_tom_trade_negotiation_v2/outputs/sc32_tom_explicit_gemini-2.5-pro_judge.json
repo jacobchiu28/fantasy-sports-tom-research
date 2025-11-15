@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges Team B\u2019s taste for dual-threat QBs but ignores that B already has a Tier 2 QB and urgently needs TE/WR help, not an Out RB. Team A is injury-averse yet seeks an Out TE and claims a TE hole despite rostering a Tier 1 TE. Rationale is brief and generic, with little nuance about each side\u2019s incentives or constraints. Trade logic is inconsistent with profiles and roster needs.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

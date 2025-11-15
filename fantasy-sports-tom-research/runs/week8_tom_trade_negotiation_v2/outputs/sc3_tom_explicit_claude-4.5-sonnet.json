@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trey Adams",
+    "Austin Garcia"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Devon Martinez"
+  ],
+  "rationale": "Team B gets young breakout RB + WR depth; Team A gets low-volatility RB + rookie upside WR with friendly schedules",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Justin Wright"
+  ],
+  "ask_from_B": [
+    "Malik White"
+  ],
+  "rationale": "B fixes weak TE with breakout; moves surplus RB. A gains steadier RB depth for playoffs.",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_simulate_opponent_gpt-5.txt"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Garcia", "Nick Torres"],
+  "ask_from_B": ["Cameron Scott"],
+  "rationale": "Team B gets high-ceiling boom/bust WRs (rookie+breakout); Team A gets stable low-variance possession receiver",
+  "p_accept_B": 0.72
+}
+```

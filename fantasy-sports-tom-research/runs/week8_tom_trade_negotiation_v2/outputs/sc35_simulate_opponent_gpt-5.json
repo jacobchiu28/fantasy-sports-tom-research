@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Logan Holt (QB)"
+  ],
+  "ask_from_B": [
+    "Austin Allen (TE)"
+  ],
+  "rationale": "B adds safe vet QB with friendly playoff slate; A upgrades TE from B\u2019s surplus; win-now fit.",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_simulate_opponent_gpt-5.txt"
+  }
+}

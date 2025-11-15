@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It notes B\u2019s conservative preference for workhorse RBs and frames Trevor as a boom/bust WR, but ignores that B trusts consensus rankings\u2014giving up a Tier 1 WR plus a depth RB for a Tier 5 RB is unrealistic. The offer is A-skewed despite nods to B\u2019s mindset. Minimal rationale and no detail on roles, tiers, or schedule context. B still needs wins and would demand more or a safer, higher-ranked RB to part with Trevor.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

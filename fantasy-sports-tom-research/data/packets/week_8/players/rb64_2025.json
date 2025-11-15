@@ -1,0 +1,85 @@
+{
+  "player_id": "rb64_2025",
+  "name": "Sam Lewis",
+  "position": "RB",
+  "team": "CHI",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      81
+    ],
+    "rush_share_pct_range": [
+      35,
+      70
+    ],
+    "target_share_pct_range": [
+      8,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      29,
+      57
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      13,
+      33
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.87
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.71,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.75
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, low production volatility",
+  "summary_text": "Healthy Tier 2 RB in mid-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, low production volatility",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "Mid pass rate, Slow tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

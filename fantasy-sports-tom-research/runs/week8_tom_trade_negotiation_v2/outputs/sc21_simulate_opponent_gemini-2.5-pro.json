@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson",
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "David Campbell"
+  ],
+  "rationale": "Team B gets a young breakout WR and a stable RB for a veteran WR, addressing their urgent need for wins and depth.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

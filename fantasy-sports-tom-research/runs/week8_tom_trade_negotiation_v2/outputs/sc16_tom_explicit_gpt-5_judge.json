@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Shows surface-level awareness (B likes steady vets/pocket QBs) but ignores B\u2019s strong preference for workhorse RBs and already having a Tier 1 QB. Calls TE an upgrade when Ryan Turner (T2) > Liam Adams (T4). Depth is redundant at QB/TE and trades away B\u2019s most aligned asset (workhorse RB). Little articulation of A\u2019s motives. Brief rationale with factual mismatch lowers clarity and coherence.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

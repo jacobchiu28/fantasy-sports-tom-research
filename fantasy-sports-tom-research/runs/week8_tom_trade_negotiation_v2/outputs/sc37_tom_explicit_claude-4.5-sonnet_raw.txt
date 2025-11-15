@@ -1,0 +1,11 @@
+```json
+{
+  "offer_from_A": ["Justin Reed", "Matt Wright"],
+  "ask_from_B": ["Lucas Carter", "Sean Hernandez"],
+  "rationale": "A gets dual-threat QB + stable RB; B gets deep WRs with friendly schedules. Fits both manager profiles.",
+  "p_accept_B": 0.42,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B has three QBs (Lucas Carter, Tyler Miller, Chris Lee) creating roster inefficiency. Manager B is extremely conservative and values stable floors - Lucas Carter (dual-threat QB, low volatility) is valuable but tradeable given depth. Team B's RB depth (Ryan Taylor workhorse, Sean Hernandez, Malik Moore, Nick Turner, David Carter) allows them to move a mid-tier piece. Team B's WRs are all high-volatility deep threats (Eric Allen, Darian Robinson, Ryan Moore) - contradicts Manager B's conservative style.",
+    "team_b_manager_psychology": "Manager B trusts consensus rankings, is extremely conservative, prefers stable floors, and values volume over efficiency. They fade boom/bust players but currently roster volatile WRs - likely dissatisfied. They'd view acquiring possession-style receivers positively. Manager B willing to roster injured players for upside, so wouldn't fear player health concerns.",
+    "team_b_perception_of_fairness": "Manager B would see giving up a backup QB (Carter) as acceptable given 3 QB roster. Sean Hernandez (mid volatility, friendly playoff schedule, committee back) fits their preference but isn't a workhorse - tradeable. Receiving two WRs with friendly playoff schedules (Justin Reed, Matt Wright) who are rookies with mid volatility provides the stable floor they crave. Both are deep threats but lower volatility than their current WRs.",
+    "team_a_motivation": "Manager A is contrarian, values dual-threat QBs and deep-threat WRs. Trading away two deep WRs (already has 5 more) to acquire Lucas Carter (dual-threat QB with low volatility and friendly playoff schedule) addresses QB need. Sean Hernandez adds RB depth with friendly playoff schedule

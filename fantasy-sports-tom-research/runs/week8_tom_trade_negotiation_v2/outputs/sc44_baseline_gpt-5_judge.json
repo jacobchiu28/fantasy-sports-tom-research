@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 25,
+  "justification": "Offer ignores Team B\u2019s urgent need for healthy, low-risk starters and strict injury avoidance. A sends an Out WR (Harris) and a Questionable TE (Flores) to a manager who avoids injuries and already has TE depth, while asking for B\u2019s healthy Tier 1 RB (Kyle) and ascending Tier 2 WR (Austin). Rationale is A-centric (TE surplus, steady RB2) with no appeal to B\u2019s incentives or consensus rankings. Internally feasible but contextually incoherent for B.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

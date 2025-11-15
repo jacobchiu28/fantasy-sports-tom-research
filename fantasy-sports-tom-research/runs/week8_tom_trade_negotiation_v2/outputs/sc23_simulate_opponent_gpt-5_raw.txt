@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Martin", "Michael Roberts"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "Workhorse RB + upside TE for your elite TE—boosts your RBs now while keeping a startable TE.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Darian Campbell"],
+  "ask_from_B": ["Logan Clark"],
+  "rationale": "You keep Jones; trade backup QB for TE1 plus upside rookie RB to help win now.",
+  "p_accept_B": 0.62
+}

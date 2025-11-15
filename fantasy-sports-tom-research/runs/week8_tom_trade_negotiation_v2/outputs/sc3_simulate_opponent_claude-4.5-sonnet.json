@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "Trey Adams"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Cameron Harris"
+  ],
+  "rationale": "B gets dual-threat QB + young RB; A gets low-variance pocket passer + consistent RB for playoff push",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

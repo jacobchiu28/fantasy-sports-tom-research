@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Acknowledges Team B\u2019s floor preference and playoff schedule, but misapplies it by asking B to give up higher-tier, steadier assets (Flores, A. Torres) for lower-tier, committee pieces (B. Martinez Tier 5, A. Martin Tier 4). Limited separation of A\u2019s needs vs. B\u2019s incentives. Trade is feasible but value is lopsided and the rationale is generic and inaccurate (position mismatch, stability claims). B\u2019s conservative, consensus-trusting profile makes acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

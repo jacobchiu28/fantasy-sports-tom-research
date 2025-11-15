@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale is A-centric and ignores B\u2019s preferences (possession WRs, pocket passers) and needs (TE depth is thin; trading Anderson is unlikely). Offering injured Alex White incidentally fits B\u2019s injury-buying, but this isn\u2019t argued. For A, acquiring a Doubtful TE clashes with A\u2019s strict injury avoidance and is redundant with an existing Tier 1 TE; trade doesn\u2019t address A\u2019s RB need or stacking preference. Proposal is plausible but misaligned with both managers\u2019 profiles.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

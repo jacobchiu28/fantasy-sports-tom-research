@@ -1,0 +1,85 @@
+{
+  "player_id": "rb50_2025",
+  "name": "Marcus Reed",
+  "position": "RB",
+  "team": "TEN",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      80
+    ],
+    "rush_share_pct_range": [
+      38,
+      73
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      27,
+      58
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      10,
+      31
+    ],
+    "trend_5g": "Flat",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.72
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.8,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.69
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, high production volatility",
+  "summary_text": "Healthy Tier 1 RB in mid-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, high production volatility",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "Mid pass rate, Slow tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

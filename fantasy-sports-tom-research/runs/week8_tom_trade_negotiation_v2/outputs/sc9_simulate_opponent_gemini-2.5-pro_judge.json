@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B\u2019s preference for stability and pocket passers and cites playoff schedule, but overlooks B\u2019s urgent need for wins, zero-RB lean, and existing QB depth (Foster, Flores). Value skewed: Tier1 workhorse Taylor for a Tier2 committee RB plus a Tier4 QB is unlikely for a conservative 1-7 team. Claim that Tyler Miller raises B\u2019s floor is weak. Rationale is concise but shallow and misses key roster/context details.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

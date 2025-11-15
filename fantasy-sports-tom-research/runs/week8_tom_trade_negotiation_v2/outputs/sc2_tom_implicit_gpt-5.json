@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Ben Martin"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Devon Lewis"
+  ],
+  "rationale": "B gets RB1 and upside WR; A upgrades TE and keeps usable RB depth.",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_implicit_gpt-5.txt"
+  }
+}

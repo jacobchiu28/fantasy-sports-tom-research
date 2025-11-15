@@ -1,0 +1,85 @@
+{
+  "player_id": "rb27_2025",
+  "name": "Nick Roberts",
+  "position": "RB",
+  "team": "DEN",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      87
+    ],
+    "rush_share_pct_range": [
+      35,
+      67
+    ],
+    "target_share_pct_range": [
+      6,
+      13
+    ],
+    "red_zone_carry_share_pct_range": [
+      35,
+      51
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      10,
+      32
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.89
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.69,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.69
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 2 RB in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 2 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

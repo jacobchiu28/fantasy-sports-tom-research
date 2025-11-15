@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Jake Green",
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Cameron Scott",
+    "Ethan Turner"
+  ],
+  "rationale": "B gets dual-threat QB upgrade + workhorse RB (zero-RB buy). A gets WR depth + receiving TE.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

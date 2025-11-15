@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Ethan Turner",
+    "Cameron Scott"
+  ],
+  "rationale": "I solve my TE weakness and add a stable WR, while you get a true workhorse RB to anchor your backfield.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_baseline_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "player_id": "te42_2025",
+  "name": "Kyle King",
+  "position": "TE",
+  "team": "NE",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      54,
+      86
+    ],
+    "route_participation_pct_range": [
+      57,
+      79
+    ],
+    "target_share_pct_range": [
+      11,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      19
+    ],
+    "inline_block_rate_pct_range": [
+      36,
+      61
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.85
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.68,
+    "qb_quality_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 6,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.62
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+  "summary_text": "Healthy Tier 3 TE in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 3 (Low trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

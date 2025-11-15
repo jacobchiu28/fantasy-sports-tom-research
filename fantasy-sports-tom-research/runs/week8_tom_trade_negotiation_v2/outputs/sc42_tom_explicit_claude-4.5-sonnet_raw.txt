@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Reed", "Cameron Holt"],
+  "ask_from_B": ["Josh Robinson", "Isaiah Adams"],
+  "rationale": "Team B gets consistent veteran QB+WR; Team A gets workhorse RB with friendly playoff schedule for playoff push",
+  "p_accept_B": 0.62
+}
+```

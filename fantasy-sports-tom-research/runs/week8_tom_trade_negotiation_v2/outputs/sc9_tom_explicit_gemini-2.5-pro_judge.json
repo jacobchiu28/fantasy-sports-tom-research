@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good recognition that Team B values stability and playoff schedules, and that A will assume Taylor\u2019s volatility. However, offering a Tier 2 committee RB plus a Tier 4 WR for a Tier 1 workhorse likely undershoots value. Mason Torres isn\u2019t a possession, high-floor WR B prefers, and B\u2019s 1-7 urgency makes downgrading RB risky. Zero-RB philosophy suggests B would want a stronger WR return. p_accept_B=0.6 seems optimistic.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

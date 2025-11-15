@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Correctly targets B\u2019s taste for high-upside, dual-threat, buy-low injured QB. However, it ignores A\u2019s strict injury-avoidance by asking for an Out QB (David Young) and mislabels him as a stabilizing piece. A already has a stable Tier 2 QB, so depth/consistency worsen. Rationale is generic, omits B\u2019s RB depth and QB context, and likely overestimates acceptance odds.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

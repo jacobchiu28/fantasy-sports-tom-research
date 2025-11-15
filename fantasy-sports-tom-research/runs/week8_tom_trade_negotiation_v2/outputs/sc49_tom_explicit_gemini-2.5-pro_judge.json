@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Identifies B\u2019s need for immediate, stable production and offers low-volatility RBs, but overlooks key beliefs: B values workhorse roles and high targets/touches\u2014Noah Brown is exactly that and B has no backup TE. The proposal creates a lineup hole for a conservative manager needing weekly floor now, making 0.65 acceptance optimistic. From A\u2019s side, paying two strong committee RBs (including a Tier 1) for a Tier 2 TE conflicts with A\u2019s ceiling-chasing style and seems inefficient. Explanation is brief and lacks roster-context details.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

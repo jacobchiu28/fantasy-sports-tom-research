@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "The offer incidentally fits some of Team B\u2019s tastes (dual-threat QB with minor injury risk, rookie WR) and leverages B\u2019s RB depth, but the rationale ignores B\u2019s motivations and needs. It mislabels Trevor Martin as a consistent WR despite a deep-threat profile. Separation of A vs. B incentives is minimal, and there\u2019s little explicit ToM about B\u2019s injury tolerance or QB situation. The trade is feasible but the reasoning is generic.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

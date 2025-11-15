@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Campbell", "David Young"],
+  "ask_from_B": ["Justin Young"],
+  "rationale": "B gains steady RB and safe QB depth; A adds big-play WR upside. Fits both rosters.",
+  "p_accept_B": 0.62
+}

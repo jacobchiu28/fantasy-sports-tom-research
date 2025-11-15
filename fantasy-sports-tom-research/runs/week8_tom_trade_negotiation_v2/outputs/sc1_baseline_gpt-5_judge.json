@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Offer ignores B\u2019s conservative, consensus-driven preferences. Trading Flores (steady touches, friendly playoff slate) guts B\u2019s RB floor, while Eric Torres is a volatile deep threat with tough playoff matchups and inconsistent targets\u2014misaligned with B\u2019s values. Trevor Roberts is redundant behind B\u2019s Tier 1 QB. TE swap (Liam Adams) is marginal; not a meaningful sweetener. Rationale focuses only on A\u2019s needs; no case for B. Internally feasible but poorly targeted to B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

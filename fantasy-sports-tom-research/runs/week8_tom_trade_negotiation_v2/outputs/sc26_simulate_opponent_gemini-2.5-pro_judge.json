@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies Team B\u2019s RB need and appetite for upside, but ignores B\u2019s preference for established talent and overvalues their return. Fails to respect Team A\u2019s conservative, floor-focused style\u2014trading away a Tier 1 workhorse RB and a Tier 1 WR for a doubtful committee RB and a Tier 4 WR is incoherent. Rationale incorrectly labels the return as \u201cstable.\u201d Trade is extremely lopsided; B would accept near-instantly, making the 0.7 probability implausible. Explanation is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

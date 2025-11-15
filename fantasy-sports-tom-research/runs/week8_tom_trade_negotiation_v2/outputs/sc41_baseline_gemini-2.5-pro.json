@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Liam Wright",
+    "Alex Mitchell"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team A consolidates WR/RB depth to acquire a top pass-catching TE, addressing its biggest roster weakness.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_baseline_gemini-2.5-pro.txt"
+  }
+}

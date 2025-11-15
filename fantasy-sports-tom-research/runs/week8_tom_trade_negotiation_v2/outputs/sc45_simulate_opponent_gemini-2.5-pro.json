@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "James Campbell"
+  ],
+  "ask_from_B": [
+    "Isaiah Thompson",
+    "Austin Wright"
+  ],
+  "rationale": "A gets a reliable WR1 to win now. B gets the high-ceiling rookie RB they lack by trading from their deep WR corps.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

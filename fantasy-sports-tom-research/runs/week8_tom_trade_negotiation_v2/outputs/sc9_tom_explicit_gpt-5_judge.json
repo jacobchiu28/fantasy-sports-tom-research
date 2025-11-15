@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Acknowledges B\u2019s conservative/zero-RB lean and playoff schedule, but misreads needs: trading a Tier 1 workhorse RB for a Tier 4 pocket QB (when B already has a pocket QB) and a deep-threat WR labeled as \u201csteadier\u201d clashes with B\u2019s floor/possession preference and urgent need for wins. The offer doesn\u2019t clearly improve B\u2019s lineup now. Acceptance probability is overstated. Rationale is brief and overlooks roster context and role fits.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

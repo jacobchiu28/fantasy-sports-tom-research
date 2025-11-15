@@ -1,0 +1,91 @@
+{
+  "player_id": "wr51_2025",
+  "name": "Lucas Allen",
+  "position": "WR",
+  "team": "IND",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      62,
+      89
+    ],
+    "route_participation_pct_range": [
+      68,
+      91
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      28
+    ],
+    "target_share_pct_range": [
+      15,
+      28
+    ],
+    "air_yards_share_pct_range": [
+      15,
+      35
+    ],
+    "slot_rate_pct_range": [
+      19,
+      80
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.18
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.65,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Tight",
+    "start_rate_band": "40-60%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.69
+  },
+  "archetype_tags": [
+    "outside_wr"
+  ],
+  "role_description": "Outside receiver with varied route tree, mid weekly variance",
+  "summary_text": "Out with availability unclear Tier 5 WR in mid-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Outside receiver with varied route tree, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Out",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 5 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

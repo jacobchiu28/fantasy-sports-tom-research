@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B gets reliability, but ignores B\u2019s stated preference for upside/young players (though Scott fits that, it\u2019s unstated). Minimal separation of motivations and no roster/context specifics. Trade is incoherent for A\u2019s preferences (they give up a Tier 1 WR and steady RB for a volatile RB and depth WR), while massively favorable to B; p_accept likely higher than 0.72. Explanation is generic and thin.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

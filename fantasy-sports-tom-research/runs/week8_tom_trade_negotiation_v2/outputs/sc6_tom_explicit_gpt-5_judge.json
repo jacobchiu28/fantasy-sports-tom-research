@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Shows some ToM: B\u2019s injury aversion and need for immediate, healthy upside are acknowledged; Jones retained; bye-week cover noted. Also recognizes A\u2019s desire for dual-threat ceiling. However, it ignores that A would be left with no healthy QB (Clark is Out), conflicting with A\u2019s urgent need to win. It also overlooks B\u2019s preference for dual-threat QBs and consensus valuation\u2014package (Tier3 QB, Tier3 RB, Tier5 WR) likely insufficient for a Tier1 asset. Rationale is terse and misses key context.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

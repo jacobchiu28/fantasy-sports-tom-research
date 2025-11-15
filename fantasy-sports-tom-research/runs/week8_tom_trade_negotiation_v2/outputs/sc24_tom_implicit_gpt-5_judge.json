@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "It misreads Team A\u2019s injury-averse, floor-seeking profile by asking them to take a Doubtful TE and a high-variance QB while giving up their safer, ascending QB. For Team B, it acknowledges QB stability and SoS but ignores B\u2019s strict injury avoidance by sending them a Questionable TE and overlooks their existing QB stability (Austin Reed). The rationale is brief and generic; \u201cA upgrades TE floor\u201d is inaccurate given Anderson\u2019s injury. Overall fit and value logic are shaky.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

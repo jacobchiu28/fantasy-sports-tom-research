@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Good nod to Team B\u2019s mindset (trusts rankings) and a real Week 11 RB-bye/TE-upgrade incentive. However, it ignores Team A\u2019s stated injury avoidance by asking A to take an injured TE, and the value is wildly lopsided against A (losing Tier 1 RB and TE for Tier 4 RB and injured TE). Rationale is terse and misses roster/role context and A\u2019s incentives, making acceptance probability and overall coherence dubious.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

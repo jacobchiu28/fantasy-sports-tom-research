@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Ethan Campbell",
+    "Brandon Martinez"
+  ],
+  "rationale": "A leverages its stud rookie RB for a stable veteran RB and solid WR, both with good playoff schedules, to appeal to B's desire for a workhorse.",
+  "p_accept_B": 0.65
+}

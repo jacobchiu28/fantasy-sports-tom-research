@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B highly values young, ascending dual-threat QBs and already has two Tier 1 options; trading Jake Green for a Tier 4 QB plus a Tier 4 WR in a low-volume offense ignores B\u2019s preferences and surplus. A also asks for an injured WR despite A\u2019s injury-averse profile. The offer doesn\u2019t address B\u2019s likely needs (premium WR/RB upgrade) and overestimates acceptance. Rationale is generic and unsupported.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

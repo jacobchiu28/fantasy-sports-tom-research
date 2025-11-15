@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Trevor Brown",
+    "Jordan Green"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "A consolidates for a stable RB. B sells a player with a tough playoff schedule from depth for a stable veteran WR.",
+  "p_accept_B": 0.65
+}

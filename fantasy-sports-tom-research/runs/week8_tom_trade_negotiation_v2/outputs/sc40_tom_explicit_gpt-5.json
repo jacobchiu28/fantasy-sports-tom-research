@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Sean Scott",
+    "Chris Lewis"
+  ],
+  "rationale": "B swaps volatile WR for steadier WR + floor RB (friendly playoffs); A adds ceiling. Fits conservative 8\u20130.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_explicit_gpt-5.txt"
+  }
+}

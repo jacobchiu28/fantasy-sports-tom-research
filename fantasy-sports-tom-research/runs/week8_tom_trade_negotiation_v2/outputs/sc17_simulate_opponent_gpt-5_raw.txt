@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Lucas Hall"],
+  "ask_from_B": ["James Jones"],
+  "rationale": "B upgrades to a real receiving TE and keeps Clark; Hall gives safe QB depth. A needs dual-threat upside now.",
+  "p_accept_B": 0.65
+}

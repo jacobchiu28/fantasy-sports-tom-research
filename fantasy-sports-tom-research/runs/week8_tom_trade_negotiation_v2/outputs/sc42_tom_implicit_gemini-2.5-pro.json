@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "David Campbell",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Darian Anderson",
+    "Isaiah Adams"
+  ],
+  "rationale": "You get a consistent veteran WR and RB depth with a great playoff schedule. I fill my need at TE. A solid win-win.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

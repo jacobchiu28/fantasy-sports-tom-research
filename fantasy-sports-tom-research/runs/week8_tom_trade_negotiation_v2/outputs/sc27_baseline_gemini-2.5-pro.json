@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Austin Torres",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Team A consolidates its WR and TE depth to acquire an elite, high-target TE1 for a championship run.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_baseline_gemini-2.5-pro.txt"
+  }
+}

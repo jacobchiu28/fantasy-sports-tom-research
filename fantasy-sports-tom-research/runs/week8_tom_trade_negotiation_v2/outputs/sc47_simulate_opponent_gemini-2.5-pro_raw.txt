@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Turner",
+    "Liam Carter"
+  ],
+  "ask_from_B": [
+    "Xavier Rodriguez"
+  ],
+  "rationale": "A consolidates TE/RB depth for a needed starter. B upgrades a weak TE spot and adds a veteran RB for the playoff push.",
+  "p_accept_B": 0.75
+}

@@ -1,0 +1,3602 @@
+[
+  {
+    "scenario_id": 0,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 11,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 16,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 20,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 22,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 28,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 39,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 44,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 45,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_baseline_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_explicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_explicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_explicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_implicit_gpt-5.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_implicit_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_implicit_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_simulate_opponent_gpt-5.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_simulate_opponent_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_simulate_opponent_gemini-2.5-pro.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_baseline_gpt-5.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_baseline_claude-4.5-sonnet.txt"
+  },
+  {
+    "scenario_id": 49,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_baseline_gemini-2.5-pro.txt"
+  }
+]

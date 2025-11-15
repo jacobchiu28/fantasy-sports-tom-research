@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sam Martin", "Kyle Taylor"],
+  "ask_from_B": ["Caleb Foster", "Mason Mitchell"],
+  "rationale": "Swaps high-variance WRs for lower-variance possession/hybrid WRs to stabilize Team A's weekly floor",
+  "p_accept_B": 0.35
+}
+```

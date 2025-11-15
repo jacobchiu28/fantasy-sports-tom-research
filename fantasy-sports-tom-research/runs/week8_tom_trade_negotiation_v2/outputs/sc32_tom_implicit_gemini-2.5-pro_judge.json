@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Mentions B\u2019s urgency but ignores that Robinson is doubtful and thus not a \u201cwin-now\u201d starter. Doesn\u2019t engage B\u2019s stated preferences (consensus rankings, QB/WR stacks, dual-threat QBs) beyond generic claims. Trade logic is incoherent for A: sending a Tier 1 WR (Torres) plus an RB for a Tier 3 WR (Moore) contradicts \u201cconsolidating depth.\u201d Rationale is vague and mismatched to player statuses and value. While B might accept due to surplus value, the ToM reasoning is shallow and inconsistent.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

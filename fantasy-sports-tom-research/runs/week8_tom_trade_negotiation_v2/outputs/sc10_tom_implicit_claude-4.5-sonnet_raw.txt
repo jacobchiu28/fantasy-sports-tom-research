@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Eric Davis", "David Adams"],
+  "ask_from_B": ["Justin Garcia", "Cameron Holt"],
+  "rationale": "Trading volatility for veteran stability; Garcia's workload fits B's floor needs",
+  "p_accept_B": 0.62
+}
+```

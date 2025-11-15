@@ -1,0 +1,89 @@
+{
+  "player_id": "wr62_2025",
+  "name": "Nick Holt",
+  "position": "WR",
+  "team": "ARI",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      63,
+      86
+    ],
+    "route_participation_pct_range": [
+      67,
+      93
+    ],
+    "targets_per_route_run_pct_range": [
+      19,
+      25
+    ],
+    "target_share_pct_range": [
+      12,
+      23
+    ],
+    "air_yards_share_pct_range": [
+      20,
+      45
+    ],
+    "slot_rate_pct_range": [
+      26,
+      80
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "Med",
+    "confidence": 0.67,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 6,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.59
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "possession_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+  "summary_text": "Healthy Tier 4 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

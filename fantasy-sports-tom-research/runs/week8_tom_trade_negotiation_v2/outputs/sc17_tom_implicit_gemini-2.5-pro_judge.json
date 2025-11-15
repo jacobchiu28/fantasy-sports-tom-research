@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies Team B\u2019s TE need and offers an upside committee RB, aligning with B\u2019s preferences. However, it ignores B\u2019s injury aversion and the fact Logan Clark is currently out. The offer contradicts Team A\u2019s own injury-avoidance and urgent-win needs by targeting an unavailable QB. Rationale is brief and lacks evidence (B\u2019s injured TE room, committee preference, timelines). Coherent for B but inconsistent for A.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

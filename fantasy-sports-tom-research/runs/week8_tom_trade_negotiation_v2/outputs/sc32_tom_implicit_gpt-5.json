@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Derek White",
+    "Nick Roberts"
+  ],
+  "ask_from_B": [
+    "Ryan Moore",
+    "Xavier Foster"
+  ],
+  "rationale": "B gets dual-threat QB and RB depth to win now; A upgrades WR playoffs and TE floor.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_implicit_gpt-5.txt"
+  }
+}

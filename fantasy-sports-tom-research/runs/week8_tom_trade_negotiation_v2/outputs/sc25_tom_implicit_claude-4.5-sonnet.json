@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Jake Green",
+    "Sean Holt"
+  ],
+  "ask_from_B": [
+    "Cameron Scott",
+    "Ryan Turner"
+  ],
+  "rationale": "Dual-threat QB + RB depth for rookie WR + rookie TE; fits both zero-RB philosophy and youth preference",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Chris Reed",
+    "David Campbell"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "A offers consistent dual-threat QB + possession WR for workhorse RB. B gets depth, A gets playoff upside RB.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

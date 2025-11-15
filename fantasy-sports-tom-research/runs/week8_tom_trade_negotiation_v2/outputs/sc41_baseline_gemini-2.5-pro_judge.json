@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 0,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 25,
+  "justification": "Rationale only addresses Team A\u2019s needs and ignores Team B\u2019s preferences (consistency, possession WRs) and urgent-win context. B already has multiple deep-threat WRs and values reliability; swapping a steady Tier 2 receiving TE for a volatile deep-threat WR plus a Tier 3 RB conflicts with that. Trade is feasible but misaligned with both profiles, and A already has a healthy Tier 2 TE. Explanation is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

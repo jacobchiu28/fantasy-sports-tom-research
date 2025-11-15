@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Devon Green", "Eric Torres"],
+  "ask_from_B": ["Cameron Gonzalez", "Jake Garcia"],
+  "rationale": "Upgrade TE and RB depth; move surplus QB and volatile WR. Increases Team A's weekly stability."
+}

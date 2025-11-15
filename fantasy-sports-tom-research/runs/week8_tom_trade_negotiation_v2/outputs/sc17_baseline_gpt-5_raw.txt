@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Lucas Hall", "Jordan Moore"],
+  "ask_from_B": ["James Jones"],
+  "rationale": "Upgrade to dual-threat QB with friendly playoffs; trade surplus QB/WR depth"
+}

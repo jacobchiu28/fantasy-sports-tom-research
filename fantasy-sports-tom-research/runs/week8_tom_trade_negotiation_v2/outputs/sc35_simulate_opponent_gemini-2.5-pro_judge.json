@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Understands B needs win-now help and a safe QB, but barely engages B\u2019s contrarian, established-talent preference or TE depth. Considers both sides but shallowly. The trade is feasible and helps B\u2019s QB/WR depth, while A upgrades a healthy TE, yet A likely overpays and loses a healthy Tier 2 QB despite being injury-cautious. Rationale is generic and light on roster/tier specifics.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

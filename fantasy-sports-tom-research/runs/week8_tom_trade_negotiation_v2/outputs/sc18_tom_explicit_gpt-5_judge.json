@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: trading a Tier 1, low-variance QB contradicts their conservative, consensus-driven approach. Labeling Ethan Turner as a TE upgrade is incorrect versus B\u2019s Tier 2 Darian Taylor. The RB pieces (King, L. Torres) are low-tier/declining and don\u2019t deliver the stable floor B seeks, despite the minor injury buy angle. Also conflicts with Team A\u2019s injury-avoidance by targeting Q Cameron Harris. Rationale is brief and inaccurate.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

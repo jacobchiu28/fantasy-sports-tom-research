@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "A-centric rationale with little modeling of B\u2019s motives. Ignores B\u2019s preference to buy low on injured players (making them less likely to sell Tyler Anderson) and their dual-threat QB emphasis. Doesn\u2019t mention Anderson\u2019s Doubtful status or B\u2019s TE depth. The trade is plausible (A needs TE, B could use RB help), but paying a Tier 1 RB for an injured TE is risky for A\u2019s conservative style. Minimal, non-evidence-based explanation.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

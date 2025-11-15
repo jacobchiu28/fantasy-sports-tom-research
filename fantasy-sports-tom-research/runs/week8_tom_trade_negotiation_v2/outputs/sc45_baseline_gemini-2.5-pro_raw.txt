@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Isaiah Thompson"
+  ],
+  "rationale": "Trading from a position of RB strength to acquire a reliable WR1, improving roster balance and weekly consistency.",
+  "p_accept_B": 0.65
+}

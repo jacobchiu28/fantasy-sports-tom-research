@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s taste for upside and playoff schedules, but overlooks that Rivera is a Tier 1 cornerstone and B already has a Tier 1 TE, making Chris Torres redundant. While B could use RB depth (only one RB), Liam (Tier 4) is insufficient to justify losing Rivera. The acceptance probability is overly optimistic. Reasoning is thin and doesn\u2019t clearly separate A\u2019s urgency from B\u2019s consolidation incentives as a 7\u20131 contender.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

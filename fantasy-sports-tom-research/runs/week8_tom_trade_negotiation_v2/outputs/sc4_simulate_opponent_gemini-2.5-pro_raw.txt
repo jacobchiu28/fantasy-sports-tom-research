@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Josh Martin",
+    "Brandon Taylor"
+  ],
+  "rationale": "A trades a volatile RB for a consistent one plus a TE upgrade. B gets a high-ceiling player for their championship run.",
+  "p_accept_B": 0.65
+}

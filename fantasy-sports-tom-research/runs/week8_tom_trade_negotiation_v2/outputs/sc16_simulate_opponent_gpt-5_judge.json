@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Shows some awareness that B wants consistency (steady QB, tough playoff RB) but ignores that B values workhorse RBs and already has a Tier 1 QB. Calls a TE downgrade an upgrade (B\u2019s TE is Tier 2; A\u2019s is Tier 4). Minimal separation of A vs. B incentives, little roster-context reasoning. Trade is feasible but imbalanced 3-for-1 where B parts with their best asset.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

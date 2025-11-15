@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Trevor Martin"
+  ],
+  "ask_from_B": [
+    "Jordan Williams",
+    "Michael Foster"
+  ],
+  "rationale": "Team B gets two stable starters to stop losing. Team A takes on volatility and rookie upside for a championship run.",
+  "p_accept_B": 0.65
+}

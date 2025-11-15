@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Some ToM shown (notes B might want a young, stable RB), but it overlooks key B preferences (proven veterans, possession WRs, buying injured) and that B would be giving away the veteran WR they value. B\u2019s RBs are thin but strong; a Tier 4 committee RB likely isn\u2019t enough for a Tier 3 WR. A\u2019s \u2018reliable WR\u2019 claim is vague, and Trevor isn\u2019t a possession-floor fit. The 0.7 accept probability is optimistic.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

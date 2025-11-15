@@ -1,0 +1,88 @@
+{
+  "player_id": "rb62_2025",
+  "name": "Malik White",
+  "position": "RB",
+  "team": "CLE",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      88
+    ],
+    "rush_share_pct_range": [
+      37,
+      70
+    ],
+    "target_share_pct_range": [
+      7,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      28,
+      55
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      14,
+      29
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.66
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "Low",
+    "confidence": 0.53,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.71
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Minor injury concern Tier 2 RB in high-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "High pass rate, Slow tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

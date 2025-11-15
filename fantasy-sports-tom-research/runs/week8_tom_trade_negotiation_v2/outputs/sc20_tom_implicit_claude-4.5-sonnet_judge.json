@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Fails to model Team B: they prefer young ascending players and dual-threat QBs; offer asks B to give up Jake Green (Tier 1) and Devon Lewis for a Tier 4 QB with declining role and a Tier 4 WR in a low-volume offense. The \u201cveteran stability\u201d claim is inaccurate. Though B has QB surplus, they\u2019d demand premium value, not a clear downgrade plus fringe WR. Rationale is generic, lacks roster/context specifics, and acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

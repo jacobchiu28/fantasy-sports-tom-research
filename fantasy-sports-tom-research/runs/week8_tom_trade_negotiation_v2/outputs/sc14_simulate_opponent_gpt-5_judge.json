@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B might value safe QB depth and playoff-friendly WR, but overlooks that B would lose their only strong TE (Noah Brown) and be stuck with a Tier 4 TE\u2014misaligned with B\u2019s conservative, floor-seeking style. Isaiah Thompson\u2019s minor injury and breakout profile also clash with B\u2019s veteran preference. B already has a healthy Tier 2 QB, making QB depth less pressing. Explanation is concise but too generic and optimistic about acceptance.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Correctly targets B\u2019s preference for dual-threat QBs by offering Tyler Lewis and adds a steady WR. Separates sides by giving A a pocket passer and floor RB, fitting A\u2019s conservative archetype. However, it misreads A\u2019s urgent need to win now (\u201crebuild\u201d) and overpays by moving a Tier 1 WR. It doesn\u2019t leverage B\u2019s IR Tier 1 QB context explicitly, nor A\u2019s WR needs/stack preference. Rationale is brief and lacks roster/usage specifics.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

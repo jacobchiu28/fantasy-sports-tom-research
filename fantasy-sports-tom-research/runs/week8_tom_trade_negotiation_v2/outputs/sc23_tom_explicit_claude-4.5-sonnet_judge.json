@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 55,
+  "justification": "Shows awareness of B\u2019s style and preferences but misreads B\u2019s needs: Team B already has multiple viable RBs (Tier 1/2 committees), so RB scarcity is overstated. Emphasizing playoff schedule for a 4-4 team needing immediate points is misaligned. Calling Trevor Martin a \u2018more stable\u2019 WR conflicts with his deep-threat variance. Trade is feasible but value framing and acceptance probability seem optimistic given Robinson\u2019s Tier 5 status.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

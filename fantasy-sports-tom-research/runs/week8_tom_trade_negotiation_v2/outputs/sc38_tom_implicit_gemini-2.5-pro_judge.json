@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Correctly targets B\u2019s dual-threat QB preference and lets B unload an injured WR, but ignores B\u2019s fondness for deep-threat WRs and the risk of weakening B\u2019s RB corps by losing Harris. A\u2019s return (floor RB) conflicts with A\u2019s ceiling-chasing style. Rationale is terse and doesn\u2019t reference B\u2019s QB scarcity, injury avoidance, or strength-of-schedule details. Trade is feasible but only moderately aligned with both sides\u2019 incentives.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Isaiah Thompson"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Isaiah Lee"
+  ],
+  "rationale": "I get the stable RB floor I need for my playoff push. You get a high-upside QB and a young WR for your championship run.",
+  "p_accept_B": 0.7
+}

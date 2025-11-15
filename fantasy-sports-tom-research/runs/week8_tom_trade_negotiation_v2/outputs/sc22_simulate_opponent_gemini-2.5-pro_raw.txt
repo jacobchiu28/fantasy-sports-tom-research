@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Sean Thompson"
+  ],
+  "rationale": "Team A offers a low-volatility RB and a possession WR to stabilize B's lineup for a high-upside breakout WR A covets.",
+  "p_accept_B": 0.6
+}

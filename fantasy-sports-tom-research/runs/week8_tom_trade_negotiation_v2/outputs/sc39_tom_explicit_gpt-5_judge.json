@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Correctly notes B\u2019s contrarian lean, love for deep-threat WRs, and TE depth, but misreads RB depth (B has a Tier 1 RB plus two Tier 3s). Little attention to A\u2019s urgency or B\u2019s injury tolerance. Asking B to give up its only Tier 1 RB for an injured Tier 5 RB, a TE downgrade, and a WR upgrade is misaligned with B\u2019s playoff posture. Rationale is terse and light on specifics.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

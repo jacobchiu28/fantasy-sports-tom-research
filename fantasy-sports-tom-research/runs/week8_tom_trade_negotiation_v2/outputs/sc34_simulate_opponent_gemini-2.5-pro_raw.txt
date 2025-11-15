@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Kyle Martinez"
+  ],
+  "ask_from_B": [
+    "Caleb Jackson"
+  ],
+  "rationale": "Team B gets a low-volatility RB and a young possession WR for its win-now needs, trading from its QB depth.",
+  "p_accept_B": 0.75
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges A\u2019s QB surplus but ignores B\u2019s consensus-driven reluctance to trade a Tier 1 RB. B does need a healthy QB, yet swapping Liam Green for a Tier 2 QB plus a TE5 is unrealistic. The TE \u2018upgrade\u2019 claim is incorrect (Austin Harris is doubtful and same tier). Limited reference to B\u2019s injury aversion and SoS focus. Reasoning is generic and not well-grounded.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

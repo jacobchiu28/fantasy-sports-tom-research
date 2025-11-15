@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Justin Reed",
+    "Mason Robinson"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "Team A consolidates depth at WR and committee RB to acquire a true workhorse, addressing its biggest roster need."
+}

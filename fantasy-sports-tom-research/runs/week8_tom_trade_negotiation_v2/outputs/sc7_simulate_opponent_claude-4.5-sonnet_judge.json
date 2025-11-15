@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s need for wins but ignores B\u2019s upside/dual\u2011threat preference and that B already has another Tier 2 dual\u2011threat QB, making Nelson redundant. A is conservative and values possession WRs, so giving up a Tier 2 floor WR to chase a dual\u2011threat QB is misaligned and likely an overpay. Deal is feasible and could stabilize B\u2019s WRs, but the rationale is generic and lacks roster/usage nuance.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Nick Holt"
+  ],
+  "ask_from_B": [
+    "Ethan Turner",
+    "Xavier Rodriguez"
+  ],
+  "rationale": "Team B gets a workhorse RB to anchor their title run. Team A addresses a critical TE need to make the playoffs.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

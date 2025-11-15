@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B\u2019s needs and values: B already has multiple stable pocket QBs, so Lucas Hall adds little. Asking for Ben King (a low-variance RB B needs) and Austin Torres while offering an injured WR (Derek Harris) undermines B\u2019s urgent-win, floor-first mindset despite comfort with injuries. Roles are mislabeled (Harris as possession, Torres as consistent-target WR). The acceptance probability is unrealistic. Rationale is generic and not roster- or context-specific.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

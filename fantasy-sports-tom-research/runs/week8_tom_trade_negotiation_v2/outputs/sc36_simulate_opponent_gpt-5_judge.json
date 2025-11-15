@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B needs wins now and already has a serviceable QB; trading a healthy Tier 1 RB (Xavier Carter) for an Out QB (Logan Clark) conflicts with urgency and expert consensus. While B does target injured buy-lows and likes ceiling, the rationale incorrectly claims \u2018now\u2019 value and ignores B\u2019s RB-to-QB roster balance. The offer is value-skewed and timing-incoherent, with minimal, inaccurate explanation.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good read on B\u2019s WR surplus and appetite for injured, committee-upside RBs; RB depth need is real. However, A overpays (Tier 2 RB + TE4) for a WR4, conflicting with A\u2019s urgent need for immediate high ceiling. Little attention to B\u2019s TE redundancy (has a TE1) or A\u2019s RB injuries. Rationale is concise but thin on specifics.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

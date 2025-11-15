@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Cameron Scott",
+    "Xavier Rodriguez"
+  ],
+  "rationale": "A swaps a top RB with a tough playoff schedule for a promising rookie WR with a great one. B gets a workhorse for the title run.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

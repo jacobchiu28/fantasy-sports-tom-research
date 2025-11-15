@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Alex Thompson", "Justin Nelson"],
+  "ask_from_B": ["Darian Campbell", "James Campbell"],
+  "rationale": "Swapping high-volatility assets: rookie RB+WR for Team B's rookies. Both managers chase upside, B trusts consensus.",
+  "p_accept_B": 0.62
+}
+```

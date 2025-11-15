@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Logan Clark"],
+  "ask_from_B": ["Xavier Carter"],
+  "rationale": "B gains ceiling dual-threat QB now; A bolsters thin RB room with young upside",
+  "p_accept_B": 0.62
+}

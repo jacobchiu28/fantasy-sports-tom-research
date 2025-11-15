@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Acknowledges B\u2019s 4-4 status and appetite for upside/rookies, and frames A as seeking safety. However, it misses B\u2019s RB surplus and WR need specifics, and ignores B\u2019s comfort with injury risk beyond a mention. The offer is lopsided toward B (A gives a Tier 1 RB and Tier 2 WR for a Tier 2 RB and Tier 4 WR), undermining A\u2019s stated goals. Calling the return a \u2018breakout WR\u2019 is tenuous, and the acceptance probability seems low given value to B. Rationale is too terse and under-evidenced.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

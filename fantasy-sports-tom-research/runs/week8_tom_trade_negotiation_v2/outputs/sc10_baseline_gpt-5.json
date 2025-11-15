@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Jake Green",
+    "Michael Wright"
+  ],
+  "ask_from_B": [
+    "Lucas Carter",
+    "Marcus Garcia"
+  ],
+  "rationale": "QB/TE upgrade for A using TE depth; boosts weekly floor and playoff outlook",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_baseline_gpt-5.txt"
+  }
+}

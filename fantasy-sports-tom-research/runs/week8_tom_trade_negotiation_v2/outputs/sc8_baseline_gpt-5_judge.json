@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Team B values workhorse RBs and possession WRs and avoids injuries; this asks them to give up their possession WR (Thomas) and RB depth (Reed) for a backup QB with a Q tag and a boom/bust WR\u2014misaligned with their preferences. Team A\u2019s conservative, injury-averse profile also conflicts with acquiring two Q-tagged players. Value is lopsided (two Tier 3s for Tier 4 QB + Tier 4 WR). The rationale is brief, A-centric, and ignores B\u2019s incentives, making the 0.55 acceptance estimate unrealistic.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

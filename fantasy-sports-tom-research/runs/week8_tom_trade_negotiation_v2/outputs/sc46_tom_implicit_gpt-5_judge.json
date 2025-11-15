@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Identifies Team B\u2019s interest in a dual-threat, young QB, but ignores that Team A avoids injured players and prefers workhorse RBs. Asking A to take David Young (Out) while calling him steady contradicts A\u2019s risk profile. Malik Carter is a committee back, misaligned with A\u2019s priorities. Rationale is brief and generic, with little roster/context detail.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

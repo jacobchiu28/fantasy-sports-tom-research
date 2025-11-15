@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Misreads Team B\u2019s conservative, veteran-preferring mindset by offering higher-variance assets for their stable RB. Claims A gets a low-variance WR, but Trevor Martin is a mid-variance deep threat. Minimal use of roster/tier context and injuries beyond a vague \u2018stability vs upside\u2019 frame. Trade is feasible, and B does gain a WR upgrade (Isaiah Thompson), but value and psychology alignment are off. Rationale is shallow and partially inaccurate.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Marcus Taylor",
+    "Trevor Clark"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "Upgrade TE with a true receiving option; trade expendable WR/RB depth without weakening starters.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_baseline_gpt-5.txt"
+  }
+}

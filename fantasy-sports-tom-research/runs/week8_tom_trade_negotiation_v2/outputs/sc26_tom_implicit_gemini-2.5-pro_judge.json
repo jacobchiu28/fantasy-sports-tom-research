@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Acknowledges B\u2019s desire for upside/workhorse RB, but ignores B\u2019s dual-threat QB preference and buy-low comfort. Misreads A\u2019s conservative, stability-first profile; the trade sends A a doubtful committee RB and volatile WR. Value/coherence are poor: Tier 1 RB + solid WR for Tier 2 (doubtful) RB + Tier 4 WR. Claim that A gains stability is incorrect. Rationale is generic and lacks injury/role context. p_accept_B is understated; B would likely snap accept.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

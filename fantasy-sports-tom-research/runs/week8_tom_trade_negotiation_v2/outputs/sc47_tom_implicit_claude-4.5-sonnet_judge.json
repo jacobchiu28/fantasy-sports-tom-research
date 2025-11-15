@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Team B (7-1, conservative, consensus-driven) won\u2019t give a Tier 1 RB (even with a declining role) for a Tier 5 WR and a marginal TE upgrade. They value workhorse RBs and possession WRs; Martinez isn\u2019t a possession WR and Turner isn\u2019t a clear TE upgrade over their Tier 4. Rationale is internally inconsistent (\u201cstable veteran RB\u201d going to B) and probability is unrealistic. Minimal evidence of B\u2019s perspective.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

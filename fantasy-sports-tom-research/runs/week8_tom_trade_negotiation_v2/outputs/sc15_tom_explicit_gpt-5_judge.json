@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Good read on Team B\u2019s risk-seeking profile and RB depth; Nick Torres (rookie, ascending Tier 1) fits B\u2019s tastes. However, it underserves Team A\u2019s conservative, consensus-driven approach: trading a Tier 1 WR plus a fringe WR for a Tier 3 RB with a declining role and tough playoff slate is inconsistent with A\u2019s floor/workhorse preference. Rationale is brief and lacks role/schedule context. Coherent for B, but questionable for A\u2019s needs and philosophy.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "The proposal notes B gains RB depth, fitting B\u2019s glaring RB shortage and need for immediate starters. However, it barely models B\u2019s mindset (0-8 urgency, consensus-driven) and downplays the cost of losing a Tier 1 WR (Thompson) for a Tier 2 plus RB3; the TE \u201cupgrade\u201d to A is marginal. Perspectives aren\u2019t clearly separated and the reasoning is terse. The offer is roster-coherent given B\u2019s WR surplus and TE depth, but acceptance probability seems optimistic without adding value from A.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

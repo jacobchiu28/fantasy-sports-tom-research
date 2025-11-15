@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Trey Scott"
+  ],
+  "rationale": "Team B's Zero RB build needs a workhorse. I'll trade my high-touch RB for a major TE upgrade and a solid WR.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

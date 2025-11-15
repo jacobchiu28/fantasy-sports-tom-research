@@ -1,0 +1,19 @@
+```json
+{
+  "offer_from_A": ["Logan Clark", "Justin Hernandez"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Upgrades A's RB depth by trading surplus QB/WR; consolidates talent for playoff push despite 2-6 record.",
+  "p_accept_B": 0.15
+}
+```
+
+Wait, I need to reconsider - I misread the rosters. Josh Robinson is already on Team A. Let me correct this:
+
+```json
+{
+  "offer_from_A": ["Logan Clark", "Justin Hernandez"],
+  "ask_from_B": ["Austin Wright", "Isaiah Thompson"],
+  "rationale": "Trades surplus QB+WR for RB with friendly playoff schedule and ascending young WR to strengthen core roster.",
+  "p_accept_B": 0.25
+}
+```

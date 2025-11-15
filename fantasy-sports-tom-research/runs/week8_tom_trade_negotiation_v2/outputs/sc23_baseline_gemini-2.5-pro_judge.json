@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Explanation is A-centric and doesn\u2019t model B\u2019s mindset. Team B favors upside and is comfortable buying low on injured players, making it less likely they sell a Tier 1 (though doubtful) TE. B already has RB depth (Thompson/Lewis/Flores), so adding another RB doesn\u2019t address TE scarcity. The trade itself is feasible and positionally logical for A, but misses B\u2019s incentives and roster context, and the rationale lacks detail.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

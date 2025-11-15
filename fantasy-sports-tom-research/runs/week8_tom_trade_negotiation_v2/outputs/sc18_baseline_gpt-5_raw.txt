@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Alex Nelson", "Ben King"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Flip QB surplus and committee RB for workhorse with friendly playoffs; upgrades RB1, keeps depth.",
+  "p_accept_B": 0.28
+}

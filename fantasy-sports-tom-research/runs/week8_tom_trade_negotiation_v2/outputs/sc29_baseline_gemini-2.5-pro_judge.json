@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 0,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 10,
+  "justification": "No modeling of Team B\u2019s preferences or incentives. Rationale mislabels Justin Wright (Tier 5, Out) as a top TE and Josh Robinson (Tier 5) as a needed workhorse. Ignores Team A\u2019s injury aversion while targeting Doubtful Jordan Walker. Offers B a downgrade at TE and unclear upgrade at RB without explaining why B would accept. Sparse, inaccurate reasoning.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

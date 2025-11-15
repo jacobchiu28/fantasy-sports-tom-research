@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B might want WR help and A\u2019s desire for upside, but overlooks B\u2019s preference for young ascending players in high-powered offenses\u2014David Campbell is a veteran Tier 4 in a low-volume offense. B\u2019s WRs aren\u2019t clearly thin (two Tier 2s), while Jordan Lewis is a healthy, ascending rookie RB B likely values. Value and fit favor A, making B acceptance unlikely. Rationale is brief and lacks concrete, scenario-grounded details.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

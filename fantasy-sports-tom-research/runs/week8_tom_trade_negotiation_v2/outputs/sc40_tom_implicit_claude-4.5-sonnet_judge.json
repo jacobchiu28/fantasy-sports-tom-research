@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Team B is conservative and values pocket passers and playoff-friendly studs; the offer asks B to give up a Tier 1 WR with a friendly playoff schedule and their pocket QB for a Tier 4 dual-threat QB and a Tier 5 WR. That runs counter to B\u2019s stated preferences and 8-0 stability. The rationale is A-centric, ignores B\u2019s incentives, and the 0.62 accept probability is unrealistic. While the trade is feasible, it\u2019s value-imbalanced and misaligned with B\u2019s beliefs.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

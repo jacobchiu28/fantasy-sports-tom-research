@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Doesn\u2019t model Team B\u2019s motives: B values upside and already has a better TE, so swapping Thompson for a depth TE and volatile WR is unlikely. Rationale is internally inconsistent\u2014claims TE upgrade while asking for a downgrade (Liam < Isaiah). Also misfits Team A\u2019s preference for reliable, workhorse RBs by targeting a volatile committee back. Explanation is generic and unspecific.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

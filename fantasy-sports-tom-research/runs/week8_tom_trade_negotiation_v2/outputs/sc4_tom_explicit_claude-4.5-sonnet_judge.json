@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "It notes Team B\u2019s appetite for ceiling and rookies, but ignores B\u2019s comfort buying low on injured stars (making them less eager to swap Josh Martin). It misreads Team A\u2019s preferences: A is injury-averse yet targets a Questionable RB and doesn\u2019t gain a possession WR. The \u201cconsistency + friendly schedule\u201d claim is thin (only Torres has friendly playoffs; Martin is mixed). Trade is feasible but lopsided and poorly justified.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

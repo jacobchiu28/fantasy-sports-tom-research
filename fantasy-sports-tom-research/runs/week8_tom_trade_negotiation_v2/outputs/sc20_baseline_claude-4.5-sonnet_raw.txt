@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Malik White", "Josh Garcia", "Matt Adams"],
+  "ask_from_B": ["Devon Lewis", "Austin Williams"],
+  "rationale": "Consolidates depth into higher-quality RB2 and WR with upside; improves starting lineup strength for playoff push",
+  "p_accept_B": 0.35
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Correctly targets B\u2019s desire for floor with healthy, low-volatility RBs and gives A boom/bust WRs, but misses B\u2019s preference for true workhorse backs. Trade is lopsided toward B (A gives a Tier 1 and Tier 2 RB for a Tier 2 WR and a declining Tier 5 WR), making the 0.42 accept probability unrealistically low. Explanation is concise but generic, lacking specifics on roles, tiers, injuries, and B\u2019s urgent need for immediate RB touches.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

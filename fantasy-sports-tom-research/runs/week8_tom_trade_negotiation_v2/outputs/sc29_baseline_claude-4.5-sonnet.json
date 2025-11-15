@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Sean Adams"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Consolidate two low-volatility committee backs into workhorse RB with friendly playoff schedule for Team A",
+  "p_accept_B": 0.15,
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_baseline_claude-4.5-sonnet.txt"
+  }
+}

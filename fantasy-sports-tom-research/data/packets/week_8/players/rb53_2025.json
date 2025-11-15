@@ -1,0 +1,85 @@
+{
+  "player_id": "rb53_2025",
+  "name": "Nick Torres",
+  "position": "RB",
+  "team": "BUF",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      92
+    ],
+    "rush_share_pct_range": [
+      41,
+      77
+    ],
+    "target_share_pct_range": [
+      3,
+      9
+    ],
+    "red_zone_carry_share_pct_range": [
+      26,
+      50
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "pass_block_snap_share_pct_range": [
+      15,
+      30
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Med",
+    "confidence": 0.9,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.77
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 3 RB in low-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 3 (Low trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

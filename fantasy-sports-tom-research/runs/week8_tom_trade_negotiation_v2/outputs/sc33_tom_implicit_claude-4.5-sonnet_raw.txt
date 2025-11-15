@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Caleb Garcia", "Trey Adams"],
+  "ask_from_B": ["Darian Anderson", "Brandon Martinez"],
+  "rationale": "Stable pocket QB + low-volatility RB for two consistent WRs with friendly playoff schedules",
+  "p_accept_B": 0.62
+}
+```

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Caleb Garcia (QB)", "Noah Brown (TE)"],
+  "ask_from_B": ["Darian Thomas (WR)"],
+  "rationale": "B gains steady QB/TE depth; A adds a reliable slot WR for weekly floor. Win-now fit for both.",
+  "p_accept_B": 0.6
+}

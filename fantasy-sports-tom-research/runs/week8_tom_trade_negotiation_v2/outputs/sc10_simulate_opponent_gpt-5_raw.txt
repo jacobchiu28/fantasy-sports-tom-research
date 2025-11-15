@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Kyle Martinez", "Alex White"],
+  "ask_from_B": ["James Rivera"],
+  "rationale": "B gets possession WR + RB floor for urgent wins; A adds a high-upside deep threat.",
+  "p_accept_B": 0.65
+}

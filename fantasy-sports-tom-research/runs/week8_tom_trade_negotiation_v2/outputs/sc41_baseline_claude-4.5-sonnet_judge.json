@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "The offer targets B\u2019s TE surplus (Noah Brown) and sends a Tier 1 RB (King) plus a possession WR (Allen), aligning with B\u2019s need for reliable starters and preference for possession profiles. However, the rationale is almost entirely A-centric and omits B\u2019s must-win context, consistency bias, and TE depth. The stated p_accept (0.35) is incongruent with how favorable this is for B. Minor coherence issues (calling it \u2018clearing committee RBs\u2019 while moving only King) and A overpaying for a TE upgrade also detract.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Identifies B\u2019s desire for stability but mislabels Trevor Martin as stable and ignores B\u2019s preference for possession WRs and expert rankings. Asking B to give up Tier 2 Michael Foster for Tier 4 Martin conflicts with B\u2019s consensus-driven approach. Only Campbell fits B\u2019s floor need. Trade is also contextually shaky as B already rosters Trevor Martin. Rationale is brief and generic, with an overly optimistic acceptance probability.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Taylor", "Marcus Taylor"],
+  "ask_from_B": ["Josh Martin", "Austin Torres"],
+  "rationale": "Swapping workhorse RBs; A gets consistency, B gets upside rookie stack potential",
+  "p_accept_B": 0.62
+}
+```

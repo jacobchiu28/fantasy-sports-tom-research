@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Recognizes B values workhorse RBs, but ignores B\u2019s conservative, consensus-driven mindset and existing RB depth. Offers a Tier 5 RB from a low-volume offense (which B likely fades) for B\u2019s Tier 1 and Tier 2 WRs\u2014an extreme value gap and a 2-for-1 depth hit B won\u2019t accept while needing wins. Mislabels the asked WRs as \u201cstable\u201d despite mid variance and one declining role. Rationale is too shallow and overlooks roster context and market value; acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

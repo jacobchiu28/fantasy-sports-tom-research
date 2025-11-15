@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Justin Wright"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "Team A upgrades its biggest weakness (RB) with a promising rookie by trading from a position of TE depth.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_baseline_gemini-2.5-pro.txt"
+  }
+}

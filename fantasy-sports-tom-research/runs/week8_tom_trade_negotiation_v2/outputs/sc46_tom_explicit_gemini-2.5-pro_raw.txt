@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Justin Hernandez"
+  ],
+  "ask_from_B": [
+    "Malik Carter",
+    "Darian Taylor"
+  ],
+  "rationale": "B gets the young, high-upside dual-threat QB they covet. A gets a low-volatility veteran RB to boost playoff consistency.",
+  "p_accept_B": 0.65
+}

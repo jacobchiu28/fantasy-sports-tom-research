@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Some ToM shown (B needs wins; playoff schedule noted), but it misreads B\u2019s preference for high-upside/variance by pitching a \u2018stable WR.\u2019 B already has multiple WRs and values big-play profiles, making a possession WR less appealing. A\u2019s benefit is misstated (\u2018consolidates bench depth\u2019 for a 2-for-1). Trade is feasible and could help B\u2019s depth, but the rationale is thin and not well aligned with B\u2019s stated motivations.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

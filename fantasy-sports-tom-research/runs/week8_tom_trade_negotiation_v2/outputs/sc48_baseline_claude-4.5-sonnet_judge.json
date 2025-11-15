@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Doesn\u2019t model Team B\u2019s beliefs or needs. B already has two healthy QBs and an IR star, so Trevor Roberts (Tier 5) isn\u2019t valuable. B\u2019s biggest hole is TE, but Chris Lewis is doubtful with limited receiving upside\u2014unlikely to appeal to a manager who trusts expert rankings. Meanwhile, Darian Campbell fits B\u2019s rookie/upside preference with ascending usage and friendly playoff slate, making him hard to pry away. Offer is roster-coherent for A but lopsided. Rationale is generic and A-centric.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

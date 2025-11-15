@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 60,
+  "justification": "Correctly notes B\u2019s consensus-driven mindset and appeal of a high-ceiling WR, but overassumes RB depth and overlooks B\u2019s preference for rookie upside (Darian Campbell ascending). The swap is coherent: A seeks RB help, B gains a Tier 1 WR, and injuries aren\u2019t a concern. However, the rationale barely addresses A\u2019s motivations and ignores potential bye/roster ripple effects. Clear but too brief and shallow.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

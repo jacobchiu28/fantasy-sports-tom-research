@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Chris Adams", "Adam Anderson"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Turn surplus QB/WR into workhorse RB to fix RB depth and stabilize weekly scoring"
+}

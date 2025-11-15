@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Austin Torres",
+    "Noah Carter"
+  ],
+  "rationale": "Team A sells its top asset for depth. Team B consolidates volatile players for a stable workhorse RB to fit their style.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Liam Torres",
+    "Alex White"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera"
+  ],
+  "rationale": "You get two young, upside RBs to solve your critical depth issue. I consolidate to chase wins with a high-ceiling WR.",
+  "p_accept_B": 0.75
+}

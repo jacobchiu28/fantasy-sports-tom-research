@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "Kyle Martinez"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "B gets RB depth and rookie deep threat; A upgrades to target-hog TE for must-win push.",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_simulate_opponent_gpt-5.txt"
+  }
+}

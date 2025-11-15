@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Trevor Martin",
+    "Alex King"
+  ],
+  "rationale": "Team B gets workhorse RB with friendly playoff schedule; Team A upgrades WR consistency for playoff push",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

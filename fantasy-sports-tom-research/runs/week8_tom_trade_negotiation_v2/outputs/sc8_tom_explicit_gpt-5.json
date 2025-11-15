@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Caleb Garcia"
+  ],
+  "ask_from_B": [
+    "Darian Thomas"
+  ],
+  "rationale": "B seeks steady starters, needs QB2 for wk12. Noah=TE1 upgrade; Garcia safe. A gets Thomas\u2019s weekly floor.",
+  "p_accept_B": 0.46,
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_explicit_gpt-5.txt"
+  }
+}

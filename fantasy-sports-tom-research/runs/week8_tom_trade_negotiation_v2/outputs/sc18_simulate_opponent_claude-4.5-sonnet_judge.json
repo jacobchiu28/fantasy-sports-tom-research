@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Misreads Team B\u2019s values: they prize floor, SoS, and injured buys. Josh Robinson has friendly playoff schedule and workhorse role; Ben King has a declining role and tough playoffs. Calling Ethan Turner a \u2018low-volatility TE upgrade\u2019 is inaccurate (Tier 4, low consistency) and B already has a healthy Tier 2 TE. Some two-sided framing (RB depth vs workhorse) but shallow. Trade is feasible but poorly aligned with B\u2019s incentives; acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

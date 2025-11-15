@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Recognizes B\u2019s preference for steadier assets but overlooks key traits: B targets injured players as buys and follows consensus, making trading away a Tier 2 WR (Allen) for a Tier 3 RB (Campbell) plus a Tier 5 WR unlikely. Marcus Taylor\u2019s high variance also clashes with B\u2019s consistency bias. Fit is plausible (RB depth for B; upside WR for A) but value and psychology are off. Rationale is brief and lacks specifics; p_accept 0.72 is optimistic.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

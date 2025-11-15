@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Asks Team B to surrender exactly what they value (a workhorse RB and vetted WR) for an injured boom/bust WR and a volatile depth RB, despite B\u2019s urgent need for weekly floor. Minimal evidence of modeling B\u2019s contrarian, volume-first mindset. The rationale is generic and contradictory (\u201cGarcia\u2019s workload fits B\u2019s floor needs\u201d while taking Garcia away). Contextually lopsided and misaligned with both teams\u2019 profiles, especially B\u2019s win-now constraint.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

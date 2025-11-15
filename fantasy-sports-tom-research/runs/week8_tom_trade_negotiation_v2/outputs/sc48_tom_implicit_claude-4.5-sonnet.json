@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Alex Thompson",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "Darian Campbell",
+    "James Campbell"
+  ],
+  "rationale": "Swapping high-variance pieces: rookie RB+WR for volatile RB+rookie WR with upside",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

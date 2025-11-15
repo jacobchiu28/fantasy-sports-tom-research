@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Sam Lewis",
+    "Mason Torres"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "You get a stable RB with a friendly playoff schedule and a reliable WR for your boom/bust corps. I'll take on Taylor's risk.",
+  "p_accept_B": 0.6
+}

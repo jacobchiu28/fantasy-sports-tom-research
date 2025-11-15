@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Captures basic style fit: B gets stable veteran RB floors and A gets an upside rookie WR. Shows some perspective-taking but lacks nuance about B\u2019s preference for true workhorse backs and heavy touches, and B\u2019s urgency for immediate weekly starters. The offer is roster-coherent (B\u2019s RB need, A\u2019s RB surplus), and health/risk profiles align with B\u2019s injury aversion. However, rationale is terse and generic, omitting player roles and usage specifics; p_accept seems somewhat optimistic given both RBs are committee pieces.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

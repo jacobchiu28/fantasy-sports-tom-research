@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Brandon Martinez", "Austin Martin"],
+  "ask_from_B": ["Sean Scott", "Chris Lewis"],
+  "rationale": "B swaps volatile WR for steadier WR + floor RB (friendly playoffs); A adds ceiling. Fits conservative 8–0.",
+  "p_accept_B": 0.7
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Flores", "Matt Adams"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "Upgrade to workhorse RB by consolidating committee back + volatile WR; strengthens Team A's RB core objectively",
+  "p_accept_B": 0.25
+}
+```

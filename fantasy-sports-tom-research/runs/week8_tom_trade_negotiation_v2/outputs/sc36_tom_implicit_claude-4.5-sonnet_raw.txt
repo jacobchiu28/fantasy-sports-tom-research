@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Logan Clark", "Eric Davis"],
+  "ask_from_B": ["Josh Martin"],
+  "rationale": "Dual-threat QB + high-ceiling WR for workhorse RB; B gets upside, A gets stable production",
+  "p_accept_B": 0.72
+}
+```

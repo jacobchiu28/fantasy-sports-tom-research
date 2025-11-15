@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Michael Roberts"
+  ],
+  "ask_from_B": [
+    "Noah Carter"
+  ],
+  "rationale": "You're 8-0 and need a TE for a title run. I'll send a promising rookie TE to fill your biggest roster hole for a bench RB.",
+  "p_accept_B": 0.65
+}

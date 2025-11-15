@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Chris Garcia"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Team B gets a high-ceiling WR for a low-volatility RB. This trade helps A's weekly floor and B's upside, a win for both styles.",
+  "p_accept_B": 0.75
+}

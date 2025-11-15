@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Recognizes B's preference for consistency and RB depth, offering a 'steady' RB and possession WR while labeling Sean Thompson as volatile. However, it ignores B\u2019s reliance on expert rankings and consolidation needs as an 8-0 team; trading a Tier 1 WR for a committee RB (Tier 3) and a Tier 5 WR is unlikely. No leverage on B\u2019s injury-buying tendency. Rationale is brief and lacks tier/matchup detail.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Sean Hernandez",
+    "Austin Williams"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team A consolidates roster depth at RB and WR to acquire a high-end, pass-catching TE, addressing its biggest need.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_baseline_gemini-2.5-pro.txt"
+  }
+}

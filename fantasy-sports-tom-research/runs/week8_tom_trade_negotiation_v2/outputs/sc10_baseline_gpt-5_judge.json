@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Proposal misreads both sides. It claims a QB/TE upgrade for A, but A trades away a Tier 1 QB (Jake Green) and a Tier 3 TE for an Out Tier 5 QB (Lucas Carter) and a Q Tier 4 TE\u2014clear downgrade. No evidence of B\u2019s mindset (urgency for immediate points, floor/volume preferences). Explanation is terse, incorrect, and not grounded in roster/health context. While B might accept due to massive QB upgrade, the rationale ignores B and is internally incoherent.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

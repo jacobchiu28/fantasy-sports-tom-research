@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Poor modeling of Team B: they prefer consistency and healthy players, yet are offered a mid-variance WR and asked to surrender their possession WR. Value isn\u2019t similar\u2014A parts with a Tier 1 RB and Tier 1 WR for B\u2019s Tier 3 RB/WR. The move also contradicts Team A\u2019s injury-averse profile by targeting two Questionable players. Rationale is generic and overlooks tiers, roles, injuries, and each side\u2019s urgent needs, making the proposal incoherent for A and only incidentally appealing for B.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

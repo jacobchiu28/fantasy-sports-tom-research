@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges Team B\u2019s playoff-schedule focus and upside appetite, and the pieces partly fit B\u2019s tastes. However, it overlooks B\u2019s tendency to buy injured stars (trading away Logan Clark), and ignores Team A\u2019s injury aversion and urgent need for immediate production. Calling Josh Robinson a \u201ctrue workhorse\u201d clashes with his Tier 5 value. Team A giving up a Tier 1 RB and healthy QB for an Out QB is misaligned with their win-now needs. Rationale is brief and under-evidenced.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

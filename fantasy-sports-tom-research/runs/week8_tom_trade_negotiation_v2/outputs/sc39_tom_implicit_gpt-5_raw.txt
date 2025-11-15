@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Derek White", "Kyle Martinez"],
+  "ask_from_B": ["Noah Brown", "Noah Carter"],
+  "rationale": "A gets RB pop + TE upgrade now; B gets dual-threat QB depth and favored rookie deep threat",
+  "p_accept_B": 0.44
+}

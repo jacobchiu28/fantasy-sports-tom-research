@@ -1,0 +1,88 @@
+{
+  "player_id": "qb34_2025",
+  "name": "Logan Clark",
+  "position": "QB",
+  "team": "PHI",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      27,
+      39
+    ],
+    "completion_pct_range": [
+      61,
+      68
+    ],
+    "deep_attempt_rate_pct": [
+      8,
+      18
+    ],
+    "rush_share_pct_range": [
+      6,
+      15
+    ],
+    "trend_5g": "Up",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.15
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.73,
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [
+      "Stack candidate"
+    ],
+    "confidence": 0.67
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+  "summary_text": "Out with availability unclear Tier 1 QB in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "volatility": "Low",
+    "health": "Out",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

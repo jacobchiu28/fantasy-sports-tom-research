@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Acknowledges Team B\u2019s taste for high-upside rookies, but ignores their urgent need for immediate production; offering an injured RB and a rookie with a declining role is misaligned. Says \u201cplayoff push\u201d for a 3\u20135 team. Also mismatched with Team A\u2019s conservative, floor-first profile by targeting another volatile deep threat. Value/tier logic is shaky (Tier 2 WR + injured RB for Tier 3 WR). Rationale is generic and thin; acceptance probability seems overstated.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

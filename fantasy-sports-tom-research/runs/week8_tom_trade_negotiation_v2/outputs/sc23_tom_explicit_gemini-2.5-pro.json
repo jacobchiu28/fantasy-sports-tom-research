@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Josh Martin"
+  ],
+  "ask_from_B": [
+    "James Rivera"
+  ],
+  "rationale": "You get the workhorse RB you need for a playoff push. I trade from my RB depth to get a high-upside young WR.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

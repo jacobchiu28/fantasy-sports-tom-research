@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offer ignores Team B\u2019s preference for consistency and injured buy-lows: Moore/Taylor are high-variance WRs, while Liam Torres is a committee RB with a Q tag and Ethan Turner isn\u2019t a reliable TE upgrade. Minimal separation of A vs. B incentives, and A\u2019s injury-cautious profile conflicts with acquiring Torres. The rationale mislabels Torres\u2019 workload and Turner\u2019s reliability, and provides almost no evidence. Acceptance probability seems overstated.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

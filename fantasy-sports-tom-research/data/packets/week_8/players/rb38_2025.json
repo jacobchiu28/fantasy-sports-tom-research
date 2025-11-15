@@ -1,0 +1,88 @@
+{
+  "player_id": "rb38_2025",
+  "name": "Trevor Martin",
+  "position": "RB",
+  "team": "LV",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      77,
+      94
+    ],
+    "rush_share_pct_range": [
+      55,
+      75
+    ],
+    "target_share_pct_range": [
+      7,
+      15
+    ],
+    "red_zone_carry_share_pct_range": [
+      27,
+      57
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      13,
+      31
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.68
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.68,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.88
+  },
+  "archetype_tags": [
+    "workhorse_rb"
+  ],
+  "role_description": "Workhorse RB with heavy workload, mid production volatility",
+  "summary_text": "Minor injury concern Tier 4 RB in mid-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Workhorse RB with heavy workload, mid production volatility",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

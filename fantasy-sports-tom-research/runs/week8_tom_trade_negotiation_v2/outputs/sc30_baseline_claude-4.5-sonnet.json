@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Lucas Flores",
+    "Trevor Clark"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Alex Mitchell"
+  ],
+  "rationale": "Upgrade TE receiving role, consolidate RB depth for better committee back with mixed playoff outlook",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_baseline_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Caleb Turner", "Jordan King", "Cameron Holt"],
+  "ask_from_B": ["Josh Robinson", "David Flores"],
+  "rationale": "Turn RB committee depth + surplus WR into workhorse RB and TE upgrade for stronger playoff run."
+}

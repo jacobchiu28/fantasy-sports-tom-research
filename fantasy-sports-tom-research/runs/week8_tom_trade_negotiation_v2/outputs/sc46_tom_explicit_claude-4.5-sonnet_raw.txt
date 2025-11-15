@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Caleb Jackson", "Cameron Scott"],
+  "ask_from_B": ["Malik Carter"],
+  "rationale": "Team B gets dual-threat QB + consistent WR (young talent). Team A gets low-variance workhorse RB for playoff push.",
+  "p_accept_B": 0.72
+}
+```

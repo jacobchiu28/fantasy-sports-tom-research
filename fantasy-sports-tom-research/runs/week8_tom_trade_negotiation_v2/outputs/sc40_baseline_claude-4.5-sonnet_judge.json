@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale barely considers Team B\u2019s mindset (conservative, rankings-driven, playoff schedule). It labels Austin Reed a backup despite being a Tier 1 QB, undermining credibility. While the swap is feasible and gives B a floor-stable pocket passer upgrade, it ignores B\u2019s likely reluctance to surrender RB depth with a friendly playoff schedule. Explanation is generic and A-centric with limited evidence.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

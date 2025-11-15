@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It appeals to B\u2019s conservatism (steady RB, pocket QB) but misses B\u2019s reliance on expert rankings and existing pocket QB depth, making a Tier 2 RB-for-Tier 4 downgrade unrealistic. Roles and health align, but value is lopsided toward A and the 0.57 accept rate is optimistic. The rationale is brief and not well-grounded in tiers, roster context, or B\u2019s priorities.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Liam Torres"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera"
+  ],
+  "rationale": "B gets a needed RB with a great playoff schedule. A gets a high-ceiling WR to chase essential wins.",
+  "p_accept_B": 0.75
+}

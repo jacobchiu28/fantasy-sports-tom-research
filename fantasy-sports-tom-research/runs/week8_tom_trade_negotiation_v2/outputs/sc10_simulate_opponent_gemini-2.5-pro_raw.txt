@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "Austin Torres"
+  ],
+  "ask_from_B": [
+    "Marcus Garcia"
+  ],
+  "rationale": "A consolidates bench depth for a TE upgrade. Desperate B gets two potential starters to address his weak RB/WR corps.",
+  "p_accept_B": 0.7
+}

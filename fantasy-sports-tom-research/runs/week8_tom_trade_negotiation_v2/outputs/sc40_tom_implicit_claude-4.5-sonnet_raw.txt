@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "Brandon Martinez"],
+  "ask_from_B": ["Isaiah Lee", "Liam Wright"],
+  "rationale": "Swapping dual-threat QB for pocket passer + upgrading WR depth with friendly playoff schedule",
+  "p_accept_B": 0.62
+}
+```

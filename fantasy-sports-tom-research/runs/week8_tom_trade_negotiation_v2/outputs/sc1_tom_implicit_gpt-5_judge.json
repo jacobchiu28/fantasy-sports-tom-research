@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges B\u2019s preference for pocket passers/possession WRs, but ignores that B already has a Tier 1 QB and values RB workload/consensus, making surrendering a Tier 2 RB (even doubtful) unlikely. Marcus Taylor is Tier 5 with high variance, not a stable floor. Claim that A gains stability is inconsistent (White doubtful, Liam Adams Tier 4 declining). Rationale is brief and not grounded in roster context or injuries.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

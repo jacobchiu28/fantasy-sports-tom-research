@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "David Campbell"
+  ],
+  "ask_from_B": [
+    "Isaiah Adams"
+  ],
+  "rationale": "B upgrades WR consistency, offloads TE with tough playoffs; A fills TE hole. Need-for-need fit.",
+  "p_accept_B": 0.76,
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_simulate_opponent_gpt-5.txt"
+  }
+}

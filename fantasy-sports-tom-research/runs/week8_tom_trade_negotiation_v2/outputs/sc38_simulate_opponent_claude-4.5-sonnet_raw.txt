@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Lucas Hernandez", "Sean Thompson"],
+  "ask_from_B": ["Brian Harris", "Matt Nelson"],
+  "rationale": "A trades dual-threat QB+upside WR for RB depth; B gets QB upgrade & high-ceiling WR, trusts expert consensus",
+  "p_accept_B": 0.72
+}
+```

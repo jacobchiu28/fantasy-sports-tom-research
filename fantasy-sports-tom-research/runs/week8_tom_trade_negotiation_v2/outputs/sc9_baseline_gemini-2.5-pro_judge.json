@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Offer ignores Team B\u2019s conservative, floor-focused, injury-averse mindset and zero-RB lean. B needs healthy, stable producers and possession WRs; instead A offers a volatile deep-threat WR (Q) and an injured, volatile committee RB, asking for B\u2019s healthy workhorse RB. Rationale centers on A\u2019s needs, not B\u2019s incentives or urgency for weekly stability. Trade is feasible but poorly aligned with B\u2019s preferences and situation.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

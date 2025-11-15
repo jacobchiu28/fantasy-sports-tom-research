@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Rationale focuses only on Team A\u2019s needs (RB weakness, TE depth) and ignores Team B\u2019s preferences. B values rookie/committee RBs and strength of schedule\u2014Josh Garcia fits both\u2014so he\u2019s unlikely to be moved for an injured, low-tier TE (Justin Wright). While trading TE depth for RB help is structurally coherent, the valuation and injury context make acceptance implausible. Explanation is brief and lacks B-centric reasoning.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

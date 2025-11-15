@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Noah Brown"
+  ],
+  "ask_from_B": [
+    "James Jones",
+    "Chris Garcia"
+  ],
+  "rationale": "A gets a needed dual-threat QB. B fixes huge RB/TE holes with a workhorse back and a pass-catching TE. Both 0-8 teams shake up their rosters.",
+  "p_accept_B": 0.7
+}

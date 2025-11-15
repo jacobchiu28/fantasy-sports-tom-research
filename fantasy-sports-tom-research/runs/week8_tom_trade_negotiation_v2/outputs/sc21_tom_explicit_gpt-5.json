@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson",
+    "Alex White"
+  ],
+  "ask_from_B": [
+    "David Campbell",
+    "Alex Baker"
+  ],
+  "rationale": "B (0-8, conservative) gains young depth WR/RB; A upgrades to veteran possession WR + TE. Balanced needs.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_explicit_gpt-5.txt"
+  }
+}

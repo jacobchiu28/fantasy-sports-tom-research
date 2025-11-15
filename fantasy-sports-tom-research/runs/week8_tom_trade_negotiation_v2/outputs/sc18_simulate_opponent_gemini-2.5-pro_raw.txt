@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ben King",
+    "Darian Allen"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Team A consolidates depth for a workhorse RB. B gets a safe RB floor in King & a WR with playoff upside to boost a 4-4 team.",
+  "p_accept_B": 0.6
+}

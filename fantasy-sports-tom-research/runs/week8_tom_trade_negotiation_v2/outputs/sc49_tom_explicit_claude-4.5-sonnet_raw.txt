@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brian Harris", "Kyle Garcia"],
+  "ask_from_B": ["Kevin Allen", "Chris Garcia"],
+  "rationale": "Team B gets low-volatility veteran RBs for floor stability; Team A gets high-upside boom/bust WRs for playoff ceiling",
+  "p_accept_B": 0.42
+}
+```

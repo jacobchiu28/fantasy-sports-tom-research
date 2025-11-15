@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "Jordan Walker"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Michael Flores"
+  ],
+  "rationale": "B upgrades to rushing QB for playoffs; A shores RB/TE with reliable floors",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_implicit_gpt-5.txt"
+  }
+}

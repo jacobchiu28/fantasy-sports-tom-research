@@ -1,0 +1,88 @@
+{
+  "player_id": "rb61_2025",
+  "name": "James Holt",
+  "position": "RB",
+  "team": "SF",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      75
+    ],
+    "rush_share_pct_range": [
+      35,
+      75
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      29,
+      58
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      15,
+      34
+    ],
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.52
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.74,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.56
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, high production volatility",
+  "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, high production volatility",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

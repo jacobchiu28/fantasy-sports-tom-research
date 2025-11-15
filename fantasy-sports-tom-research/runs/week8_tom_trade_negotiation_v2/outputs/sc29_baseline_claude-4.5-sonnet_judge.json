@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale is almost entirely Team A\u2013centric and doesn\u2019t model Team B\u2019s motives (liking injured buy-lows, valuing rookies like Robinson, urgent win needs, or roster injuries at QB/TE). Trade is feasible and could appeal to B (Harris helps now; Adams as stash), but it conflicts with A\u2019s urgent win-now need by downgrading from a Tier 2 RB to a Tier 5. Explanation is brief and lacks evidence about B\u2019s incentives or constraints.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

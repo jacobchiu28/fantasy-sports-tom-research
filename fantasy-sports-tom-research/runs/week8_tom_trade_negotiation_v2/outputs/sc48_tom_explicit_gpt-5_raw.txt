@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Alex Thompson", "Logan Mitchell"],
+  "ask_from_B": ["David Adams", "Jamal Adams"],
+  "rationale": "B trusts rankings: TE upgrade + W11 RB bye fix; A gains upside RB, accepts rookie TE.",
+  "p_accept_B": 0.64
+}

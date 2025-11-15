@@ -1,0 +1,85 @@
+{
+  "player_id": "rb30_2025",
+  "name": "Caleb Turner",
+  "position": "RB",
+  "team": "NYG",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      77
+    ],
+    "rush_share_pct_range": [
+      36,
+      70
+    ],
+    "target_share_pct_range": [
+      7,
+      13
+    ],
+    "red_zone_carry_share_pct_range": [
+      25,
+      55
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      10,
+      34
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.59,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.65
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 4 RB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

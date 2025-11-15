@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Robinson", "Brandon Hernandez"],
+  "ask_from_B": ["Chris Reed", "Trevor Brown"],
+  "rationale": "A gets stable low-volatility QB+WR stack; B gets workhorse RB + young ascending WR for injury-buy QBs",
+  "p_accept_B": 0.72
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 60,
+  "justification": "Good recognition of B\u2019s dual-threat QB preference, zero-RB lean, and reliance on consensus, but it overlooks that B highly values rookies\u2014Cameron Scott (Tier 1 rookie) is exactly the type B would avoid trading. It also overstates B\u2019s QB \u2018need\u2019 given Holt\u2019s stability and playoff schedule, and doesn\u2019t leverage B\u2019s injury-buy tendency. Trade is feasible but misaligned with B\u2019s philosophy, likely overestimating acceptance and calling it a zero-RB fit despite sacrificing elite WR capital without WR return.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

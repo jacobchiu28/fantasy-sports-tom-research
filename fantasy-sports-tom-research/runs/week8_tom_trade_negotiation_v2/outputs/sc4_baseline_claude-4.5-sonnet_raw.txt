@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Taylor", "Noah Garcia"],
+  "ask_from_B": ["Austin Torres", "Brandon Taylor"],
+  "rationale": "Upgrades A's WR depth and TE receiving; trades away high-volatility RB for consistent pass-catchers",
+  "p_accept_B": 0.35
+}
+```

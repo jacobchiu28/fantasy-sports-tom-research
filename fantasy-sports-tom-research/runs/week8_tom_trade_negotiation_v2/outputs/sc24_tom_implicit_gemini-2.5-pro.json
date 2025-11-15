@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Nick Holt",
+    "Isaiah Adams"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "A solidifies their RB corps by trading a reliable WR for your RB depth. Holt offers your WRs a stable floor for the playoff run.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

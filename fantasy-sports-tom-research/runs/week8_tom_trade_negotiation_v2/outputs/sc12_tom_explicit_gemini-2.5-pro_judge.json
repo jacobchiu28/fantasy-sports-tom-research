@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Captures basic motives: A wants floor, B can chase ceiling. However, it lacks nuanced modeling of B\u2019s preferences (e.g., dual-threat QB bias, roster depth) and A\u2019s consensus-driven behavior. The offer is inconsistent: A trades a Tier 1 RB plus a Tier 2 WR for B\u2019s Tier 3 \u2018stable\u2019 RB, contradicting A\u2019s reliance on expert rankings/volume. Explanation is terse and not grounded in tiers, roles, or depth; health context is coherent but value logic is weak.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

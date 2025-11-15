@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Martin", "Eric Davis"],
+  "ask_from_B": ["Alex Nelson", "Michael Roberts"],
+  "rationale": "B moves surplus QB/TE for RB depth + young ascending WR; A gains steadier QB and receiving TE floor.",
+  "p_accept_B": 0.58
+}

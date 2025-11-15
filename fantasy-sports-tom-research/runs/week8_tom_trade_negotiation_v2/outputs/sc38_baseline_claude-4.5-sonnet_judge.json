@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale is A-centric and barely models B\u2019s beliefs. B values deep\u2011threat WRs and consensus safety; Foster is a slot possession WR and Nguyen isn\u2019t a clear deep threat, plus he has a tough playoff schedule\u2014misaligned with B\u2019s stated preferences and schedule focus. B also risks thinning RB depth by giving up a Tier 2 ascending back while already holding several WRs. The trade is feasible on value, but the explanation lacks detail on B\u2019s incentives or constraints.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

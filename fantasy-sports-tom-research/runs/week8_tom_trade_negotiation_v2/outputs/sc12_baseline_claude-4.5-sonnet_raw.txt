@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Tyler Lewis", "Alex Thompson"],
+  "ask_from_B": ["Isaiah Lee", "Ben King"],
+  "rationale": "Acquire stable pocket passer + low-volatility RB; trade away high-variance dual-threat QB + committee back",
+  "p_accept_B": 0.35
+}
+```

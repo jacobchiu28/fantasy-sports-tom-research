@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "After correcting the roster mistake, the proposal still ignores Team B\u2019s mindset: B is injury\u2011cautious and already QB-deep, yet A offers an Out QB; B also prefers young ascending players with playoff advantage, making Isaiah Thompson a core hold. The ask mismatches B\u2019s values and consensus tendencies. Coherence is marginally acceptable but optimistic on acceptance. Rationale is brief, A-centric, and lacks evidence about B\u2019s incentives or constraints.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson",
+    "Alex Thompson"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Consolidating WR depth and a volatile RB to acquire a stable, low-volatility starting running back to address a position of need."
+}

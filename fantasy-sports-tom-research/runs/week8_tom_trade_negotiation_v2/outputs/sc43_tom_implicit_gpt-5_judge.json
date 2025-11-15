@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "It notes B might like a \u2018workhorse RB + steady QB,\u2019 but ignores B\u2019s reliance on rankings and need for stable, high-tier assets. B would be downgrading from a Tier 1 RB and Tier 2 QB to a Tier 5 RB and Tier 3 QB while needing wins\u2014unlikely. A\u2019s upside aims are served, but stacks aren\u2019t addressed. The trade is value-skewed toward A, so B\u2019s accept chance is overstated. Rationale is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

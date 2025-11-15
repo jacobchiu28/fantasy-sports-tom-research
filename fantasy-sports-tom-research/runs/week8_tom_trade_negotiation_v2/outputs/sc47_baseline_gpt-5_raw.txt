@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Lucas Hall", "Darian Nelson"],
+  "ask_from_B": ["Sam Foster", "Lucas Allen"],
+  "rationale": "Upgrade to dual-threat QB, add steady WR; fix QB bye overlap and reduce WR volatility"
+}

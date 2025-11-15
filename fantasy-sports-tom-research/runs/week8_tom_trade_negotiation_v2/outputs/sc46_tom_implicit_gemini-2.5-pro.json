@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Justin Hernandez"
+  ],
+  "ask_from_B": [
+    "Liam Adams",
+    "Malik Carter"
+  ],
+  "rationale": "I add consistent depth at TE/RB. You get a high-upside young QB with a great playoff schedule. Helps both our builds.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

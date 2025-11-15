@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Identifies B\u2019s record, zero-RB lean, and dual-threat QB preference, but shallow. Offer heavily favors B (RB1 + Tier-1 QB for WR3 + TE4), so A\u2019s incentive is unclear and p_accept_B=0.52 is implausibly low. Minimal separation of motives; A already has TE1 depth and values dual-threat QBs yet trades away their only healthy one. Context (roster needs, playoff schedules, injury tendencies) is barely used. Feasible but strategically incoherent for A.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

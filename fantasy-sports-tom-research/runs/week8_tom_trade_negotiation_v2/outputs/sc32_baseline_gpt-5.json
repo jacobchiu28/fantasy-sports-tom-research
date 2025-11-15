@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Austin Reed",
+    "Logan Walker"
+  ],
+  "ask_from_B": [
+    "Devon Reed",
+    "Xavier Foster"
+  ],
+  "rationale": "Upgrade TE and RB depth by moving surplus QB and volatile WR with tough playoffs",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_baseline_gpt-5.txt"
+  }
+}

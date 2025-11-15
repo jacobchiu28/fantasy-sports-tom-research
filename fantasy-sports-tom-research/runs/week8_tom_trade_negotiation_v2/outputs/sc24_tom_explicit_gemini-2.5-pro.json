@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Nick Holt"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "B gets a stable, veteran possession WR to fix his volatile corps. A gets a needed RB with a friendly playoff schedule.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

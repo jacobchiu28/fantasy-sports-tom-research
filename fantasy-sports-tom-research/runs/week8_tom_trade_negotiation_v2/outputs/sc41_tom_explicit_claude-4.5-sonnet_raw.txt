@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sam Martin", "Xavier Thompson"],
+  "ask_from_B": ["Noah Brown", "Justin Young"],
+  "rationale": "Team B needs wins now: swaps high-variance players for consistent TE + stable WR veteran",
+  "p_accept_B": 0.62
+}
+```

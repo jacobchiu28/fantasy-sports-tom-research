@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Martin", "Sean Thompson"],
+  "ask_from_B": ["Tyler Anderson", "Chris Reed"],
+  "rationale": "A stabilizes QB/TE; B adds RB depth and ascending WR for immediate help.",
+  "p_accept_B": 0.47
+}

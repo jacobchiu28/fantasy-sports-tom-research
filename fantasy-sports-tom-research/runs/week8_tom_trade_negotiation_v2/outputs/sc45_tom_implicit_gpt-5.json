@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Kyle Taylor",
+    "Austin Wright"
+  ],
+  "rationale": "B gets playoff-friendly workhorse; A gains upside WR + RB depth. Aligns with both teams' goals.",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_implicit_gpt-5.txt"
+  }
+}

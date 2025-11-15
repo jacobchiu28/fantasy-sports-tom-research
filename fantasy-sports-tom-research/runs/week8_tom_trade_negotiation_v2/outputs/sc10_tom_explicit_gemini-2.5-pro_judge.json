@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Misses Team B\u2019s stated preferences (veteran, high-volume, stable roles) by offering a volatile young WR and a doubtful committee RB. Calls Marcus Garcia a \u201cstud TE\u201d despite Tier 4/Q tag and ignores that Team A already rosters a Tier 1 TE, making the move illogical. Value is grossly lopsided (A overpays), so B\u2019s accept probability is understated. Rationale is concise but inaccurate and not grounded in roster/context.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

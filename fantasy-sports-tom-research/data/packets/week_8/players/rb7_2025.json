@@ -1,0 +1,88 @@
+{
+  "player_id": "rb7_2025",
+  "name": "Liam Torres",
+  "position": "RB",
+  "team": "WAS",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      81
+    ],
+    "rush_share_pct_range": [
+      38,
+      67
+    ],
+    "target_share_pct_range": [
+      5,
+      11
+    ],
+    "red_zone_carry_share_pct_range": [
+      31,
+      60
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      10,
+      29
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "Med",
+    "expected_workload_cap_pct": [
+      55,
+      75
+    ],
+    "confidence": 0.64
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.61,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.5
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Minor injury concern Tier 4 RB in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 4 (Low trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

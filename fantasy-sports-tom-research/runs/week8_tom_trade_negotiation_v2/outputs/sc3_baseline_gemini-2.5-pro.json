@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Darian Thomas"
+  ],
+  "ask_from_B": [
+    "Michael Flores"
+  ],
+  "rationale": "Upgrade at TE, a position of weakness, by trading from WR depth. Flores offers a better playoff schedule than current TEs.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_baseline_gemini-2.5-pro.txt"
+  }
+}

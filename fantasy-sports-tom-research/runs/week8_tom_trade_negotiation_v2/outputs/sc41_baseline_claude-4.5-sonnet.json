@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Jordan King",
+    "Derek Allen"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Upgrades Team A's TE position with receiving-focused asset while clearing committee RBs and volatile WR depth",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_baseline_claude-4.5-sonnet.txt"
+  }
+}

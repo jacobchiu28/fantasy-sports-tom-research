@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good recognition that B values reliability and would be wary of swapping a steady RB for volatile pieces, with clear separation of A vs. B incentives. However, it misreads value signals (Josh Robinson listed as Tier 5 and a rookie vs. B\u2019s preference for proven vets; Noah Carter is Tier 1, so Robinson isn\u2019t clearly indispensable). WR depth concerns for B are overstated. Explanation is specific but undercut by these inconsistencies.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

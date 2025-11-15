@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "It notes B\u2019s taste for dual-threat QBs and deep-threat WRs, offering Derek White and a rookie burner. However, it overlooks B\u2019s 6-2 contender status and the high opportunity cost of surrendering their Tier 1 RB (Noah Carter). The rationale is terse and doesn\u2019t weigh B\u2019s RB depth, QB needs, or contrarian tendencies beyond labels. The trade is feasible and two-sided, but value is lopsided toward A and the explanation lacks concrete, scenario-grounded details.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

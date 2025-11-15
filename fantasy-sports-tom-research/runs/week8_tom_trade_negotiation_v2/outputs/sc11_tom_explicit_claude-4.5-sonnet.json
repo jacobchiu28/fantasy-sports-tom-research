@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Darian Thomas"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Low-volatility possession WR for playoff-schedule RB; addresses B's desperate need for consistency",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

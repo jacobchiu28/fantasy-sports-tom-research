@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Misreads Team B\u2019s needs and values: B has solid RBs and prefers workhorse reliability, yet is offered an Out, low-tier committee RB mislabeled as stable. B also needs immediate wins; trading a healthy Tier 2 possession WR (a clear B preference) for an uncertain RB is counter to their incentives. Minimal separation of perspectives, unrealistic acceptance probability, and a generic, inaccurate rationale.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

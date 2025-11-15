@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Darian Thomas",
+    "Ethan Turner",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Devon Miller",
+    "Caleb Foster"
+  ],
+  "rationale": "B is 0-8, wants steady starters; gets low-var WR+TE+RB, keeps pocket QB; A gets QB depth + possession WR.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_explicit_gpt-5.txt"
+  }
+}

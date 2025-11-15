@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson"
+  ],
+  "ask_from_B": [
+    "David Young",
+    "Malik Carter"
+  ],
+  "rationale": "B upgrades to dual-threat QB; A gets steady QB plus reliable RB depth; fits both managers\u2019 styles.",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_implicit_gpt-5.txt"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "player_id": "wr61_2025",
+  "name": "Trevor Martin",
+  "position": "WR",
+  "team": "GB",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      64,
+      90
+    ],
+    "route_participation_pct_range": [
+      74,
+      90
+    ],
+    "targets_per_route_run_pct_range": [
+      17,
+      27
+    ],
+    "target_share_pct_range": [
+      17,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      20,
+      42
+    ],
+    "slot_rate_pct_range": [
+      19,
+      69
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.82
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.63,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.66
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+  "summary_text": "Healthy Tier 4 WR in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 4 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

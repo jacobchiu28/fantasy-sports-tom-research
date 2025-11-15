@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Understands B needs WR help and references playoff schedules, but overlooks B\u2019s urgency to win now and preference for established talent by offering a rookie RB. Treats WR volatility and B\u2019s contrarian stance lightly. Trade structure is coherent (B trades surplus RB for WR + depth), but rationale is generic and slightly misstates B\u2019s \u2018needed RB depth.\u2019 Balanced but shallow ToM.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

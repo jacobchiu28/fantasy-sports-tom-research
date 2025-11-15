@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "The offer fits A\u2019s risk profile and gives B a clear TE upgrade, but the rationale poorly models B: it ignores B\u2019s strong injury aversion (making trading away an Out QB attractive) and their urgent need for healthy contributors. Calling Logan Clark a \u201cbackup\u201d is misleading. The explanation lacks detail on B\u2019s TE weakness, roster context, and consensus-driven valuations. The trade itself is coherent, but the acceptance probability seems overstated and insufficiently justified.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

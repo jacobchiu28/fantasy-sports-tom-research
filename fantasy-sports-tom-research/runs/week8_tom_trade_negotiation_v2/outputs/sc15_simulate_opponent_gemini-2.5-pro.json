@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Chris Garcia"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "I need a more reliable RB to compete now. You get a high-ceiling WR, a perfect fit for your aggressive, playoff-bound team.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

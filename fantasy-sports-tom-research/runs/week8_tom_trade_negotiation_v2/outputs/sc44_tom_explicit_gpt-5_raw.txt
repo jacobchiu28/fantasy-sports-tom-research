@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["James Jones", "Derek Harris"],
+  "ask_from_B": ["Devon Green", "Caleb Foster"],
+  "rationale": "B seeks stable, consensus starters; Jones > Green by ranks; Harris steady vet w/friendly ROS. Fair, injury-free 2-for-2.",
+  "p_accept_B": 0.55
+}

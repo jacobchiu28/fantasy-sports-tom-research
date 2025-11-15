@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B needs immediate floor and already has multiple pocket QBs; Hall adds little. Asking B to trade a healthy, low-volatility RB (King) and ascending WR2 (Austin Torres) for a bench QB and an OUT WR is misaligned. Calling Harris \u201cstable\u201d contradicts his injury. Torres isn\u2019t a possession WR. The rationale ignores B\u2019s priorities (volume, floor) and overstates accept probability.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

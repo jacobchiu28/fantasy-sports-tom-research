@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Isaiah Thompson"
+  ],
+  "ask_from_B": [
+    "David Campbell",
+    "Liam Carter"
+  ],
+  "rationale": "Low-volatility veteran WR + friendly schedule RB for stable floor pieces",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

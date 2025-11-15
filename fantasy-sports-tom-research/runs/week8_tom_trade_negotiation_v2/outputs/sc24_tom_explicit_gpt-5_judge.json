@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies B\u2019s conservatism and SoS, but misses key beliefs: B already has strong QBs and prefers possession WRs/volume; swapping Cameron (T2) for Nick (T4) conflicts. A is injury-averse yet is asked to take Doubtful Tyler Anderson; A also values pocket passers but trades away Sam Martinez (T2, friendly playoffs). Rationale is terse and doesn\u2019t address roster redundancies or injury preferences. Trade construction is inconsistent with both managers\u2019 stated priorities.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

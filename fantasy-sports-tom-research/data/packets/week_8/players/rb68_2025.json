@@ -1,0 +1,85 @@
+{
+  "player_id": "rb68_2025",
+  "name": "Devon Lewis",
+  "position": "RB",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      41,
+      82
+    ],
+    "rush_share_pct_range": [
+      39,
+      71
+    ],
+    "target_share_pct_range": [
+      5,
+      13
+    ],
+    "red_zone_carry_share_pct_range": [
+      31,
+      53
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "pass_block_snap_share_pct_range": [
+      11,
+      33
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.89
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.78,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.74
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 3 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

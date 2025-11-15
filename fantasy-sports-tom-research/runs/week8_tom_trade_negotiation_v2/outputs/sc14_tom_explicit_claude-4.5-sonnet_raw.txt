@@ -1,0 +1,23 @@
+```json
+{
+  "offer_from_A": ["Sean Holt", "Isaiah Thompson"],
+  "ask_from_B": ["Ethan Campbell", "Trevor Martin"],
+  "rationale": "Team B gets upside; Team A gets low-volatility veteran RB + stable WR for playoff push",
+  "p_accept_B": 0.42
+}
+```
+
+**Reasoning about Team B's perspective:**
+
+Team B's manager is extremely conservative, preferring stable weekly floors over boom/bust players. They value proven veterans with track records and are willing to roster injured players for upside. They target high-powered offenses.
+
+Looking at what Team B would want:
+- They're thin at RB with only committee backs (Jordan Green, Noah Carter, Ethan Campbell)
+- Sean Holt is a high-volatility committee back but represents a "young breakout" with upside
+- Isaiah Thompson is mid-volatility outside WR with friendly playoff schedule - more stable than their current high-volatility WR corps
+
+What Team B would give up:
+- Ethan Campbell: low-volatility veteran RB with friendly playoff schedule - fits Team A's need to avoid injury-prone players and adds stable floor
+- Trevor Martin: mid-volatility veteran deep-threat WR - fits Team A's preference for deep threats while being more stable than their current high-volatility options
+
+Team B likely perceives this as slightly unfavorable because they're trading away their most stable RB (Ethan Campbell) for higher-variance pieces, which conflicts with their conservative style. However, the young breakout upside and playoff schedule improvements might justify consideration. Probability of acceptance is moderate-low given the philosophical mismatch.

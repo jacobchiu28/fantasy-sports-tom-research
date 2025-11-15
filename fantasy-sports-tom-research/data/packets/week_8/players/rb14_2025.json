@@ -1,0 +1,85 @@
+{
+  "player_id": "rb14_2025",
+  "name": "Xavier Thompson",
+  "position": "RB",
+  "team": "ARI",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      79
+    ],
+    "rush_share_pct_range": [
+      35,
+      70
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      26,
+      55
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      14,
+      28
+    ],
+    "trend_5g": "Flat",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.76
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.63,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 10,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.72
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, high production volatility",
+  "summary_text": "Healthy Tier 3 RB in high-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, high production volatility",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 3 (Low trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

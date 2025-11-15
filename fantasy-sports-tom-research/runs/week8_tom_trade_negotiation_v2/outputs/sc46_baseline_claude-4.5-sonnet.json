@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Justin Hernandez"
+  ],
+  "ask_from_B": [
+    "Malik Carter",
+    "Trevor Martin"
+  ],
+  "rationale": "Upgrades A's RB depth with low-volatility veteran, adds consistent WR depth, trades away backup QB and high-variance WR",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_baseline_claude-4.5-sonnet.txt"
+  }
+}

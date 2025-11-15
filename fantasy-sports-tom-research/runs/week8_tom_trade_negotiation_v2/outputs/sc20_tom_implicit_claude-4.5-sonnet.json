@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "David Campbell"
+  ],
+  "ask_from_B": [
+    "Jake Green",
+    "Devon Lewis"
+  ],
+  "rationale": "Swapping dual-threat QBs; A gets young ascending RB+QB, B gets veteran stability at both positions",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

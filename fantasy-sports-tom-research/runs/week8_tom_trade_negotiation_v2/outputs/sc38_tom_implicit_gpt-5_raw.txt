@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Lucas Hernandez"],
+  "ask_from_B": ["Liam Green"],
+  "rationale": "B gets dual-threat QB with playoff schedule; A fills thin RB room with upside.",
+  "p_accept_B": 0.6
+}

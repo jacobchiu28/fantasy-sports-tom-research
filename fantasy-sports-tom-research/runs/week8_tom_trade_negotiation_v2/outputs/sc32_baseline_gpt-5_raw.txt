@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Austin Reed", "Logan Walker"],
+  "ask_from_B": ["Devon Reed", "Xavier Foster"],
+  "rationale": "Upgrade TE and RB depth by moving surplus QB and volatile WR with tough playoffs"
+}

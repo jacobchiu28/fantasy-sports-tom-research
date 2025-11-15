@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Austin Torres",
+    "Alex White",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Sam Lewis",
+    "Tyler Anderson"
+  ],
+  "rationale": "Upgrade RB/TE by flipping WR depth and a committee RB for Sam Lewis and TE1 Tyler Anderson",
+  "p_accept_B": 0.32,
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_baseline_gpt-5.txt"
+  }
+}

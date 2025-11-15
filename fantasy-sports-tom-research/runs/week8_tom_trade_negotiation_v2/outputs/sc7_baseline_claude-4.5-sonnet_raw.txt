@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trevor Martin", "Alex Mitchell"],
+  "ask_from_B": ["Chris Adams", "Justin Garcia"],
+  "rationale": "Upgrades A's QB to dual-threat, adds RB depth. Sends mid-volatility WR/RB for positional strength.",
+  "p_accept_B": 0.35
+}
+```

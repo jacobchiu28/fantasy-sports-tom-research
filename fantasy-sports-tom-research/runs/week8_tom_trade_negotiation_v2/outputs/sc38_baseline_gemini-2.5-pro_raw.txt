@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Lucas Martin"
+  ],
+  "ask_from_B": [
+    "Brian Harris"
+  ],
+  "rationale": "Team A has three starting QBs and a major need at RB. This trade sends a surplus asset for a stable, high-floor RB."
+}

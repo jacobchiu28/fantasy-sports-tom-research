@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Logan Holt",
+    "Sam Miller"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Alex Baker"
+  ],
+  "rationale": "Turn QB surplus into RB2 with friendly playoffs and TE upgrade; strengthens A\u2019s weakest spots.",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_baseline_gpt-5.txt"
+  }
+}

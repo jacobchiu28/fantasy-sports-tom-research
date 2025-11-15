@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Claims B has a TE weakness, but B already has a Tier 2 TE. B values workhorse RBs and consistency; trading away Ryan Taylor (workhorse) for Justin Garcia (committee) plus a questionable WR conflicts with B\u2019s stated preferences and injury caution. Mason Mitchell isn\u2019t a possession WR. The rationale notes byes and volatility and distinguishes A\u2019s ceiling chasing, but misses key B motivations and fit. Overall, low alignment and thin justification.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale centers on A\u2019s volatility concerns and ignores B\u2019s conservative, consensus-trusting mindset. It doesn\u2019t reference B\u2019s urgency, preference for possession receivers, or comfort buying low on injuries. While Justin Miller (Tier 1, minor Q) could entice B, the explanation doesn\u2019t show that reasoning. Claiming an upgrade at TE is dubious (Ethan Turner is Tier 4; A already has a Tier 3 TE). The trade is feasible and could be acceptable on value, but ToM reasoning and clarity are weak.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

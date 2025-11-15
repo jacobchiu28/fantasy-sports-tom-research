@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Justin Wright"],
+  "ask_from_B": ["Malik White"],
+  "rationale": "B fixes weak TE with breakout; moves surplus RB. A gains steadier RB depth for playoffs.",
+  "p_accept_B": 0.64
+}

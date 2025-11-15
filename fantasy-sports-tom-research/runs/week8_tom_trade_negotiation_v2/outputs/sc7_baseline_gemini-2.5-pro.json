@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Isaiah Lee",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Chris Adams"
+  ],
+  "rationale": "A upgrades at QB for a championship push by trading a solid starter and an expendable RB from a position of depth.",
+  "p_accept_B": 0.4,
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_baseline_gemini-2.5-pro.txt"
+  }
+}

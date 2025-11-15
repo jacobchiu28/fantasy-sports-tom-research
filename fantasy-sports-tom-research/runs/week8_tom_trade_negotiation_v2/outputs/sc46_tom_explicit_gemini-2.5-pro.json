@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Justin Hernandez"
+  ],
+  "ask_from_B": [
+    "Malik Carter",
+    "Darian Taylor"
+  ],
+  "rationale": "B gets the young, high-upside dual-threat QB they covet. A gets a low-volatility veteran RB to boost playoff consistency.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

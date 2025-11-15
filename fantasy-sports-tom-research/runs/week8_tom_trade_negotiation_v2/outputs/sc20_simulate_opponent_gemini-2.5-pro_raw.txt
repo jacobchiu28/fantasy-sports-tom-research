@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Liam Scott"
+  ],
+  "ask_from_B": [
+    "Jake Green"
+  ],
+  "rationale": "B trades from deep QB position to get a needed rookie deep-threat WR. A consolidates for a high-upside QB to save season.",
+  "p_accept_B": 0.65
+}

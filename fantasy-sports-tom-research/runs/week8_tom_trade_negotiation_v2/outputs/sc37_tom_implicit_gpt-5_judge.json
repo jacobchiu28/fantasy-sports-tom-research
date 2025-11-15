@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Good recognition that B has QB depth and volatile WRs, but it overstates Torres as a steady floor option. B prefers possession, low-variance players and consensus; trading away their low-variance Tier 3 QB (Lee) to rely on a Tier 4 QB conflicts with that mindset. The trade is feasible and value could be fair in 1QB, but the rationale is thin and misaligned with B\u2019s stated preferences, making the acceptance probability optimistic.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

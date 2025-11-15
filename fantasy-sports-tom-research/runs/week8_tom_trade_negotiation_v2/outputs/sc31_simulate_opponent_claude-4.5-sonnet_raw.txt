@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Liam Torres", "Matt Wright"],
+  "ask_from_B": ["Derek Foster"],
+  "rationale": "B values committee RBs+rookies; Torres has friendly playoff schedule, Wright is rookie. B gets depth, A gets high-upside RB.",
+  "p_accept_B": 0.72
+}
+```

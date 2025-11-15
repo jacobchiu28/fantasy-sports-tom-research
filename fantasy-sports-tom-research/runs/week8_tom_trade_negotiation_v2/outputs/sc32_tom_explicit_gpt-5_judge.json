@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Shows some ToM by targeting B\u2019s need for immediate help and dual-threat QB. However, it ignores B\u2019s stated habit of buying injured players and preference for deep-threat WRs (trading away Moore). QB upgrade is marginal since B already has a Tier 2 QB. It\u2019s inconsistent with A\u2019s injury-cautious profile to acquire an Out TE, and with B\u2019s injury-buying tendency to sell one. Rationale is terse and light on specifics.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

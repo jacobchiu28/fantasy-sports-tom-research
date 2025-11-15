@@ -1,0 +1,88 @@
+{
+  "player_id": "rb57_2025",
+  "name": "Matt Wright",
+  "position": "RB",
+  "team": "SF",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      80
+    ],
+    "rush_share_pct_range": [
+      36,
+      71
+    ],
+    "target_share_pct_range": [
+      7,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      37,
+      55
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      16,
+      27
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.22
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.5,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.84
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, low production volatility",
+  "summary_text": "Out with availability unclear Tier 4 RB in mid-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, low production volatility",
+    "volatility": "Low",
+    "health": "Out",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 4 (Med trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

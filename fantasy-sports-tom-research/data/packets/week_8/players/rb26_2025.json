@@ -1,0 +1,85 @@
+{
+  "player_id": "rb26_2025",
+  "name": "Jordan Foster",
+  "position": "RB",
+  "team": "JAX",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      80
+    ],
+    "rush_share_pct_range": [
+      36,
+      67
+    ],
+    "target_share_pct_range": [
+      5,
+      10
+    ],
+    "red_zone_carry_share_pct_range": [
+      28,
+      55
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "pass_block_snap_share_pct_range": [
+      13,
+      31
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.75,
+    "qb_quality_tier": "Bottom",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.7
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 1 RB in high-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

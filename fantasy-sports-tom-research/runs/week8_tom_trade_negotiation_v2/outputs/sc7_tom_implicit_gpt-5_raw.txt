@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Turner", "David Nelson"],
+  "ask_from_B": ["Sam Foster"],
+  "rationale": "B upgrades at TE and gains safe QB2; A gets low-variance QB for playoffs.",
+  "p_accept_B": 0.6
+}

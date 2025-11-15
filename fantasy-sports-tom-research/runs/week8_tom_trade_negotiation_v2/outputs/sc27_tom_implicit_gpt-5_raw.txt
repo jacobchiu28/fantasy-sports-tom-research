@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Chris Torres", "Austin Torres"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "A upgrades TE stability; B gets startable TE replacement plus WR depth to help now",
+  "p_accept_B": 0.47
+}

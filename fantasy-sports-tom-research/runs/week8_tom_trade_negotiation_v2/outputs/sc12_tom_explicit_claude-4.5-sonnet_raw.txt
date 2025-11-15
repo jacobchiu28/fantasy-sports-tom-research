@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Tyler Lewis", "Cameron Scott"],
+  "ask_from_B": ["Isaiah Lee", "Ben King"],
+  "rationale": "B gets dual-threat QB upgrade + stable WR; A gets pocket passer + floor RB for conservative rebuild",
+  "p_accept_B": 0.72
+}
+```

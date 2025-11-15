@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Reed", "Cameron Holt"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Upgrading to workhorse RB; offering consistent dual-threat QB + possession WR depth",
+  "p_accept_B": 0.62
+}
+```

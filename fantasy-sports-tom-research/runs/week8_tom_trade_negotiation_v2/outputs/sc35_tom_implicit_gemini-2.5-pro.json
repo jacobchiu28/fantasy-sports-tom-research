@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Xavier Johnson",
+    "Trevor Clark"
+  ],
+  "ask_from_B": [
+    "Liam Carter"
+  ],
+  "rationale": "A consolidates for a title run. B gets a veteran WR with a great playoff schedule plus needed RB depth to compete now.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

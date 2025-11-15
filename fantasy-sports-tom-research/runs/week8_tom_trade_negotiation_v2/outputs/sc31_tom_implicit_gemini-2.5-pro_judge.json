@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Asking Tier 1 WR Jordan Rivera for Tier 4 RB Liam Torres is unbalanced. While Team B values committee RBs and playoff schedules, they also trust consensus and wouldn\u2019t swap a cornerstone WR for depth. B\u2019s 7-1 team may want RB depth, but Rivera\u2019s elite production and B\u2019s upside preference make acceptance unlikely. The rationale is terse and ignores tiers and player context. The 0.75 acceptance probability is not credible.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

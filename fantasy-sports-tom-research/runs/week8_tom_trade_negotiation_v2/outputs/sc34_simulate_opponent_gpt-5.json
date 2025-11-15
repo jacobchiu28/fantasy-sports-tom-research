@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Cameron Harris",
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "Caleb Jackson",
+    "Marcus Reed"
+  ],
+  "rationale": "B gets floor now: Harris (low-var pocket) + Campbell (steady RB). A takes upside in Jackson/Reed.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_simulate_opponent_gpt-5.txt"
+  }
+}

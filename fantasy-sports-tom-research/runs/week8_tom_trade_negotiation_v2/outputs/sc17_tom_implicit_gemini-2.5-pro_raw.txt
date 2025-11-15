@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Marcus Reed"
+  ],
+  "ask_from_B": [
+    "Logan Clark"
+  ],
+  "rationale": "You get a major TE upgrade and a high-upside RB. I get the QB I need. A shake-up for both of our 0-8 teams.",
+  "p_accept_B": 0.7
+}

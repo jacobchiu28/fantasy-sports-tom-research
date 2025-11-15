@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Nick Torres",
+    "Sam Reed"
+  ],
+  "ask_from_B": [
+    "Lucas Carter"
+  ],
+  "rationale": "Giving you a stable possession WR your roster needs and RB depth for my target QB. Fills needs for both of us.",
+  "p_accept_B": 0.75
+}

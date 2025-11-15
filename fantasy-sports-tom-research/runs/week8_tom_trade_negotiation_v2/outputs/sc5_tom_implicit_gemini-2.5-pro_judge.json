@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Some nod to B\u2019s need for depth, but misreads his preference for stable floors (Anderson and Mitchell are volatile/committee) and ignores zero-RB/contrarian tendencies. Major error: calling Justin Wright an upgrade for A when A already has a healthy Tier 1 TE; Wright is Tier 5 and out. Value and rationale are inconsistent, though the swap is feasible and B might accept to dump an injured TE.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

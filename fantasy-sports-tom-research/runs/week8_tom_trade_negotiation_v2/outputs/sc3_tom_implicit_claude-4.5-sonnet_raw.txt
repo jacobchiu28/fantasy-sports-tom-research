@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trey Adams", "Darian Thomas"],
+  "ask_from_B": ["Ben King", "Austin Torres"],
+  "rationale": "Swapping low-volatility RBs; A gets friendly playoff WR, B gets consistent possession target",
+  "p_accept_B": 0.62
+}
+```

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Trevor Rodriguez"
+  ],
+  "ask_from_B": [
+    "Marcus Gonzalez"
+  ],
+  "rationale": "You gain a rookie ceiling WR; we stabilize TE with a veteran depth piece.",
+  "p_accept_B": 0.78,
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_simulate_opponent_gpt-5.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Good nod to B\u2019s preference for reliable, possession targets and TE help, and A\u2019s desire for a volatile committee RB. However, it ignores B\u2019s veteran bias, playoff focus, and RB depth needs (trading away a Tier 3 RB leaves shaky depth). Michael Roberts may not be a true TE upgrade over Holt. Adam Anderson is a high-variance \u2018possession\u2019 fit, weakening the reliability premise. Rationale is too terse.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

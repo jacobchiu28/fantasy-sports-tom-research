@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Jordan Green",
+    "James Campbell"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Team B gets RB depth and a high-upside WR for a surplus RB. Team A consolidates for a more stable starter to win now.",
+  "p_accept_B": 0.55
+}

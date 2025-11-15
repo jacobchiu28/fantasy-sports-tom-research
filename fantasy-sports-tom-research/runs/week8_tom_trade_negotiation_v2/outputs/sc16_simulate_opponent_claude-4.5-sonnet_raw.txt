@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Derek White", "Mason Mitchell"],
+  "ask_from_B": ["Darian Thomas", "Noah Taylor"],
+  "rationale": "A offers stable dual-threat QB + mid-variance WR for B's consistent possession WR + committee RB",
+  "p_accept_B": 0.72
+}
+```

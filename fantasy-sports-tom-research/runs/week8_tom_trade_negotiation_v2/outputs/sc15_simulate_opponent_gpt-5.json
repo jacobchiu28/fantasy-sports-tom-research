@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Chris Garcia",
+    "Caleb Turner"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "A gets steady RB floor; B gains upside WR and breakout RB, fitting B's ceiling-first style and RB depth",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_simulate_opponent_gpt-5.txt"
+  }
+}

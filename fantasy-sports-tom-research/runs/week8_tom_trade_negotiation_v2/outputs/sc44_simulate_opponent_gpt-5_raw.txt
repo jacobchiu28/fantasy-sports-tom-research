@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Wright", "Liam Green"],
+  "ask_from_B": ["Austin Torres"],
+  "rationale": "B needs immediate RB depth; swaps surplus WR for two startable RBs to stabilize weekly floor.",
+  "p_accept_B": 0.65
+}

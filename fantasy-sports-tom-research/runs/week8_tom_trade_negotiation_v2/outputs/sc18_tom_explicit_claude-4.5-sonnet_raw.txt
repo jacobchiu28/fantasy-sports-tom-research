@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sean Holt", "Brandon Hernandez"],
+  "ask_from_B": ["Josh Robinson", "Austin Torres"],
+  "rationale": "Team B gets injury-buy candidates; Team A gets workhorse RB + consistent WR matching both profiles",
+  "p_accept_B": 0.42
+}
+```

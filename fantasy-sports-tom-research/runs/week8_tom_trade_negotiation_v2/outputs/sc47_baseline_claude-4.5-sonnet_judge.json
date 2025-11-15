@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Asks injury-averse Team B to trade a Tier 1 RB for a Tier 5 RB plus an injured, volatile WR\u2014misaligned with B\u2019s conservative, consensus-driven preferences. The rationale mislabels Matt Wright (a deep-threat Tier 5) as a consistency upgrade. Little evidence of considering B\u2019s needs or incentives; focuses on A\u2019s RB upgrade. Internally inconsistent with A\u2019s floor preference by adding a low-floor WR. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

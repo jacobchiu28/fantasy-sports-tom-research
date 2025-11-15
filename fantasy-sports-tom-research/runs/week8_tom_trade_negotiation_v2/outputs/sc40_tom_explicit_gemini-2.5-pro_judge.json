@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Identifies B\u2019s preference for stability and playoff schedule, but ignores B\u2019s reliance on expert rankings and desire for workhorse RBs. Offers a Tier 5 WR and Tier 4 committee RB for a Tier 2 WR\u2014value mismatch a conservative 8-0 team won\u2019t accept. Labels the incoming pieces as \u201cstable,\u201d which is only partly true (Brandon Martinez is mid-variance). Rationale is brief and generic, lacking nuanced, evidence-based reasoning from both sides.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

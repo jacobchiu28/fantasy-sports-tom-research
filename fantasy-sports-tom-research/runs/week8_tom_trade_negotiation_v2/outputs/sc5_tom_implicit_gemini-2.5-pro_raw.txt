@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Darian Anderson",
+    "Trey Mitchell"
+  ],
+  "ask_from_B": [
+    "Justin Wright"
+  ],
+  "rationale": "B gets a stable veteran WR and RB depth for his playoff push. A consolidates his bench for a needed TE upgrade.",
+  "p_accept_B": 0.6
+}

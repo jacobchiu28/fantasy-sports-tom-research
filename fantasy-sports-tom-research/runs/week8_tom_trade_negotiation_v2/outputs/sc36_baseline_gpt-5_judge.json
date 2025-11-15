@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Offer ignores Team B\u2019s win-now, ceiling-chasing mindset and reliance on expert rankings; they won\u2019t part with a Tier 1 workhorse for a Tier 4 WR and an out Tier 5 TE. Probability of acceptance is unrealistically high. Trade also conflicts with Team A\u2019s stated avoidance of injured players (Josh Martin is Questionable). While A truly has TE/WR surplus, the rationale is generic and doesn\u2019t address B\u2019s incentives or needs.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

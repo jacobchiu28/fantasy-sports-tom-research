@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Michael Mitchell",
+    "Noah Carter"
+  ],
+  "rationale": "Team B gets the stable, workhorse RB they crave by trading away two high-volatility players who frustrate their style.",
+  "p_accept_B": 0.6
+}

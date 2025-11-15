@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Lucas Hall",
+    "Jordan Moore"
+  ],
+  "ask_from_B": [
+    "James Jones"
+  ],
+  "rationale": "Upgrade to dual-threat QB with friendly playoffs; trade surplus QB/WR depth",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_baseline_gpt-5.txt"
+  }
+}

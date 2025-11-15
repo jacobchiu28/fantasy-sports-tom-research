@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Nick Torres"],
+  "ask_from_B": ["Chris Lee"],
+  "rationale": "B gains a steadier WR; A fills QB need. B keeps Carter as stable starter and Miller as depth.",
+  "p_accept_B": 0.62
+}

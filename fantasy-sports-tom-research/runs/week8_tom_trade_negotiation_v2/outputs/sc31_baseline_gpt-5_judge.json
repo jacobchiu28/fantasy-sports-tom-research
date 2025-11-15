@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Offer targets B\u2019s surplus at WR but ignores B\u2019s mindset in the rationale. While including an injured committee RB (buy-low) and a volatile WR loosely fits B\u2019s preferences, the model doesn\u2019t articulate that. Value is lopsided for a Tier 1 WR; TE add-in doesn\u2019t help B (already has Tier 1 TE). Reasoning is brief and A-centric, with minimal evidence of modeling B\u2019s beliefs, needs, or playoff priorities.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

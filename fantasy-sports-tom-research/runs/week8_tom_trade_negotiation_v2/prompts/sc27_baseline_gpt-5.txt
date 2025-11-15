@@ -1,0 +1,73 @@
+You are the general manager of Team A in a competitive fantasy football league. Your task is to propose a realistic trade offer to Team B.
+
+Each team is managed by a distinct fantasy manager with their own psychology, playing style, risk tolerance, and time horizon. You have access to both teams’ manager profiles and full rosters.
+
+When making your decision, consider:
+  • Team needs and positional depth
+  • Player roles, health, and volatility
+  • Each manager’s personality and likely perception of fairness
+
+Your goal is to generate a contextually justified, human-realistic trade — not to maximize statistical value alone.
+
+Return one JSON object with the following keys:
+  - 'offer_from_A': list of player names Team A is offering
+  - 'ask_from_B': list of player names Team A is requesting
+  - 'rationale': concise explanation (≤120 characters)
+  - (optional) 'p_accept_B': estimated probability (0–1) that Team B would accept
+
+Do not include prose, explanations, or commentary outside of the JSON.
+
+    Manager Profiles   
+
+Team A Manager:
+Manager: Manager A (Scenario 27)
+
+Team Record: strong 8-0 record, in playoff position
+Playing Style: extremely conservative, prefers stable weekly floors over boom/bust players
+Player Preferences: Values possession receivers with consistent targets, QB-WR stacks from the same team
+Decision Making: contrarian thinker who fades consensus rankings and popular narratives
+Injury Approach: cautious about injuries, prefers fully healthy players
+
+Team B Manager:
+Manager: Manager B (Scenario 27)
+
+Team Record: struggling 0-8 record, needs wins urgently
+Playing Style: prefers consistency and reliable performers over high-variance players
+Player Preferences: Values workhorse running backs with heavy workloads, QB-WR stacks from the same team
+Decision Making: considers expert consensus but makes independent evaluations
+Injury Approach: cautious about injuries, prefers fully healthy players
+Additional Notes: trusts established talent over hype
+
+Team A Roster:
+- Jamal Miller (QB): Dual-threat QB who adds rushing value with high week-to-week variance | volatility: high | veteran | Mixed playoff outlook | archetypes: dual_threat_qb | bye week: 9
+- Matt Wright (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | rookie | Mixed playoff outlook | archetypes: deep_threat_wr, outside_wr | bye week: 9
+- Liam Carter (RB): Committee back sharing touches, mid production volatility | volatility: mid | veteran | Friendly playoff schedule | archetypes: standard | bye week: 11
+- Devon Moore (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | young breakout | Mixed playoff outlook | archetypes: deep_threat_wr, outside_wr | bye week: 8
+- Austin Torres (WR): Outside receiver with varied route tree, mid weekly variance | volatility: mid | young breakout | Friendly playoff schedule | archetypes: outside_wr | bye week: 9
+- Jamal Garcia (TE): Balanced TE splitting inline/receiving duties, low usage consistency | volatility: low | rookie | Tough playoff matchups | archetypes: hybrid_te | bye week: 6
+- Chris Torres (TE): Balanced TE splitting inline/receiving duties, mid usage consistency | volatility: mid | young breakout | Friendly playoff schedule | archetypes: hybrid_te | bye week: 11
+- Alex White (RB): Committee back sharing touches, mid production volatility | volatility: mid | young breakout | Mixed playoff outlook | archetypes: standard | bye week: 9
+- Liam Adams (TE): Balanced TE splitting inline/receiving duties, mid usage consistency | volatility: mid | young breakout | Mixed playoff outlook | archetypes: hybrid_te | bye week: 4
+- Ethan Torres (QB): Dual-threat QB who adds rushing value with mid week-to-week variance | volatility: mid | veteran | Tough playoff matchups | archetypes: dual_threat_qb | bye week: 8
+- Brandon Hernandez (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | rookie | Mixed playoff outlook | archetypes: deep_threat_wr, outside_wr | bye week: 9
+- Devon Martinez (WR): Deep-threat receiver with big-play ability, high weekly variance | volatility: high | rookie | Mixed playoff outlook | archetypes: deep_threat_wr, possession_wr | bye week: 6
+- Noah Green (TE): Balanced TE splitting inline/receiving duties, low usage consistency | volatility: low | rookie | Mixed playoff outlook | archetypes: hybrid_te | bye week: 10
+- Ben Martin (WR): Deep-threat receiver with big-play ability, high weekly variance | volatility: high | rookie | Mixed playoff outlook | archetypes: deep_threat_wr, outside_wr | bye week: 8
+
+Team B Roster:
+- Tyler Miller (QB): Traditional pocket passer with mid week-to-week variance | volatility: mid | young breakout | Friendly playoff schedule | archetypes: pocket_qb | bye week: 11
+- Nick Torres (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | rookie | Mixed playoff outlook | archetypes: deep_threat_wr, possession_wr | bye week: 4
+- Eric Allen (WR): Deep-threat receiver with big-play ability, high weekly variance | volatility: high | veteran | Mixed playoff outlook | archetypes: deep_threat_wr, possession_wr | bye week: 8
+- Trevor Martin (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | veteran | Mixed playoff outlook | archetypes: deep_threat_wr, outside_wr | bye week: 9
+- Justin Reed (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | rookie | Friendly playoff schedule | archetypes: deep_threat_wr, outside_wr | bye week: 10
+- Tyler Anderson (TE): Pass-catching TE with high target share, high usage consistency | volatility: high | veteran | Tough playoff matchups | archetypes: receiving_te | bye week: 7
+- Sam Martinez (QB): Traditional pocket passer with mid week-to-week variance | volatility: mid | young breakout | Friendly playoff schedule | archetypes: pocket_qb | bye week: 10
+- Mason Torres (WR): Outside receiver with varied route tree, mid weekly variance | volatility: mid | rookie | Mixed playoff outlook | archetypes: outside_wr | bye week: 4
+- Josh King (TE): Inline blocker with limited receiving role, mid usage consistency | volatility: mid | veteran | Mixed playoff outlook | archetypes: blocking_te | bye week: 7
+- Sam Lewis (RB): Committee back sharing touches, low production volatility | volatility: low | young breakout | Friendly playoff schedule | archetypes: standard | bye week: 4
+- Austin Wright (RB): Committee back sharing touches, mid production volatility | volatility: mid | veteran | Friendly playoff schedule | archetypes: standard | bye week: 9
+- Chris Lewis (TE): Inline blocker with limited receiving role, low usage consistency | volatility: low | veteran | Friendly playoff schedule | archetypes: blocking_te | bye week: 9
+- Jordan Lewis (RB): Committee back sharing touches, high production volatility | volatility: high | rookie | Tough playoff matchups | archetypes: standard | bye week: 12
+- James Rivera (WR): Deep-threat receiver with big-play ability, mid weekly variance | volatility: mid | young breakout | Tough playoff matchups | archetypes: deep_threat_wr, outside_wr | bye week: 6
+
+Task Instruction (baseline condition): Ignore the manager profiles and interpersonal factors. Propose a trade that purely optimizes Team A’s roster strength using objective player and positional considerations. Do not infer what Team B might think or want.

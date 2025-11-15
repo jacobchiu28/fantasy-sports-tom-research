@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "Noah Carter"
+  ],
+  "ask_from_B": [
+    "Josh Robinson",
+    "Jordan Walker"
+  ],
+  "rationale": "Team A consolidates a top TE and a committee RB to acquire a needed workhorse back, strengthening its core."
+}

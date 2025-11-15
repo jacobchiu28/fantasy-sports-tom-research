@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Marcus Reed",
+    "Nick Holt"
+  ],
+  "ask_from_B": [
+    "Ethan Turner"
+  ],
+  "rationale": "Team B gets a needed RB with upside and a solid WR2 for a TE with a tough playoff schedule. Team A consolidates for an upgrade.",
+  "p_accept_B": 0.55
+}

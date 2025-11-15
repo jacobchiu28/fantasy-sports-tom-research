@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Recognizes B could use TE help and extra depth, but mislabels Noah Brown as a clear upgrade when B already has a healthy Tier 2 TE (Roberts). Overlooks B\u2019s preference for possession WRs by asking them to give up their only low-variance slot (Thomas). For A, acquiring a Questionable player contradicts their strict injury aversion and trading a Tier 2 TE plus a Tier 1 WR for a Tier 3 WR clashes with their consensus-trusting, conservative style. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

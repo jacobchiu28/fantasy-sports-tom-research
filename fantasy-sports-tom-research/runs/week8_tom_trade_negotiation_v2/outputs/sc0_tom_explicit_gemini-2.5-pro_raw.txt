@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Liam Scott"
+  ],
+  "ask_from_B": [
+    "Sam Lewis",
+    "Trevor Brown"
+  ],
+  "rationale": "Team A (0-8) sells its best asset for stable floors. Team B (3-5) consolidates depth for a young, workhorse RB to push for playoffs.",
+  "p_accept_B": 0.65
+}

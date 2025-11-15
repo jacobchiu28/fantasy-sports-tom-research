@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Marcus Reed", "Trevor Rodriguez"],
+  "ask_from_B": ["Ben King", "Austin Torres"],
+  "rationale": "Upgrade RB floor stability, acquire WR with lower volatility, improve playoff schedule alignment",
+  "p_accept_B": 0.35
+}
+```

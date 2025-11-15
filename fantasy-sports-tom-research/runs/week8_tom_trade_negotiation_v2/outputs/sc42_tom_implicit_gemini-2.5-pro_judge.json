@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Slight nod to B\u2019s desire for reliability, but it ignores B\u2019s injury aversion by offering an Out RB and overstates playoff schedule benefits. Campbell isn\u2019t clearly the possession-type B prefers, and the rationale doesn\u2019t reference B\u2019s TE surplus or SoS focus meaningfully. The offer is mechanically feasible and somewhat logical (A needs TE; B has TE depth), but acceptance odds seem overstated. Explanation is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

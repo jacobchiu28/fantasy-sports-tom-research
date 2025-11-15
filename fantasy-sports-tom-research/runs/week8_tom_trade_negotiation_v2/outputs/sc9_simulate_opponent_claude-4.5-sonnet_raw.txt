@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sam Lewis", "Tyler Miller"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "Low-volatility RB + pocket QB for workhorse; B gets floor/health, A gets ceiling despite tough schedule",
+  "p_accept_B": 0.72
+}
+```

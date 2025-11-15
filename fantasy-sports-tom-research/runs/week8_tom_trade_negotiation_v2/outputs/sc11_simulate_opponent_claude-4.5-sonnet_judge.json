@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Identifies B\u2019s desire for consistency but overlooks B\u2019s urgent need for immediate wins and injured-player buying tendency; playoff schedule is less relevant at 0-8. Does not clearly articulate A\u2019s motives (A values possession WRs, giving up an elite TE). Trade is coherent: B upgrades a shaky TE spot and has WR depth to spare, while A gains a steadier possession WR. Rationale is brief and generic, lacking specific roster/health context.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

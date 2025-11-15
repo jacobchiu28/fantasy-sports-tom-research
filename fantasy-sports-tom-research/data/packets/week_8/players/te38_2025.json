@@ -1,0 +1,87 @@
+{
+  "player_id": "te38_2025",
+  "name": "Mason Hill",
+  "position": "TE",
+  "team": "KC",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      56,
+      90
+    ],
+    "route_participation_pct_range": [
+      52,
+      81
+    ],
+    "target_share_pct_range": [
+      13,
+      23
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      33,
+      58
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "IR",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.19
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "Med",
+    "confidence": 0.89,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.61
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+  "summary_text": "IR with availability unclear Tier 4 TE in mid-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, mid usage consistency",
+    "volatility": "Mid",
+    "health": "IR",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

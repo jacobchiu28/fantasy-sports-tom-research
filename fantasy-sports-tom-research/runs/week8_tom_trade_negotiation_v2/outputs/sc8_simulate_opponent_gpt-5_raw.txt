@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Matt Nguyen"],
+  "ask_from_B": ["Darian Thomas"],
+  "rationale": "TE upgrade + usable WR for B; A gains a possession WR floor it lacks. Fits both managers’ conservative lean.",
+  "p_accept_B": 0.58
+}

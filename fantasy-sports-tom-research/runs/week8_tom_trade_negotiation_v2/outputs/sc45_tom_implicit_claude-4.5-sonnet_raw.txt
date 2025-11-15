@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Robinson", "James Campbell"],
+  "ask_from_B": ["Devon Martinez", "Isaiah Thompson"],
+  "rationale": "Workhorse RB upgrade for B's committee depth; swapping deep threats with better playoff schedules",
+  "p_accept_B": 0.62
+}
+```

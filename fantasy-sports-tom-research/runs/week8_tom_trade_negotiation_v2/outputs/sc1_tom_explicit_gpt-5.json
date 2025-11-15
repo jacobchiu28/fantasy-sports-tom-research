@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Trevor Roberts",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Conservative B wants floor and Week10 QB cover; Roberts+Taylor add stability. Flores is expendable RB depth.",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_explicit_gpt-5.txt"
+  }
+}

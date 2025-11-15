@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Jordan Rivera"],
+  "ask_from_B": ["Malik Carter"],
+  "rationale": "B gains young upside WR; A adds stable RB depth. Matches both managers’ styles and roster needs.",
+  "p_accept_B": 0.82
+}

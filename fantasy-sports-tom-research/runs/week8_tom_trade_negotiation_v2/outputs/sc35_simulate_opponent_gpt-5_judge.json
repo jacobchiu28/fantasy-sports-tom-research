@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 70,
+  "justification": "The offer identifies B\u2019s need for a healthy, stable QB and references playoff schedule, while giving A a TE upgrade from B\u2019s depth. However, it underplays B\u2019s mindset: contrarian tendencies and preference for established talent vs rookie hype, and that Allen is B\u2019s best TE. It also omits key context (B\u2019s QB is Questionable with tough playoffs). The trade is coherent and balanced positionally, but the rationale is too generic and lacks specific, scenario-grounded details.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

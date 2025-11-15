@@ -1,0 +1,88 @@
+{
+  "player_id": "rb19_2025",
+  "name": "Matt Hill",
+  "position": "RB",
+  "team": "LV",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      74
+    ],
+    "rush_share_pct_range": [
+      35,
+      68
+    ],
+    "target_share_pct_range": [
+      6,
+      13
+    ],
+    "red_zone_carry_share_pct_range": [
+      31,
+      57
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      13,
+      33
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.18
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.8,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.67
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Out with availability unclear Tier 1 RB in high-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Out",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

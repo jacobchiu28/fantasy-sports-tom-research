@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "It notes B\u2019s WR depth and frames a playoff push, but ignores B\u2019s consensus-driven valuations: trading a Tier 2 WR (Isaiah) and Tier 2 RB (Roberts) for a Tier 5 RB (Robinson) is implausible. B prefers young ascending, healthy players; Isaiah\u2019s minor Q plus losing Roberts makes acceptance unlikely. A\u2019s injury-cautious profile clashes with targeting a Q WR. The rationale is generic and doesn\u2019t engage tiers, roles, or playoff schedules. The 0.6 acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

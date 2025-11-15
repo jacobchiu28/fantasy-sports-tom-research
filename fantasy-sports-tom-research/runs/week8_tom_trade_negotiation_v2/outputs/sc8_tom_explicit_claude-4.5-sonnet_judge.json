@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s values: offers them a mid-variance deep threat and a committee RB, while B prefers workhorse RBs and possession WRs. Ignores Team A\u2019s injury aversion by asking them to take two Questionable players. A also downgrades massively from a healthy Tier 1 RB (Carter) to a Tier 3 RB (Reed), conflicting with their urgent win/consistency needs. Rationale is terse and doesn\u2019t address injuries, workloads, or roster impacts. Acceptance probability seems unjustified.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Justin Wright", "Trevor Martin"],
+  "ask_from_B": ["Josh Martin"],
+  "rationale": "Convert surplus TE/WR into a workhorse RB; boosts RB floor/ceiling while TE/WR depth remains solid.",
+  "p_accept_B": 0.46
+}

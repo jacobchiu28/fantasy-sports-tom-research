@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Trade misunderstands Team B\u2019s profile and needs (zero RB, values rookies/dual-threat QBs/injured buys). It labels Nick Holt a WR2 (he\u2019s Tier 4) and claims B \u2018needs\u2019 an RB despite already having multiple. For Team A, calling Ethan Turner (Tier 4 TE, tough playoffs) an \u2018upgrade\u2019 is incorrect\u2014A already rosters a Tier 1 TE and ample TE depth. The offer is lopsided and incoherent for A, with thin, error-prone rationale.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

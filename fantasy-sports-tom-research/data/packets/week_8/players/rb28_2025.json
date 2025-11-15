@@ -1,0 +1,85 @@
+{
+  "player_id": "rb28_2025",
+  "name": "Xavier Rodriguez",
+  "position": "RB",
+  "team": "NYJ",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      45,
+      83
+    ],
+    "rush_share_pct_range": [
+      35,
+      71
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      26,
+      58
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      12,
+      36
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.87
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.63,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.79
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 1 RB in low-volume passing offense, fast tempo with declining role. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 1 (Very High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

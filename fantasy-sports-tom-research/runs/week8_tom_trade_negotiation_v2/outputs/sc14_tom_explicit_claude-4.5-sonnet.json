@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sean Holt",
+    "Isaiah Thompson"
+  ],
+  "ask_from_B": [
+    "Ethan Campbell",
+    "Trevor Martin"
+  ],
+  "rationale": "Team B gets upside; Team A gets low-volatility veteran RB + stable WR for playoff push",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

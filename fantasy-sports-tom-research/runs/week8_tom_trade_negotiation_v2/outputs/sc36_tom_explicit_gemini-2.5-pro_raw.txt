@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Devon Miller",
+    "Justin Wright"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "You get the high-ceiling dual-threat QB you desperately need plus an upside TE. I upgrade my RBs for a playoff push.",
+  "p_accept_B": 0.65
+}

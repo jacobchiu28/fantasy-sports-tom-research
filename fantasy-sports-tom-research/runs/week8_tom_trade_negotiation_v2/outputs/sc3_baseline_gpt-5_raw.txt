@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Matt Nelson", "Jordan Walker"],
+  "ask_from_B": ["Ben King", "Michael Flores"],
+  "rationale": "Upgrade RB stability and TE playoff outlook; uses surplus to bolster A’s lineup"
+}

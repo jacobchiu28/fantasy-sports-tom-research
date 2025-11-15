@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "Liam Green"
+  ],
+  "ask_from_B": [
+    "Austin Torres"
+  ],
+  "rationale": "B needs immediate RB depth; swaps surplus WR for two startable RBs to stabilize weekly floor.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_simulate_opponent_gpt-5.txt"
+  }
+}

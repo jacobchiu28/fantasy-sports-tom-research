@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Trevor Roberts",
+    "Eric Torres"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Liam Adams"
+  ],
+  "rationale": "Flip surplus QB + volatile WR for RB2 + TE upgrade; improves A\u2019s floor at thin spots",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_baseline_gpt-5.txt"
+  }
+}

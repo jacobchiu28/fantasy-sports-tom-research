@@ -1,0 +1,88 @@
+{
+  "player_id": "rb9_2025",
+  "name": "Sean Adams",
+  "position": "RB",
+  "team": "CHI",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      39,
+      80
+    ],
+    "rush_share_pct_range": [
+      35,
+      70
+    ],
+    "target_share_pct_range": [
+      6,
+      11
+    ],
+    "red_zone_carry_share_pct_range": [
+      31,
+      52
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      15,
+      30
+    ],
+    "trend_5g": "Down",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.19
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.82,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Tight",
+    "start_rate_band": "20-40%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.72
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, low production volatility",
+  "summary_text": "Out with availability unclear Tier 5 RB in low-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, low production volatility",
+    "volatility": "Low",
+    "health": "Out",
+    "context": "Low pass rate, Slow tempo",
+    "market": "Tier 5 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

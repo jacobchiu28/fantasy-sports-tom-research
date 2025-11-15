@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "David Nelson",
+    "Mason Mitchell"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "You get a low-volatility veteran QB and a steady WR2 for a high-variance RB. Helps your need for consistency.",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

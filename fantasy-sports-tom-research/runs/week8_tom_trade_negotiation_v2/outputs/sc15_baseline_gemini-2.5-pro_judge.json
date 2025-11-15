@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Addresses Team A\u2019s TE weakness but ignores Team B\u2019s mindset. B is a ceiling-chasing risk-taker who values rookies; Cameron Gonzalez (Tier 2, young breakout) fits B\u2019s preferences and is their only strong TE. The return (Caleb Turner Tier 4 committee RB + Darian Anderson Tier 5 WR) lacks ceiling and leaves B thin at TE. Trade is feasible but unbalanced for B. Rationale is brief and A-centric with little B-focused reasoning.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It recognizes B\u2019s appetite for upside and injured-buy targets by offering Clark (Out) and Davis (Doubtful), and frames A\u2019s desire for stability. However, it ignores B\u2019s urgent need for immediate points and the high value of a Tier 1 workhorse RB. The trade undervalues Josh Martin, overstates accept probability, and doesn\u2019t address B\u2019s positional needs or timing. Brief rationale lacks roster- and timeline-specific evidence; A\u2019s injury-avoid stance versus acquiring a Questionable RB is also a minor mismatch.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

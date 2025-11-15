@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It targets B\u2019s love of rookies by offering a Tier 1 rookie WR, but misreads B\u2019s QB preferences, calling Tyler Miller a ceiling QB despite being a Tier 4 pocket passer. It does contrast A\u2019s need for a steady QB and pass-catching TE, but lacks nuance (no stack creation, downgrades B from Tier 1 to Tier 4 QB). Trade is feasible but strategically shaky for B. Rationale is brief and partly inaccurate.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

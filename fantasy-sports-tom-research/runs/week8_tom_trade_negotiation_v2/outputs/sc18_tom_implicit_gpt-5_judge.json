@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Shows some ToM by pitching B on depth and friendly playoff schedules, but misreads B\u2019s needs: calling Ethan Turner a TE upgrade is incorrect given B\u2019s Darian Taylor (Tier 2). Ignores B\u2019s preference for possession WRs and consensus rankings. Trade is feasible and A\u2019s desire to consolidate into a workhorse fits, though Robinson\u2019s low-volume offense conflicts with A\u2019s high-powered offense preference. Rationale is brief and thin on evidence.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

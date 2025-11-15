@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Lucas Allen"
+  ],
+  "ask_from_B": [
+    "Trevor Rodriguez"
+  ],
+  "rationale": "B gets steady vet WR; A gets high-upside deep threat\u2014fits both managers\u2019 styles and needs.",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_simulate_opponent_gpt-5.txt"
+  }
+}

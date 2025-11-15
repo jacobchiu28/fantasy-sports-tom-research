@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Eric Davis", "Noah Carter"],
+  "ask_from_B": ["Isaiah Thompson"],
+  "rationale": "B gets young upside WR+RB depth; A gains steadier WR with friendly playoffs to stabilize weekly floor",
+  "p_accept_B": 0.62
+}

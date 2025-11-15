@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 2,
+  "explanation_quality": 3,
+  "overall": 60,
+  "justification": "Good recognition of B\u2019s upside bias, playoff security, and Foster\u2019s playoff schedule. However, it undervalues B\u2019s RB scarcity (giving up their only RB), misreads TE room (B has a Tier 1 TE, not thin), and overstates QB depth need with a Tier 1 QB already rostered. The offer is therefore misaligned with B\u2019s incentives despite clear two-sided reasoning.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

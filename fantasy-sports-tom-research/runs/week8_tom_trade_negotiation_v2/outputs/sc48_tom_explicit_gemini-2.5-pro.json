@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Eric Torres"
+  ],
+  "ask_from_B": [
+    "Darian Campbell"
+  ],
+  "rationale": "B trades from RB depth for a high-ceiling WR. Torres' name value/rank > Campbell's, appealing to a consensus-driven GM.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

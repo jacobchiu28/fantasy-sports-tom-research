@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Caleb Garcia"],
+  "ask_from_B": ["Darian Thomas"],
+  "rationale": "B seeks steady starters, needs QB2 for wk12. Noah=TE1 upgrade; Garcia safe. A gets Thomas’s weekly floor.",
+  "p_accept_B": 0.46
+}

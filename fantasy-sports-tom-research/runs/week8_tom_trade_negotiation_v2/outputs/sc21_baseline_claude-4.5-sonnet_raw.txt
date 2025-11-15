@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["David Baker", "Justin Miller"],
+  "ask_from_B": ["David Campbell", "Ethan Turner"],
+  "rationale": "Upgrade WR volatility profile and add receiving TE; trade away high-variance deep threats for stable veterans",
+  "p_accept_B": 0.35
+}
+```

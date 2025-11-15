@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Notes B\u2019s zero-RB but misreads it as motive to pay for a premium RB; omits B\u2019s consensus-driven mindset and injury caution. Trade is wildly lopsided: A gives a Tier 1 workhorse RB for a Tier 4 WR and Tier 4 TE (A already has a better TE), undermining A\u2019s ceiling-chasing playoff push. Minimal, non-specific rationale. Feasible but incoherent with team needs and profiles.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

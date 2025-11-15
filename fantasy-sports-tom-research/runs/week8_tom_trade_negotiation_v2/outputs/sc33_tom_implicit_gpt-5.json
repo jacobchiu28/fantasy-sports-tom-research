@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trey Adams",
+    "Caleb Garcia"
+  ],
+  "ask_from_B": [
+    "Brandon Martinez",
+    "Sean Holt"
+  ],
+  "rationale": "B gets steady RB + veteran pocket QB depth; A gains needed WR and can absorb Holt\u2019s volatility.",
+  "p_accept_B": 0.57,
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_tom_implicit_gpt-5.txt"
+  }
+}

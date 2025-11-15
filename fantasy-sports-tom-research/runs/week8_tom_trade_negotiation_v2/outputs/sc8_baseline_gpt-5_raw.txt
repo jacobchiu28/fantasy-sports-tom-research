@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Caleb Garcia", "Justin Nelson"],
+  "ask_from_B": ["Devon Reed", "Darian Thomas"],
+  "rationale": "Flip backup QB and boom WR for RB depth and steady slot WR; improves starting lineup and bye balance.",
+  "p_accept_B": 0.55
+}

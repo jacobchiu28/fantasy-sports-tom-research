@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Mason Torres",
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "Sean Thompson"
+  ],
+  "rationale": "You're deep at WR. Swap one high-variance guy for a steadier rookie WR and a low-volatility vet RB to boost consistency.",
+  "p_accept_B": 0.65
+}

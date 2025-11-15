@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Proposal recognizes B\u2019s need for immediate help and offers a clear TE upgrade plus RB depth, but it barely addresses B\u2019s injury aversion or dual\u2011threat QB preference and ignores B already having a healthy dual\u2011threat QB. The trade itself is coherent and plausible for B to accept, though A\u2019s urgency vs acquiring an Out QB is a mild inconsistency. Rationale is too generic.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

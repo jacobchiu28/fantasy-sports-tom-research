@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Clark",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "B gets a needed shakeup with a dual-threat QB and a high-ceiling WR. A gets the workhorse RB to push for the playoffs.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

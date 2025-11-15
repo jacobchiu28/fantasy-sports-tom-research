@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Sam Lewis",
+    "Tyler Miller"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "Low-volatility RB + pocket QB for workhorse; B gets floor/health, A gets ceiling despite tough schedule",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

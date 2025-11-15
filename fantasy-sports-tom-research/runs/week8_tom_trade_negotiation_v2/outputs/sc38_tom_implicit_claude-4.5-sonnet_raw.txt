@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sam Martin", "Sean Thompson"],
+  "ask_from_B": ["Brian Harris", "Matt Nelson"],
+  "rationale": "High-upside WRs for stable RB depth; A gets floor, B gets ceiling with friendly playoff schedules",
+  "p_accept_B": 0.62
+}
+```

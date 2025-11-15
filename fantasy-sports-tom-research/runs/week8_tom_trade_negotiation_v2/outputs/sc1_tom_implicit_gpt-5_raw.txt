@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Trevor Roberts", "Marcus Taylor"],
+  "ask_from_B": ["Alex White", "Liam Adams"],
+  "rationale": "A gains RB/TE stability; B gets safe pocket QB and slot WR to boost weekly floor.",
+  "p_accept_B": 0.62
+}

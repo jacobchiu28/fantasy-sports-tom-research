@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Correctly notes B would value a young upside WR and can spare an RB, but lacks nuance about B\u2019s roster/needs. Considers both sides, yet shallow. Trade fit for A is weak: A prefers workhorse RBs in high-powered offenses; Malik is a committee Tier 3 in a mid-volume offense. Value is lopsided (Tier 1 WR for Tier 3 RB). Explanation is overly generic and doesn\u2019t reference specific roster context or archetype fit.",
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

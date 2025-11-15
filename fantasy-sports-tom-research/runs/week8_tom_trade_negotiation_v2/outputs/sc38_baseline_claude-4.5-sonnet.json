@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Caleb Foster",
+    "Matt Nguyen"
+  ],
+  "ask_from_B": [
+    "Brian Harris"
+  ],
+  "rationale": "Team A needs RB depth badly; trades expendable WR depth for stable committee back with low volatility",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_baseline_claude-4.5-sonnet.txt"
+  }
+}

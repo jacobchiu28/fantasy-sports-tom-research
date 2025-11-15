@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "James Jones",
+    "Trevor Clark"
+  ],
+  "rationale": "Upgrade QB to a preferred archetype with a better playoff schedule by trading a volatile RB facing tough matchups."
+}

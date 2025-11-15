@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Mason Robinson",
+    "Kyle Martinez"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Darian Anderson"
+  ],
+  "rationale": "Optimizing for playoff strength by acquiring players with more favorable postseason schedules at key positions."
+}

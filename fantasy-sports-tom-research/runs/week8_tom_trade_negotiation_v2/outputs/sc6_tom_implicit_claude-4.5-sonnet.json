@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Matt Wright",
+    "Kyle Martin"
+  ],
+  "ask_from_B": [
+    "James Jones",
+    "Eric Torres"
+  ],
+  "rationale": "Upgrading to dual-threat QB, swapping high-variance rookie WRs for veteran deep threat",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

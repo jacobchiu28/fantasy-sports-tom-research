@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "No evidence of Team B\u2019s preferences or urgency is considered. The proposal centers only on Team A and misreads needs: Team A already has a healthy Tier 1 TE (Adam Wilson), while the target (Marcus Garcia) is a Tier 4, questionable TE. Giving up a Tier 2 ascending WR (Torres) weakens A\u2019s WR corps. Rationale is generic and factually off (\u201cmajor TE weakness,\u201d \u201chigh-usage TE\u201d). Trade is feasible but strategically incoherent.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

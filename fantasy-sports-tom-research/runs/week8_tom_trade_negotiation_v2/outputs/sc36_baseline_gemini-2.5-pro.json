@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "David Carter",
+    "Liam Adams"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "Team A consolidates depth at TE and a rookie RB to acquire a true workhorse back, addressing its primary roster weakness.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_baseline_gemini-2.5-pro.txt"
+  }
+}

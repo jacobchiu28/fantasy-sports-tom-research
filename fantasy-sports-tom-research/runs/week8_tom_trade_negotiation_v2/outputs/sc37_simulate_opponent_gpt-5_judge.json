@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Attempts ToM by noting A\u2019s QB need and B\u2019s desire for steadiness, but misreads B: Torres is a deep-threat with mid variance (not \u201csteadier\u201d), and B prefers stable, volume WRs. It wrongly calls Lucas Carter a stable starter despite being Out, and undervalues B\u2019s reliance on Chris Lee (low-variance QB) for a conservative manager. Trade is feasible but lopsided and rationale is factually inconsistent and thin.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

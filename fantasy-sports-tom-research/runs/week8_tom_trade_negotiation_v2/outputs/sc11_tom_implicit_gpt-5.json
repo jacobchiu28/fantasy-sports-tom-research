@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Sean Adams",
+    "Kyle Taylor"
+  ],
+  "ask_from_B": [
+    "Devon Miller"
+  ],
+  "rationale": "RB stability + WR depth for your backup QB; you keep pocket QB. Win-now help for you, injury insurance for us.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc11_tom_implicit_gpt-5.txt"
+  }
+}

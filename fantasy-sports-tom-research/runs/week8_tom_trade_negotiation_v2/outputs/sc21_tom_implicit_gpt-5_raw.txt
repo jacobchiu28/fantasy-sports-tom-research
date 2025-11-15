@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Campbell"],
+  "ask_from_B": ["David Campbell"],
+  "rationale": "Swap RB floor (friendly playoffs) for your steady WR; you need RB help, we need stable WR.",
+  "p_accept_B": 0.55
+}

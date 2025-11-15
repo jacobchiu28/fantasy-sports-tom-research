@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Little evidence of Team B\u2019s mindset (consensus-trusting) beyond vague \u201chigh-variance swap.\u201d B would highly value a Tier 1, ascending RB (Thompson), so acceptance likely higher. Offer contradicts Team A\u2019s ceiling/volume preference by downgrading RB from Tier 1 to Tier 3 for a modest WR upgrade. All statuses fit, but strategic fit is poor. Rationale is generic, ignores tiers, playoff outlooks, and manager psychologies.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

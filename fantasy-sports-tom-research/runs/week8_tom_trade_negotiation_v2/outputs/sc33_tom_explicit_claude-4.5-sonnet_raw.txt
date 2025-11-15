@@ -1,0 +1,14 @@
+```json
+{
+  "offer_from_A": ["Caleb Garcia", "Trey Adams"],
+  "ask_from_B": ["Darian Anderson", "Brandon Martinez"],
+  "rationale": "Low-volatility QB+RB for two stable WRs. B gets floor, A gets consistent targets needed for wins.",
+  "p_accept_B": 0.42,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B (8-0) is playoff-focused and extremely conservative. They value stable floors over upside. They have adequate RB depth but their WR corps is volatile (Liam Scott, Jamal Nelson, Justin Miller all high variance). However, they have solid QB depth already with Sean Anderson and Trey Rodriguez.",
+    "team_b_perception": "Team B manager trusts expert consensus and prefers proven veterans. Caleb Garcia is a veteran pocket passer (their preferred archetype) with low volatility - fits perfectly. Trey Adams offers low volatility RB depth with friendly playoff schedule. They're giving up mid-volatility veteran WRs with friendly schedules, but have WR depth.",
+    "fairness_assessment": "Team B may hesitate because: (1) they already have two quality low-volatility QBs, making Caleb Garcia redundant, and (2) they're trading away two WRs when their WR room is already their weakness. The conservative manager likely sees this as weakening their stable WR depth for marginal QB/RB upgrades they don't need.",
+    "team_a_rationale": "Team A (1-7) desperately needs wins NOW. Their WR corps is extremely volatile (Kyle Mitchell, James Campbell, Eric Allen all deep threats with high variance). Trading away backup QBs and a low-volatility RB for two mid-volatility possession/outside WRs gives them the consistent weekly floors they need to start winning. Darian Anderson and Brandon Martinez both have friendly playoff schedules and mid-variance - more reliable than their current boom/bust WRs."
+  }
+}
+```

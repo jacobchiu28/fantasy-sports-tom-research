@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Shows some awareness that B could trade from QB surplus and might like a young ascending WR and a workhorse RB. However, it ignores B\u2019s stated preference for pocket passers and possession WRs, and B\u2019s TE injury need. A\u2019s preference for workhorse RBs makes sending Robinson away questionable. Rationale is generic and doesn\u2019t engage specific roster contexts or motivations, limiting ToM depth.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Sean Adams",
+    "Liam Wright",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Noah Carter",
+    "Noah Brown"
+  ],
+  "rationale": "B: contrarian, values big-play WRs; TE-rich, RB-thin. Adams+Wright+Torres for Noah Brown+Noah Carter balances needs.",
+  "p_accept_B": 0.56,
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_explicit_gpt-5.txt"
+  }
+}

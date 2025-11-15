@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Eric Allen", "Trey Scott", "Josh Martinez"],
+  "ask_from_B": ["Mason Holt", "Josh Flores"],
+  "rationale": "Trade WR surplus for TE upgrade and mid-vol RB with friendly playoffs; strengthens weak spots now"
+}

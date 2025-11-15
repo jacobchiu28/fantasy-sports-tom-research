@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 0,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 10,
+  "justification": "Proposal ignores Team B\u2019s conservative, injury-averse profile and preference for volume/possession WRs. Asking for a doubtful Tier-1 TE for a volatile Tier-4 deep-threat WR is unrealistic. It also conflicts with Team A\u2019s injury-cautious approach by targeting an injured player. No reasoning about Team B\u2019s incentives, roster depth, or schedule considerations; rationale is generic and one-sided.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

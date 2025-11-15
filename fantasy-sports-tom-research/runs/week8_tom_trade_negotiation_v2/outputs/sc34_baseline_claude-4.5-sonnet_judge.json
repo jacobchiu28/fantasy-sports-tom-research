@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Offer misreads Team B\u2019s conservative, floor-focused profile. Proposes a high-variance WR with declining role plus a mid-tier rookie RB (tough playoff slate) for B\u2019s steady Tier-2 RB with friendly schedule\u2014opposite of B\u2019s values and urgent win-now needs. Rationale is A-centric and generic, with little reference to B\u2019s preferences or expert-consensus tendencies. Mechanically coherent but strategically mismatched; 0.35 acceptance is optimistic.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

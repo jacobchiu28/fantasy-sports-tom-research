@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Offer ignores Team B\u2019s mindset and needs: B values breakout WRs and has TE injuries, so trading Austin Torres plus their ascending rookie TE is unlikely. The rationale mislabels the return as \u201cconsistent\u201d when Torres is mid-variance and the TE is a rookie. For Team A, giving up a Tier 1 RB for WR2 + TE4 mismatches their preference for reliable possession WRs and proven veterans. Explanation is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

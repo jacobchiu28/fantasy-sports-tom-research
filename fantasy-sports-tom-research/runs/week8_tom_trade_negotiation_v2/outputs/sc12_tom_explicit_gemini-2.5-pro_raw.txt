@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Alex Thompson",
+    "Ben Martin"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Team A offers two high-upside young players for B's stable RB. A needs a safe floor to win now; B can chase a higher ceiling.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Robinson", "Derek Harris"],
+  "ask_from_B": ["Kyle Garcia", "Austin Torres", "Caleb Foster"],
+  "rationale": "Workhorse RB + stable WR for depth pieces; B gets floor, A gets consistency",
+  "p_accept_B": 0.62
+}
+```

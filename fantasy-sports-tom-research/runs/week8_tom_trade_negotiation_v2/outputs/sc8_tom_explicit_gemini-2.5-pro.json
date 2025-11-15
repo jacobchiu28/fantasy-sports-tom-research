@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Trevor Martin",
+    "Xavier Carter"
+  ],
+  "ask_from_B": [
+    "Darian Thomas"
+  ],
+  "rationale": "Team B gets two starters to improve its struggling roster. Team A consolidates for a high-floor, low-volatility receiver.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

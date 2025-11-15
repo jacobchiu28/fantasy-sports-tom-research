@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Marcus Taylor", "Austin Allen"],
+  "ask_from_B": ["Liam Torres"],
+  "rationale": "Upgrade RB depth by trading surplus WR/TE; Torres has friendly playoff schedule and mid volatility",
+  "p_accept_B": 0.35
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Good read that B values a dual-threat QB for a friendly playoff slate. However, A would be left without a healthy QB and is taking back a doubtful TE, violating A\u2019s strict injury avoidance. Ben King is a committee RB with tough playoff matchups, not A\u2019s preferred workhorse profile. Rationale is brief and misses key roster/health constraints and B\u2019s comfort buying injured players.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

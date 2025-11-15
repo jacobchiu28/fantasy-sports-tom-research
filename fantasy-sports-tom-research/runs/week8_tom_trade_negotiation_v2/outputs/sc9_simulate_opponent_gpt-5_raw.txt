@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Sam Lewis", "Nick Torres"],
+  "ask_from_B": ["Ryan Taylor", "Brandon Miller"],
+  "rationale": "B gets stable RB/WR floors; A takes boom RB/WR—fits both styles and immediate needs.",
+  "p_accept_B": 0.58
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Chris Reed",
+    "Cameron Holt"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Upgrading to workhorse RB; offering consistent dual-threat QB + possession WR depth",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

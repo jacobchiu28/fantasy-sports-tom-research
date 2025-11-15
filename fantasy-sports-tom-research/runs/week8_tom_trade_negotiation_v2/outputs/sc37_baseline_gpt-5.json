@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Justin Reed",
+    "Matt Wright",
+    "Mason Robinson"
+  ],
+  "ask_from_B": [
+    "Lucas Carter",
+    "Ryan Taylor"
+  ],
+  "rationale": "Add dual-threat QB and workhorse RB; trade surplus WR depth plus committee RB",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_baseline_gpt-5.txt"
+  }
+}

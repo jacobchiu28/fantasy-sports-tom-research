@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Identifies Team B\u2019s desire for stable WRs and injury caution, but mislabels Brandon Martinez as a possession WR and Ethan Turner as low-variance. Proposes B trade a Tier 1 RB (Rodriguez) despite B\u2019s conservative, consensus-trusting style that values workhorse RBs. TE upgrade is marginal given B\u2019s current TE4. The offer is imbalanced and inconsistent with B\u2019s priorities, so acceptance is unlikely despite the multi-player rationale.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

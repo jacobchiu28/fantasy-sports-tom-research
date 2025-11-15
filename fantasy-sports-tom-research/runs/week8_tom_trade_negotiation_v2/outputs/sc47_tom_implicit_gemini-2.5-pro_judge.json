@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: a conservative, consensus-driven 7-1 manager valuing workhorse RBs and health is unlikely to trade Tier 1 RB Xavier Rodriguez for a rookie committee RB (Tier 3) and a Tier 5 WR. Claims of \u201cstable veteran production\u201d for A are incorrect (Rodriguez is a young breakout; Lucas Allen is out). Little attention to B\u2019s preference for possession WRs and injury caution. Acceptance probability is overstated; rationale is shallow and inconsistent with roster contexts.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

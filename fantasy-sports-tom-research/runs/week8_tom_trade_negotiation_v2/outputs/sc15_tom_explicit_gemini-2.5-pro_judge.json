@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Acknowledges A\u2019s floor vs. B\u2019s ceiling, but misreads B\u2019s needs. B already has multiple high-upside WRs and prefers rookies/injured buy-lows; Chris Garcia is Tier 5 with a declining role, offering dubious ceiling. Ben King, while low volatility, is valuable RB depth for B. A also prefers proven veterans/workhorse RBs, which King is not. The 0.75 acceptance probability is unrealistic. Rationale is generic and lacks evidence.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

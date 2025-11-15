@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "James Campbell"
+  ],
+  "ask_from_B": [
+    "Devon Martinez",
+    "Isaiah Thompson"
+  ],
+  "rationale": "Workhorse RB upgrade for B's committee; deep threats swap. B gets playoff schedule RB, A gets healthier WRs.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Acknowledges B\u2019s WR depth but misreads B\u2019s beliefs: B trusts consensus and values young ascending WRs\u2014Isaiah Thompson (Tier 2, ascending, friendly playoffs) fits perfectly. Claiming B \u201clacks a high-ceiling rookie RB\u201d ignores Nick Roberts (Tier 2). Swap is a WR downgrade (Thompson -> Campbell Tier 3) for a lateral RB move (Wright Tier 5 -> Robinson Tier 5). Calling Thompson a \u201creliable WR1\u201d is inconsistent. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

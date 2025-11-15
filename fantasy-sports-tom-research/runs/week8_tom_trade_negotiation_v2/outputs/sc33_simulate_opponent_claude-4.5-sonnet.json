@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Garcia",
+    "Trey Adams"
+  ],
+  "ask_from_B": [
+    "Darian Anderson",
+    "Brandon Martinez"
+  ],
+  "rationale": "Low-volatility pocket QB + stable RB for two consistent WRs. Fits B's conservative style, addresses A's WR need.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Clark",
+    "Justin Hernandez"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Upgrades A's RB depth by trading surplus QB/WR; consolidates talent for playoff push despite 2-6 record.",
+  "p_accept_B": 0.15,
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_baseline_claude-4.5-sonnet.txt"
+  }
+}

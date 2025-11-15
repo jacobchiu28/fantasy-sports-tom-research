@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trevor Roberts", "Liam Torres"],
+  "ask_from_B": ["Ben King", "Cameron Holt"],
+  "rationale": "Stable QB+RB for conservative manager; King's low volatility + Holt's targets fit A's contrarian buy-low approach",
+  "p_accept_B": 0.62
+}
+```

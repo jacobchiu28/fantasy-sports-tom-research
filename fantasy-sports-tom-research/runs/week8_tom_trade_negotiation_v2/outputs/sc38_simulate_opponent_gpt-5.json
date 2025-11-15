@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Lucas Martin",
+    "Sam Martin"
+  ],
+  "ask_from_B": [
+    "Sam Reed"
+  ],
+  "rationale": "B upgrades to stable dual\u2011threat QB and adds big\u2011play WR; trades from RB surplus to aid A\u2019s thin backfield.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_simulate_opponent_gpt-5.txt"
+  }
+}

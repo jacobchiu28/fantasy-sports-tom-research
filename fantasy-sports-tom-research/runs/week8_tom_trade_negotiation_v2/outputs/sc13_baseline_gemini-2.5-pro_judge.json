@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "The proposal barely models Team B\u2019s priorities. It ignores B\u2019s preference for proven veterans and possession WRs and their 8-0 incentive to keep stability. It also fails to explicitly leverage B\u2019s TE injuries, despite offering a rookie Tier 4 TE. The trade is somewhat coherent (B needs TE depth), but value is light for a workhorse RB. Rationale is brief and Team A\u2013centric without evidence-based reasoning.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

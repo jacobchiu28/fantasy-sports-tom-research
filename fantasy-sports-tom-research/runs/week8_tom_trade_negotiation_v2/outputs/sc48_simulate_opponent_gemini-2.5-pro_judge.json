@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Recognizes B likes upside, but mischaracterizes Alex Thompson as a lottery ticket and ignores B\u2019s consensus-driven tendencies and roster needs (TE, WR injuries). Trade contradicts A\u2019s ceiling-chasing by sending a Tier 1 ascending RB plus a volatile WR for a Tier 3 RB, leaving A thin at RB. Rationale is generic and fails to reference player tiers, roles, or health. B would likely snap-accept (probability >0.65), so belief modeling/perspective-taking are shallow.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

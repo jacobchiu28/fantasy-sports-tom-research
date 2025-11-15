@@ -1,0 +1,88 @@
+{
+  "player_id": "rb3_2025",
+  "name": "Derek Foster",
+  "position": "RB",
+  "team": "NYG",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      76
+    ],
+    "rush_share_pct_range": [
+      39,
+      64
+    ],
+    "target_share_pct_range": [
+      7,
+      13
+    ],
+    "red_zone_carry_share_pct_range": [
+      29,
+      55
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      12,
+      34
+    ],
+    "trend_5g": "Down",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "Med",
+    "expected_workload_cap_pct": [
+      55,
+      75
+    ],
+    "confidence": 0.51
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.63,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.83
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, high production volatility",
+  "summary_text": "Minor injury concern Tier 1 RB in mid-volume passing offense, mid tempo with declining role. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, high production volatility",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 1 (Very High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

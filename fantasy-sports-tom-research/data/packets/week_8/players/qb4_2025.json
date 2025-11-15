@@ -1,0 +1,83 @@
+{
+  "player_id": "qb4_2025",
+  "name": "Lucas Hernandez",
+  "position": "QB",
+  "team": "KC",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      28,
+      46
+    ],
+    "completion_pct_range": [
+      60,
+      68
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      18
+    ],
+    "rush_share_pct_range": [
+      7,
+      18
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.68,
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.78
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+  "summary_text": "Healthy Tier 2 QB in low-volume passing offense, mid tempo with declining role. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Low pass rate, Mid tempo",
+    "market": "Tier 2 (Low trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

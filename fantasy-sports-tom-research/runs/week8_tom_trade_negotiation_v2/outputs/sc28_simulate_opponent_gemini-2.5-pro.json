@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "A gets a needed RB. B fills a huge TE void and gets a stable veteran WR, fitting their conservative style.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Acknowledges B\u2019s desire for a dual-threat QB and playoff push, but ignores B\u2019s injury aversion and the RB depth hit from losing a steady Tier 2 (Harris) while relying on a Questionable RB. Separates A\u2019s desperation and QB depth from B\u2019s needs, but shallowly. Trade is plausible and roster-coherent, yet the rationale is generic and omits schedule/role details. The 0.85 acceptance probability is overstated given B\u2019s safer-floor tendencies and consensus-driven approach.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

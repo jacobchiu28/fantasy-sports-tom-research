@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Marcus Reed", "Trevor Rodriguez"],
+  "ask_from_B": ["Ben King", "Austin Torres"],
+  "rationale": "Team B gets upside rookies; Team A gets stable floor RB/WR for urgent wins",
+  "p_accept_B": 0.42
+}
+```

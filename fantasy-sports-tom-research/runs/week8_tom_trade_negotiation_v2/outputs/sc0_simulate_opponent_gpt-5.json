@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Austin Martin",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Alex Nelson",
+    "Michael Roberts"
+  ],
+  "rationale": "B moves surplus QB/TE for RB depth + young ascending WR; A gains steadier QB and receiving TE floor.",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_simulate_opponent_gpt-5.txt"
+  }
+}

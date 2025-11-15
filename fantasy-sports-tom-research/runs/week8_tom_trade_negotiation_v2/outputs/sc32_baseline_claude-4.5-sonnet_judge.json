@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Ignores Team B\u2019s needs/preferences (urgent wins, dual-threat QBs, consensus lean). Mislabels Austin Reed as a surplus QB3 despite Tier 1 status and offers him plus a Tier 1 TE for an Out Tier 3 TE\u2014contradicts \u2018upgrade TE\u2019 rationale. No acknowledgment of B\u2019s TE context (would love immediate TE) or that B might prefer keeping injured upside but still value immediate production. Acceptance probability is unjustified. Overall, A-centric, logically inconsistent, and weakly reasoned.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

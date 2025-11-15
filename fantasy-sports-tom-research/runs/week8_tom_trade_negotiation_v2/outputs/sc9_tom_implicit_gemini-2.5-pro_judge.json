@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "The offer nods to Team B\u2019s desire for stability and playoff schedule by sending a low-variance RB and healthy pieces, and it loosely fits zero-RB by converting a workhorse into WR depth. However, calling Nick and Mason Torres \u201creliable\u201d overlooks their deep-threat/mid-variance profiles, clashing with B\u2019s conservative, possession-leaning preferences. It doesn\u2019t explicitly consider B\u2019s injury caution or the urgency for immediate, stable starters versus a committee RB. The trade itself is coherent given B\u2019s RB surplus and WR need, but the rationale lacks nuanced ToM.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

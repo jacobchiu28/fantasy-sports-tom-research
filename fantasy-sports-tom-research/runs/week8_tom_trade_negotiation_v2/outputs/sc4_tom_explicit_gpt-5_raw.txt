@@ -1,0 +1,1 @@
+{"offer_from_A":["Alex Thompson (RB)"],"ask_from_B":["Brandon Taylor (TE)"],"rationale":"7-1 B chases upside; deals TE surplus for young breakout RB. A gains steadier TE with friendly playoffs.","p_accept_B":0.58}

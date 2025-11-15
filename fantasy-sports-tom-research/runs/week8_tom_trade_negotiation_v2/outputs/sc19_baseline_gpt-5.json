@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "James Holt"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Kyle Martinez"
+  ],
+  "rationale": "Turn TE surplus into RB upgrade (Josh Garcia) and add steadier WR depth (Kyle Martinez).",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_baseline_gpt-5.txt"
+  }
+}

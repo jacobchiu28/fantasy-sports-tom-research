@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 70,
+  "justification": "Shows ToM by appealing to B\u2019s floor/SOS focus and pocket-passer preference through Harris, and frames A\u2019s upside pursuit with Reed/Caleb. Separates motivations well. Trade is broadly coherent: B upgrades QB stability; A consolidates RB upside and accepts QB risk. However, it underplays B\u2019s preference for young ascending players and devalues consensus love for an elite RB (Reed), so B\u2019s acceptance is less likely than stated. Rationale is clear but thin.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

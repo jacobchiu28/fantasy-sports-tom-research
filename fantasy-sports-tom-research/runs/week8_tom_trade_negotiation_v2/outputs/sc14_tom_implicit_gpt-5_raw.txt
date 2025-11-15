@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Isaiah Thompson", "Mason Hill"],
+  "ask_from_B": ["Noah Brown"],
+  "rationale": "A upgrades TE; B keeps Turner, gains WR with friendly playoffs plus TE depth",
+  "p_accept_B": 0.63
+}

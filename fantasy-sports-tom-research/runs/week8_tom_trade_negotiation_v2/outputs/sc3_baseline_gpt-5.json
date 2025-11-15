@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Matt Nelson",
+    "Jordan Walker"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Michael Flores"
+  ],
+  "rationale": "Upgrade RB stability and TE playoff outlook; uses surplus to bolster A\u2019s lineup",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_baseline_gpt-5.txt"
+  }
+}

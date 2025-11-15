@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Justin Nelson", "Michael Flores"],
+  "ask_from_B": ["Jordan Williams"],
+  "rationale": "A gains RB depth; B gets rookie WR upside and steady TE depth for playoff run.",
+  "p_accept_B": 0.6
+}

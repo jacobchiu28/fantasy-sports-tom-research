@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Understands B\u2019s TE has tough playoff matchups and WR room is volatile, so a steadier WR could appeal. However, it ignores B\u2019s reliance on expert rankings (TE3 vs WR4 value), B\u2019s preference for possession/target volume and schedule for the incoming WR, and A\u2019s motivations/needs. The trade is plausible (B has TE depth; A needs a TE), but the rationale is thin and one-sided.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

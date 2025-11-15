@@ -1,0 +1,85 @@
+{
+  "player_id": "rb41_2025",
+  "name": "Josh Garcia",
+  "position": "RB",
+  "team": "NE",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      48,
+      83
+    ],
+    "rush_share_pct_range": [
+      38,
+      76
+    ],
+    "target_share_pct_range": [
+      7,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      26,
+      54
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "pass_block_snap_share_pct_range": [
+      11,
+      29
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.89
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.68,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.71
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 2 RB in mid-volume passing offense, mid tempo with declining role. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

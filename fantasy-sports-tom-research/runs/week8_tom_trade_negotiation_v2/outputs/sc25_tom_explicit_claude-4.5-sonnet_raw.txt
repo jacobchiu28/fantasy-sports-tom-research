@@ -1,0 +1,15 @@
+```json
+{
+  "offer_from_A": ["Jake Green", "Ryan Taylor"],
+  "ask_from_B": ["Cameron Scott", "Sean Scott", "Xavier Thompson"],
+  "rationale": "B gets dual-threat QB+workhorse RB; A gets WR depth+young RB. Fits zero-RB, rookie upside for B.",
+  "p_accept_B": 0.72,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B follows zero-RB philosophy but has only committee backs. Strong at WR (6 deep). Needs QB upgrade - Logan Holt is pocket passer, but B values dual-threat QBs. Has Jamal Miller (dual-threat) but high volatility.",
+    "team_b_psychology": "Trusts expert consensus, targets injured players as buy-lows, values rookies with breakout potential and dual-threat QBs. At 6-2, can afford some risk but wants playoff strength.",
+    "what_b_wants": "A more stable dual-threat QB (Jake Green - mid volatility, young breakout fits profile). Could use RB depth despite zero-RB approach given all are committee backs. Willing to move WR depth and expendable RBs.",
+    "fairness_perception": "B gets Jake Green (dual-threat QB upgrade over Logan Holt) plus Ryan Taylor (workhorse RB - rare asset that helps even zero-RB teams in playoffs). B gives up WR depth they can afford (Cameron Scott rookie, Sean Scott young breakout both fit B's preferences but redundant) plus Xavier Thompson (committee back, expendable). Expert consensus would likely favor getting the workhorse RB.",
+    "why_b_accepts": "Upgrades QB position with preferred archetype, adds workhorse RB for playoff push while maintaining zero-RB core philosophy by keeping other committee backs, only sacrifices WR depth from position of strength. Aligns with trusting expert rankings that value workhorse RBs highly."
+  }
+}
+```

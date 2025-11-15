@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Lucas Hall",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Austin Torres"
+  ],
+  "rationale": "Veteran pocket QB + stable WR for low-volatility RB + consistent target WR",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Correctly targets B\u2019s ceiling-seeking style with a dual-threat QB, but overstates B\u2019s \u2018desperate\u2019 QB need and ignores B\u2019s reliance on rankings (Wright is out and low-tier). Proposal clashes with A\u2019s injury-avoid stance by pursuing Q-tagged Josh Martin and with A\u2019s preference for dual-threat QBs. Value is borderline for B to surrender a Tier 1 workhorse RB for a QB plus an injured, low-value TE. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

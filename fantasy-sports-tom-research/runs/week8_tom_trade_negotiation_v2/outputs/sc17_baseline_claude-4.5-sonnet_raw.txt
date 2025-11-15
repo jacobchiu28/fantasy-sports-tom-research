@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Isaiah Lee", "Xavier Rodriguez"],
+  "ask_from_B": ["James Jones", "Devon Lewis"],
+  "rationale": "Upgrade to dual-threat QB and add RB depth; trade away pocket passer and committee back",
+  "p_accept_B": 0.45
+}
+```

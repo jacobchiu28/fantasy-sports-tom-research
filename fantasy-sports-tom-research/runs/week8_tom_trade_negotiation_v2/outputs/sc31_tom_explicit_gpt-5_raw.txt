@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Alex White", "Chris Torres"],
+  "ask_from_B": ["Mason Mitchell"],
+  "rationale": "B 7-1 w/ WR surplus wants RB depth + young breakout TE; aligns w/ committee-upside prefs. A gains ceiling WR now.",
+  "p_accept_B": 0.7
+}

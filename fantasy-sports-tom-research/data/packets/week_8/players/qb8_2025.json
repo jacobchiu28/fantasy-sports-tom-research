@@ -1,0 +1,86 @@
+{
+  "player_id": "qb8_2025",
+  "name": "Lucas Carter",
+  "position": "QB",
+  "team": "BAL",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      29,
+      44
+    ],
+    "completion_pct_range": [
+      60,
+      70
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      18
+    ],
+    "rush_share_pct_range": [
+      6,
+      16
+    ],
+    "trend_5g": "Up",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.19
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.56,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Tight",
+    "start_rate_band": "40-60%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.59
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with low week-to-week variance",
+  "summary_text": "Out with availability unclear Tier 5 QB in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with low week-to-week variance",
+    "volatility": "Low",
+    "health": "Out",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 5 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

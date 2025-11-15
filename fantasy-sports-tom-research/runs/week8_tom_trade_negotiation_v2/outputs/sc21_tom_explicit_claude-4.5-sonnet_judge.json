@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Identifies B\u2019s urgency and consensus-lean but misses key preferences (possession WRs) and B\u2019s need to preserve RB stability; trading away their only Tier 2 RB likely harms B. Limited separation of A\u2019s goals vs. B\u2019s incentives. Trade is directionally plausible but risks leaving B thin at RB. Rationale is brief and generic, with minimal player/context detail.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

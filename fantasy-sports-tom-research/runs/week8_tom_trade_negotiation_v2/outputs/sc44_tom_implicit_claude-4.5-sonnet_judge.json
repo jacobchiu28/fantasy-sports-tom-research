@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "B is risk-averse, needs immediate healthy production, and avoids injuries; offering an Out WR (Derek Harris) directly conflicts with B\u2019s preferences. Calling Harris a \u201cstable WR\u201d misreads his archetype and status. Asking B to give a Tier 1 RB plus two Tier 2 WRs for a Tier 5 RB and an injured asset is wildly imbalanced. The rationale is generic and ignores B\u2019s consensus-driven mindset and urgency. p_accept_B=0.62 is implausibly high.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

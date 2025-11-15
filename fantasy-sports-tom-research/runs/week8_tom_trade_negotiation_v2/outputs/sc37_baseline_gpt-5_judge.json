@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Neglects Team B\u2019s conservative, volume-first mindset. It asks them to give up Ryan Taylor, a Tier 1 workhorse they highly value, for two boom-bust deep-threat WRs and a doubtful committee RB\u2014poor fit for their floor preference and consensus rankings. Requesting Lucas Carter to \u201cadd a dual-threat QB\u201d ignores that he\u2019s Out, offering no short-term value. The rationale focuses on A\u2019s surplus/needs, not B\u2019s incentives or roster gaps. Structurally feasible but contextually implausible and weakly reasoned.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

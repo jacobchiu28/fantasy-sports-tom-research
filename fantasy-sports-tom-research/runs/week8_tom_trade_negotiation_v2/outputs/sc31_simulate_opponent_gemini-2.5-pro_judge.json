@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Team B already has a Tier 1 TE (Ben Thompson), so TE isn\u2019t a \u2018huge need.\u2019 Trading a Tier 1 WR (Jordan Rivera) for a Tier 4 RB (Liam) and Tier 4 TE (Chris) is a major value gap, conflicting with B\u2019s consensus-trusting profile. RB depth is a mild need, but not at the cost of Rivera. Playoff schedule mentions help, yet the rationale is generic and overstates needs. Acceptance probability is far too high.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

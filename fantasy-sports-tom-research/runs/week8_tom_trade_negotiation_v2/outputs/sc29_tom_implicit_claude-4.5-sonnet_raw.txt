@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Justin Wright", "Eric Davis"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "TE upgrade + young WR upside for workhorse RB with friendly playoff schedule",
+  "p_accept_B": 0.68
+}
+```

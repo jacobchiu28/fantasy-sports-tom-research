@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s conservative style/pocket-passer preference, but misreads specifics: asks for two Tier-5 outside WRs (not possession/consistent targets) and offers a Tier-4, Questionable pocket QB redundant with B\u2019s healthy pocket QB, plus a low-upside Tier-4 RB. B is 8-0 and trusts consensus, making this low-upside/injury-tinged swap unattractive. Trade is feasible but rationale is generic and overstates fit/acceptance probability.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

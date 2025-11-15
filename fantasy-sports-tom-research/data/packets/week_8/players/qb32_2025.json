@@ -1,0 +1,85 @@
+{
+  "player_id": "qb32_2025",
+  "name": "James Taylor",
+  "position": "QB",
+  "team": "DAL",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      27,
+      43
+    ],
+    "completion_pct_range": [
+      61,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      10,
+      19
+    ],
+    "rush_share_pct_range": [
+      5,
+      15
+    ],
+    "trend_5g": "Down",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.72
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.85,
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [
+      "Stack candidate"
+    ],
+    "confidence": 0.63
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with high week-to-week variance",
+  "summary_text": "Healthy Tier 2 QB in high-volume passing offense, mid tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with high week-to-week variance",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

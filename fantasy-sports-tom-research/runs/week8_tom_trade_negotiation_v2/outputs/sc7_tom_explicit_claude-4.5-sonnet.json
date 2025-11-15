@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "David Nelson",
+    "Caleb Foster"
+  ],
+  "ask_from_B": [
+    "Sean Holt",
+    "Matt Wright"
+  ],
+  "rationale": "B gets stable QB+possession WR for playoffs; A buys low on high-upside injured/volatile RB+rookie WR",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

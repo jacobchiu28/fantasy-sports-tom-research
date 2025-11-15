@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Austin Reed",
+    "Josh Martinez"
+  ],
+  "ask_from_B": [
+    "Mason Holt",
+    "Josh Flores"
+  ],
+  "rationale": "Upgrade TE to hybrid role, add RB depth with friendly playoff schedule. Trade backup QB for positional improvement.",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_baseline_claude-4.5-sonnet.txt"
+  }
+}

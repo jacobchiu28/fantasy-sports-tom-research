@@ -1,0 +1,84 @@
+{
+  "player_id": "te6_2025",
+  "name": "Noah Garcia",
+  "position": "TE",
+  "team": "ATL",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      59,
+      86
+    ],
+    "route_participation_pct_range": [
+      58,
+      83
+    ],
+    "target_share_pct_range": [
+      11,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      37,
+      57
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.9,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.82
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+  "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 4 (Med trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

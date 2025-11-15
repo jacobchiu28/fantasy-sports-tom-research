@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Derek Harris", "David Flores"],
+  "ask_from_B": ["Austin Torres", "Kyle Garcia"],
+  "rationale": "Use TE surplus to upgrade WR and secure a steady RB2 for A’s lineup"
+}

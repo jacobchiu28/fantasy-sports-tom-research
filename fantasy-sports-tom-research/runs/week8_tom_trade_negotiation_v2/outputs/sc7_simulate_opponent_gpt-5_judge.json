@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "B is 3-5 and needs immediate points; giving up a Tier 1 RB with ascending usage for a volatile rookie WR (declining role) and a Tier 4 TE is unlikely. While Foster fits B\u2019s high-upside preference, B already has multiple boom/bust WRs and no TE need (has Tier 2 Brian Hill). The offer ignores RB scarcity and B\u2019s win-now urgency; p_accept 0.6 is unrealistic. A\u2019s side fits their conservative style, but rationale is generic and not scenario-grounded.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

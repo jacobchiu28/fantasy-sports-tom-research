@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "The proposal only reflects Team A\u2019s needs. Team B is conservative and values workhorse volume and weekly floor; trading Ryan Taylor for an injured committee RB (Mason) and a boom-bust deep threat (Justin) conflicts with their preferences and consensus lean. It ignores B\u2019s TE injury and desire for possession targets. While B has RB depth, the return lacks stability and value, making the offer unrealistic.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

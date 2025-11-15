@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["David Nelson", "Josh Flores", "Liam Adams"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "B gets steady vet QB, TE upgrade, and RB depth; offloads volatile workhorse with tough playoffs.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s needs: B already has a Tier 1 TE (no \u2018huge TE void\u2019) and values stable floors, making an injured, high-variance WR (Derek Harris) unattractive while needing wins now. Trading away a healthy, low-volatility RB (Ben King) hurts B\u2019s floor and RB depth. Rationale labels Harris as \u2018stable,\u2019 contradicting archetype and injury. Minimal, generic reasoning and inflated accept probability.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

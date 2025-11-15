@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Notes B\u2019s taste for committee backs/rookies and playoff schedules, but ignores B\u2019s trust in rankings and buy-low-on-injury approach. Asking a 7\u20131 team to trade a Tier 1 RB with a friendly playoff slate for a Tier 4 RB plus a Tier 5 rookie misreads incentives; depth isn\u2019t B\u2019s need. Offer is feasible but highly unrealistic; acceptance probability is inflated. Rationale is brief and omits key context.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

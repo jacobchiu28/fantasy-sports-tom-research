@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "The rationale is A-centric and ignores B\u2019s stated preference for dual-threat QBs and injury avoidance, offering only a generic \u201csurplus TEs\u201d note. It doesn\u2019t articulate why B would accept downgrading from a dual-threat QB. The offer is internally coherent and implicitly addresses B\u2019s weak TE room, but the explanation lacks scenario-specific reasoning. Low accept probability is reasonable but unexplained.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

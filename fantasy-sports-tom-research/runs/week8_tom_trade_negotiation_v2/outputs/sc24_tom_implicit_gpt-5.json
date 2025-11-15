@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sam Martinez",
+    "Marcus Gonzalez"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson",
+    "James Taylor"
+  ],
+  "rationale": "A upgrades TE floor; B upgrades QB stability and keeps TE depth; playoff SoS favors B",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_implicit_gpt-5.txt"
+  }
+}

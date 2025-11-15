@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Proposal misreads Team B: a conservative, win-now manager wouldn\u2019t trade their Tier 1 RB (Alex Thompson) for an Out WR. Calling Derek Harris a steady possession WR ignores his injury and deep-threat volatility. B\u2019s RB depth is thin, WR room is deep, and they need immediate floor, not stash. Rationale is generic and misaligned; acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

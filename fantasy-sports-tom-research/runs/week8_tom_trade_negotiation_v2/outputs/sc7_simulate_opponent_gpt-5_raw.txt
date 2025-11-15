@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Michael Foster", "Ethan Turner"],
+  "ask_from_B": ["Justin Garcia"],
+  "rationale": "B gets big-play rookie WR + pass-catching TE; A gets steadier RB depth.",
+  "p_accept_B": 0.6
+}

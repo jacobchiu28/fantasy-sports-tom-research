@@ -1,0 +1,85 @@
+{
+  "player_id": "rb6_2025",
+  "name": "Trevor Clark",
+  "position": "RB",
+  "team": "TB",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      79
+    ],
+    "rush_share_pct_range": [
+      35,
+      68
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      33,
+      59
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      15,
+      32
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.59,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.5
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 3 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

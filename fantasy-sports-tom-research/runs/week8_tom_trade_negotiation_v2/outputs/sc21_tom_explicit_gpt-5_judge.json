@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "The proposal barely models Team B\u2019s mindset and ignores their urgent need for immediate, stable production. It mislabels the move as an upgrade for A while sending away a Tier 2 WR (Thompson) and Tier 2 RB (White) for a Tier 4 WR and Tier 4 TE\u2014an obvious downgrade for A. B likely accepts due to value and comfort with injuries, but White\u2019s doubtful status conflicts with \u2018wins now.\u2019 Rationale is generic and not evidence-based.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

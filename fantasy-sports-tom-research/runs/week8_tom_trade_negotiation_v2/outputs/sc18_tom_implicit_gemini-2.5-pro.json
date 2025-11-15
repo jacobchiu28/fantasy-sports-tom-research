@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Ben King"
+  ],
+  "ask_from_B": [
+    "Austin Torres"
+  ],
+  "rationale": "I have RB depth to spare and need a reliable WR. You get a low-volatility RB2 to add a stable floor behind your workhorse.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

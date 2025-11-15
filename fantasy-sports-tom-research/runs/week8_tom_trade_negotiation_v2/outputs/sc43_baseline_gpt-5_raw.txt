@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Chris Lee", "Ethan Jones"],
+  "ask_from_B": ["Sam Foster", "Austin Torres"],
+  "rationale": "Upgrade QB to dual-threat; swap boom/bust WR for steadier WR with friendly playoffs",
+  "p_accept_B": 0.46
+}

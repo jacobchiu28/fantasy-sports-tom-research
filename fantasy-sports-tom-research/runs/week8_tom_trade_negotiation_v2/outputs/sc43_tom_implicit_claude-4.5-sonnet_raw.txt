@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Jones", "Michael Walker"],
+  "ask_from_B": ["Matt Nguyen", "Sam Reed"],
+  "rationale": "Trading high-variance deep threats for stable mid-variance players B prefers; both need wins now",
+  "p_accept_B": 0.72
+}
+```

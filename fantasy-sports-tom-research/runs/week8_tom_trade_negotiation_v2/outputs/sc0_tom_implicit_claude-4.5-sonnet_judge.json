@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s QB surplus and A\u2019s need for a stable QB, but misreads B\u2019s preferences (pocket passers, possession WRs, injured buy-lows). Mislabels Trevor Brown as a possession WR and ignores that Brandon Hernandez is a volatile deep threat, not B\u2019s typical target. Trade is feasible value-wise and leverages B\u2019s QB depth, but A giving up its only workhorse RB conflicts with A\u2019s stated preferences. Rationale is terse and lacks player/roster-context detail.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

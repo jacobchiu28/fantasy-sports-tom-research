@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "It recognizes B\u2019s taste for dual-threat QBs/deep-threat WRs and contrarian tendencies, and A\u2019s injury-buy approach with Jordan Moore. However, it\u2019s shallow: it doesn\u2019t weigh B\u2019s RB scarcity after losing their lone Tier 1 RB, nor quantify the QB upgrade. It also underexplains A\u2019s urgent-win context and WR depth loss. The trade is plausible and coherent, but the acceptance probability feels optimistic given B\u2019s RB hit. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Clark",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "Dual-threat QB + high-ceiling WR for workhorse RB; B gets upside, A gets stable production",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

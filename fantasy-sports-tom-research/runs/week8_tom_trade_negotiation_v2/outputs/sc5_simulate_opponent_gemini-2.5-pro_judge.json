@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "They note Team B\u2019s desire for floor and TE depth, but misread player profiles: Trey Mitchell and Darian Anderson aren\u2019t high-floor archetypes for B, and B prefers workhorse RBs/possession WRs. Asking for Justin Wright (Tier 5, Out) as a \u201cstud TE\u201d is incorrect, especially since Team A already has a Tier 1 TE. The trade is feasible but incoherent with A\u2019s aims and B\u2019s preferences. Rationale is brief and factually off.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

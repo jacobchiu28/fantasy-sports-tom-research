@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Team B needs immediate, consistent production and values workhorse RBs; this offer asks for B\u2019s best RB and WR while giving a QB downgrade (Ethan T4 vs B\u2019s Sam Martinez T2) and a WR2. It ignores B\u2019s thin RB depth and win-now urgency. The rationale mischaracterizes roles (\u201cQB stability,\u201d \u201cpossession WR\u201d) and doesn\u2019t create a stack or fit B\u2019s preferences. Overall lopsided and unrealistic for B.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

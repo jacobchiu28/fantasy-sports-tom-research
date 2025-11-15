@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Torres", "Alex White", "Chris Torres"],
+  "ask_from_B": ["Sam Lewis", "Tyler Anderson"],
+  "rationale": "Upgrade RB/TE by flipping WR depth and a committee RB for Sam Lewis and TE1 Tyler Anderson",
+  "p_accept_B": 0.32
+}

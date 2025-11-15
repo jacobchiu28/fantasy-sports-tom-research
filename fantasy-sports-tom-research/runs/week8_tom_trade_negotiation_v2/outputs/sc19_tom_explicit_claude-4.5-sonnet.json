@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Matt Hill",
+    "Isaiah Adams"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Kyle Martinez"
+  ],
+  "rationale": "Young RB+rookie WR fit B's profile; stable vets for A's conservative needs",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

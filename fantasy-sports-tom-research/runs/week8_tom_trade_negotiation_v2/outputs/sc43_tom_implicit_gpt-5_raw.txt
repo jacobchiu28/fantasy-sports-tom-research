@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Robinson", "Chris Lee"],
+  "ask_from_B": ["Sam Foster", "Marcus Reed"],
+  "rationale": "B gains workhorse RB + steady QB; A gets dual-threat QB + upside RB—fits both managers’ styles.",
+  "p_accept_B": 0.58
+}

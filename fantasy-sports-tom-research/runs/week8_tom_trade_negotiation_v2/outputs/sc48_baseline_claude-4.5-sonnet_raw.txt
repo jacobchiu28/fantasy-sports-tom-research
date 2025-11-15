@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trevor Roberts", "Chris Lewis"],
+  "ask_from_B": ["Darian Campbell"],
+  "rationale": "Team A upgrades RB depth by trading surplus QB/TE for rookie committee back with friendly playoff schedule",
+  "p_accept_B": 0.42
+}
+```

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Xavier Johnson", "David Flores"],
+  "ask_from_B": ["Liam Carter", "Ben Miller"],
+  "rationale": "Team B needs wins now; veteran WR+TE for stable RB+ascending WR. Contrarian gets proven talent over hype.",
+  "p_accept_B": 0.62
+}
+```

@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Matt Adams"
+  ],
+  "ask_from_B": [
+    "Devon Lewis"
+  ],
+  "rationale": "I'm 2-6 and need to consolidate for an impact RB. You get a dual-threat QB you like and a WR by trading from RB depth.",
+  "p_accept_B": 0.6
+}

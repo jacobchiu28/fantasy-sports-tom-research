@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Proposal mostly ignores Team B\u2019s mindset. Robinson offers workload and a friendly playoff schedule\u2014exactly what B values in consistency and SOS\u2014while the incoming pieces (Marcus Reed high-volatility, Trevor Martin deep-threat) misalign with B\u2019s preferences. Labeling Robinson an \u201cupgrade\u201d over a Tier 1 RB is inconsistent with the tiers and A\u2019s ceiling-chasing style. Rationale is thin and one-sided, with little evidence about B\u2019s needs or rankings. The offer is feasible but poorly targeted.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "player_id": "wr1_2025",
+  "name": "Eric Davis",
+  "position": "WR",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      58,
+      92
+    ],
+    "route_participation_pct_range": [
+      75,
+      93
+    ],
+    "targets_per_route_run_pct_range": [
+      19,
+      29
+    ],
+    "target_share_pct_range": [
+      24,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      33,
+      45
+    ],
+    "slot_rate_pct_range": [
+      29,
+      70
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Doubtful",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      30,
+      60
+    ],
+    "confidence": 0.3
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.83,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.86
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+  "summary_text": "Doubtful with availability unclear Tier 2 WR in high-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, high weekly variance",
+    "volatility": "High",
+    "health": "Doubtful",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

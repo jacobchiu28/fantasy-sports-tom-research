@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Caleb Turner",
+    "Alex King",
+    "Cameron Holt"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Team A consolidates its RB/WR depth for a true workhorse RB, improving its starting lineup and playoff schedule significantly.",
+  "p_accept_B": 0.35
+}

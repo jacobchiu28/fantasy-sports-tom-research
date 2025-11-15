@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Identifies B\u2019s weak TE but ignores B\u2019s conservative, consensus-driven preference to keep a Tier 1 RB; Turner is a marginal TE upgrade with low consistency, and Carter\u2019s volatility conflicts with B\u2019s floor bias. A\u2019s own stated preferences also misalign with targeting a declining-role RB. The acceptance probability is unrealistic, and the rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

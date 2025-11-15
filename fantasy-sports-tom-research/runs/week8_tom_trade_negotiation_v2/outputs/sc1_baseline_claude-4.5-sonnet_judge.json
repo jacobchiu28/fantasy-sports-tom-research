@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offer asks B to part with a low-volatility RB (Ben King) that fits B\u2019s conservative, floor-focused profile, for two boom/bust rookie WRs\u2014misaligned with B\u2019s stated preferences and consensus. Mislabels King as a workhorse and Baker as a stable TE; Baker doesn\u2019t solve A\u2019s TE need. Rationale centers on A\u2019s upgrade with almost no analysis of B\u2019s incentives. Mechanically feasible, but reasoning is thin and contextually off for B.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

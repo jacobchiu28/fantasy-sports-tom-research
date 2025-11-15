@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Lucas Thompson", "Austin Young"],
+  "ask_from_B": ["Ryan Taylor", "Michael Roberts"],
+  "rationale": "Upgrade to workhorse RB and receiving TE; trade away committee back and redundant deep threat",
+  "p_accept_B": 0.35
+}
+```

@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Michael Foster"
+  ],
+  "ask_from_B": [
+    "Justin Garcia"
+  ],
+  "rationale": "Trading my high-upside rookie WR for your stable veteran RB. I need floor for the playoffs, you need ceiling to win now.",
+  "p_accept_B": 0.65
+}

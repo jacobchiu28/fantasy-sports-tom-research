@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Minor ToM shown by targeting B\u2019s TE surplus and returning an RB, but it ignores B\u2019s urgent need for immediate upgrades. For B, swapping Alex Mitchell for Trevor Clark is lateral, and moving from a receiving TE (Roberts) to a blocking TE (Flores) is a downgrade. The offer fits A\u2019s needs but lacks clear benefit to B. Rationale is brief and not grounded in B\u2019s incentives or context.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

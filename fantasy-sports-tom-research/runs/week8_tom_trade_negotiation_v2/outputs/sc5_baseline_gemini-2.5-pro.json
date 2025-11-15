@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "David Adams",
+    "Michael Mitchell"
+  ],
+  "ask_from_B": [
+    "Justin Wright"
+  ],
+  "rationale": "Consolidating our RB/WR depth for a massive upgrade at TE, our weakest starting position, to gear up for a playoff run.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_baseline_gemini-2.5-pro.txt"
+  }
+}

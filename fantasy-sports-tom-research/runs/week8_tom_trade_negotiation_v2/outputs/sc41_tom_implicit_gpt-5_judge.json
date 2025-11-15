@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "B is 1-7 and needs reliable, healthy production; trading a healthy Tier 2 WR (Justin Young) for an Out, Tier 5 WR (Lucas Allen) contradicts that. B already has multiple Tier 2 TEs, so TE \u2018depth\u2019 is not a compelling gain, though Darian Taylor is an upgrade over Liam Adams. The rationale mislabels Allen as a steadier WR and ignores B\u2019s urgency and preferences for consistency. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

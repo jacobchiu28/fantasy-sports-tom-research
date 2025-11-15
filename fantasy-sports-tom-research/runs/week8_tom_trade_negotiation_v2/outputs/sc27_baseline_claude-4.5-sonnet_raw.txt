@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Jamal Miller", "Devon Martinez"],
+  "ask_from_B": ["Tyler Miller", "Sam Lewis"],
+  "rationale": "Upgrade QB volatility from high to mid, acquire low-volatility RB for depth. Pure roster optimization.",
+  "p_accept_B": 0.35
+}
+```

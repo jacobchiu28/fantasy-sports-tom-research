@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Sam Miller",
+    "James Rivera"
+  ],
+  "ask_from_B": [
+    "Brandon Taylor",
+    "Cameron Harris"
+  ],
+  "rationale": "Upgrade TE to target hog, improve QB bye/schedule; trade surplus deep WR and backup QB",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_baseline_gpt-5.txt"
+  }
+}

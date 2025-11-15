@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Devon Lewis",
+    "Tyler Walker"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "Team B is 0-8 and has only one RB. This trade sends two young RBs to fix their biggest need for my TE upgrade.",
+  "p_accept_B": 0.75
+}

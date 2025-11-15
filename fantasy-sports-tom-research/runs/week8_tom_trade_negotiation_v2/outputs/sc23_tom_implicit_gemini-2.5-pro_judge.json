@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Some ToM shown by appealing to B\u2019s playoff push and high-upside preference. But it mislabels Trevor Martin as a more reliable upgrade over Ben Martin and ignores value/tier context. Trade is feasible and attractive for B, yet rationale lacks roster-specific detail (e.g., B\u2019s QB/TE injuries) and nuanced incentives.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

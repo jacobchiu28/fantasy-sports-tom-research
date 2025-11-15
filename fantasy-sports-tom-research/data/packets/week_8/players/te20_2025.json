@@ -1,0 +1,86 @@
+{
+  "player_id": "te20_2025",
+  "name": "Eric Wright",
+  "position": "TE",
+  "team": "DEN",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      57,
+      84
+    ],
+    "route_participation_pct_range": [
+      56,
+      79
+    ],
+    "target_share_pct_range": [
+      13,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      35,
+      58
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.94
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.66,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Loose",
+    "start_rate_band": "40-60%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.63
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, low usage consistency",
+  "summary_text": "Healthy Tier 5 TE in high-volume passing offense, mid tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, low usage consistency",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 5 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

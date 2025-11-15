@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Rationale is A-centric and vague, not modeling B\u2019s needs (QB/TE help) or mindset. Calling Trevor Martin a steadier WR2 is unsupported versus A\u2019s existing options and similar-tier Kyle Mitchell. The trade is feasible and could incidentally appeal to B\u2019s upside lean, but that\u2019s not articulated. Value/coherence are shaky: A overpays with a Tier 2 RB for a Tier 4 WR, conflicting with the stated goal.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

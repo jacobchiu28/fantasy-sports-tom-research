@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Caleb Foster",
+    "Sam Lewis"
+  ],
+  "ask_from_B": [
+    "Justin Garcia"
+  ],
+  "rationale": "B gets a stable WR to curb variance and an RB with a good playoff schedule, helping them win now. A consolidates bench depth.",
+  "p_accept_B": 0.65
+}

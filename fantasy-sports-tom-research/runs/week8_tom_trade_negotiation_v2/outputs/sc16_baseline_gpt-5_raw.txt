@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["David Nelson", "Matt Adams"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "Flip surplus QB/WR for a workhorse RB; A keeps QB depth and upgrades RB1 immediately"
+}

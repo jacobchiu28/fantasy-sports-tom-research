@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Team B is conservative and values workhorse RBs, possession WRs, and pocket passers; this offer gives them a second Tier 1 dual-threat QB (redundant with Jake Green) and an outside WR with mid variance, while asking for their stable RB (Ben King). It misunderstands B\u2019s likely priorities. For Team A (0-8), trading away a Tier 1 QB for a Tier 3 RB and a blocking TE offers little immediate win equity. Rationale is generic and mislabels A\u2019s situation as a rebuild.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

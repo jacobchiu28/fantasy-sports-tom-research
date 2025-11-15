@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "Matt Hill"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Jordan Walker"
+  ],
+  "rationale": "A gets steadier RB with friendly playoff slate; B gets TE1 upgrade plus young RB depth.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_implicit_gpt-5.txt"
+  }
+}

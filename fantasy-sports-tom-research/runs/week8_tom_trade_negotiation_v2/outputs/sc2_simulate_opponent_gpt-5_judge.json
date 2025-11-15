@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Recognizes B would value workhorse touches, but ignores B\u2019s zero-RB approach and emphasis on target volume; trading away Devon Lewis and a target-earning TE runs counter. A\u2019s \u201cTE upgrade\u201d is incorrect (Tier 4 Michael Roberts vs A\u2019s Tier 3 Brian Scott), and A loses a Tier 1 workhorse RB, so \u201cretains RB depth\u201d is false. Feasible but heavily favors B; reasoning is brief and thin on roster/tier context.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

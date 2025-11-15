@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Proposal ignores Team B\u2019s conservative preferences: it asks B to downgrade from a Tier 2 dual-threat QB to a Tier 3 pocket QB and swap away their steadier WR (Torres) for a high-variance deep threat (E. Jones), which B dislikes. Rationale is A-centric and brief, with no appeal to B\u2019s values (workhorse RBs, stability). Trade is feasible but lopsided; p_accept_B is overstated.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

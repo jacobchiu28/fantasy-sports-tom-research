@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Austin Wright", "Brian Harris", "Darian Taylor"],
+  "ask_from_B": ["Noah Brown", "Justin Young"],
+  "rationale": "Upgrade TE (Brown) and add steadier WR depth (Young) by moving surplus RBs and a replaceable TE"
+}

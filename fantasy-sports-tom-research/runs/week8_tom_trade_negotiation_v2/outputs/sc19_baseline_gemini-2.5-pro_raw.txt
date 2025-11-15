@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Justin Wright"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "Team A upgrades its biggest weakness (RB) with a promising rookie by trading from a position of TE depth.",
+  "p_accept_B": 0.55
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Trevor Brown",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Giving you a stable vet WR to fix your volatility, plus a rookie RB. I need to consolidate for an upgrade with a good schedule.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

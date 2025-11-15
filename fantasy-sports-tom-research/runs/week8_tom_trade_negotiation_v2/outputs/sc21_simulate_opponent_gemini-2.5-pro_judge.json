@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "It notes Team B\u2019s urgent need for wins/depth and offers a young breakout WR plus a stable RB, which fits B\u2019s consensus-driven, conservative style. However, it ignores B\u2019s specific preference for possession targets and overstates the difficulty of acceptance (0.7 when it\u2019s a slam dunk). Crucially, it fails to consider Team A\u2019s objectives\u2014this deal is disastrously bad for A\u2014making the proposal internally misaligned. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

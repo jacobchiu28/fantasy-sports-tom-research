@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Isaiah Adams", "Justin Hernandez"],
+  "ask_from_B": ["Liam Adams", "Xavier Thompson"],
+  "rationale": "Upgrade TE and add RB depth; move surplus WR + replaceable TE; better weekly ceiling and bye balance."
+}

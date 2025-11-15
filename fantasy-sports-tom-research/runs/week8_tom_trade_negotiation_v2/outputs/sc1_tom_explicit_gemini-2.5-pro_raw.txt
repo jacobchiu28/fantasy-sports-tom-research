@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Trevor Brown",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Giving you a stable vet WR to fix your volatility, plus a rookie RB. I need to consolidate for an upgrade with a good schedule.",
+  "p_accept_B": 0.7
+}

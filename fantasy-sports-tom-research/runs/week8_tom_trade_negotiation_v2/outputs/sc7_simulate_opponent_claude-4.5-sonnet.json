@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "David Nelson",
+    "Caleb Foster"
+  ],
+  "ask_from_B": [
+    "Chris Adams"
+  ],
+  "rationale": "B gets stable QB+consistent WR for wins now; A upgrades to dual-threat QB with friendly playoff schedule",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

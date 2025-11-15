@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "Ethan Jones"
+  ],
+  "ask_from_B": [
+    "Cameron Harris",
+    "Malik Carter"
+  ],
+  "rationale": "A gets a preferred QB archetype and RB stability. B gets the high-upside dual-threat QB they covet plus a WR.",
+  "p_accept_B": 0.65
+}

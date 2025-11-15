@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Robinson"],
+  "ask_from_B": ["Trevor Rodriguez", "Michael Mitchell"],
+  "rationale": "B consolidates volatile WRs into a stable workhorse RB; A gains boom WRs it prefers.",
+  "p_accept_B": 0.68
+}

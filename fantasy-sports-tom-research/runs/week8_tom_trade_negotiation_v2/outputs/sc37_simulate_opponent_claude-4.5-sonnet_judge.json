@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Misreads Team B: they prefer possession WRs/workhorse RBs and low variance, but A offers two volatile deep-threat rookies and calls them \u201cstable.\u201d B already has viable QBs and Carter is Out (Tier 5), so while B might dump him, the rationale doesn\u2019t align with B\u2019s stated values. Trade is mechanically feasible but poorly targeted; acceptance probability is overstated given B\u2019s conservative, consensus-trusting profile.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

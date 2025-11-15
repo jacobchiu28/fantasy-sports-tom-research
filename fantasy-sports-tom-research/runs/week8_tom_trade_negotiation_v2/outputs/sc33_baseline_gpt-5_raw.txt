@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Marcus Garcia", "Kyle Mitchell"],
+  "ask_from_B": ["Logan Mitchell", "Brandon Martinez"],
+  "rationale": "Stabilize TE/WR by swapping volatility for mid-floor starters with friendlier schedules"
+}

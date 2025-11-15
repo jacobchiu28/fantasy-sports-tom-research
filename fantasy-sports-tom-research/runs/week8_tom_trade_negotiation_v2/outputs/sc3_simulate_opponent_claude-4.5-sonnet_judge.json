@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s taste for dual-threat QBs, but misses key beliefs: B trusts consensus (downgrading from Tier 1 Harris to Tier 2 Hernandez is unlikely), prefers rookies (Trey Adams isn\u2019t a rookie), and is fine buying injured rather than selling one. For A, acquiring a Questionable QB conflicts with their strict injury avoidance. RB swap is a downgrade for B (Ben King T3 to Trey Adams T4). Rationale is generic and overlooks playoff-SOS details. p_accept is overstated.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

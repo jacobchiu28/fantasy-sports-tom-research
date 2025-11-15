@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Recognizes Team B\u2019s RB need and Team A\u2019s TE weakness, but misses B\u2019s TE surplus and already deep WR room, and doesn\u2019t reflect B\u2019s urgency or consensus-driven mindset. Trade is incoherent for A: giving a Tier 2 deep-threat WR (which A values) plus a usable RB for a Tier 4 TE is a marginal upgrade. Targeting Michael Roberts instead of B\u2019s better TE (Jamal Jones) further weakens logic. Explanation is brief and generic, lacking role/usage and playoff-context detail.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

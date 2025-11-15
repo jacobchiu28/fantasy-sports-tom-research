@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sean Holt",
+    "Derek Foster",
+    "Eric Allen"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Acquire workhorse RB to upgrade from committee backs; consolidate depth for elite workload player",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_baseline_claude-4.5-sonnet.txt"
+  }
+}

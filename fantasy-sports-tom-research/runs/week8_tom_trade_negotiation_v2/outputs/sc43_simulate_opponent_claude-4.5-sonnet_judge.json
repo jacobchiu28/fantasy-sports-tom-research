@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Model notes B likes workhorse RBs but ignores B\u2019s conservatism, consensus-trusting, and existing RB depth (three Tier 1 RBs). Offering a rookie Tier 5 RB from a low-volume offense for B\u2019s Tier 1 veteran WR is value-incoherent. It mislabels Matt Nguyen as a stable possession WR and overlooks A\u2019s stated preference for boom/bust deep threats. Acceptance probability is unrealistically high given the tier gap and B\u2019s tendencies.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Team B is 0-8, prefers reliable floors and possession WRs; trading away Caleb Foster (steady Tier 2 possession WR) for Kyle Taylor (Tier 4, high-variance rookie) conflicts with B\u2019s stated values and urgent need for stability. The pitch frames upside and playoff schedule\u2014misaligned with B\u2019s immediate win-now priority\u2014so acceptance is overestimated. The offer is structurally feasible and suits Team A\u2019s goals, but the rationale is thin and not grounded in B\u2019s motives.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

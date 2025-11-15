@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Turner",
+    "Jordan King",
+    "Cameron Holt"
+  ],
+  "ask_from_B": [
+    "Josh Robinson",
+    "David Flores"
+  ],
+  "rationale": "Turn RB committee depth + surplus WR into workhorse RB and TE upgrade for stronger playoff run.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_baseline_gpt-5.txt"
+  }
+}

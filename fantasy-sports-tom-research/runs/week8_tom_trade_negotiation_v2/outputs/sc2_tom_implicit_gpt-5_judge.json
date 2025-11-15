@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Massively lopsided toward Team B (Tier 1 RB + Tier 2 WR for Tier 4 TE + Tier 3 RB). Claiming A \u201cupgrades TE\u201d is incorrect (A\u2019s TE is Tier 3). Little engagement with B\u2019s zero-RB, consensus-driven, targets/touches mindset, though it loosely matches B\u2019s preference for healthy deep threats. p_accept_B is understated; B would likely snap-accept. Minimal, generic rationale and weak multi-agent reasoning.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

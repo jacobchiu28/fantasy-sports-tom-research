@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Logan Mitchell", "Justin Nelson"],
+  "ask_from_B": ["David Adams"],
+  "rationale": "B adds needed Week 10 TE (friendly playoffs) and upside rookie WR; trades surplus volatile RB to RB-needy A.",
+  "p_accept_B": 0.56
+}

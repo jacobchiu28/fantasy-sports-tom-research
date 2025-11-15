@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Logan Holt (QB)"],
+  "ask_from_B": ["Austin Allen (TE)"],
+  "rationale": "B adds safe vet QB with friendly playoff slate; A upgrades TE from B’s surplus; win-now fit.",
+  "p_accept_B": 0.64
+}

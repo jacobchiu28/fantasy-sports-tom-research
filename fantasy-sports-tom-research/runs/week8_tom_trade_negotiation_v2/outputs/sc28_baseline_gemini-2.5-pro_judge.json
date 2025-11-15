@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Team A is injury-averse and needs immediate wins, yet targets an Out Tier 5 RB\u2014contradictory. Team B doesn\u2019t have a TE void (owns Tier 1 Alex Thomas) and, as a conservative, volume-oriented manager, is unlikely to trade RB depth for TE. Value is lopsided (healthy Tier 2 TE for injured depth RB). Rationale is generic and ignores stated manager preferences.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

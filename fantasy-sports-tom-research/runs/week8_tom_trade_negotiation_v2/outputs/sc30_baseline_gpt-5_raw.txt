@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Marcus Taylor", "Trevor Clark"],
+  "ask_from_B": ["Michael Roberts"],
+  "rationale": "Upgrade TE with a true receiving option; trade expendable WR/RB depth without weakening starters."
+}

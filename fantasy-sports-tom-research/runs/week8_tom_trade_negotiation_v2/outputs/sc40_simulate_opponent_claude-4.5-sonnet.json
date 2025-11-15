@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Austin Torres"
+  ],
+  "rationale": "A offers friendly schedule WRs for B's stable RBs with friendly schedules; fits B's floor preference",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

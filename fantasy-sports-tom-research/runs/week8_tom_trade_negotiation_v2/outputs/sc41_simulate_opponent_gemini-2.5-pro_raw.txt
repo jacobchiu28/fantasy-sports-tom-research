@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Lucas Allen",
+    "Jordan King"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team B gets two reliable weekly starters for one TE, addressing their immediate need for consistent production to win now.",
+  "p_accept_B": 0.75
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It notes B\u2019s consensus lean and playoff focus, but misreads that consensus would not swap an ascending Tier 2 WR (Torres) for a Tier 5 RB (Robinson) plus a lesser WR. B values young ascending WRs and big-play threats; Torres fits that, while Robinson isn\u2019t an obvious ceiling upgrade. The trade undervalues B\u2019s WR and overstates RB appeal. Rationale is brief and not evidence-based. Acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

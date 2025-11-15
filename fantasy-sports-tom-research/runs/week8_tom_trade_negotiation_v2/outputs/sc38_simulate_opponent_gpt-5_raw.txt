@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Lucas Martin", "Sam Martin"],
+  "ask_from_B": ["Sam Reed"],
+  "rationale": "B upgrades to stable dual‑threat QB and adds big‑play WR; trades from RB surplus to aid A’s thin backfield.",
+  "p_accept_B": 0.62
+}

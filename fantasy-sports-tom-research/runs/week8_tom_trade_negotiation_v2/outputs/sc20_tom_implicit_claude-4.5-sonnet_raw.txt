@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "David Campbell"],
+  "ask_from_B": ["Jake Green", "Devon Lewis"],
+  "rationale": "Swapping dual-threat QBs; A gets young ascending RB+QB, B gets veteran stability at both positions",
+  "p_accept_B": 0.62
+}
+```

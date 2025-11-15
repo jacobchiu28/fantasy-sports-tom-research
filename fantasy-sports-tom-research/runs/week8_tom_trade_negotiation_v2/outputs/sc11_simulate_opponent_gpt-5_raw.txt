@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Turner", "Sean Adams"],
+  "ask_from_B": ["Caleb Foster"],
+  "rationale": "Immediate TE1 upgrade and steady RB; deals from your WR surplus to add reliable weekly floor for must-win stretch.",
+  "p_accept_B": 0.62
+}

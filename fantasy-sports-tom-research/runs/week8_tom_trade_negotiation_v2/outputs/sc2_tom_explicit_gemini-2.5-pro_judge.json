@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B\u2019s zero-RB/need for touches and offers a workhorse RB, but ignores B\u2019s consensus-trusting and injury caution (though Taylor is healthy). Rationale wrongly claims a TE \u2018upgrade\u2019 for A (Tier 4 Michael Roberts vs A\u2019s Tier 3 TE), and value feels lopsided for A. Limited separation of A vs B motivations and minimal detail. Coherence suffers due to the TE mismatch and thin explanation.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

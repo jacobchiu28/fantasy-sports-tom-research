@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Recognizes Team B\u2019s taste for upside, but ignores that B trusts established talent and likes buying (not selling) injured stars\u2014making trading away Tyler Anderson unlikely. Fails to consider Team A\u2019s conservative preference for workhorse RBs; A gives up a healthy Tier 1 RB for two injured pieces. Claims Liam Adams can backfill an elite TE is incoherent. Rationale is generic and thin on roster/context specifics.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Attempts ToM by noting B\u2019s volatile WR room and A\u2019s RB desire, but mislabels Nick Holt as a stable possession WR (he\u2019s a Tier 4 deep-threat with mid variance). B prioritizes volume, floor, and strength of schedule; trading away Josh Garcia (Tier 2 RB, friendly playoffs) for Holt (mixed playoffs) misaligns with B\u2019s values. A already has multiple RBs, weakening the \u2018need\u2019 claim. The 0.7 acceptance probability is optimistic and the rationale is thin and somewhat inaccurate.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Jake Green", "Sean Adams"],
+  "ask_from_B": ["Ethan Turner", "Cameron Scott"],
+  "rationale": "Upgrade TE/WR: Turner starts, Scott stabilizes. Use surplus QB; Adams expendable RB depth.",
+  "p_accept_B": 0.35
+}

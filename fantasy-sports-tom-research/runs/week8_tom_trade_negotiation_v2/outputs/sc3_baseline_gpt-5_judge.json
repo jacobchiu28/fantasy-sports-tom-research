@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Trade hints B might like a Tier 1 TE buy-low, but doesn\u2019t explicitly model B\u2019s consensus-trusting, rookie-upside, and playoff-SOS focus (King is a young breakout with tough playoff slate; Walker has tough playoff matchups). A\u2019s rationale notes RB stability and TE playoff outlook, but acquiring another Doubtful TE conflicts with A\u2019s injury-averse profile. Internally coherent on volatility and schedule, yet weak on why B would surrender King. Explanation is brief and light on B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

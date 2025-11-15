@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trevor Martin", "Xavier Carter"],
+  "ask_from_B": ["Darian Thomas", "Devon Reed"],
+  "rationale": "Team B gets mid-variance WR/RB; Team A gets low-variance possession WR + consistent committee RB both prefer.",
+  "p_accept_B": 0.62
+}
+```

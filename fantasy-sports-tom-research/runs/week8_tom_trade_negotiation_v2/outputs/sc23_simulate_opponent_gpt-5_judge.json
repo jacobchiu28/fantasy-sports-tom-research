@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s need for immediate RB help and a startable TE, but ignores B\u2019s RB surplus and comfort buying low on injured players\u2014reasons to keep an elite, albeit doubtful, TE. The offer is roster-coherent (A consolidates at TE; B gets a Tier 1 RB and a TE4), but the rationale is generic and lacks evidence about B\u2019s motivations or roster context.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

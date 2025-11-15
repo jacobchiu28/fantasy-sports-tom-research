@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Michael Foster",
+    "Ethan Turner"
+  ],
+  "ask_from_B": [
+    "Justin Garcia"
+  ],
+  "rationale": "B gets big-play rookie WR + pass-catching TE; A gets steadier RB depth.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_simulate_opponent_gpt-5.txt"
+  }
+}

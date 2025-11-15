@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Team B needs stable points and values workhorse RBs and possession WRs; this asks them to trade a Tier 2 RB and a possession WR for a volatile committee RB and high-variance WR. The rationale ignores B\u2019s incentives and mislabels Josh Flores as a workhorse. Little evidence of B-side thinking (injury buy-low, stacks, urgency). While structurally feasible, it\u2019s lopsided and unlikely to appeal to B\u2019s preferences. The 0.42 acceptance estimate seems optimistic given misalignment.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

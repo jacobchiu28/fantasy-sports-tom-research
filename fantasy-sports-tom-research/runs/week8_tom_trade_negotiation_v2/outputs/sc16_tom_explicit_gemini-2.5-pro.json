@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Liam Adams",
+    "Mason Mitchell",
+    "Justin Garcia"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "B fixes their TE weakness and gets two players past their bye for a volatile RB. A chases a league-winning ceiling.",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

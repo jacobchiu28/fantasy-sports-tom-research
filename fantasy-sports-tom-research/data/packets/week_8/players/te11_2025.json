@@ -1,0 +1,89 @@
+{
+  "player_id": "te11_2025",
+  "name": "Jamal Adams",
+  "position": "TE",
+  "team": "SF",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      59,
+      86
+    ],
+    "route_participation_pct_range": [
+      60,
+      81
+    ],
+    "target_share_pct_range": [
+      13,
+      22
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      30,
+      58
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.16
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Med",
+    "confidence": 0.78,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 10,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.81
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+  "summary_text": "Out with availability unclear Tier 3 TE in mid-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Out",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 3 (Very High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

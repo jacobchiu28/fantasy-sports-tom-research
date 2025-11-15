@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Sean Hernandez",
+    "Austin Williams"
+  ],
+  "ask_from_B": [
+    "Isaiah Thompson"
+  ],
+  "rationale": "B gets a needed RB upgrade with a good playoff schedule plus a high-upside rookie WR. A gets a stable WR1 to win now.",
+  "p_accept_B": 0.6
+}

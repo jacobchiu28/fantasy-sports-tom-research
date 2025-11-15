@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Little evidence of B\u2019s beliefs: no mention of B\u2019s conservative, floor-focused style, trust in rankings, or interest in injured discounts. The rationale is A-centric and generic. Calling Robinson an \u201celite workload player\u201d conflicts with his Tier 5 status. Trade is feasible and aligns with A\u2019s preference for a workhorse and moving off injury risk, but it ignores B\u2019s likely preference against volatile assets like Holt/Allen, while Foster\u2019s injury/role volatility undercuts B\u2019s floor goals. Overall ToM reasoning is weak.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

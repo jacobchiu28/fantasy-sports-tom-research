@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B is said to like deep threats, but the offer ignores B\u2019s injury caution and youth/ascending preference; Adams is a doubtful veteran in a low-volume offense. A already has a healthy Tier-2 TE and avoids injuries, yet targets a doubtful Tier-5 TE\u2014contrary to A\u2019s ceiling-chasing urgency. The rationale is brief and inaccurate (\u201csteady TE\u201d), missing key roster and health context. Some ToM appears (B can start the rookie TE), but overall reasoning and fit are poor.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

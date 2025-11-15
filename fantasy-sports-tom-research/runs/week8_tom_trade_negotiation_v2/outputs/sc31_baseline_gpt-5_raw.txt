@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Alex White", "Marcus Gonzalez", "Eric Allen"],
+  "ask_from_B": ["Jordan Rivera"],
+  "rationale": "Consolidate depth to land a high-ceiling WR1; WR is Team A’s weakest position"
+}

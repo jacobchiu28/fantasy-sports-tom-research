@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Justin Reed",
+    "Mason Robinson"
+  ],
+  "ask_from_B": [
+    "Lucas Carter",
+    "Sean Hernandez"
+  ],
+  "rationale": "Acquiring dual-threat QB + stable RB for deep threats; both teams upgrade positional needs",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

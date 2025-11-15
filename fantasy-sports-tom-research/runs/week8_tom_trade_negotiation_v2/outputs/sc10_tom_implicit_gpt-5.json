@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Austin Torres",
+    "Alex White",
+    "Michael Wright"
+  ],
+  "ask_from_B": [
+    "Marcus Garcia",
+    "James Jones"
+  ],
+  "rationale": "B gets startable WR/RB depth plus TE replacement; A upgrades TE and adds steady QB for playoffs.",
+  "p_accept_B": 0.46,
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_implicit_gpt-5.txt"
+  }
+}

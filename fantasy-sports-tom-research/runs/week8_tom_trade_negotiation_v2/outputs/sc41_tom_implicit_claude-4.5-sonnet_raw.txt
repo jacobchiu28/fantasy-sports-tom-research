@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Liam Wright", "Alex Mitchell"],
+  "ask_from_B": ["Noah Brown", "Josh Garcia"],
+  "rationale": "Swapping depth: A gets receiving TE + RB, B gets consistent WR + RB for playoff push",
+  "p_accept_B": 0.62
+}
+```

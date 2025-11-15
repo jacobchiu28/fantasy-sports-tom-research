@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B is 1-7 and conservative; this offer sends them an injured committee RB and a volatile WR while taking their only healthy QB (James Jones), hurting immediate wins. B values volume and veterans; Torres/White don\u2019t fit. TE swap is dubious: A already has a Tier 1 TE, while Marcus Garcia is Tier 4\u2014no upgrade for A, nor clear benefit for B. Rationale is generic and ignores key roster realities and preferences.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

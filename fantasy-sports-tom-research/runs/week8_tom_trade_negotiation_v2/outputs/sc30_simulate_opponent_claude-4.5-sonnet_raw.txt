@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Campbell", "Justin Young"],
+  "ask_from_B": ["Alex Mitchell", "Michael Roberts"],
+  "rationale": "Team B needs RB help urgently; Campbell has friendly playoff schedule. Roberts upgrades A's TE position.",
+  "p_accept_B": 0.72
+}
+```

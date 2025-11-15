@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Mason Garcia",
+    "Jordan Wilson"
+  ],
+  "ask_from_B": [
+    "Austin Harris",
+    "Liam Green"
+  ],
+  "rationale": "Flip QB surplus for TE upgrade and RB depth; boosts Team A's weekly starters.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_baseline_gpt-5.txt"
+  }
+}

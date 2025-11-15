@@ -1,0 +1,86 @@
+{
+  "player_id": "qb6_2025",
+  "name": "Noah Hall",
+  "position": "QB",
+  "team": "MIN",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      27,
+      43
+    ],
+    "completion_pct_range": [
+      61,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      18
+    ],
+    "rush_share_pct_range": [
+      4,
+      15
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.62
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.9,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.73
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with mid week-to-week variance",
+  "summary_text": "Minor injury concern Tier 5 QB in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 5 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

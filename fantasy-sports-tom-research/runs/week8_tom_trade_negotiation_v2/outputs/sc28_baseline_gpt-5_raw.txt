@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Torres", "Brandon Taylor", "Kyle Taylor"],
+  "ask_from_B": ["Sean Adams", "Alex Thompson"],
+  "rationale": "Convert surplus QB/TE/WR into RB depth; add stable RB2 and upside RB3 to fix A's biggest hole",
+  "p_accept_B": 0.32
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It notes B\u2019s need for wins and a TE upgrade, and references B\u2019s openness to an upside committee RB. However, it ignores that both managers avoid injury risks and Logan Clark is Out, making A\u2019s side inconsistent with its profile and urgent needs. The rationale is terse and misses key context (A\u2019s risk aversion, win-now timeline), yielding shallow ToM and a questionable, lopsided construction.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

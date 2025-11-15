@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Proposal ignores Team B\u2019s conservative, veteran-preferring mindset and desire for stable floors/high-powered offenses. Asking B to give up a low-volatility RB (Ethan Campbell) for a high-variance RB (Sean Holt) and a boom/bust rookie WR (Darian Robinson) clashes with B\u2019s values. Rationale only reflects Team A\u2019s goal of stabilizing, not why B would accept. Claim of gaining WR consistency via Brandon Martinez (Tier 5) is unconvincing. Trade is feasible but poorly aligned with B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

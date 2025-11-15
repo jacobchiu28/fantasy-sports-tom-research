@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 60,
+  "justification": "Shows awareness of B\u2019s contrarian style and archetype preferences, but misreads B\u2019s QB situation (Lucas Carter is out, so Derek White isn\u2019t redundant) and overstates RB thinness. Separates motivations and outlines accept/reject reasons, yet relies on some inaccurate assumptions. The trade itself is plausible and fits B\u2019s preferences (deep-threat WR, dual-threat QB) while giving A needed RB upside. Explanation is concise but contains factual slips that weaken ToM precision.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Logan Holt", "Chris Torres"],
+  "ask_from_B": ["Noah Brown", "Devon Green"],
+  "rationale": "Upgrade TE to Brown; keep QB depth via Green by moving surplus Holt and mid-tier TE"
+}

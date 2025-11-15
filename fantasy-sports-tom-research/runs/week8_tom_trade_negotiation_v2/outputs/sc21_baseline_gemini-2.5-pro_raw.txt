@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Caleb Turner",
+    "David Baker"
+  ],
+  "ask_from_B": [
+    "David Campbell"
+  ],
+  "rationale": "Consolidates two bench players with tough playoff matchups for a stable, low-volatility starting WR to solidify the roster."
+}

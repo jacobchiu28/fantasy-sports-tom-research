@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Jordan Williams",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Upgrading to workhorse RB; offering committee back + upside WR for consistent rookie bellcow",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

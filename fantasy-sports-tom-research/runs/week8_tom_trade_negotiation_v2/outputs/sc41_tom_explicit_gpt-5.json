@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Lucas Allen"
+  ],
+  "ask_from_B": [
+    "Malik Scott",
+    "Liam Adams"
+  ],
+  "rationale": "B needs reliable vets to win now; we send Flores+Lucas. We get Malik's ceiling and TE depth. Fair 2-for-2.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_explicit_gpt-5.txt"
+  }
+}

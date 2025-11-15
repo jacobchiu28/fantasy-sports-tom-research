@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Correctly targets B\u2019s WR surplus and RB need and notes playoff schedule, but ignores B\u2019s injury caution (both Isaiah and Austin Q) and preference for consensus/stack fits. A\u2019s injury-averse profile clashes with acquiring a Q-tag WR, and calling Isaiah a \u201cstable WR1\u201d is overstated. Value is lopsided (A sends a Tier 1 RB plus a fringe WR for a Tier 2 WR). Rationale is concise but thin on roster/context specifics.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

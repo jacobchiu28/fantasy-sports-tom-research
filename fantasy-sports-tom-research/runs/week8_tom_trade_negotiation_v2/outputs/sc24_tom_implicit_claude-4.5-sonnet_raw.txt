@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Sam Martinez", "Nick Holt"],
+  "ask_from_B": ["Josh Garcia", "Cameron Holt"],
+  "rationale": "Swapping pocket QB + WR for RB depth + stable possession WR. Addresses A's RB need, B gets friendly schedule QB.",
+  "p_accept_B": 0.62
+}
+```

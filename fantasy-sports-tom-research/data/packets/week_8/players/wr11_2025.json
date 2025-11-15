@@ -1,0 +1,92 @@
+{
+  "player_id": "wr11_2025",
+  "name": "Kevin Allen",
+  "position": "WR",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      57,
+      92
+    ],
+    "route_participation_pct_range": [
+      69,
+      90
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      27
+    ],
+    "target_share_pct_range": [
+      20,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      22,
+      45
+    ],
+    "slot_rate_pct_range": [
+      24,
+      74
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.56
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.69,
+    "qb_quality_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.78
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+  "summary_text": "Minor injury concern Tier 2 WR in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, high weekly variance",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 2 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

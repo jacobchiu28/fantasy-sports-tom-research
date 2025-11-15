@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "Ethan Turner"
+  ],
+  "ask_from_B": [
+    "Lucas Allen"
+  ],
+  "rationale": "Team B gets a major TE upgrade and RB depth for a WR from their deep bench. A consolidates talent for a more stable starter.",
+  "p_accept_B": 0.65
+}

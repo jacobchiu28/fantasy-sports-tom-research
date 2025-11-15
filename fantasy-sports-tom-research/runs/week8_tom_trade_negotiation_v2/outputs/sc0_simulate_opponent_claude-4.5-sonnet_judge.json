@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Shows some awareness that B can trade from QB depth and likes young ascending players, but ignores B\u2019s preference for possession WRs and injured buy-lows. Asking B to give up a Tier 1, low-variance QB (Reed) when they need wins is misaligned. The \u2018QB-WR stack\u2019 claim is unsubstantiated, and \u2018injury-buy QBs\u2019 is incoherent. Rationale is brief and partially inaccurate.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

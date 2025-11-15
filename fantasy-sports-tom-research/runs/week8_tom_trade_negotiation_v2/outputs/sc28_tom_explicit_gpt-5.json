@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Austin Torres"
+  ],
+  "rationale": "Conservative B values floor/volume; TE upgrade + vet WR depth > mid-vol WR. A gains upside; fair via TE scarcity.",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc28_tom_explicit_gpt-5.txt"
+  }
+}

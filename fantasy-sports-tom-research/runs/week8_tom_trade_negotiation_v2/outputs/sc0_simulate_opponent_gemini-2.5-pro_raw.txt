@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Trevor Brown"
+  ],
+  "rationale": "You need RB help and like young, stable players. I need a reliable WR. Let's swap my low-volatility rookie for your vet.",
+  "p_accept_B": 0.7
+}

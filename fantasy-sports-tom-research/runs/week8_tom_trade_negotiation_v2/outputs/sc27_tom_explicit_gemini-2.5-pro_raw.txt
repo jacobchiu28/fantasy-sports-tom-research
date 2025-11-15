@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Devon Moore",
+    "Matt Wright"
+  ],
+  "ask_from_B": [
+    "Sam Lewis"
+  ],
+  "rationale": "B is 0-8 and needs wins now. This turns one RB into two solid starting WRs, improving weekly lineup depth immediately.",
+  "p_accept_B": 0.6
+}

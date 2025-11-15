@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Identifies B\u2019s appetite for upside and rookie WRs and offers a TE upgrade, but misreads B\u2019s QB situation by implying a viable dual-threat backup (Logan Clark is out) and ignores B\u2019s strong preference for dual-threat QBs. Reasoning is thin and omits B\u2019s urgent 0-8 context and TE need specifics. The trade itself is plausible and addresses B\u2019s TE weakness while backfilling QB with Flores, but style/fit concerns remain. Explanation lacks depth.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

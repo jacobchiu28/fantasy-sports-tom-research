@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 0,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "A\u2019s ask (Flores) targets B\u2019s steady RB2 despite B\u2019s conservative, win-now mindset. Offer (injured RB3 Robinson + volatile WR4 Martinez) doesn\u2019t match B\u2019s floor/consistency preference or urgent needs. Minimal nod to B\u2019s SoS focus; rationale is A-centric and generic. Trade is mechanically feasible but contextually unrealistic for B to accept. ToM reasoning is weak and lacks evidence-based justification.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

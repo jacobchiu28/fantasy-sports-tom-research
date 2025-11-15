@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Liam Torres", "Chris Torres"],
+  "ask_from_B": ["Jordan Rivera"],
+  "rationale": "B gets young upside RB+TE with friendly playoffs; A gains high-ceiling WR. Fits both managers’ styles.",
+  "p_accept_B": 0.58
+}

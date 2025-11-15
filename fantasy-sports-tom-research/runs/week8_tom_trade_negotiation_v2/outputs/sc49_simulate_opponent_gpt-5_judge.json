@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Understands Team B\u2019s need for floor and offers healthy veteran RBs, but misses that B prefers true workhorse volume and values touches heavily\u2014both RBs are committee types. The move fits B\u2019s WR surplus, yet A overpays for a Tier 4 boom/bust rookie, making A\u2019s side less coherent for ceiling-chasing. Rationale is very brief and lacks specifics (usage trends, injury risk aversion, bye/starter context). Coherent and likely acceptable for B, but ToM depth is limited.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

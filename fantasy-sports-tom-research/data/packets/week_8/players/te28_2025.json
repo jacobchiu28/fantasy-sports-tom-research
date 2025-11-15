@@ -1,0 +1,87 @@
+{
+  "player_id": "te28_2025",
+  "name": "Justin Wright",
+  "position": "TE",
+  "team": "IND",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      55,
+      88
+    ],
+    "route_participation_pct_range": [
+      56,
+      85
+    ],
+    "target_share_pct_range": [
+      12,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      17
+    ],
+    "inline_block_rate_pct_range": [
+      25,
+      59
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Down",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.1
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.9,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.65
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+  "summary_text": "Out with availability unclear Tier 5 TE in mid-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "volatility": "High",
+    "health": "Out",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 5 (Med trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

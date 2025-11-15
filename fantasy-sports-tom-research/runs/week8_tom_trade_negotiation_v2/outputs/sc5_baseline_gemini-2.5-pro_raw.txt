@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "David Adams",
+    "Michael Mitchell"
+  ],
+  "ask_from_B": [
+    "Justin Wright"
+  ],
+  "rationale": "Consolidating our RB/WR depth for a massive upgrade at TE, our weakest starting position, to gear up for a playoff run."
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Chris Torres",
+    "Austin Torres"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "A upgrades TE stability; B gets startable TE replacement plus WR depth to help now",
+  "p_accept_B": 0.47,
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_implicit_gpt-5.txt"
+  }
+}

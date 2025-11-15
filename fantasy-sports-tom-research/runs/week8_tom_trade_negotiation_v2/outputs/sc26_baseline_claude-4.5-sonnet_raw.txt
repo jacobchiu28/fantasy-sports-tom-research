@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Austin Wright", "Derek Allen"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "Upgrade TE position with high-target receiving TE; trade committee RB and volatile WR depth for consistent target share",
+  "p_accept_B": 0.35
+}
+```

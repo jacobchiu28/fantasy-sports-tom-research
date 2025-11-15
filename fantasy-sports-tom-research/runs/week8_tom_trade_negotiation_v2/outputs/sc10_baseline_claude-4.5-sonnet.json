@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Eric Davis",
+    "David Adams"
+  ],
+  "ask_from_B": [
+    "Justin Garcia",
+    "Cameron Holt"
+  ],
+  "rationale": "Upgrade RB depth with veteran Garcia, swap high-volatility pieces for more stable options to strengthen playoff roster",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_baseline_claude-4.5-sonnet.txt"
+  }
+}

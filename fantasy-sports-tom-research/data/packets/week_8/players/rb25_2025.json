@@ -1,0 +1,85 @@
+{
+  "player_id": "rb25_2025",
+  "name": "Jordan Green",
+  "position": "RB",
+  "team": "KC",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      41,
+      70
+    ],
+    "rush_share_pct_range": [
+      37,
+      68
+    ],
+    "target_share_pct_range": [
+      5,
+      11
+    ],
+    "red_zone_carry_share_pct_range": [
+      29,
+      56
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      10,
+      32
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "Low",
+    "confidence": 0.81,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 6,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.75
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Healthy Tier 4 RB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 4 (Med trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

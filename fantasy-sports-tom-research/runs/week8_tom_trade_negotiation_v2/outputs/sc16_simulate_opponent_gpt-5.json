@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "David Nelson",
+    "Josh Flores",
+    "Liam Adams"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "B gets steady vet QB, TE upgrade, and RB depth; offloads volatile workhorse with tough playoffs.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc16_simulate_opponent_gpt-5.txt"
+  }
+}

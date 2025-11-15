@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Proposal ignores Team B\u2019s preference for consistency and RB stability; trading a Tier 1 RB (Noah Carter) weakens an 8-0 roster\u2019s safest floor. Liam Wright is Tier 1 but a deep-threat in a low-volume offense (higher variance), misaligned with B\u2019s tastes. Michael Roberts (Tier 4) is only a marginal TE upgrade. Rationale is generic and doesn\u2019t address B\u2019s actual incentives or playoff matchups, and p_accept is overstated. Good for A\u2019s RB need, poor fit for B.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

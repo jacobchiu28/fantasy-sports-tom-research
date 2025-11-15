@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Shows some awareness that Team B chases upside and trusts consensus, but doesn\u2019t engage B\u2019s specific roster needs (TE injury, WR depth concerns) or bye/injury context. Perspective is shallow: little separation of A\u2019s incentives from B\u2019s. The offer is feasible yet misaligned with A\u2019s ceiling/volume priorities (giving up a Tier 1 RB for two Tier 3 pieces) and misses an obvious TE angle for B. Rationale is generic and not evidence-based.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

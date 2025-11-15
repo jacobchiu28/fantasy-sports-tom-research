@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sean Holt",
+    "Kyle Mitchell"
+  ],
+  "ask_from_B": [
+    "Alex King",
+    "Trevor Martin"
+  ],
+  "rationale": "Upgrade RB stability, acquire mid-variance WR; trade away high-volatility committee back and tough-schedule WR",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_baseline_claude-4.5-sonnet.txt"
+  }
+}

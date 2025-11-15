@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Rationale centers only on Team A and mislabels A\u2019s needs (A already has two Tier 1 TEs) while asking for an Out TE, violating A\u2019s injury-avoidance. No discussion of Team B\u2019s incentives or preferences; B would likely smash-accept a QB1/WR1 for an RB3 and injured TE, making the 0.45 acceptance estimate implausible. The trade logic and explanation are generic and inconsistent with stated manager profiles and roster contexts.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

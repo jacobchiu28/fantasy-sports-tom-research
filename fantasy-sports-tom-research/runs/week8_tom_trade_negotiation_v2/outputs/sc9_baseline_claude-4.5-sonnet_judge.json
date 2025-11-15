@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Ignores Team B\u2019s conservative, injury-averse profile and urgent need for stable, healthy starters. Offering a questionable committee RB and boom/bust deep threat for B\u2019s workhorse RB misfits their preferences; zero-RB only makes sense if WR/TE return improves floor, which it doesn\u2019t. The \u2018receiving TE upgrade\u2019 claim is inconsistent since Roberts (Tier 4) isn\u2019t an upgrade over A\u2019s TE options. Rationale is A-centric and lacks evidence tied to B\u2019s incentives or playoff/win-now context. Low accept chance is stated but not well justified.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

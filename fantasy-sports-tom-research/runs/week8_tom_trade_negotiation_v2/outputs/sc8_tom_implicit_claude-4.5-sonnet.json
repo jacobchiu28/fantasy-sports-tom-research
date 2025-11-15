@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Xavier Carter",
+    "Matt Nguyen"
+  ],
+  "ask_from_B": [
+    "Darian Thomas",
+    "Devon Reed"
+  ],
+  "rationale": "Swapping committee RBs and gaining low-variance possession WR for mid-variance pieces",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

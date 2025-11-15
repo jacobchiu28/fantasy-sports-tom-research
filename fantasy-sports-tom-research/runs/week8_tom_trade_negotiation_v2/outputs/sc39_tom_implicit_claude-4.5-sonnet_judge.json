@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Mentions B\u2019s volatility preference but misapplies it to justify B giving up players they\u2019d likely value. Overlooks B\u2019s clear QB need and how Derek White fits, as well as A\u2019s buy-low-on-injured tendency (Jordan Moore). The trade itself is plausible and roster-coherent: A gains a Tier 1 RB and an injured WR, B gains a dual-threat QB and a Tier 1 deep-threat WR. However, the rationale is generic, thin on evidence, and doesn\u2019t separate A\u2019s urgency from B\u2019s playoff-positioned incentives.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

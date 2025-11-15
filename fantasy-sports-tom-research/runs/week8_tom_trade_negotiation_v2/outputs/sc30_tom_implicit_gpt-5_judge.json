@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 5,
+  "explanation_quality": 3,
+  "overall": 75,
+  "justification": "Good recognition that B needs RB depth and both managers follow consensus. Clearly frames benefits for each side. Lacks nuance on B\u2019s 0-8 urgency, B\u2019s WR surplus/TE depth specifics, and A\u2019s stylistic preferences. The trade is coherent and fits roster needs: B converts surplus WR1 and expendable TE4 into RB1+RB3; A upgrades to WR1 and a more receiving-oriented TE. Explanation is brief and generic.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

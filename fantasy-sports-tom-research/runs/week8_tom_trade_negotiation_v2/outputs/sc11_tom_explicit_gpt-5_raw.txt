@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Darian Thomas", "Ethan Turner", "Austin Martin"],
+  "ask_from_B": ["Devon Miller", "Caleb Foster"],
+  "rationale": "B is 0-8, wants steady starters; gets low-var WR+TE+RB, keeps pocket QB; A gets QB depth + possession WR.",
+  "p_accept_B": 0.62
+}

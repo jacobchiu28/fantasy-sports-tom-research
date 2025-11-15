@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Derek White", "Nick Roberts"],
+  "ask_from_B": ["Ryan Moore", "Xavier Foster"],
+  "rationale": "B gets dual-threat QB and RB depth to win now; A upgrades WR playoffs and TE floor.",
+  "p_accept_B": 0.6
+}

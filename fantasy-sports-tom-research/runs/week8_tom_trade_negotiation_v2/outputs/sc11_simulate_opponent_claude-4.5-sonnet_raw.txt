@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Darian Thomas", "Logan Mitchell"],
+  "ask_from_B": ["Caleb Foster", "Michael Flores"],
+  "rationale": "Swapping possession WRs + TEs; B gets friendly playoff schedules + lower volatility fits their consistency need",
+  "p_accept_B": 0.72
+}
+```

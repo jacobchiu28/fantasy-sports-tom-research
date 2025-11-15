@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ryan Taylor", "Liam Adams"],
+  "ask_from_B": ["Tyler Anderson", "Alex White"],
+  "rationale": "Team B chases upside; OK risking TE depth. Taylor RB ceiling; Liam backfills. Fair for B's win-now style.",
+  "p_accept_B": 0.62
+}

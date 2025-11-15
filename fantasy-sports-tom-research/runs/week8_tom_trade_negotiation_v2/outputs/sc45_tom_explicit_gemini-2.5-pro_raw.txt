@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Isaiah Thompson",
+    "Nick Roberts"
+  ],
+  "rationale": "Team B gets a workhorse RB for their playoff run, trading from WR depth. A gets a solid WR and an RB to win now.",
+  "p_accept_B": 0.6
+}

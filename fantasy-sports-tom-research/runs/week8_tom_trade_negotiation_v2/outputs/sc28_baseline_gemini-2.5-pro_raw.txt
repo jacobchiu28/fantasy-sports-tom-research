@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Noah Brown"
+  ],
+  "ask_from_B": [
+    "Sean Adams"
+  ],
+  "rationale": "Team A acquires a needed starting RB by trading from its TE depth, while Team B fills its void at pass-catching TE."
+}

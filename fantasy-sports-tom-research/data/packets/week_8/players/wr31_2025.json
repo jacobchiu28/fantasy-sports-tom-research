@@ -1,0 +1,89 @@
+{
+  "player_id": "wr31_2025",
+  "name": "Justin Reed",
+  "position": "WR",
+  "team": "DAL",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      67,
+      89
+    ],
+    "route_participation_pct_range": [
+      70,
+      89
+    ],
+    "targets_per_route_run_pct_range": [
+      23,
+      32
+    ],
+    "target_share_pct_range": [
+      24,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      23,
+      38
+    ],
+    "slot_rate_pct_range": [
+      23,
+      69
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.8
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.5,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 10,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.59
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+  "summary_text": "Healthy Tier 3 WR in mid-volume passing offense, fast tempo with declining role. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 3 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

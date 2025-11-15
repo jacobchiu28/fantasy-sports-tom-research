@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Offer hints at B\u2019s ceiling preference by sending Eric Torres, but ignores B\u2019s strong bias toward rookies by asking for Cameron Scott (Tier 1 rookie, ascending). Little evidence of modeling B\u2019s beliefs beyond a low p_accept. Trade is structurally coherent and fits A\u2019s floor-seeking aims, though Ben King\u2019s declining role weakens A\u2019s urgent win-now need. Rationale is generic and sparse on player/roster context.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

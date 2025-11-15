@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s preference for stability/consensus but misreads needs: B doesn\u2019t gain RB depth and prefers possession WRs over an outside WR (Thompson). For a 0-8 team needing immediate wins, downgrading from a Tier 2 RB to Tier 3 is risky, even with a WR upgrade. The trade is feasible, but reasoning is generic and partly inaccurate, with limited separation of A\u2019s and B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

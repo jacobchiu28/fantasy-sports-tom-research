@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Darian Robinson"
+  ],
+  "ask_from_B": [
+    "Josh Martin",
+    "Austin Torres"
+  ],
+  "rationale": "A swaps high-volatility players for proven consistency. B acquires league-winning upside for a championship run.",
+  "p_accept_B": 0.65
+}

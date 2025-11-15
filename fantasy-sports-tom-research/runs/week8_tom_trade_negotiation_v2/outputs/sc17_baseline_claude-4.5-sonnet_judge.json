@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "The proposal misreads Team B: they value dual-threat QBs yet would be giving up their only healthy one (James Jones) for a Tier 4 pocket passer. It even mislabels B\u2019s outgoing QB as a pocket passer. Little evidence of B\u2019s urgency, injury aversion, or roster needs (Logan Clark is out; TE room hurt). The trade is mechanically feasible, but the rationale is generic and inaccurate, and p_accept seems optimistic given B\u2019s preferences. Limited ToM shown.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

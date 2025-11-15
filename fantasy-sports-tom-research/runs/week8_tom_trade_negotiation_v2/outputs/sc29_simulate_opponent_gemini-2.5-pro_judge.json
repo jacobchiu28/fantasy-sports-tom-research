@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Shallow read of Team B: ignores their tendency to buy injured players and preference for deep threats/committee backs. Claims B \u201csells high\u201d on a Tier 5 RB is off. For Team A, injury-averse yet taking on a Doubtful TE, and giving up a Tier 1 RB for a Tier 5 \u201cworkhorse\u201d is inconsistent and poor value. The rationale is generic and mislabels the upgrade. Overall lacks coherent roster fit, health context, and specific motivation alignment.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

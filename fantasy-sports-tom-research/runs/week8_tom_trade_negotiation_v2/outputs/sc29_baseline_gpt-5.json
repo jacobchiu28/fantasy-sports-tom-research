@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Jordan Williams",
+    "Noah Carter",
+    "Brian Harris"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Consolidate 3 committee RBs into workhorse Josh Robinson; big weekly upgrade for A's RB slot",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_baseline_gpt-5.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 0,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Proposal ignores Team B\u2019s mindset: they like upside committee backs and need immediate wins; this deal actually helps B far more than the model anticipates. The rationale is A-centric and misvalues players\u2014trading a Tier 1 (Carter) and Tier 2 (Harris) plus Williams for a Tier 5 workhorse is not a \u201cbig upgrade\u201d for A. The offer is feasible but internally inconsistent with tiers/roles. No discussion of injuries, bye weeks, or playoff schedules. Acceptance probability is likely much higher than stated.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

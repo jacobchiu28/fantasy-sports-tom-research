@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "David Carter",
+    "Liam Adams"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "Team A consolidates depth at TE and a rookie RB to acquire a true workhorse back, addressing its primary roster weakness."
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Acknowledges Team B\u2019s desire for floor and pocket QB, offering Harris/Campbell accordingly. However, it overlooks B\u2019s reliance on consensus rankings and preference for young ascending players, making surrendering Tier-1 RB Marcus Reed unlikely. The trade is structurally coherent (QB upgrade for RB downgrade) but thinly justified and light on schedule/role details. Acceptance odds seem optimistic.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

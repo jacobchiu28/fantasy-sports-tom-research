@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Marcus Reed"
+  ],
+  "ask_from_B": [
+    "Logan Clark"
+  ],
+  "rationale": "Team B fixes their massive TE weakness and gets a high-upside RB for a QB from their position of strength. Win-win.",
+  "p_accept_B": 0.65
+}

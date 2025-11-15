@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good acknowledgment of Team B\u2019s conservative style and reluctance to give up their most stable RB, plus noting B\u2019s willingness to hold injured players. However, it mislabels Trevor Martin as a stable WR and overstates B being \u2018thin\u2019 at RB. The trade is value-coherent (B upgrades WR significantly) but clashes with B\u2019s floor-first philosophy. Reasoning is balanced but contains factual slips and minor role mismatches.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

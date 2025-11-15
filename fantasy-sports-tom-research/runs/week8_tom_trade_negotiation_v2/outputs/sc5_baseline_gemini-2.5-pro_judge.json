@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 0,
+  "consistency": 0,
+  "explanation_quality": 0,
+  "overall": 5,
+  "justification": "Ignores Team B\u2019s conservative, floor-first preferences and zero-RB tendencies; offers a volatile committee RB and boom/bust WR for B\u2019s injured depth TE without addressing B\u2019s incentives. Internally incoherent: A already has a Tier 1 TE, while Justin Wright is Tier 5 and Out\u2014no upgrade. Rationale is generic and factually wrong.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

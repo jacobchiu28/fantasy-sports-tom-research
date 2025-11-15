@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s desire for floor via a stable pocket QB, but overlooks that B trusts rankings and prefers young ascending players\u2014making a trade of Tier 1 RB Marcus Reed unlikely. Sending two vets (Harris, Campbell) for Reed + a young QB conflicts with B\u2019s profile and urgent-win needs. Rationale is generic (floor vs. ceiling), ignores SOS specifics and value imbalance. Some two-sided thinking, but shallow and optimistic p_accept.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

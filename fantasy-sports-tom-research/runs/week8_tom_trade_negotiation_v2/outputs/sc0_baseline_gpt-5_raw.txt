@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Darian Allen", "Liam Scott", "Alex White"],
+  "ask_from_B": ["Chris Reed", "Tyler Anderson"],
+  "rationale": "Converts WR surplus + committee RB into steady QB1 and target-heavy TE to stabilize A's weekly floor.",
+  "p_accept_B": 0.4
+}

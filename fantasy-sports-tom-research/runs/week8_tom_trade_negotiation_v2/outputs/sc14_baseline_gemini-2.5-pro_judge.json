@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 0,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "The offer focuses only on Team A\u2019s need at TE and ignores Team B\u2019s conservative mindset and incentives. Team B would be trading a reliable Tier 2 TE (a position of strength) for a volatile RB (Sean Holt) and a declining, high-variance veteran WR (Darian Moore), which conflicts with their floor-first, veteran-stability preferences. The trade is structurally feasible and addresses A\u2019s weakness, but the rationale is one-sided and thin, with little evidence of modeling B\u2019s beliefs or motivations.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

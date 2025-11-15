@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Darian Thomas"
+  ],
+  "ask_from_B": [
+    "Michael Flores"
+  ],
+  "rationale": "Upgrade at TE, a position of weakness, by trading from WR depth. Flores offers a better playoff schedule than current TEs.",
+  "p_accept_B": 0.55
+}

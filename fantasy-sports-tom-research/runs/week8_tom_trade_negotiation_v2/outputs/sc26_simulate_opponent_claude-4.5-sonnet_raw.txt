@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Martin", "Caleb Foster"],
+  "ask_from_B": ["Tyler Anderson", "Xavier Johnson"],
+  "rationale": "A gets stable TE upgrade; B gets workhorse RB they lack. Both contrarians value proven vets over hype.",
+  "p_accept_B": 0.72
+}
+```

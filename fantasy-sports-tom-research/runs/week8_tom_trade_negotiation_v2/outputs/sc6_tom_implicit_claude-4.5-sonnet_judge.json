@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Fails to model B\u2019s needs: B values dual\u2011threat QBs and is 0-8; trading away their only healthy dual\u2011threat (Jones) for a pocket QB hurts their identity and win-now outlook. Asking for Eric Torres (Tier 1, healthy) while offering two rookies (Tier 3 and Tier 5) is unlikely to appeal, despite B liking rookies. No mention of B\u2019s injury aversion or roster impact. The trade is technically feasible but strategically lopsided toward A. p_accept_B=0.62 is unrealistic.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

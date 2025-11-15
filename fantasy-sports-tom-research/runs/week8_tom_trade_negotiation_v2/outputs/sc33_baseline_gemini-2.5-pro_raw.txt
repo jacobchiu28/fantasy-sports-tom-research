@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Darian Anderson"
+  ],
+  "rationale": "Consolidate QB/RB depth for a stable WR. Anderson provides a consistent floor A's volatile WR corps lacks."
+}

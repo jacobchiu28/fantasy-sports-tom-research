@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Identifies B\u2019s Week 12 QB need and desire for steady contributors, but overlooks that B highly values possession WRs (Thomas) and avoids injuries (Garcia Q). Calls Noah a TE1 upgrade despite B already having a healthy Tier 2 TE. Also inconsistent with A\u2019s strict injury aversion by targeting Thomas (Q). Reasoning is concise but thin on roster/context specifics and mischaracterizes value dynamics.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

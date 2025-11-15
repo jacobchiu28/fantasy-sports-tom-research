@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Recognizes B\u2019s RB need and TE surplus, and that A wants a TE upgrade, but ignores B\u2019s bias against run-heavy contexts and consensus valuations. Offer is wildly unbalanced: A sends a Tier 1 RB plus a Tier 3 RB for a Tier 4 TE, undermining A\u2019s playoff push and contradicting \u201cconsensus fairness.\u201d Rationale is brief and generic, lacking injury, role, and schedule context.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Lucas Allen",
+    "Jordan King"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team B gets two reliable weekly starters for one TE, addressing their immediate need for consistent production to win now.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

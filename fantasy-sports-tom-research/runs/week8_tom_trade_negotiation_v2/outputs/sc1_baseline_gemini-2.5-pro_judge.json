@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale only reflects Team A\u2019s desire for a stable RB floor and ignores Team B\u2019s conservative mindset and preference for keeping reliable RBs. Ben King aligns with B\u2019s floor-centric values, making it unlikely they would trade him for a mid-variance WR (Trevor Brown) and an ascending but volatile committee RB (David Carter). The offer is feasible but misaligned with B\u2019s incentives. Explanation is brief and not grounded in roster contexts.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

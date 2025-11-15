@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Tyler Miller",
+    "Sam Lewis",
+    "Nick Torres"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "B gains stable QB/RB + possession WR; A consolidates for high-ceiling RB. Fair for both timelines.",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_implicit_gpt-5.txt"
+  }
+}

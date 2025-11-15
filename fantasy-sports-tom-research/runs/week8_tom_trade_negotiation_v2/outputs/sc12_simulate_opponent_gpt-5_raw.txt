@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Tyler Lewis", "Ben Martin"],
+  "ask_from_B": ["Jake Garcia", "Isaiah Lee"],
+  "rationale": "B upgrades to rushing QB and upside WR; A gains steadier RB and pocket passer floor.",
+  "p_accept_B": 0.58
+}

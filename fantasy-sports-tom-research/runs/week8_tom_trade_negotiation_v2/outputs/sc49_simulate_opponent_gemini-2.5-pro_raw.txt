@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Kyle Garcia"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "B gets two low-volatility, veteran RBs to stabilize their floor and win now. A consolidates bench depth for an elite TE.",
+  "p_accept_B": 0.65
+}

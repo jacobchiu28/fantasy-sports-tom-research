@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Proposal centers on Team A\u2019s benefits and ignores Team B\u2019s urgent, conservative needs and consensus-driven preferences. Asking B to give a low-variance WR for a boom/bust WR and a depth RB with tough playoff matchups mismatches B\u2019s priorities. The trade is feasible and David Campbell\u2019s low volatility is correctly cited, but the rationale is generic and not grounded in B\u2019s situation.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

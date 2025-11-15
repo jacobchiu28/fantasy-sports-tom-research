@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Upgrade RB with low-vol Ben King; A trades surplus QB and replaceable WR depth to consolidate.",
+  "p_accept_B": 0.4,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_baseline_gpt-5.txt"
+  }
+}

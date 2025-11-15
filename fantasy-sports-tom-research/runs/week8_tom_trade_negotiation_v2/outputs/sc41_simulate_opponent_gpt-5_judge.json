@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 0,
+  "overall": 20,
+  "justification": "Trade sends injured Tier 5 Lucas Allen for B\u2019s healthy Tier 1 Trevor Rodriguez. B urgently needs reliable production and prefers consistent possession types; Allen is out and not steady. The proposal misreads B\u2019s priorities and overestimates acceptance (0.68). Rationale is generic and inaccurate, conflating \u2018steady vet\u2019 with an injured, declining player. Overall ToM and coherence are poor.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

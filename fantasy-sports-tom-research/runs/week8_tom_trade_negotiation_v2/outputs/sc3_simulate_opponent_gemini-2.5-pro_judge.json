@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Notes B\u2019s preference for dual-threat QBs but ignores B already has a Tier 1 QB. Overlooks that A would have no healthy QB post-trade and requests an injured TE despite A\u2019s injury aversion, mislabeling it as a \u2018consistent\u2019 TE. Value and roster fit are shaky, and reasoning lacks detail on tiers, playoff schedule, and each team\u2019s true needs. Brief and generic.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

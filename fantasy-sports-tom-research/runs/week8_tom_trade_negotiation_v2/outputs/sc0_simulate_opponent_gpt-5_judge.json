@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B\u2019s QB/TE surplus and A\u2019s desire for a steadier QB, but misses that B prefers possession WRs and pocket passers, and needs immediate floors (Eric Davis is doubtful, high variance). Calling Michael Roberts a floor TE is shaky. Trade is feasible, but handing B an injured boom/bust WR while taking their only pocket QB conflicts with B\u2019s stated preferences and urgency. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

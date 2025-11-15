@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Darian Allen",
+    "Caleb Turner"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Consolidate RB depth and a quality WR to acquire a true workhorse running back for the playoff push.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_baseline_gemini-2.5-pro.txt"
+  }
+}

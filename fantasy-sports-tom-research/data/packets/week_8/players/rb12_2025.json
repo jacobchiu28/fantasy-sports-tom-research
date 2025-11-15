@@ -1,0 +1,85 @@
+{
+  "player_id": "rb12_2025",
+  "name": "Josh Robinson",
+  "position": "RB",
+  "team": "LAC",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      80,
+      94
+    ],
+    "rush_share_pct_range": [
+      53,
+      74
+    ],
+    "target_share_pct_range": [
+      8,
+      14
+    ],
+    "red_zone_carry_share_pct_range": [
+      31,
+      56
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      10,
+      32
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.74,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Loose",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.88
+  },
+  "archetype_tags": [
+    "workhorse_rb"
+  ],
+  "role_description": "Workhorse RB with heavy workload, mid production volatility",
+  "summary_text": "Healthy Tier 5 RB in low-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Workhorse RB with heavy workload, mid production volatility",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Low pass rate, Slow tempo",
+    "market": "Tier 5 (Med trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

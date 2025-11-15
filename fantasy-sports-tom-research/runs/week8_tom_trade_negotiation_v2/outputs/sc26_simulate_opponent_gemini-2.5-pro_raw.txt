@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Justin Miller"
+  ],
+  "ask_from_B": [
+    "Nick Holt",
+    "Alex White"
+  ],
+  "rationale": "Team A trades volatile youth for a stable veteran WR and RB depth. Team B gets a high-upside workhorse RB it desperately needs.",
+  "p_accept_B": 0.7
+}

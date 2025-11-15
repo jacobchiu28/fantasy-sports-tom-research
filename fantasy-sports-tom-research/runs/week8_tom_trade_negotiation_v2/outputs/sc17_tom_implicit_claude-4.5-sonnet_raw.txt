@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Taylor", "Ethan Jones"],
+  "ask_from_B": ["James Jones", "Chris Garcia"],
+  "rationale": "Workhorse RB + deep threat WR for dual-threat QB + high-upside young WR",
+  "p_accept_B": 0.62
+}
+```

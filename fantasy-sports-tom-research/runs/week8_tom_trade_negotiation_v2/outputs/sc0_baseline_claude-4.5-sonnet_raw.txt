@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Tyler Lewis", "Eric Torres"],
+  "ask_from_B": ["Chris Reed", "Trevor Brown"],
+  "rationale": "Upgrade QB volatility from high to low, add stable WR floor. Optimize Team A positional strength.",
+  "p_accept_B": 0.45
+}
+```

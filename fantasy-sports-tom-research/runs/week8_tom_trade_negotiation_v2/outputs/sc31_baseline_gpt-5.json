@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "Marcus Gonzalez",
+    "Eric Allen"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera"
+  ],
+  "rationale": "Consolidate depth to land a high-ceiling WR1; WR is Team A\u2019s weakest position",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_baseline_gpt-5.txt"
+  }
+}

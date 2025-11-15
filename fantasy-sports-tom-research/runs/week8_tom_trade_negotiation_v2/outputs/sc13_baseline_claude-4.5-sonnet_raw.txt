@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Jordan Williams", "Adam Anderson"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Upgrade committee RB to workhorse; A has WR depth, needs RB stability for playoff push",
+  "p_accept_B": 0.15
+}
+```

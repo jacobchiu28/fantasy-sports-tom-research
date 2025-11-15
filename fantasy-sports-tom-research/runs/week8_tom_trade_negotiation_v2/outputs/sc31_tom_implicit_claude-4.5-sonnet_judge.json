@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Proposal ignores Team B\u2019s incentives: B values committee RBs with upside and playoff schedules\u2014exactly Derek Foster\u2014so unlikely to sell him. B already has a Tier 1 QB and TE, making a QB4 and WR2 return unappealing. Rationale is generic and factually off (Lucas Flores has tough playoff matchups, not friendly). Value and roster fit are lopsided; 0.62 acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Martin",
+    "Caleb Foster"
+  ],
+  "ask_from_B": [
+    "Logan Clark",
+    "Alex White"
+  ],
+  "rationale": "Acquiring dual-threat QB for playoffs; offering workhorse RB depth and stable possession WR",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Identifies B\u2019s interest in established talent and friendly playoff schedules and addresses B\u2019s QB/WR needs by dealing from RB depth. Separates aims (A consolidates into upside RB), but misses B\u2019s urgency for immediate wins and contrarian tendencies. Trade is roster-coherent, though A losing its only fully healthy top QB conflicts with A\u2019s injury-cautious profile. Rationale is concise but light on specifics.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Model notes B\u2019s traits but misreads incentives: a 1-7, conservative, veteran-preferring manager needing wins won\u2019t trade a Tier 1 RB and solid veteran WR for a doubtful boom/bust WR and a Tier 4 volatile RB. Offer conflicts with B\u2019s volume/stability priorities and urgency. Reasoning mentions contrarianism but uses it to justify the opposite of B\u2019s stated values. Acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

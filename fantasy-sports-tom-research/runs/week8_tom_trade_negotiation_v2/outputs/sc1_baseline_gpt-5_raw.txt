@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Trevor Roberts", "Eric Torres"],
+  "ask_from_B": ["Josh Flores", "Liam Adams"],
+  "rationale": "Flip surplus QB + volatile WR for RB2 + TE upgrade; improves A’s floor at thin spots"
+}

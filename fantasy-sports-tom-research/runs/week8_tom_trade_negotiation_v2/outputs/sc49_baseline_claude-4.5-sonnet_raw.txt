@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Matt Nelson", "Alex Thompson"],
+  "ask_from_B": ["Noah Brown"],
+  "rationale": "Consolidates two high-volatility committee RBs into receiving TE upgrade for playoff push",
+  "p_accept_B": 0.15
+}
+```

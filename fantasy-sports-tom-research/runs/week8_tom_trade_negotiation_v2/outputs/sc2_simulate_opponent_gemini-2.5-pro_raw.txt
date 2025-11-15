@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "A classic RB-for-TE swap. You solve your biggest need with a workhorse RB, and I upgrade my TE position for the playoffs.",
+  "p_accept_B": 0.6
+}

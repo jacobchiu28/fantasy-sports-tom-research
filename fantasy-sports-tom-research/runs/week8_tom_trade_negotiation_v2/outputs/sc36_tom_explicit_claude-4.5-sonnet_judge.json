@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s needs: claims B needs RB depth while asking for their Tier 1 workhorse, reducing depth. Ignores B\u2019s urgent need for immediate wins and reliance on expert consensus, making an injured QB (Out) and a doubtful WR poor near-term returns. Minimal, generic rationale with incorrect premise; no balancing of A vs B incentives. Offer is unrealistic and internally inconsistent.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B\u2019s desire for consistency and veterans, but mislabels Ryan Moore as a possession/reliable fit and ignores that B likes acquiring injured players, not trading them away. The deal actually downgrades A (Tier 3 RB/WR for Tier 4 RB/WR) despite claiming an \u2018upgrade.\u2019 Some two-sided reasoning is present, but key player-role and value mismatches reduce coherence and credibility.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

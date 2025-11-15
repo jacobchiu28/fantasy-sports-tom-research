@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal ignores Team B\u2019s beliefs and needs: B values dual-threat QBs and avoids injury risk, yet A asks for B\u2019s only healthy dual-threat QB while offering a pocket QB plus an IR WR. Both teams are 0-8 and need immediate production; an IR WR is useless to B. The rationale is A-centric and shallow, with no mention of B\u2019s incentives or constraints. Mechanically feasible but strategically misaligned.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

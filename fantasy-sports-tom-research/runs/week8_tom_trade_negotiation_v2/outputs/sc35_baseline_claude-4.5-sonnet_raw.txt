@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Justin Miller", "Michael Foster"],
+  "ask_from_B": ["Liam Carter"],
+  "rationale": "Team A consolidates WR depth into RB upgrade; acquires veteran committee back with friendly playoff schedule",
+  "p_accept_B": 0.42
+}
+```

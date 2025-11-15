@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Robinson", "James Jones"],
+  "ask_from_B": ["Kyle Garcia", "Austin Torres", "Chris Reed"],
+  "rationale": "Team B gets workhorse RB + stable dual-threat QB; Team A gets low-volatility depth matching conservative style",
+  "p_accept_B": 0.72
+}
+```

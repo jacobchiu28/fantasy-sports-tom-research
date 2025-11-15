@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Nick Torres"
+  ],
+  "ask_from_B": [
+    "Chris Lee"
+  ],
+  "rationale": "B gains a steadier WR; A fills QB need. B keeps Carter as stable starter and Miller as depth.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_simulate_opponent_gpt-5.txt"
+  }
+}

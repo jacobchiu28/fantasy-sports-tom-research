@@ -1,0 +1,83 @@
+{
+  "player_id": "qb9_2025",
+  "name": "Lucas Hall",
+  "position": "QB",
+  "team": "LV",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      28,
+      43
+    ],
+    "completion_pct_range": [
+      59,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      17
+    ],
+    "rush_share_pct_range": [
+      3,
+      15
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.93
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.7,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "40-60%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.58
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with low week-to-week variance",
+  "summary_text": "Healthy Tier 3 QB in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with low week-to-week variance",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 3 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

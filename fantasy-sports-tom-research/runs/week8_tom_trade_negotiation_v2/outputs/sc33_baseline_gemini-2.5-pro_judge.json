@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Minimal modeling of Team B\u2019s conservative, consensus-driven preferences; no mention of their valuing possession WRs or pocket QBs. The proposal mislabels Darian Anderson as a stable-floor WR (he\u2019s Tier 5, outside, mid-variance). For a 1-7 Team A, giving up a Tier 2 QB and Tier 3 RB for a low-tier WR is incoherent with urgent win needs and A\u2019s stated preferences. Rationale is brief and inaccurate.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

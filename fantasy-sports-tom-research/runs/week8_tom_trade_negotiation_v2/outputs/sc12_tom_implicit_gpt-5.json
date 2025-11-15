@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Jake Garcia",
+    "Isaiah Lee"
+  ],
+  "rationale": "You get dual-threat QB upside + boom WR; we gain steadier RB and pocket QB for weekly floor",
+  "p_accept_B": 0.52,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_implicit_gpt-5.txt"
+  }
+}

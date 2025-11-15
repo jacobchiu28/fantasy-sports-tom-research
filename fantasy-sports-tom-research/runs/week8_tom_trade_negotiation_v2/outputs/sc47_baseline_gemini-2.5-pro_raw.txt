@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Xavier Rodriguez"
+  ],
+  "rationale": "Team A trades a starting WR to address its most significant positional need at running back."
+}

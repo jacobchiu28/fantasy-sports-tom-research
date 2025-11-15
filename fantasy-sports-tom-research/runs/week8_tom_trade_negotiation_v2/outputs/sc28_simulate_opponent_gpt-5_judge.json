@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Recognizes B\u2019s dislike of volatility (moving off a volatile RB) but ignores key beliefs: B already has a Tier 1 TE (Thomas), values stable volume, and needs active RB depth. Offering a Tier 2 TE plus an OUT WR as a \u201csteadier WR\u201d misreads B\u2019s priorities despite their willingness to buy low on injuries. The trade is roster-incoherent for B and the acceptance probability is overstated. Reasoning is brief and factually off.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Brian Harris", "Kyle Garcia"],
+  "ask_from_B": ["Justin Nelson"],
+  "rationale": "B gains two steady-touch RB vets for floor; A gets high-upside boom/bust rookie WR",
+  "p_accept_B": 0.68
+}

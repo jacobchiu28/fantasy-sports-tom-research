@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Rationale only cites volatility for Team A and ignores Team B\u2019s beliefs (consensus rankings, rookies, SOS). Minimal perspective-taking; no clear reason why B would swap a rookie RB with friendly playoff schedule for an injured veteran WR throw-in. Trade is technically feasible but misaligned with A\u2019s conservative, workhorse preference and RB depth needs. Explanation is generic and not grounded in roster context.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

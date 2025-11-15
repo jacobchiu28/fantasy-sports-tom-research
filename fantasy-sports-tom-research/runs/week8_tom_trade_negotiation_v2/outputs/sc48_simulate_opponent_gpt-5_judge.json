@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good ToM in spotting B\u2019s TE hole and offering a TE1 with friendly playoffs plus a rookie WR that fits B\u2019s preferences. It distinguishes A\u2019s RB need from B\u2019s incentives. But it overlooks that B also values rookie breakout RBs like David Adams and would be thin at RB (Week 11 byes). Calling Adams \u201csurplus\u201d is unsubstantiated. Trade is feasible but value is skewed (A overpays), so B\u2019s accept probability likely exceeds 0.56. Rationale is clear but shallow.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

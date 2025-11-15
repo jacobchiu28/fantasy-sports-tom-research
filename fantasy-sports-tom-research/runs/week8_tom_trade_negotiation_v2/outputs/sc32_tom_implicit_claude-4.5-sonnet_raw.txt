@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Adams", "Derek Harris"],
+  "ask_from_B": ["Eric Allen", "Devon Reed"],
+  "rationale": "Dual-threat QB upgrade + deep threat for deep threat + RB depth",
+  "p_accept_B": 0.72
+}
+```

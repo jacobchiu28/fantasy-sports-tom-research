@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Sean Hernandez"
+  ],
+  "ask_from_B": [
+    "James Jones"
+  ],
+  "rationale": "Team A consolidates a position of strength (RB) to secure a significant upgrade at its weakest position (QB).",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_baseline_gemini-2.5-pro.txt"
+  }
+}

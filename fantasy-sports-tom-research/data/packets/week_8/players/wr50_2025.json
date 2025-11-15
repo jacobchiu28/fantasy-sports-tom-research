@@ -1,0 +1,89 @@
+{
+  "player_id": "wr50_2025",
+  "name": "Ethan Jones",
+  "position": "WR",
+  "team": "SF",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      58,
+      87
+    ],
+    "route_participation_pct_range": [
+      71,
+      90
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      27
+    ],
+    "target_share_pct_range": [
+      20,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      24,
+      41
+    ],
+    "slot_rate_pct_range": [
+      25,
+      72
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.73
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.72,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.73
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+  "summary_text": "Healthy Tier 4 WR in high-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, high weekly variance",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 4 (Low trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

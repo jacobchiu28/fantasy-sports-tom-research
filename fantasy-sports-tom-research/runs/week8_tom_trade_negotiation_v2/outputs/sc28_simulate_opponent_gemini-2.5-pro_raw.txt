@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "A gets a needed RB. B fills a huge TE void and gets a stable veteran WR, fitting their conservative style.",
+  "p_accept_B": 0.75
+}

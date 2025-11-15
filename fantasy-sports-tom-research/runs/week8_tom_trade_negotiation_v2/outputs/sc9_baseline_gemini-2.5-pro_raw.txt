@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Justin Miller",
+    "Lucas Thompson"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "Consolidating a volatile WR and RB with tough playoff schedules to acquire a high-volume, workhorse RB at a position of need."
+}

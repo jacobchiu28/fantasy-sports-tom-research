@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Identifies B\u2019s rookie/SoS interests but misreads needs: Josh Garcia (rookie, friendly playoff schedule) fits B\u2019s preferences, so B is unlikely to sell for a Tier 3 TE with low usage consistency and a Tier 5 RB. Calling Isaiah Adams a \u2018low-volatility TE upgrade\u2019 is inaccurate versus B\u2019s Adam Allen (Tier 2) and Walker (Tier 1, albeit hurt). Offer also mismatches A\u2019s conservative preference for workhorse RBs. Rationale is concise but not evidence-based; acceptance probability is overestimated.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

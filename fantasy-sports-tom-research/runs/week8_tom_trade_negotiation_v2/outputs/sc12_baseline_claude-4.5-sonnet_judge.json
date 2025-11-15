@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Understands A\u2019s desire for stability but poorly models B: B prefers dual-threat upside and would upgrade at both QB (Lewis over Lee) and RB (Alex Thompson over Ben King), so acceptance should be high, not 0.35. The offer is feasible but highly lopsided against A\u2019s urgent win-now need. Rationale is generic and ignores B\u2019s 8-0 cushion, IR Tier-1 QB context, and consensus valuations. Clear separation of motivations is limited.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "They name B\u2019s priorities (consistency, RB workload, stacks) but misapply them: proposing B trade its most reliable RB (Sam Lewis) and Tier 1 WR (Nick Torres) for a Tier 4 QB (Ethan) and a Tier 2 WR. B already has a Tier 2 QB, making this a downgrade, and the assumed QB-WR stack is unsupported. The rationale is clear but factually off and inconsistent with B\u2019s needs and preferences.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

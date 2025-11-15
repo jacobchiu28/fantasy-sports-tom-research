@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson"
+  ],
+  "ask_from_B": [
+    "David Young",
+    "Malik Carter"
+  ],
+  "rationale": "Team B gets a young, high-upside QB for the playoff push. Team A gets a stable vet QB and RB to increase consistency.",
+  "p_accept_B": 0.75
+}

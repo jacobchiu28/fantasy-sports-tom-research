@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Basic attempt to meet B\u2019s needs (RB depth) but misses that B values possession WRs and trusts consensus\u2014Caleb Foster (Tier 2 possession) fits B perfectly. B already has two Tier 1 RBs plus a Tier 3, so swapping a steady WR for committee RBs (Tier 3 and Tier 5) is unlikely with urgent win needs. Trade is feasible and fits A\u2019s goals, but acceptance odds are overstated and rationale is generic.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

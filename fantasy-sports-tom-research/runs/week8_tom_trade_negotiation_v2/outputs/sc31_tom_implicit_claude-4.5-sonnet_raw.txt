@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "Adam Anderson"],
+  "ask_from_B": ["Derek Foster", "Lucas Flores"],
+  "rationale": "Dual-threat QB + high-variance WR for committee RB + young TE with friendly playoff schedule",
+  "p_accept_B": 0.62
+}
+```

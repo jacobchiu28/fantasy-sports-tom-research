@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Austin Torres",
+    "Michael Wright"
+  ],
+  "ask_from_B": [
+    "Marcus Garcia"
+  ],
+  "rationale": "Team A consolidates depth at WR and TE to acquire a consistent, high-usage TE, filling a major roster weakness for a playoff run."
+}

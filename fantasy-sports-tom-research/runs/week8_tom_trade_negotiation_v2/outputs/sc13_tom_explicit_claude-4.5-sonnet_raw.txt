@@ -1,0 +1,13 @@
+```json
+{
+  "offer_from_A": ["Jordan Williams", "Adam Anderson"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Team B gets depth; Team A gets workhorse RB. B values consistency, A targets upside RB with friendly playoff schedule.",
+  "p_accept_B": 0.35,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B is 8-0 with strong playoff position. They have committee backs (Jordan Lewis, Noah Carter) with high volatility and tough/mixed schedules. Josh Robinson is their only workhorse RB with friendly playoff schedule and mid volatility - exactly what their manager values (consistency, proven production). They're thin at WR depth beyond their starters.",
+    "team_b_manager_psychology": "Manager B prefers consistency and reliable performers over high-variance players. Values proven veterans and possession receivers with consistent targets. Makes independent evaluations but considers consensus. Would view giving up their most consistent RB (Josh Robinson) as risky despite 8-0 record.",
+    "team_b_perception_of_offer": "Jordan Williams (committee back, high volatility, veteran) contradicts B's preference for consistency. Adam Anderson (possession WR but high volatility, young breakout) offers WR depth but volatility concerns remain. B likely sees this as giving up their best RB for two inconsistent pieces.",
+    "why_b_might_accept": "Depth concerns at WR. Jordan Williams has friendly playoff schedule. B does target injured players as buying opportunities, suggesting some risk tolerance. 8-0 record provides cushion to take calculated risks.",
+    "why_b_likely_rejects": "Josh Robinson is their only consistent, workhorse RB with friendly playoff schedule - core to their playoff run. Both offered players have high volatility which B explicitly avoids. B would need more consistent value in return.",
+    "team_a_rationale": "Manager A is contrarian, favors high-upside players, and targets committee backs with upside. Trading away two high-variance players (Jordan Williams, Adam Anderson) to acquire a workhorse RB (Josh Robinson) with friendly playoff schedule addresses A's RB need while competing for playoffs at 

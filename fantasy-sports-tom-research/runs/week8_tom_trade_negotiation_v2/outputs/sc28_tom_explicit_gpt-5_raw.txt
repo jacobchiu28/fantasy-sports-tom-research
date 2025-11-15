@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Derek Harris"],
+  "ask_from_B": ["Austin Torres"],
+  "rationale": "Conservative B values floor/volume; TE upgrade + vet WR depth > mid-vol WR. A gains upside; fair via TE scarcity.",
+  "p_accept_B": 0.58
+}

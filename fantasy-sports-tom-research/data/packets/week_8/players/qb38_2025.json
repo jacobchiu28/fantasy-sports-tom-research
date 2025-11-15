@@ -1,0 +1,85 @@
+{
+  "player_id": "qb38_2025",
+  "name": "Kevin Flores",
+  "position": "QB",
+  "team": "TB",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      29,
+      40
+    ],
+    "completion_pct_range": [
+      61,
+      71
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      16
+    ],
+    "rush_share_pct_range": [
+      4,
+      14
+    ],
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.86
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.68,
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "40-60%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [
+      "Stack candidate"
+    ],
+    "confidence": 0.88
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with mid week-to-week variance",
+  "summary_text": "Healthy Tier 3 QB in high-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 3 (Med trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

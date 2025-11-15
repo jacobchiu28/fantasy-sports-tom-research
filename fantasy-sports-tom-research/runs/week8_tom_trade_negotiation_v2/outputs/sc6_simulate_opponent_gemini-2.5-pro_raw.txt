@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Darian Campbell"
+  ],
+  "ask_from_B": [
+    "James Jones"
+  ],
+  "rationale": "Team B gets a breakout rookie RB to shake up their winless roster, while A gets the QB upgrade needed for a playoff push.",
+  "p_accept_B": 0.65
+}

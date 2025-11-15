@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Kyle Garcia", "Darian Taylor"],
+  "ask_from_B": ["Justin Nelson"],
+  "rationale": "Stable RB + TE depth for your boom/bust rookie WR; raises weekly floor, covers TE bye.",
+  "p_accept_B": 0.63
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Proposal centers on Team A\u2019s needs, not B\u2019s. Team B is conservative, needs wins, and trusts consensus; giving up low-vol Tier 1 RB Kyle Garcia and solid WR Austin Torres for a committee RB (Tier 5) and a higher-variance WR with tough playoff matchups is misaligned. Rationale briefly cites volatility and playoff schedule but doesn\u2019t explain why B would accept or how it helps B\u2019s urgent, floor-first approach. Internally coherent but ToM is weak.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Kevin Flores", "Lucas Allen"],
+  "ask_from_B": ["Malik Scott", "Liam Adams"],
+  "rationale": "B needs reliable vets to win now; we send Flores+Lucas. We get Malik's ceiling and TE depth. Fair 2-for-2.",
+  "p_accept_B": 0.55
+}

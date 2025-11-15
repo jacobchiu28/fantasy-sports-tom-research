@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Some attempt to appeal to B\u2019s desire for stability (\u201cstable workhorse RB\u201d), but it ignores B\u2019s conservative preference for proven veterans and high-powered offenses\u2014Robinson is a rookie in a low-volume attack. It also asks B to give up a Tier 2 TE (Noah Brown) despite B valuing reliability, with only a Tier 4 fallback. Calling it a consolidation trade is inaccurate (2-for-2). Reasoning is generic and not grounded in B\u2019s roster or psychology.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

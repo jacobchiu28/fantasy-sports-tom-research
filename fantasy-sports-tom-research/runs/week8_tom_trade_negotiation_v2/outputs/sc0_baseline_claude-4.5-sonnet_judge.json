@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Offer ignores Team B\u2019s stated preferences (possession WRs, pocket passers, buying injured, and current TE need). It asks B to give up a stable Tier 1 QB (Reed) for a volatile dual-threat (Tyler Lewis) and a deep-threat WR (Torres) that doesn\u2019t fit B\u2019s conservative profile. Rationale is A-centric and thin. Value is somewhat coherent (T1 QB+T3 WR vs T3 QB+T1 WR), but fit is poor; acceptance probability seems overstated.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

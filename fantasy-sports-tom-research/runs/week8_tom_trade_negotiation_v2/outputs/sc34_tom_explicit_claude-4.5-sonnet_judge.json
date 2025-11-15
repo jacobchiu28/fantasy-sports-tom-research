@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Understands B\u2019s need for stable floors and win-now schedules, offering a low-variance QB upgrade and steady RB. However, it underplays B\u2019s preference for young ascending players and doesn\u2019t note Harris\u2019s minor injury risk. Perspective-taking is fair but doesn\u2019t articulate A\u2019s upside-seeking motives. The trade is coherent given B\u2019s weak QB room and RB depth, but the rationale is very brief and misses specific roster-context details.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

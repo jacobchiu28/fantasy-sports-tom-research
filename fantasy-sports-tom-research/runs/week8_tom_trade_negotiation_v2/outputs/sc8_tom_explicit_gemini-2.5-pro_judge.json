@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Superficial ToM: it notes B needs starters but ignores B\u2019s stated preference for possession WRs by asking for their only low-variance slot option. It also overlooks A\u2019s injury aversion by targeting a Questionable player. The deal guts A\u2019s RB depth by sending a Tier 1 RB for a Tier 3 WR, making the \u2018consolidation\u2019 claim illogical. Rationale is generic and not grounded in roles, tiers, or roster needs.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

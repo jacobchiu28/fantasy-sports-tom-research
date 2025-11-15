@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Chris Lee",
+    "Ethan Jones"
+  ],
+  "ask_from_B": [
+    "Sam Foster",
+    "Austin Torres"
+  ],
+  "rationale": "Upgrade QB to dual-threat; swap boom/bust WR for steadier WR with friendly playoffs",
+  "p_accept_B": 0.46,
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_baseline_gpt-5.txt"
+  }
+}

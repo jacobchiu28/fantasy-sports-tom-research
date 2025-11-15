@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s needs and preferences: B\u2019s RB room isn\u2019t weak and B values stable vets over an injured committee RB and a mid-variance WR. A already has a Tier 1 TE, so calling Marcus Garcia (Tier 4, Q) an upgrade is incoherent. Rationale is generic and contradicts roster facts. Acceptance probability is overstated given B\u2019s conservative, win-now profile.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

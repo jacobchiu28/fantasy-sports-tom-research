@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Martin (RB)"],
+  "ask_from_B": ["James Rivera (WR)"],
+  "rationale": "B gets a workhorse RB; A adds breakout deep‑threat WR; fits both teams’ needs/styles.",
+  "p_accept_B": 0.6
+}

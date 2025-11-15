@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: a conservative, zero-RB manager is unlikely to trade away a Tier 1 workhorse (Ryan Taylor) and a Tier 2 WR for two Tier 5 pieces. Calling Robinson \u201cstable\u201d and Anderson \u201cconsistent\u201d contradicts their profiles. Minimal evidence of B\u2019s motives beyond a vague \u2018contrarian\u2019 note; no discussion of rosters, tiers, or playoff context. The offer is lopsided and unrealistic, so acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

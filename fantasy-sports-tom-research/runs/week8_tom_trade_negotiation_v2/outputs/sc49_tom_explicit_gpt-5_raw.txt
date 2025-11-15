@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Brian Harris", "Kyle Garcia"],
+  "ask_from_B": ["Chris Garcia"],
+  "rationale": "B is 2-6, conservative, wants safe RB touches now; we send two low-vol RBs for your boom/bust WR depth—fair floor-for-ceiling.",
+  "p_accept_B": 0.6
+}

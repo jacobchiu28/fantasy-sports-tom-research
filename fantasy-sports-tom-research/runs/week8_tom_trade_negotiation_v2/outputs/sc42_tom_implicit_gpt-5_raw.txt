@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["David Campbell", "Alex King"],
+  "ask_from_B": ["Trevor Martinez", "David Flores"],
+  "rationale": "B gains steady WR and RB depth with friendly playoffs; A gets TE upgrade and upside WR.",
+  "p_accept_B": 0.6
+}

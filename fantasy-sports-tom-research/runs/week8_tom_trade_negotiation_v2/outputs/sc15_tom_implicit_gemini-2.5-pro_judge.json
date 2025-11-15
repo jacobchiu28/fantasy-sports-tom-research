@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "It notes Team B\u2019s appetite for ceiling and youth, but is shallow: it ignores B\u2019s RB depth risk and overstates Ben King\u2019s stability (declining role, tough matchups). It loosely fits A\u2019s need for floor via Cameron Scott, but conflicts with A\u2019s veteran preference and fails to flag bye/role context. Both sides\u2019 goals are mentioned, yet the rationale is brief and not evidence-based. The acceptance probability seems optimistic.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

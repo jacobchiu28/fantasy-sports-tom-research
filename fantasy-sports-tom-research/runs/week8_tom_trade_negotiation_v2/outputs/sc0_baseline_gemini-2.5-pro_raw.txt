@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Chris Reed",
+    "Trevor Brown"
+  ],
+  "rationale": "Team A trades its elite RB from a position of depth to acquire a stable QB and a reliable veteran WR, filling two holes."
+}

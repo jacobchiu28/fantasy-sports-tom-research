@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Devon Martinez",
+    "Kyle Mitchell"
+  ],
+  "ask_from_B": [
+    "Lucas Carter",
+    "Ryan Taylor"
+  ],
+  "rationale": "Acquire dual-threat QB and workhorse RB to upgrade Team A's positional strength at weak spots",
+  "p_accept_B": 0.15,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_baseline_claude-4.5-sonnet.txt"
+  }
+}

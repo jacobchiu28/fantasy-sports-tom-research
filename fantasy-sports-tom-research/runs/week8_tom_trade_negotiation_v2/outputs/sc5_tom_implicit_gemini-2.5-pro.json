@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Darian Anderson",
+    "Trey Mitchell"
+  ],
+  "ask_from_B": [
+    "Justin Wright"
+  ],
+  "rationale": "B gets a stable veteran WR and RB depth for his playoff push. A consolidates his bench for a needed TE upgrade.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

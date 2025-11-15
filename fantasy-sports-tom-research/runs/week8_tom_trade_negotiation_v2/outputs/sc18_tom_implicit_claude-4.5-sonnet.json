@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Turner",
+    "Sean Hernandez"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Workhorse RB for TE upgrade + depth RB; targets A's preference, B gets consistent floor pieces",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

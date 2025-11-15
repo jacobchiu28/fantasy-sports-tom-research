@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Cameron Scott"
+  ],
+  "ask_from_B": [
+    "Isaiah Lee",
+    "Ben King"
+  ],
+  "rationale": "B gets dual-threat QB upgrade + stable WR; A gets pocket passer + floor RB for conservative rebuild",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

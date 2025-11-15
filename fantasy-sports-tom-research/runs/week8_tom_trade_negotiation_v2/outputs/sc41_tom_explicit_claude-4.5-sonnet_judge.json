@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Rationale misreads Team B\u2019s preferences and assets: it claims B gains consistency, but B would be giving up their consistent TE (Noah Brown) for a volatile WR (Sam Martin) and a mid-tier RB. Little attention to B\u2019s stated love of possession/reliability or to A\u2019s ceiling-chasing motives. The trade is roster-feasible (B has another TE2; A could use a stable TE), but motivations and value alignment are off. Explanation is brief and incorrect.",
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

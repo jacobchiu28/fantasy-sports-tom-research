@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson",
+    "Caleb Turner"
+  ],
+  "ask_from_B": [
+    "David Campbell"
+  ],
+  "rationale": "Team B gets two young breakout players for a veteran. Team A adds a stable, high-floor WR to solidify a playoff push.",
+  "p_accept_B": 0.65
+}

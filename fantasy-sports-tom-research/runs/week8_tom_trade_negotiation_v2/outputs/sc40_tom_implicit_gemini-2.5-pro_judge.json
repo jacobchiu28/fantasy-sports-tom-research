@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Acknowledges B\u2019s floor and playoff-schedule focus, but asks B to give up their only healthy TE1 (Brian Hill) and a Tier-2 WR for a Tier-5 WR and a committee RB\u2014misaligned with B\u2019s conservative, consensus-driven, workhorse preference. Overstates stability of Brandon Martinez and ignores B\u2019s TE depth needs. Plausible for A, unlikely for B; 0.65 acceptance is optimistic.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

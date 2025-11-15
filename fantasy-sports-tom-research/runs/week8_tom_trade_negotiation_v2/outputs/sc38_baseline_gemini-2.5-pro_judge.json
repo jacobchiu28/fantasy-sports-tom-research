@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Offer ignores Team B\u2019s clear injury aversion by sending an IR QB for a healthy Tier 2 RB. Rationale is A-centric and even incorrect (\u201cthree starting QBs\u201d when one is IR), showing little regard for B\u2019s incentives or consensus-driven mindset. While B likely needs a QB, the proposal doesn\u2019t address that they\u2019d want a healthy, reliable option. Explanation is generic and not grounded in profiles.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

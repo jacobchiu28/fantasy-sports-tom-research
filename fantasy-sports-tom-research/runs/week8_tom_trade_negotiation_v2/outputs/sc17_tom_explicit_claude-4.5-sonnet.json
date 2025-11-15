@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Ethan Jones"
+  ],
+  "ask_from_B": [
+    "James Jones",
+    "Chris Garcia"
+  ],
+  "rationale": "Team B gets workhorse RB + deep threat WR; Team A gets dual-threat QB + young upside deep threat WR",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

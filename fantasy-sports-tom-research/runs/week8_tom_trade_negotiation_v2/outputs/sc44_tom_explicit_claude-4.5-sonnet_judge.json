@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Correctly notes B\u2019s conservative, consensus-following style and need for floor, but mis-models valuations: treats Chris Reed (Tier 1) as backup and Josh Robinson (Tier 5) as the best asset, and downplays Austin Torres (Tier 2) and Kyle Garcia (Tier 1). Trade is lopsided toward A and unlikely for a consensus-trusting B. Reasoning separates A/B perspectives but relies on inaccurate asset assessments and a flawed fairness claim, making the 0.72 acceptance probability unrealistic.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "David Baker",
+    "Justin Miller"
+  ],
+  "ask_from_B": [
+    "David Campbell",
+    "Ethan Turner"
+  ],
+  "rationale": "Upgrade WR volatility profile and add receiving TE; trade away high-variance deep threats for stable veterans",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_baseline_claude-4.5-sonnet.txt"
+  }
+}

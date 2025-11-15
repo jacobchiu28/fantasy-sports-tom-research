@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Shows some awareness that B prefers floor players, offering a low-variance RB for B\u2019s WR depth. However, it mislabels Darian Anderson as a steady WR (he\u2019s mid-variance outside WR) and ignores B\u2019s preference for possession receivers and expert rankings (Adams is Tier 4 with declining role). Little discussion of A\u2019s urgent need for wins or B\u2019s ample RB depth. Feasible but thin, with limited, generic reasoning.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

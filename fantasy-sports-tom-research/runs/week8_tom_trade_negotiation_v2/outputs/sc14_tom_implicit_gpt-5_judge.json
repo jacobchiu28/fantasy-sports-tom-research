@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "The proposal reflects A\u2019s need to upgrade TE but misreads B. B is extremely conservative, prefers proven vets and stable floors, and would be surrendering his only reliable TE (Noah Brown) for a questionable young WR and an IR depth TE with limited receiving role\u2014contrary to his priorities. It briefly considers B\u2019s return but ignores B\u2019s existing WR depth and playoff stability needs. Rationale is terse and mislabels IR TE as depth.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

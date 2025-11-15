@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Alex Thompson",
+    "Logan Mitchell"
+  ],
+  "ask_from_B": [
+    "David Adams",
+    "Jamal Adams"
+  ],
+  "rationale": "B trusts rankings: TE upgrade + W11 RB bye fix; A gains upside RB, accepts rookie TE.",
+  "p_accept_B": 0.64,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_explicit_gpt-5.txt"
+  }
+}

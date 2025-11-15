@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Caleb Garcia (QB)",
+    "Noah Brown (TE)"
+  ],
+  "ask_from_B": [
+    "Darian Thomas (WR)"
+  ],
+  "rationale": "B gains steady QB/TE depth; A adds a reliable slot WR for weekly floor. Win-now fit for both.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_tom_implicit_gpt-5.txt"
+  }
+}

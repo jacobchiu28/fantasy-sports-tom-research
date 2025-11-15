@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Correctly notes B\u2019s QB surplus and conservative style, but misreads B\u2019s WR preferences (offers two volatile deep threats, not possession targets) and undervalues Sean Hernandez (Tier 1 RB). Claims both WRs have friendly playoff schedules (only Justin does) and labels them as possession-like. Asking B to part with a top RB plus an injured QB for low-tier WRs conflicts with B\u2019s consensus-driven, volume-first mindset. A\u2019s motives fit (injured dual-threat QB), but B\u2019s acceptance is unlikely.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

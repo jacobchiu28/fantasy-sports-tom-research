@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Kyle Mitchell",
+    "Derek Foster"
+  ],
+  "ask_from_B": [
+    "Xavier Rodriguez",
+    "Cameron Holt"
+  ],
+  "rationale": "Upgrades A's RB depth with mid-volatility committee back; swaps high-variance WR for stable possession receiver",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_baseline_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Sean Holt", "Kyle Mitchell"],
+  "ask_from_B": ["Trevor Martin"],
+  "rationale": "Consolidate depth to upgrade WR2; move volatile RB/WR for steadier starter."
+}

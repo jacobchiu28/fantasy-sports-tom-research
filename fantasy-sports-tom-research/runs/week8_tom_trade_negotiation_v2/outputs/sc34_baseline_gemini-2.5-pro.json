@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Mason Robinson",
+    "Kyle Martinez"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Darian Anderson"
+  ],
+  "rationale": "Optimizing for playoff strength by acquiring players with more favorable postseason schedules at key positions.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_baseline_gemini-2.5-pro.txt"
+  }
+}

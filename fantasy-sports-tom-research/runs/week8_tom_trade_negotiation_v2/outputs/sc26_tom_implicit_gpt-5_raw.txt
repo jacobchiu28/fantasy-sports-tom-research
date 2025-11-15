@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Martin", "Liam Adams"],
+  "ask_from_B": ["Tyler Anderson", "Alex White"],
+  "rationale": "B upgrades to a workhorse RB; A stabilizes TE. RB swap maintains depth for both.",
+  "p_accept_B": 0.62
+}

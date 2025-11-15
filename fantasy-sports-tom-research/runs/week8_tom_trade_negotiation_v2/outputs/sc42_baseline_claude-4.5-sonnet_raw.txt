@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Marcus Reed", "Trevor Martin"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Upgrade to workhorse RB by consolidating committee backs; A gains elite volume for playoffs",
+  "p_accept_B": 0.35
+}
+```

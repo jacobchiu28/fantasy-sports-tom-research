@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Ben Jackson (WR)",
+    "Jordan Walker (TE)"
+  ],
+  "ask_from_B": [
+    "Josh Flores (RB)"
+  ],
+  "rationale": "Trade WR/TE depth for RB with friendly playoffs; strengthens A's thin RB room without hurting starters.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_baseline_gpt-5.txt"
+  }
+}

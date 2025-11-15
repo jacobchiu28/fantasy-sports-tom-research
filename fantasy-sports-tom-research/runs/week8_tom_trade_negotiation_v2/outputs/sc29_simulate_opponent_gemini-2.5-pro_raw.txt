@@ -1,0 +1,13 @@
+{
+  "offer_from_A": [
+    "Noah Carter",
+    "Eric Davis",
+    "Justin Wright"
+  ],
+  "ask_from_B": [
+    "Josh Robinson",
+    "Jordan Walker"
+  ],
+  "rationale": "A consolidates 3 volatile 'young breakout' players for a true workhorse RB. B sells high on Robinson for needed upside at 3 spots.",
+  "p_accept_B": 0.55
+}

@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Jake Green", "Michael Wright"],
+  "ask_from_B": ["Lucas Carter", "Marcus Garcia"],
+  "rationale": "QB/TE upgrade for A using TE depth; boosts weekly floor and playoff outlook"
+}

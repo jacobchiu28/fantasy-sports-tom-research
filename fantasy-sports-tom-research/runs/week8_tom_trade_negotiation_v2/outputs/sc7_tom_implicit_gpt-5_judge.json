@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: they prefer dual-threat upside and already have Sam Foster (Tier 2, rookie dual-threat). Calling Ethan Turner a TE upgrade is wrong vs B\u2019s Tier 2 Brian Hill; Turner is Tier 4. A already has a low-variance Tier 2 QB (David Nelson), so the stated benefit is redundant. Minimal, generic rationale and poor alignment with B\u2019s urgent, upside-seeking needs make acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

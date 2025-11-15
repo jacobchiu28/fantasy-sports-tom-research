@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Clark",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "B (3-5) chases ceiling, trusts rankings\u2014dual-threat QB + boom WR for safe workhorse. Need-fit, fair upside trade.",
+  "p_accept_B": 0.44,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_tom_explicit_gpt-5.txt"
+  }
+}

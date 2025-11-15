@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Liam Wright",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Noah Carter"
+  ],
+  "rationale": "A consolidates depth for a high-upside RB. B trades volatility for two players who boast friendly playoff schedules.",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

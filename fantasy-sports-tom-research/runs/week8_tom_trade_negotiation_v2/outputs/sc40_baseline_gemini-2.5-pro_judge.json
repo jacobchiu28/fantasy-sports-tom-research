@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "The proposal addresses Team A\u2019s TE need but barely considers Team B\u2019s mindset. B is conservative, follows consensus, values stability and TE depth, and already has ample WRs. Swapping their TE3 (with a friendly playoff slate) for A\u2019s volatile Tier 5 WR is unlikely to match B\u2019s preferences. The offer is feasible but undervalues TE scarcity for B. Rationale is brief and one-sided, offering little evidence of B\u2019s incentives or needs.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

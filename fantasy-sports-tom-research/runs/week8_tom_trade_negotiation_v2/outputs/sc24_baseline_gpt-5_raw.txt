@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Austin Allen", "Jordan Foster"],
+  "ask_from_B": ["Tyler Anderson", "Josh Garcia"],
+  "rationale": "Upgrade TE to a target hog and improve RB schedule by swapping Foster for Josh Garcia."
+}

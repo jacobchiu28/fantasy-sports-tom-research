@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Trevor Brown",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Team A consolidates depth at WR and RB to acquire a single RB with a higher, more stable weekly floor to improve its lineup.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_baseline_gemini-2.5-pro.txt"
+  }
+}

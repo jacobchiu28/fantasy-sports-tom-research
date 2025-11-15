@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal ignores B\u2019s conservative, floor-first preferences. It asks B to give a Tier 1 RB (Alex Thompson) and an injured RB for a dual-threat QB B doesn\u2019t value, a volatile rookie WR, and a low-tier rookie TE\u2014positions B already covers (Holt at QB, Alex Thomas at TE). B prioritizes volume and veterans, and is comfortable buying injured players, not selling them. Rationale only addresses A\u2019s needs and is generic.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

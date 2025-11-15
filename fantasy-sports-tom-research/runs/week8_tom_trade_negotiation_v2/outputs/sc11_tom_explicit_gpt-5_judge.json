@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Identifies B\u2019s 0-8 urgency and preference for stability and pocket QB, but misreads specifics: B values workhorse RBs and high-consistency pieces; offered RB is a committee Tier 4 and TE has low usage consistency. Trading a Tier 1 QB plus a Tier 2 possession WR for three middling assets is lopsided. Minimal rationale, no discussion of TE injuries, buy-low tendencies, or playoff schedules. Probability of acceptance is overstated.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

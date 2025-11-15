@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 3,
+  "overall": 55,
+  "justification": "Good identification of Team B\u2019s need for consistency and QB surplus, and that a possession WR could help them. However, it underweights B\u2019s stated preference for workhorse RBs and immediate win equity, overlooks B\u2019s glaring TE weakness, and ignores that B already has a possession WR (Caleb Foster). A Tier 3 WR for a Tier 2 RB is value-light for B; 0.72 accept probability is unrealistic. Reasoning is clear but misapplies playoff schedule importance to a 0-8 team.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

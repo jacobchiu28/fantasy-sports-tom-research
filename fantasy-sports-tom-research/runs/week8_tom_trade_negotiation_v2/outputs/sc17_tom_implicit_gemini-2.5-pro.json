@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Marcus Reed"
+  ],
+  "ask_from_B": [
+    "Logan Clark"
+  ],
+  "rationale": "You get a major TE upgrade and a high-upside RB. I get the QB I need. A shake-up for both of our 0-8 teams.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

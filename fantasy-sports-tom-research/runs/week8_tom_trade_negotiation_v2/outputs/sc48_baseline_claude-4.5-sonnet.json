@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Trevor Roberts",
+    "Chris Lewis"
+  ],
+  "ask_from_B": [
+    "Darian Campbell"
+  ],
+  "rationale": "Team A upgrades RB depth by trading surplus QB/TE for rookie committee back with friendly playoff schedule",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_baseline_claude-4.5-sonnet.txt"
+  }
+}

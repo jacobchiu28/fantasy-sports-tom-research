@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Isaiah Thompson", "Alex White"],
+  "ask_from_B": ["David Campbell", "Alex Baker"],
+  "rationale": "B (0-8, conservative) gains young depth WR/RB; A upgrades to veteran possession WR + TE. Balanced needs.",
+  "p_accept_B": 0.55
+}

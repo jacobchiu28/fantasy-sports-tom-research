@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Understands B likes ceiling and A wants stability, offering a boom/bust pair for a low-variance WR. However, belief reasoning is shallow\u2014doesn\u2019t reference B\u2019s 6-2 cushion, rookie affinity in detail, or positional needs. Calling Cameron Scott a possession WR is slightly off (he\u2019s an outside WR with low variance). The trade is plausible (Tier 1 for Tier 1 plus depth), but the rationale lacks concrete details (tiers, roles, playoff schedules), limiting clarity and ToM depth.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

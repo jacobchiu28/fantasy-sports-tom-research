@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "A\u2019s rationale is A-centric and overlooks B\u2019s conservative, win-now priorities. B values targets/touches and stable floors; Noah Brown is their high-target TE, so swapping him for Darian Taylor (more volatile, tougher playoff slate) is a downgrade. Justin Young is a starting-caliber WR; losing him for Brian Harris (committee, not a workhorse) and Austin Wright (replacement-level) doesn\u2019t fit B\u2019s workhorse/volume bias. Trade is feasible roster-wise and returns a TE, but the reasoning is sparse and not grounded in B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "James Jones",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Devon Green",
+    "Caleb Foster"
+  ],
+  "rationale": "B seeks stable, consensus starters; Jones > Green by ranks; Harris steady vet w/friendly ROS. Fair, injury-free 2-for-2.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_explicit_gpt-5.txt"
+  }
+}

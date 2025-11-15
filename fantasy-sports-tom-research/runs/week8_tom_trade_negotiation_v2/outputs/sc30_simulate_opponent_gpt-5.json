@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Kyle Garcia (RB)",
+    "Noah Taylor (RB)"
+  ],
+  "ask_from_B": [
+    "Michael Foster (WR)"
+  ],
+  "rationale": "B needs RB depth now; two startable committee backs for surplus rookie WR. Fair, consensus-aligned.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_simulate_opponent_gpt-5.txt"
+  }
+}

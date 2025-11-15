@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Xavier Carter"
+  ],
+  "ask_from_B": [
+    "Darian Thomas",
+    "Devon Reed"
+  ],
+  "rationale": "Upgrade at RB with a better committee back and acquire a stable WR floor by trading a top TE and a comparable RB.",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_baseline_gemini-2.5-pro.txt"
+  }
+}

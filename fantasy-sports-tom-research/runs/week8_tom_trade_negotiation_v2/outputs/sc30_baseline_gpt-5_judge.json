@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Offer is coherent: A upgrades from a blocking TE to a receiving TE; B has surplus TEs and could use RB depth. However, the rationale is A-centric and does not model B\u2019s urgent need for immediate starters or acknowledge B\u2019s likely RB scarcity or bye timing. Player health/roles align and the value is plausible, but the explanation lacks multi-agent reasoning and scenario-grounded detail.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

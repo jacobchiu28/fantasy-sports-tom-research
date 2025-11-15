@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Isaiah Adams", "Austin Wright"],
+  "ask_from_B": ["Josh Garcia"],
+  "rationale": "B gets low-volatility TE upgrade + RB depth. A gets rookie RB with friendly schedule, aligns with B's rookie preference",
+  "p_accept_B": 0.72
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B as QB-rich and seeking floor/depth, but misreads B\u2019s strict preference for workhorse RBs and possession WRs; the offered pieces are volatile committees and a boom/bust WR. Separates A\u2019s playoff/injury-buy logic from B\u2019s needs, but shallowly. Trade is feasible and A\u2019s interest in an injured dual-threat with good playoff slate is coherent, yet A overpays and still lacks a current starting QB. Rationale is terse and omits key context (B\u2019s consensus-driven mindset, Lucas Carter\u2019s uncertainty, A\u2019s QB void).",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

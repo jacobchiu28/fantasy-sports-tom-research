@@ -1,0 +1,91 @@
+{
+  "player_id": "wr39_2025",
+  "name": "Noah Garcia",
+  "position": "WR",
+  "team": "CIN",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      65,
+      88
+    ],
+    "route_participation_pct_range": [
+      72,
+      95
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      28
+    ],
+    "target_share_pct_range": [
+      22,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      16,
+      31
+    ],
+    "slot_rate_pct_range": [
+      20,
+      72
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Doubtful",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      30,
+      60
+    ],
+    "confidence": 0.34
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.6,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.8
+  },
+  "archetype_tags": [
+    "outside_wr"
+  ],
+  "role_description": "Outside receiver with varied route tree, high weekly variance",
+  "summary_text": "Doubtful with availability unclear Tier 1 WR in low-volume passing offense, fast tempo with ascending usage trend. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Outside receiver with varied route tree, high weekly variance",
+    "volatility": "High",
+    "health": "Doubtful",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

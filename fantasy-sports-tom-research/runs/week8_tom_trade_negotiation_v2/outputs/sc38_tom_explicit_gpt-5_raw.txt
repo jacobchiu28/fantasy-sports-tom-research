@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Lucas Hernandez"],
+  "ask_from_B": ["Matt Nelson"],
+  "rationale": "B gets dual-threat QB with friendly playoffs; fair 1-for-1 for bench RB. A needs upside RB; Nelson's volatility fits A.",
+  "p_accept_B": 0.62
+}

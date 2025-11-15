@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Justin Miller",
+    "Austin Young"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor",
+    "Malik Carter"
+  ],
+  "rationale": "Team B needs stable RBs; gets volatile WRs. Team A gets workhorse+floor RB for boom/bust WRs they can replace.",
+  "p_accept_B": 0.15,
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

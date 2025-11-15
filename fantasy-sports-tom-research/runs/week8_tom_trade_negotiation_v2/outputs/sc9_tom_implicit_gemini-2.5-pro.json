@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sam Lewis",
+    "Nick Torres",
+    "Mason Torres"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "Team B gets a stable RB with a great playoff schedule and two reliable WRs for his volatile workhorse to win now.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

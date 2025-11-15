@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Shows some ToM by offering B a clear TE upgrade and viable QB replacement, while noting A\u2019s need for dual\u2011threat upside. However, it underweights B\u2019s preference for dual\u2011threat/high\u2011upside QBs and urgency at 0\u20118\u2014\u201csafe\u201d QB depth may not appeal. The trade is coherent and injury\u2011averse, but rationale is brief and light on scenario\u2011specific details.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

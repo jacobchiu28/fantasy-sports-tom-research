@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "A offers B a healthy Tier 1 RB and top TE for B\u2019s possession WR and a questionable RB, but claims A \u201cupgrades\u201d at RB\u2014internally inconsistent. It ignores A\u2019s injury-avoidance (A would add two questionable players) and B\u2019s stated preference for possession WRs (they give up Thomas). Minimal explicit reasoning about B\u2019s incentives or roster needs; TE not a clear need for B. Brief, inaccurate rationale.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

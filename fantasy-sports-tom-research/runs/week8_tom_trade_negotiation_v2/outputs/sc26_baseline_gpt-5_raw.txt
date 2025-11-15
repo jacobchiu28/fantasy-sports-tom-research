@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Justin Miller", "Liam Adams"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "Upgrade to high-target TE; move expendable WR with tough playoff slate plus TE depth"
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": "te14_2025",
+  "name": "Brian Hill",
+  "position": "TE",
+  "team": "DET",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      57,
+      83
+    ],
+    "route_participation_pct_range": [
+      55,
+      86
+    ],
+    "target_share_pct_range": [
+      12,
+      20
+    ],
+    "air_yards_share_pct_range": [
+      9,
+      20
+    ],
+    "inline_block_rate_pct_range": [
+      29,
+      57
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.84
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.73,
+    "qb_quality_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.73
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+  "summary_text": "Healthy Tier 2 TE in mid-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

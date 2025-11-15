@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It notices Team B\u2019s TE weakness and suggests trading an injured QB, which aligns with B\u2019s need for immediate help and injury aversion. However, it ignores B\u2019s specific preferences (committee RBs) and both teams\u2019 0-8 urgency. It also overlooks that A avoids injured players and that Logan Clark is Out, making the move incoherent for A. Calling QB a B \u2018position of strength\u2019 is dubious. Explanation is brief and lacks scenario-grounded detail.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

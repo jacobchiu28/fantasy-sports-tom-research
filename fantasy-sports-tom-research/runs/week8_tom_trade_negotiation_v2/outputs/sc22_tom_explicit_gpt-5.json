@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Sean Thompson"
+  ],
+  "rationale": "B prefers consistency and RB depth; we send steady RB + possession WR for their volatile WR; consensus-fair",
+  "p_accept_B": 0.5,
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_explicit_gpt-5.txt"
+  }
+}

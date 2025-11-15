@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Trade ignores B\u2019s stated preferences: injury-cautious, consistency-oriented, valuing workhorse RBs. Offering a Tier 5 QB with variance (Questionable) and a Doubtful committee RB for B\u2019s steady Tier 2 QB (ascending) and low-volatility Tier 2 RB contradicts B\u2019s needs and urgency. Claim that B \u201ckeeps RB depth\u201d is inaccurate. While it mentions A gains floor and a steadier QB, the rationale for B is shallow and misaligned. Overall ToM reasoning is weak.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Eric Davis",
+    "David Adams"
+  ],
+  "ask_from_B": [
+    "Justin Garcia",
+    "Cameron Holt"
+  ],
+  "rationale": "Trading volatility for veteran stability; Garcia's workload fits B's floor needs",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc10_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

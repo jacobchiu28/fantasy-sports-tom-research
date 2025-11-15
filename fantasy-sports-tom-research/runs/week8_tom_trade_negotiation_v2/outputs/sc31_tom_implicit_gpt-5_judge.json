@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies B\u2019s possible RB depth need and playoff angles, but ignores that B values high-upside stars and already has a Tier 1 TE. Calling Chris Torres a TE upgrade over Ben Thompson is incorrect. The offer asks B to give up a Tier 1 WR and Tier 1 TE for Tier 4 pieces, making acceptance probability unrealistic. Rationale is brief and factually off, with poor separation of A\u2019s needs from B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

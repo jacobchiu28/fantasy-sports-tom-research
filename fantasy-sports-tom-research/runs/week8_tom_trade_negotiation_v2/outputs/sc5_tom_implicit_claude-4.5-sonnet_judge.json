@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B is conservative, values floor and workhorse RBs/possession WRs. This asks B to give up a Tier 1 workhorse (Ryan Taylor) for a Tier 5 workhorse (Josh Robinson) and another boom/bust deep-threat WR (Matt Wright) B doesn\u2019t need. Claiming \u201cstability\u201d contradicts the players\u2019 archetypes and tiers. It ignores B\u2019s surplus of volatile deep threats and lack of possession WRs. The offer is lopsided and unlikely; rationale is generic and not grounded in roster/context. P_accept is overstated.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

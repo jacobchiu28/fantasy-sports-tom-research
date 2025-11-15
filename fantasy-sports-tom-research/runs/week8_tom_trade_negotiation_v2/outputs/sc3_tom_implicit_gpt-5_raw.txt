@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Lucas Hernandez", "Jordan Walker"],
+  "ask_from_B": ["Ben King", "Michael Flores"],
+  "rationale": "B upgrades to rushing QB for playoffs; A shores RB/TE with reliable floors",
+  "p_accept_B": 0.58
+}

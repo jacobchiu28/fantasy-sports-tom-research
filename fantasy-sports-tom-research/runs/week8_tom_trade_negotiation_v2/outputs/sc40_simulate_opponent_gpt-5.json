@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Austin Young",
+    "Brian Hill"
+  ],
+  "rationale": "B gets stable WR/RB with friendly playoffs; A gains ceiling WR and TE upgrade; aligns styles.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_simulate_opponent_gpt-5.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Identifies B\u2019s need for safe RB touches, but ignores B\u2019s preference for workhorse workloads and high targets/touches. The offer is wildly lopsided: two high-floor, high-value RBs (Tier 1/2) for a declining Tier 5 WR. Mislabels it as floor-for-ceiling\u2014A would be losing ceiling and value. Minimal consideration of A\u2019s incentives. Rationale is brief and generic; doesn\u2019t address role fits or usage trends. B would likely snap-accept, contradicting the 0.6 acceptance estimate.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

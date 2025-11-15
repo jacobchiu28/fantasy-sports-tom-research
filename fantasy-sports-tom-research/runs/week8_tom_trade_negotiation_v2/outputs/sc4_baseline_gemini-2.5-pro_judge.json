@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Rationale focuses on Team A only and ignores Team B\u2019s risk-seeking, rookie-upside mindset. It inaccurately calls Brandon Taylor a \u201ctop TE\u201d and overlooks Team A\u2019s injury aversion while requesting a questionable Josh Martin. The trade is structurally plausible (A upgrades TE depth and swaps RBs; B gains a high-ceiling rookie WR), but the reasoning is generic and thin on scenario-specific details.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

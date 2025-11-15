@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Lucas Hernandez", "Liam White"],
+  "ask_from_B": ["Tyler Miller", "Michael Flores"],
+  "rationale": "B upgrades to dual-threat QB for playoffs + rookie upside; A gains pocket QB and TE stability.",
+  "p_accept_B": 0.64
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Tyler Lewis", "Adam Anderson"],
+  "ask_from_B": ["Jake Garcia", "Isaiah Lee"],
+  "rationale": "You get dual-threat QB upside + boom WR; we gain steadier RB and pocket QB for weekly floor",
+  "p_accept_B": 0.52
+}

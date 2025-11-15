@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Logan Clark",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "You get a high-upside dual-threat QB and a breakout WR to chase a ceiling. I get the workhorse RB my team desperately needs.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,15 @@
+{
+  "offer_from_A": [
+    "Lucas Martin"
+  ],
+  "ask_from_B": [
+    "Brian Harris"
+  ],
+  "rationale": "Team A has three starting QBs and a major need at RB. This trade sends a surplus asset for a stable, high-floor RB.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_baseline_gemini-2.5-pro.txt"
+  }
+}

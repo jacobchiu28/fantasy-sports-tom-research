@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Devon Moore"
+  ],
+  "ask_from_B": [
+    "Sam Lewis"
+  ],
+  "rationale": "B gets a high-upside WR to shake up their winless roster. A gets a stable, low-volatility RB to fit their style.",
+  "p_accept_B": 0.7
+}

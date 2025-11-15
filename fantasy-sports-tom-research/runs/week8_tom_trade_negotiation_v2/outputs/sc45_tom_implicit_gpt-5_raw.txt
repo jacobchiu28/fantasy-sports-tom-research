@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Robinson", "David Carter"],
+  "ask_from_B": ["Kyle Taylor", "Austin Wright"],
+  "rationale": "B gets playoff-friendly workhorse; A gains upside WR + RB depth. Aligns with both teams' goals.",
+  "p_accept_B": 0.58
+}

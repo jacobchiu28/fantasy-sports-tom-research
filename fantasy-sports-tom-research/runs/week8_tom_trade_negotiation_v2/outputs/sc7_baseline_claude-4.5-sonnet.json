@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trevor Martin",
+    "Alex Mitchell"
+  ],
+  "ask_from_B": [
+    "Chris Adams",
+    "Justin Garcia"
+  ],
+  "rationale": "Upgrades A's QB to dual-threat, adds RB depth. Sends mid-volatility WR/RB for positional strength.",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_baseline_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "offer_from_A": ["Noah Brown (TE)", "Noah Taylor (RB)"],
+  "ask_from_B": ["James Jones (QB)"],
+  "rationale": "B gets TE1 + committee RB; A gets dual-threat QB. Solves B TE need, uses QB surplus.",
+  "p_accept_B": 0.55,
+  "B_profile_reasoning": "B is 0-8, needs immediate starters. Contrarian, avoids injuries, values committee RBs and dual-threat QBs. TE is weakest spot; QB is surplus (Jones + Clark). Receiving TE Brown (young breakout) + committee RB Taylor fit B’s prefs and raise weekly ceiling. Trading veteran Jones (keep Clark) feels fair for 2 startable assets without injury risk."
+}

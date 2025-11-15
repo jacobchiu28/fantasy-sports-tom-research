@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Justin Miller", "Austin Young"],
+  "ask_from_B": ["Ryan Taylor", "Malik Carter"],
+  "rationale": "Trading boom/bust WRs for workhorse RB + stable committee back; aligns with both team philosophies",
+  "p_accept_B": 0.62
+}
+```

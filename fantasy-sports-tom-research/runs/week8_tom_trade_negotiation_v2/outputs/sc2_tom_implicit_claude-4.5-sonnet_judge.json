@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Misreads Team B\u2019s zero-RB philosophy\u2014this deal consolidates into RB and costs them WR depth. B trusts consensus and values touches; Hernandez (Tier 1, friendly playoff slate) is a lateral swap with Taylor, making the added WR giveaway irrational. Rationale is generic and incorrectly frames Hernandez as merely a committee back. Little separation of A\u2019s interests from B\u2019s incentives, and the 0.68 accept probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez"
+  ],
+  "ask_from_B": [
+    "Malik Carter",
+    "Michael Flores"
+  ],
+  "rationale": "A sells a QB archetype he dislikes for a consistent RB and TE. B gets the high-upside dual-threat QB he's missing.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

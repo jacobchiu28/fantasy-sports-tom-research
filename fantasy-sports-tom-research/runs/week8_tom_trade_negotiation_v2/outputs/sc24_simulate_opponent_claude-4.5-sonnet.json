@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Nick Holt",
+    "Alex Mitchell"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Cameron Holt"
+  ],
+  "rationale": "Swapping similar volatility players; B gets possession WR upgrade, A gets friendly schedule RB",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

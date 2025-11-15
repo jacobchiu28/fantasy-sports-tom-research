@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 55,
+  "justification": "Good attempt to frame B as upside-seeking and injury-friendly, but it misreads B\u2019s likely valuation of Cameron Scott (rookie, Tier 1, ascending, high ceiling) as merely low-variance and expendable. It only lightly addresses roster context and A\u2019s veteran/workhorse preferences. The trade is feasible but value logic is shaky: B downgrades from a Tier 1 WR to a Tier 5 while only modestly upgrading RB. Explanation is clear but not nuanced; p_accept appears overstated.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

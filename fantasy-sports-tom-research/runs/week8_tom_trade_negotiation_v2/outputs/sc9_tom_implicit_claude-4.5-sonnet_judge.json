@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Team B is conservative, injury-averse, prefers possession WRs, and follows zero RB. Asking them to give up a Tier 1 workhorse (Ryan Taylor) and depth RB for two boom/bust deep threats (one questionable, one declining) ignores their values and urgent need for stable weekly points. The rationale is generic and unsupported. While the swap is mechanically possible, it\u2019s misaligned with B\u2019s philosophy and incentives, making acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Liam Scott", "James Holt"],
+  "ask_from_B": ["Jake Green"],
+  "rationale": "B is WR‑thin, values young deep threats; has 3 QBs. Scott+Holt for Jake Green balances needs; fair 2‑for‑1.",
+  "p_accept_B": 0.48
+}

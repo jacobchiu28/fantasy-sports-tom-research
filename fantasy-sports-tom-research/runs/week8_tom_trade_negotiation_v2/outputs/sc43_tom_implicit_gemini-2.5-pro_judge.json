@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Misreads Team B\u2019s preferences: trading a Tier 1 RB and Tier 2 WR for a Tier 5 rookie RB is a downgrade, not a conservative move toward stability. Claims A is selling a top asset for depth, but A is actually gaining depth. The offer is grossly imbalanced and internally contradictory, making B\u2019s 65% acceptance implausible. Rationale is generic and ignores tiers, roles, and B\u2019s veteran/possession WR preference and risk aversion.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

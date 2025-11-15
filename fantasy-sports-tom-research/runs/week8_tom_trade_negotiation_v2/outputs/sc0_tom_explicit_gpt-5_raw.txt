@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Martin", "Brandon Hernandez"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "B conservative, TE rich, RB thin. Gets low-vol RB + young WR; A gains stable target TE; fair win-now.",
+  "p_accept_B": 0.58
+}

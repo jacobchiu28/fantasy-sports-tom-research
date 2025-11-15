@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "David Nelson",
+    "Isaiah Thompson"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "A upgrades TE; B gets safe QB depth + WR with friendly playoffs to stabilize WR corps",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_simulate_opponent_gpt-5.txt"
+  }
+}

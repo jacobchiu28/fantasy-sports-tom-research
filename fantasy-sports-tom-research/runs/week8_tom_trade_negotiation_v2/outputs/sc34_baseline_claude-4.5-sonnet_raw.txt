@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Garcia", "Malik Moore"],
+  "ask_from_B": ["Josh Flores"],
+  "rationale": "Upgrade RB depth by consolidating boom/bust WR + rookie RB for young RB with friendly playoff schedule",
+  "p_accept_B": 0.35
+}
+```

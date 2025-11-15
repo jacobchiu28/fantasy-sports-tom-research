@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "David Baker"
+  ],
+  "ask_from_B": [
+    "David Campbell"
+  ],
+  "rationale": "Team B fixes their awful RB situation with a young breakout player and gets a rookie WR for a safe, but aging, receiver.",
+  "p_accept_B": 0.65
+}

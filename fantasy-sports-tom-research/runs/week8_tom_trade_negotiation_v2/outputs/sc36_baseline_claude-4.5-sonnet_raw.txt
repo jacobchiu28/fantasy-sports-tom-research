@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brian Harris", "Logan Mitchell"],
+  "ask_from_B": ["Josh Martin"],
+  "rationale": "Upgrade committee back to workhorse RB; Team A has TE depth to spare",
+  "p_accept_B": 0.45
+}
+```

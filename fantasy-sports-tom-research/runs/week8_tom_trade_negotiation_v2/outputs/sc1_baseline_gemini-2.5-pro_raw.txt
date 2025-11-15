@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Trevor Brown",
+    "David Carter"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Team A consolidates depth at WR and RB to acquire a single RB with a higher, more stable weekly floor to improve its lineup."
+}

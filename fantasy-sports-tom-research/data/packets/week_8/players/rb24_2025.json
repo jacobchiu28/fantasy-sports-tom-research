@@ -1,0 +1,85 @@
+{
+  "player_id": "rb24_2025",
+  "name": "Marcus Reed",
+  "position": "RB",
+  "team": "MIA",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      85
+    ],
+    "rush_share_pct_range": [
+      44,
+      72
+    ],
+    "target_share_pct_range": [
+      4,
+      10
+    ],
+    "red_zone_carry_share_pct_range": [
+      28,
+      57
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      11,
+      32
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.91
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "High",
+    "confidence": 0.6,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 6,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.58
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, low production volatility",
+  "summary_text": "Healthy Tier 3 RB in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, low production volatility",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 3 (Very High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

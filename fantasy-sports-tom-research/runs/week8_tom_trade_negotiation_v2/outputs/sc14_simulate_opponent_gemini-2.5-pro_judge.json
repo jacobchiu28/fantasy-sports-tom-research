@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Mentions B\u2019s desire to reduce variance but ignores that B prefers veterans and high-powered offenses; Robinson is a rookie in a low-volume offense. Overlooks TE scarcity for B by asking for their Tier 2 TE, leaving only a Tier 4 option. Separates A\u2019s and B\u2019s benefits, but reasoning is shallow and value-lopsided. The claim of variance reduction conflicts with Campbell\u2019s low volatility. Acceptance probability is unrealistically high.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

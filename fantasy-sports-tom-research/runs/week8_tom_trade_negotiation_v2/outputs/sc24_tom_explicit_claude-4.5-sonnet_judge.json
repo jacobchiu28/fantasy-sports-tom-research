@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s preferences: offers a Tier 4 deep-threat WR and committee RB to a conservative, volume-prioritizing manager while asking for B\u2019s higher-tier RB and WR. Calls Nick Holt a possession WR and Josh Garcia \u201cstable\u201d despite Holt\u2019s deep-threat profile and Garcia\u2019s declining role. Trade heavily favors A; 62% accept likelihood is unrealistic. Rationale is brief and generic, with scant ToM or schedule/volume nuance.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

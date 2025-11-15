@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Trey Rodriguez", "Jordan Williams", "Eric Davis"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Team A consolidates into workhorse RB; Team B gains playoff-friendly QB plus deep-threat WR and RB depth.",
+  "p_accept_B": 0.42
+}

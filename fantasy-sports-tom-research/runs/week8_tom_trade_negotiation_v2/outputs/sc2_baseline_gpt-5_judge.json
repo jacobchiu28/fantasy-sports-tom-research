@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale is A-centric and mislabels Michael Roberts as a TE1 despite Tier 4 context. It doesn\u2019t address B\u2019s consensus-driven, targets/touches focus or zero-RB philosophy. While B might part with a backup TE, Kyle Mitchell (volatile Tier 4 WR) and Brian Scott (low-target TE) don\u2019t align with B\u2019s preferences. Trade is superficially feasible but mismatched to B\u2019s incentives and misreads player value, weakening consistency and explanation.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

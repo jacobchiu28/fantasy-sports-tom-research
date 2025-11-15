@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Noah Taylor",
+    "Austin Allen"
+  ],
+  "ask_from_B": [
+    "Ethan Turner"
+  ],
+  "rationale": "Team A consolidates a rookie TE and committee RB to acquire a top-tier, pass-catching TE, filling a major roster need."
+}

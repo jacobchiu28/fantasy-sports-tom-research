@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Nick Torres"
+  ],
+  "ask_from_B": [
+    "Chris Lee"
+  ],
+  "rationale": "You have QB surplus; we need a starter. You get a steadier WR to balance your volatile WR room.",
+  "p_accept_B": 0.76,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_implicit_gpt-5.txt"
+  }
+}

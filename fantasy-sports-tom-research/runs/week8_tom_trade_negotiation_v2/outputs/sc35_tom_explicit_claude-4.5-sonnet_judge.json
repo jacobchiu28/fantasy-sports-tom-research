@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Mentions B\u2019s need for wins and preference for proven talent, but ignores B\u2019s injury aversion and playoff-schedule focus (Liam Carter already has a friendly slate). Trade asks B to give a Tier 2 RB for a Tier 3 WR and a questionable TE\u2014poor value and positional fit (B already has TEs). Mislabels Ben Miller as ascending while he\u2019s out. Limited separation of A vs B incentives and an unrealistically high accept probability. Rationale is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

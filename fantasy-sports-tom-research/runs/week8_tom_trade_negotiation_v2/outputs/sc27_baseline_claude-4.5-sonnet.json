@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Jamal Miller",
+    "Devon Martinez"
+  ],
+  "ask_from_B": [
+    "Tyler Miller",
+    "Sam Lewis"
+  ],
+  "rationale": "Upgrade QB volatility from high to mid, acquire low-volatility RB for depth. Pure roster optimization.",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_baseline_claude-4.5-sonnet.txt"
+  }
+}

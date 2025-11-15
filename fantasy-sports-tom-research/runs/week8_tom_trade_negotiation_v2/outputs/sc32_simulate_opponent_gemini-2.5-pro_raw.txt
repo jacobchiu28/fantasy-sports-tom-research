@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Chris Adams",
+    "Jamal Lopez"
+  ],
+  "ask_from_B": [
+    "Ryan Moore",
+    "Xavier Foster"
+  ],
+  "rationale": "B gets a needed QB upgrade & RB help to win now. A consolidates depth for a major TE upgrade and a playoff-friendly WR.",
+  "p_accept_B": 0.7
+}

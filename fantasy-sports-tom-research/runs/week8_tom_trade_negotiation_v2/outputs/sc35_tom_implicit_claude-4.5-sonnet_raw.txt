@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Xavier Johnson", "Darian Campbell"],
+  "ask_from_B": ["Liam Carter", "Ben Miller"],
+  "rationale": "Veteran WR + rookie RB for established RB + young WR; playoff schedules align with both team needs",
+  "p_accept_B": 0.62
+}
+```

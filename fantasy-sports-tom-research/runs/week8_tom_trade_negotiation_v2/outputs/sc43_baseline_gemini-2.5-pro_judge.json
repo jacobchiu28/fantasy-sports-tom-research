@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "The proposal focuses on Team A\u2019s needs and ignores Team B\u2019s conservative, floor-first preferences. Asking for Austin Torres (ascending, friendly schedule) in exchange for Jordan King (committee, declining role, tough playoffs) likely reduces B\u2019s weekly stability. B already rosters volatile committee RBs; adding another doesn\u2019t fit their beliefs. The offer is feasible roster-wise (A trades RB depth for WR), but the rationale is generic and lacks evidence about B\u2019s incentives or rankings.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

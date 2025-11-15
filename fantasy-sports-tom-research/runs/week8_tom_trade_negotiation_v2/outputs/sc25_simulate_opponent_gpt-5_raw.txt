@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Jake Green"],
+  "ask_from_B": ["Kevin Allen"],
+  "rationale": "B upgrades to dual-threat QB depth; A adds needed WR depth from B’s surplus",
+  "p_accept_B": 0.62
+}

@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Logan Clark",
+    "Isaiah Thompson"
+  ],
+  "rationale": "A playoff schedule upgrade at QB for you, which we both value. You get a high-upside WR, which fits your style.",
+  "p_accept_B": 0.55
+}

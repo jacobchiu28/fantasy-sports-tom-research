@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Minimal ToM: it doesn\u2019t address B\u2019s upside bias, dual-threat QB/stack preference, or buy-low injury stance. Perspective-taking is shallow (only notes B \u2018upgrades RB\u2019). Consistency issues: calling Tyler Anderson a stabilizing TE for conservative A despite being doubtful is dubious; \u2018RB depth maintained\u2019 for A is inaccurate after losing a Tier 1 workhorse. Trade is somewhat feasible (B gets RB help, has other TEs) but the value and rationale are thin and not grounded in the profiles.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

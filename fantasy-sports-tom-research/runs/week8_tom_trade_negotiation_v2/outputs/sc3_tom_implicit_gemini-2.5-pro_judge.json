@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "It notes B likes dual-threat QBs but ignores that B trusts consensus (keeping a Tier 1 QB) and favors rookies/SOS. It also overlooks A\u2019s strict injury avoidance by asking A to accept a Questionable QB. The trade is imbalanced (B giving Tier 1 QB + RB for Tier 2 QB + WR4) and the 0.65 acceptance is unrealistic. Rationale is generic and lacks evidence on tiers, roles, and injuries.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

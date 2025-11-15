@@ -1,0 +1,32 @@
+```json
+{
+  "offer_from_A": ["Trey Adams", "Austin Garcia"],
+  "ask_from_B": ["Ben King", "Devon Martinez"],
+  "rationale": "Team B gets young breakout RB + WR depth; Team A gets low-volatility RB + rookie upside WR with friendly schedules",
+  "p_accept_B": 0.62
+}
+```
+
+**Reasoning about Team B's perspective:**
+
+Team B's manager values:
+- Rookies with breakout potential (Devon Martinez fits this)
+- Dual-threat QBs and young breakouts (already has several)
+- Trusts expert consensus rankings
+- Comfortable with playoff schedule advantages
+- Willing to buy low on injured players
+
+What Team B likely wants:
+- RB depth with upside (they have committee backs but could use more young talent)
+- WR depth with growth potential
+- Players with favorable playoff schedules
+
+How Team B would perceive this trade:
+- **Trey Adams** (young breakout, low volatility, friendly playoff schedule) addresses their preference for emerging talent while providing RB consistency
+- **Austin Garcia** (young breakout, mid volatility, outside WR) adds another developing player to their roster
+- They're giving up **Ben King** (tough playoff matchups - negative for their schedule focus) and **Devon Martinez** (rookie but high volatility/deep threat)
+- The trade swaps tough/mixed playoff schedules for friendly ones, aligning with their stated focus
+- Consensus would likely favor young breakouts with better schedules
+- Fair value exchange of similar-aged talent with schedule upgrade
+
+Team A benefits by acquiring low-volatility RB (Ben King) fitting their consistency preference and a high-upside rookie (Martinez) they can afford to roster given their strong record, while moving players that don't fit their risk-averse profile.

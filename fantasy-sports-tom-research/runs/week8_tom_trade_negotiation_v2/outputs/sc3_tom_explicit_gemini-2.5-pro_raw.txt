@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "Matt Nelson"
+  ],
+  "ask_from_B": [
+    "Cameron Harris",
+    "Malik Carter"
+  ],
+  "rationale": "A swaps volatility for stability. B gets the dual-threat QB they value and an RB, giving up redundant pieces.",
+  "p_accept_B": 0.65
+}

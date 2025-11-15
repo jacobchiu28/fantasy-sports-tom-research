@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Sam Reed", "Mason Robinson", "Nick Torres"],
+  "ask_from_B": ["Lucas Carter"],
+  "rationale": "QB-rich B wants floor/depth; gains two RBs + mid-variance WR. A consolidates for low-var dual-threat QB for playoffs.",
+  "p_accept_B": 0.45
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Jake Green"
+  ],
+  "ask_from_B": [
+    "Ryan Moore",
+    "Ethan Turner"
+  ],
+  "rationale": "B 6-2 zero-RB, consensus-leaning; gets RB1+dual-threat, keeps rookie WR. A gets WR boom + TE. Needs swap.",
+  "p_accept_B": 0.52,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_explicit_gpt-5.txt"
+  }
+}

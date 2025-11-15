@@ -1,0 +1,88 @@
+{
+  "player_id": "rb52_2025",
+  "name": "Josh Martin",
+  "position": "RB",
+  "team": "CAR",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      82,
+      95
+    ],
+    "rush_share_pct_range": [
+      54,
+      74
+    ],
+    "target_share_pct_range": [
+      9,
+      14
+    ],
+    "red_zone_carry_share_pct_range": [
+      26,
+      56
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      13,
+      34
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.68
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.6,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.72
+  },
+  "archetype_tags": [
+    "workhorse_rb"
+  ],
+  "role_description": "Workhorse RB with heavy workload, mid production volatility",
+  "summary_text": "Minor injury concern Tier 1 RB in high-volume passing offense, slow tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Workhorse RB with heavy workload, mid production volatility",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "High pass rate, Slow tempo",
+    "market": "Tier 1 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

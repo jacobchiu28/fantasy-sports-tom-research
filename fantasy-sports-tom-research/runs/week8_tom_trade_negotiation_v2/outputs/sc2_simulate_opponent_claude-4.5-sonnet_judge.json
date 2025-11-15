@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Identifies B\u2019s zero-RB tendency but misreads need: B already has a Tier 1 RB. Ignores B\u2019s reliance on expert rankings and strong WR/TE depth. Claims A \u2018upgrades\u2019 WR/TE despite asking only for a Tier 4 WR and Tier 4 TE\u2014net downgrade for A. Trade is feasible and B would likely accept (even more than 0.72), but the reasoning is shallow and not grounded in player tiers, roles, or B\u2019s roster construction and preferences.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

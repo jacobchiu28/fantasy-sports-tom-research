@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Jordan Rivera"
+  ],
+  "ask_from_B": [
+    "Malik Carter"
+  ],
+  "rationale": "B gains young upside WR; A adds stable RB depth. Matches both managers\u2019 styles and roster needs.",
+  "p_accept_B": 0.82,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_simulate_opponent_gpt-5.txt"
+  }
+}

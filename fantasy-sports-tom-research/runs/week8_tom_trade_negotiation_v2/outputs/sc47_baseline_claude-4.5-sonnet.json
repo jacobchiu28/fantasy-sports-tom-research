@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "Darian Nelson"
+  ],
+  "ask_from_B": [
+    "Xavier Rodriguez",
+    "Matt Wright"
+  ],
+  "rationale": "Upgrades A's RB depth and swaps high-variance deep threat for mid-variance WR with better consistency",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_baseline_claude-4.5-sonnet.txt"
+  }
+}

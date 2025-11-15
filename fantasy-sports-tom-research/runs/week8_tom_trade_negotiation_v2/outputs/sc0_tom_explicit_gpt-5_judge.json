@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B as TE-rich; their top TEs are Out/Doubtful, so trading Tyler Anderson weakens a conservative manager\u2019s floor. Team B prefers possession receivers; Brandon Hernandez is a high-variance deep threat. Team A avoids injuries and already has a healthy Tier 1 TE, making an injured TE a poor target. Austin Martin adds little RB value. Rationale is brief and inaccurate.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

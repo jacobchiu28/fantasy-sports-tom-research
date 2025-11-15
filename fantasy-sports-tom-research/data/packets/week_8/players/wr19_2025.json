@@ -1,0 +1,90 @@
+{
+  "player_id": "wr19_2025",
+  "name": "Malik Flores",
+  "position": "WR",
+  "team": "CHI",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      62,
+      85
+    ],
+    "route_participation_pct_range": [
+      68,
+      95
+    ],
+    "targets_per_route_run_pct_range": [
+      19,
+      29
+    ],
+    "target_share_pct_range": [
+      12,
+      22
+    ],
+    "air_yards_share_pct_range": [
+      16,
+      35
+    ],
+    "slot_rate_pct_range": [
+      15,
+      66
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.88
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.9,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.7
+  },
+  "archetype_tags": [
+    "outside_wr"
+  ],
+  "role_description": "Outside receiver with varied route tree, mid weekly variance",
+  "summary_text": "Healthy Tier 5 WR in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Outside receiver with varied route tree, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 5 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

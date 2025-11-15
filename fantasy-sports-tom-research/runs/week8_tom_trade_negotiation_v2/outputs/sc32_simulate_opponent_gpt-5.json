@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Chris Adams"
+  ],
+  "ask_from_B": [
+    "Ryan Moore"
+  ],
+  "rationale": "B upgrades to dual-threat QB now; A converts QB surplus into playoff-friendly deep-threat WR",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_simulate_opponent_gpt-5.txt"
+  }
+}

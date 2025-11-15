@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Nick Holt",
+    "Alex Mitchell"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Cameron Holt"
+  ],
+  "rationale": "B gets possession WR + RB depth; A gets stable RB w/friendly schedule + consistent possession WR",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

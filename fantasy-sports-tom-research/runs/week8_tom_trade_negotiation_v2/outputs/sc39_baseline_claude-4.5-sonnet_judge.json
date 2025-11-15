@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Including Derek White nods to Team B\u2019s dual\u2011threat QB preference and QB need (given Lucas Carter is out), and the low p_accept_B shows some awareness of pushback. However, it ignores B\u2019s valuation of a Tier 1 RB (Noah Carter) and offers an out RB as ballast, making it lopsided. The rationale is A-centric, omits B\u2019s contrarian tendencies and playoff security, and lacks detail on roles/schedules. Trade is feasible but not sensibly balanced for B.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

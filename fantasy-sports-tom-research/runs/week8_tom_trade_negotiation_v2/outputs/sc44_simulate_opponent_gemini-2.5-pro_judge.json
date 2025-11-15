@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Misreads Team B: they already have two Tier 1 RBs and follow consensus, so swapping a Tier 1 (Kyle Garcia) for a Tier 5 rookie \u201cworkhorse\u201d is unlikely. Ignores B\u2019s conservative, injury-averse profile and preference for stability/consensus value. Trade is value-lopsided toward A and misaligned with A\u2019s own stated preferences (gives up possession WR and workhorse). Rationale is generic, lacks evidence from tiers/roles/volatility or playoff context.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

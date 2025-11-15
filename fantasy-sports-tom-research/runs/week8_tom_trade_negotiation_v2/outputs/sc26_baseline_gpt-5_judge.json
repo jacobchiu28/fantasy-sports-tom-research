@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale is A-centric and ignores B\u2019s preferences. No explicit modeling of B\u2019s upside-seeking style, dual-threat QB interest, or injury-buying tendency; in fact, it asks B to sell an elite injured TE they likely want to hold. The trade is plausible roster-wise, but the explanation lacks detail.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

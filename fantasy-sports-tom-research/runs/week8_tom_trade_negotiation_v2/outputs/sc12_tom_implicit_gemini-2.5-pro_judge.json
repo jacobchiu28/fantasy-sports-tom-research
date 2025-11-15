@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 5,
+  "explanation_quality": 3,
+  "overall": 80,
+  "justification": "Offer targets B\u2019s upside preference with a dual-threat QB and an ascending WR, fitting B\u2019s 8-0 risk tolerance and IR QB situation. A receives a low-volatility RB and a pocket passer, matching A\u2019s conservative style. Trade pieces and roles are coherent, and values are plausible (A may overpay slightly, boosting B acceptance). Rationale is accurate but thin, lacking specifics about B\u2019s IR QB need and A\u2019s injury aversion.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

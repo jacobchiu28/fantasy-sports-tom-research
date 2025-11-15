@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Correctly notes B\u2019s QB surplus and offers a \u2018workhorse\u2019 RB plus a veteran slot WR that could appeal. But it overlooks B\u2019s floor-first mindset (both incoming pieces carry variance) and that B already has strong RBs. The claim A \u201cupgrades TE\u201d is incorrect (A has a Tier 1 TE; Justin Wright is Out/Tier 5). A\u2019s stated preference for dual-threat QBs also conflicts with targeting Tyler Miller. Rationale is concise but superficial.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

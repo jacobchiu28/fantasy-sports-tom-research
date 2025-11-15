@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies B\u2019s appetite for ceiling but overestimates interest in a Tier 5, declining-role WR when B already has multiple high-variance WRs. Asking for a Tier 3 RB is coherent for A, but the value gap makes 70% acceptance unrealistic. Rationale is generic and thin on roster/context specifics.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

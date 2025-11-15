@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Austin Reed",
+    "Adam Wilson"
+  ],
+  "ask_from_B": [
+    "Xavier Foster"
+  ],
+  "rationale": "Upgrade TE position by trading surplus QB3; Foster has higher upside than blocking TE Wilson",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_baseline_claude-4.5-sonnet.txt"
+  }
+}

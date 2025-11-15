@@ -1,0 +1,86 @@
+{
+  "player_id": "te27_2025",
+  "name": "Nick Mitchell",
+  "position": "TE",
+  "team": "WAS",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      56,
+      87
+    ],
+    "route_participation_pct_range": [
+      58,
+      82
+    ],
+    "target_share_pct_range": [
+      12,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      9,
+      19
+    ],
+    "inline_block_rate_pct_range": [
+      33,
+      58
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.87
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.6,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.88
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, mid usage consistency",
+  "summary_text": "Healthy Tier 3 TE in high-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 3 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

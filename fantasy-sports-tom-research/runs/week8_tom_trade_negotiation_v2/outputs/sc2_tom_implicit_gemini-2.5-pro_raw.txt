@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Kyle Mitchell"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Sean Hernandez"
+  ],
+  "rationale": "You get a workhorse RB and deep threat WR for a playoff push. I fill my TE need and get a committee back with a good schedule.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 5,
+  "explanation_quality": 3,
+  "overall": 80,
+  "justification": "Correctly targets Team B\u2019s acute RB shortage and offers two Tier 3 committee backs, while requesting a TE from B\u2019s surplus (Roberts is a Tier 4 among multiple TEs). Distinguishes A\u2019s goal (TE upgrade) from B\u2019s needs (immediate RB help for 0-8 team). Trade is roster- and role-coherent with no injury/bye conflicts. Rationale is concise but omits deeper cues (B\u2019s TE depth, urgency for immediate starters, consensus valuation), limiting explanation depth.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

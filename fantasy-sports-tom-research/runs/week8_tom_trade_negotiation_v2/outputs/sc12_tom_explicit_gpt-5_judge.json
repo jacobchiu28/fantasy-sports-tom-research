@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Captures B\u2019s ceiling preference and interest in dual-threat QBs, and notes A\u2019s desire for a pocket passer. However, it overlooks B\u2019s RB scarcity (trading away their only Tier 1 RB) and A\u2019s conservative, win-now needs versus taking a Tier 4 QB. The value balance is questionable, making B\u2019s 0.6 acceptance optimistic. Rationale is brief and light on roster/context details.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

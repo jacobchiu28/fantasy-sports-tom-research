@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B\u2019s need for TE help and rookie upside, but overstates Flores as \u201csteady\u201d despite being doubtful and low-consistency. Ignores B\u2019s consensus-driven tendencies and RB scarcity/value, making a Tier3 RB for Tier4 WR + doubtful TE unlikely. Separates A\u2019s RB depth goal from B\u2019s return, but reasoning is brief and generic with limited evidence. Trade is plausible but not well-tailored.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

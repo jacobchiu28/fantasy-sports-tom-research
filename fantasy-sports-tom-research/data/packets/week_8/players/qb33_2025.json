@@ -1,0 +1,83 @@
+{
+  "player_id": "qb33_2025",
+  "name": "Devon Green",
+  "position": "QB",
+  "team": "CLE",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      29,
+      39
+    ],
+    "completion_pct_range": [
+      60,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      17
+    ],
+    "rush_share_pct_range": [
+      3,
+      16
+    ],
+    "trend_5g": "Up",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.89
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.73,
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.59
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with low week-to-week variance",
+  "summary_text": "Healthy Tier 4 QB in mid-volume passing offense, slow tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with low week-to-week variance",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "Mid pass rate, Slow tempo",
+    "market": "Tier 4 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

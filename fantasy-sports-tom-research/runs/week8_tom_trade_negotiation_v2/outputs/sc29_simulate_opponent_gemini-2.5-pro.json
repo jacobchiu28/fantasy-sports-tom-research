@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Noah Carter",
+    "Eric Davis",
+    "Justin Wright"
+  ],
+  "ask_from_B": [
+    "Josh Robinson",
+    "Jordan Walker"
+  ],
+  "rationale": "A consolidates 3 volatile 'young breakout' players for a true workhorse RB. B sells high on Robinson for needed upside at 3 spots.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

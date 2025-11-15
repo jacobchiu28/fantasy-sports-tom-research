@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Josh Martin (RB)"
+  ],
+  "ask_from_B": [
+    "James Rivera (WR)"
+  ],
+  "rationale": "B gets a workhorse RB; A adds breakout deep\u2011threat WR; fits both teams\u2019 needs/styles.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_tom_implicit_gpt-5.txt"
+  }
+}

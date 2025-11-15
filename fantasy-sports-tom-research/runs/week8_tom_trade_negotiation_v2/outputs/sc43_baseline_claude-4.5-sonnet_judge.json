@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Offer ignores Team B\u2019s conservative, floor-oriented preferences: asks them to take a volatile deep-threat WR (Ethan Jones) and a committee RB (Michael Walker) while giving up a Tier 1 veteran WR. It also overlooks B\u2019s existing RB strength and WR needs after an injury. Rationale is generic and not grounded in roster context, roles, or schedules. Feasible but poorly aligned with B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

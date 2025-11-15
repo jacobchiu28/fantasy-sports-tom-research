@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Cameron Scott",
+    "Brian Harris"
+  ],
+  "ask_from_B": [
+    "Xavier Thompson",
+    "Darian Campbell"
+  ],
+  "rationale": "Low-variance vets for high-upside young RBs with friendly schedules",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 46,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc46_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

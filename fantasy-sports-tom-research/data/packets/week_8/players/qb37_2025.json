@@ -1,0 +1,88 @@
+{
+  "player_id": "qb37_2025",
+  "name": "Jamal Miller",
+  "position": "QB",
+  "team": "TB",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      25,
+      39
+    ],
+    "completion_pct_range": [
+      61,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      10,
+      16
+    ],
+    "rush_share_pct_range": [
+      5,
+      16
+    ],
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.56
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.6,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 5",
+    "expert_spread": "Loose",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [
+      "Stack candidate"
+    ],
+    "confidence": 0.57
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with high week-to-week variance",
+  "summary_text": "Minor injury concern Tier 5 QB in high-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with high week-to-week variance",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 5 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

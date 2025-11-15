@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Limited ToM: ignores B\u2019s strong QB (Austin Reed), RB-volume priority, and aversion to volatile WRs; asks B to downgrade WR (Cameron to Nick) and sacrifice RB depth for a QB2. Undervalues B\u2019s strength-of-schedule focus (Cameron has tough playoff slate) only partly addressed by Sam\u2019s schedule. From A\u2019s side, trading away a healthy Tier-2 pocket passer conflicts with A\u2019s conservative, floor-seeking profile, leaving a questionable Tier-4 QB. Rationale is brief and mislabels Cameron as a stable possession WR.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

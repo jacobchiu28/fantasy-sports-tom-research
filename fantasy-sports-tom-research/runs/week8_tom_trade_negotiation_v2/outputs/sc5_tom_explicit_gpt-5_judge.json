@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Notes B\u2019s desire for floor but ignores B\u2019s zero-RB bent, veteran bias, and that B already has two Tier 1 RBs. Calls Allen a surplus boom WR and Flores a spare TE without addressing B\u2019s TE depth risk. Value is lopsided (T5 RB for T2 WR + T3 TE), making the 0.58 accept rate optimistic. Brief rationale shows both sides but lacks roster- and bye-specific evidence.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

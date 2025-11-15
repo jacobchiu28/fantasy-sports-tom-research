@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Ethan Turner"
+  ],
+  "ask_from_B": [
+    "Xavier Rodriguez"
+  ],
+  "rationale": "Stable veteran RB for WR depth + TE upgrade; fits both conservative styles",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

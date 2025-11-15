@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Darian Robinson"
+  ],
+  "ask_from_B": [
+    "Josh Martin",
+    "Brandon Taylor"
+  ],
+  "rationale": "A swaps a volatile RB/WR duo for a steadier RB and a top TE, improving roster balance and playoff schedule strength."
+}

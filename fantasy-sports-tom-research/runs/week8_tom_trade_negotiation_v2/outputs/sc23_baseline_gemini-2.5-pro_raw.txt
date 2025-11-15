@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Josh Martin"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Team A leverages its workhorse RB depth to acquire a high-usage TE, strengthening its starting lineup for a championship run."
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 65,
+  "justification": "Understands B values floor and schedules and offers a Tier 1 pocket passer plus a stable RB, addressing B\u2019s weak QB and conservative style. Separates A\u2019s upside pursuit from B\u2019s needs. Trade is plausible given rosters and roles. However, rationale is very brief, ignores B\u2019s preference for young ascending players and urgency for immediate wins, and lacks concrete detail about usage, depth impact, or expert rankings.",
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

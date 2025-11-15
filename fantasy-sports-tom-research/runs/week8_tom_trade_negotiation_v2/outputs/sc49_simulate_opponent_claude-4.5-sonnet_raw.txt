@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brian Harris", "Kyle Garcia"],
+  "ask_from_B": ["Austin Martin"],
+  "rationale": "Two stable veteran RBs for one low-volatility rookie RB. Appeals to B's veteran preference while consolidating depth.",
+  "p_accept_B": 0.62
+}
+```

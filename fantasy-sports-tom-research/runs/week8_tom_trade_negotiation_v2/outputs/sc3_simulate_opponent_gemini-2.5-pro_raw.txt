@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez"
+  ],
+  "ask_from_B": [
+    "Malik Carter",
+    "Michael Flores"
+  ],
+  "rationale": "A sells a QB archetype he dislikes for a consistent RB and TE. B gets the high-upside dual-threat QB he's missing.",
+  "p_accept_B": 0.7
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Ignores Team B\u2019s conservative, injury-averse profile and preference for pocket passers/possession WRs. Asks them to downgrade from healthy Tier 2 QB (Foster) to Tier 3 (Hall) and take on an injured, high-variance WR (Nelson), which conflicts with their values. The claim to \u201cadd steady WR\u201d is incorrect\u2014A would receive Lucas Allen (out, Tier 5). Only coherent element is A fixing QB bye overlap. Rationale is generic and misaligned with B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

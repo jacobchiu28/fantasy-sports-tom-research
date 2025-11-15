@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It nods to B\u2019s desire for consistency, but misses key beliefs: B prefers workhorse RBs, trusts expert rankings, and is 8-0 (unlikely to trade a Tier 1 WR for depth). Offering a committee Tier 3 RB and a Tier 5 WR for Sean Thompson is a major value mismatch. Marcus Taylor is labeled \u2018stabilizing\u2019 despite high variance. Rationale is brief and generic, and the 0.6 acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

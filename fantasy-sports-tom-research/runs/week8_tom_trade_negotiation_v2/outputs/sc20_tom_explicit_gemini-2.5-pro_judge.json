@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Mentions B\u2019s playoff RB need but ignores key beliefs: B already has multiple Tier 1 QBs and values healthy, ascending players. Calling Tier 4 Ethan Torres a \u201csolid\u201d dual-threat mismatches B\u2019s standards, and Josh Garcia\u2019s declining role undercuts the \u2018upgrade\u2019 claim despite a friendly playoff schedule. The offer could fit B\u2019s QB surplus, but value is light for a Tier 1 Jake Green. Rationale is brief and generic, with limited two-sided reasoning.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

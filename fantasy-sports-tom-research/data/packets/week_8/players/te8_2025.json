@@ -1,0 +1,84 @@
+{
+  "player_id": "te8_2025",
+  "name": "Michael Wright",
+  "position": "TE",
+  "team": "LAR",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      58,
+      89
+    ],
+    "route_participation_pct_range": [
+      63,
+      78
+    ],
+    "target_share_pct_range": [
+      12,
+      20
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      32,
+      56
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Down",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.73
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.89,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 11+",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.68
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+  "summary_text": "Healthy Tier 3 TE in mid-volume passing offense, slow tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "Mid pass rate, Slow tempo",
+    "market": "Tier 3 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

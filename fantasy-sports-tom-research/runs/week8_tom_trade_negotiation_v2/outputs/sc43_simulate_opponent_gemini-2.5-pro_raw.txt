@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Austin Torres",
+    "Sam Reed"
+  ],
+  "rationale": "Team B gets the stable workhorse RB he craves. Team A, at 0-8, cashes in its top asset for two younger breakout pieces.",
+  "p_accept_B": 0.7
+}

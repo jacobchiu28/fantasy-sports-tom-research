@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Proposal centers on Team A\u2019s needs and ignores Team B\u2019s conservative, floor-seeking style and playoff-RB priority. Asking B to give up a Tier 2 RB with a friendly playoff schedule for two boom/bust WRs and a worse TE conflicts with B\u2019s values and roster construction. The trade is feasible and upgrades A\u2019s RB/TE, but it\u2019s a poor fit for B. Rationale is generic and lacks evidence-based reasoning about B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

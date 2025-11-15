@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Liam Wright",
+    "Michael Roberts"
+  ],
+  "ask_from_B": [
+    "Noah Carter"
+  ],
+  "rationale": "Team A sends a veteran WR and a high-upside TE to fix Team B's biggest roster holes for its championship run.",
+  "p_accept_B": 0.75
+}

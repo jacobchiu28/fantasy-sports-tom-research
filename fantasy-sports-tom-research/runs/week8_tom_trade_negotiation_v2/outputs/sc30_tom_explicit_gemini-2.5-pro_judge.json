@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "It correctly identifies Team B\u2019s urgency and RB need, offering two Tier 3 RBs for a surplus TE. However, it ignores B\u2019s TE depth, single-RB roster specifics, and consensus-driven preference for immediate impact (might prefer a higher-tier RB). A/B motives aren\u2019t clearly separated. The trade is coherent and plausibly attractive to B, though the acceptance probability seems a bit optimistic. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

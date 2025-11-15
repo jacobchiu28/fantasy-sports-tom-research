@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Tyler Miller", "Nick Torres"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "B wants floor/targets & playoff QB (conservative, zero-RB). Trades volatile workhorse RB for Tyler + steadier WR.",
+  "p_accept_B": 0.62
+}

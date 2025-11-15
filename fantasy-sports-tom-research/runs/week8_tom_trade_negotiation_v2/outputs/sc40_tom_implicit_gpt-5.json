@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Sean Scott",
+    "Brian Hill"
+  ],
+  "rationale": "B gains stable WR+RB with friendly playoff slates; A gets upside WR and TE upgrade to chase wins.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_tom_implicit_gpt-5.txt"
+  }
+}

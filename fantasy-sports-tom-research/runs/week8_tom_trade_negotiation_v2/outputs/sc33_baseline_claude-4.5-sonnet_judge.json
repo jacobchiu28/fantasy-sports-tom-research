@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Proposal centers on stabilizing Team A and ignores Team B\u2019s conservative, floor-oriented preferences. It sends volatile assets (Thompson, Campbell) to a manager who avoids boom/bust, with no nod to B\u2019s preference for possession WRs or pocket passers. Trade is feasible but misaligned with A\u2019s needs (giving up a Tier 3 RB) and lacks evidence beyond playoff schedules. Rationale is brief and one-sided.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

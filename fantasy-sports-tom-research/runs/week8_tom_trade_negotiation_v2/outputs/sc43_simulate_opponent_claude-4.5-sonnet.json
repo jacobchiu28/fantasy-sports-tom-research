@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Matt Nguyen"
+  ],
+  "rationale": "Team B gets workhorse RB (their preference), Team A gets stable possession WR over boom/bust deep threats",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

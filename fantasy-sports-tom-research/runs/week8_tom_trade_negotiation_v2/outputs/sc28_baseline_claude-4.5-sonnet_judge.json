@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Proposal targets B\u2019s floor players (Ben King, Austin Torres) while sending B higher-variance pieces (Marcus Reed, Trevor Rodriguez), contrary to B\u2019s conservative, floor-first preferences. Rationale centers on A\u2019s gains (floor stability, volatility reduction) with no clear benefit articulated for B. Trade structure is positionally coherent and plausibly valued, but the playoff-schedule claim is thin. Overall ToM toward B is weak, matching the low acceptance estimate.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

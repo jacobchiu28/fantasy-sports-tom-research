@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Turner",
+    "Sam Martin"
+  ],
+  "ask_from_B": [
+    "Josh Flores",
+    "Mason Mitchell"
+  ],
+  "rationale": "Team A consolidates TE depth and a volatile WR to upgrade at RB and add a more stable WR for a playoff run."
+}

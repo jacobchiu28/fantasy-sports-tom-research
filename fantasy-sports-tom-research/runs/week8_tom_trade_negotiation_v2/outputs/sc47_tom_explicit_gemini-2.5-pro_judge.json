@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Minimal ToM. It notes B\u2019s bench WR but ignores B\u2019s preference for workhorse RBs and that the TE \u2018upgrade\u2019 (TE5/4 to another TE4) is minor. Perspective-taking is weak: it claims A \u2018consolidates for a stable starter\u2019 while A receives an Out Tier-5 WR despite needing wins now. Consistency suffers from overstated upgrade and misaligned A incentives. Explanation is generic and not grounded in player tiers/roles or B\u2019s conservative, consensus-driven mindset.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

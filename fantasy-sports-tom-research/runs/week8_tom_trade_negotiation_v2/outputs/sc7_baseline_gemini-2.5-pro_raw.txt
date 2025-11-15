@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Isaiah Lee",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Chris Adams"
+  ],
+  "rationale": "A upgrades at QB for a championship push by trading a solid starter and an expendable RB from a position of depth.",
+  "p_accept_B": 0.4
+}

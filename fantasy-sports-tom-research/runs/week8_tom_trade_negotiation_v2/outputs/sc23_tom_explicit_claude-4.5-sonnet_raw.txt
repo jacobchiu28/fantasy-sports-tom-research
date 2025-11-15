@@ -1,0 +1,33 @@
+Let me analyze Team B's manager profile and motivations:
+
+**Team B Manager Analysis:**
+- Record: 4-4, fighting for playoffs - needs wins NOW
+- Playing style: Favors high-upside players with inconsistent production
+- Preferences: Committee backs with upside, deep-threat WRs, rookies with breakout potential
+- Decision making: Independent evaluator, not slave to consensus
+- Injury approach: Willing to buy low
+
+**Team B's Needs:**
+- RB depth is entirely committee backs - lacks a workhorse RB for consistent scoring
+- Has plenty of high-variance deep-threat WRs but no stable floor
+- Needs playoff-friendly schedules given 4-4 record
+
+**Team B's Perception of Fairness:**
+- Would value a workhorse RB highly (doesn't have one)
+- Would appreciate rookie upside (fits preference)
+- Friendly playoff schedule is critical for playoff push
+- Would trade away WR depth since they have 6 WRs vs limited RB options
+
+**My Strategy:**
+Offer Josh Robinson (workhorse RB, rookie, friendly playoff schedule) - checks ALL of Team B's boxes. In return, ask for Trevor Martin (veteran deep-threat WR with mid variance and mixed playoff outlook). Team A has plenty of WR depth and needs to consolidate for playoffs.
+
+This addresses Team B's critical RB need while giving them the rookie upside and playoff schedule they need. Team A gets a more stable WR option while maintaining RB depth with Josh Martin as workhorse backup.
+
+```json
+{
+  "offer_from_A": ["Josh Robinson"],
+  "ask_from_B": ["Trevor Martin"],
+  "rationale": "Workhorse rookie RB w/ friendly playoffs for veteran WR - addresses B's RB scarcity",
+  "p_accept_B": 0.72
+}
+```

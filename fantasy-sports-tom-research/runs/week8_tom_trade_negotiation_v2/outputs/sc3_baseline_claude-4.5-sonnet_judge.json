@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Rationale is A-centric and generic, with no explicit modeling of B\u2019s consensus-driven, rookie/upside, and playoff-SOS priorities or comfort with injuries. The offer also clashes with A\u2019s stated injury aversion by targeting a doubtful TE. Still, the trade is mechanically feasible: A marginally upgrades RB stability (Ben King) and adds TE depth, while B gets a rookie WR with a friendly playoff schedule. However, swapping a Tier 3 RB for a Tier 4 RB is a likely downgrade for B, and the explanation lacks roster- or context-specific evidence.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

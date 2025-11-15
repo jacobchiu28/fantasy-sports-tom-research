@@ -1,0 +1,1 @@
+{"offer_from_A":["Isaiah Lee","Cameron Holt","Alex King"],"ask_from_B":["Chris Adams","Justin Garcia"],"rationale":"Upgrade QB to dual-threat and stabilize RB; trade surplus WR/RB while keeping depth for playoffs"}

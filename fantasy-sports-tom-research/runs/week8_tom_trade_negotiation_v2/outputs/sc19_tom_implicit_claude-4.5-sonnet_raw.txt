@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Austin Wright", "Isaiah Adams"],
+  "ask_from_B": ["Josh Garcia", "Kyle Martinez"],
+  "rationale": "Swapping depth for rookie upside and friendly schedule fits",
+  "p_accept_B": 0.62
+}
+```

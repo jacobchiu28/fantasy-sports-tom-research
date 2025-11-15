@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Offer ignores B\u2019s urgent need for RB stability by asking them to give up their only Tier 2 RB for a committee RB3. While Isaiah Thompson fits \u2018young ascending,\u2019 B already has strong WRs, so positional incentive is weak. Rationale is generic and mismatched (labels the wrong WR as low-volatility), showing limited ToM. Trade is plausible but not well-aligned with B\u2019s preferences or situation.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

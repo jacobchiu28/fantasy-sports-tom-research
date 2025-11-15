@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Eric Torres"
+  ],
+  "ask_from_B": [
+    "Darian Campbell"
+  ],
+  "rationale": "B trades from RB depth for a high-ceiling WR. Torres' name value/rank > Campbell's, appealing to a consensus-driven GM.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Jake Green",
+    "Eric Torres"
+  ],
+  "ask_from_B": [
+    "Darian Campbell",
+    "Jamal Adams"
+  ],
+  "rationale": "Team A upgrades its weakest positions (RB, TE) for the playoff push by trading from its depth at QB and WR.",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_baseline_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "player_id": "wr48_2025",
+  "name": "Logan Allen",
+  "position": "WR",
+  "team": "PHI",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      55,
+      91
+    ],
+    "route_participation_pct_range": [
+      73,
+      91
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      26
+    ],
+    "target_share_pct_range": [
+      18,
+      31
+    ],
+    "air_yards_share_pct_range": [
+      18,
+      36
+    ],
+    "slot_rate_pct_range": [
+      17,
+      74
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.85
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "Low",
+    "confidence": 0.72,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.63
+  },
+  "archetype_tags": [
+    "outside_wr"
+  ],
+  "role_description": "Outside receiver with varied route tree, mid weekly variance",
+  "summary_text": "Healthy Tier 4 WR in low-volume passing offense, fast tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Outside receiver with varied route tree, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

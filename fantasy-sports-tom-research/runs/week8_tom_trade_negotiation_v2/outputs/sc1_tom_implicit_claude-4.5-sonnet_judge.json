@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "B is conservative and consensus-driven; unlikely to give up a Tier 3 RB with low volatility and a Tier 2 WR for a Tier 5 backup QB and a lower-tier, committee RB with a Q tag. B already has a Tier 1 QB, so Roberts adds little. King matches B\u2019s preferences; Torres doesn\u2019t. Holt\u2019s volatility might make him movable, but not for this downgrade. Rationale is generic and overstates fit; acceptance odds are too high.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

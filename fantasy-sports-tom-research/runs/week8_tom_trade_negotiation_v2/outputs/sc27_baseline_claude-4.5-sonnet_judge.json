@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offer benefits A\u2019s stability goals but ignores B\u2019s beliefs and needs. B is 0-8, values consistency and healthy players, and would be asked to give up their most reliable RB and a steadier QB for an injured, high-variance QB and a volatile WR. Little evidence of modeling B\u2019s priorities or urgency; rationale is generic and self-focused. Trade is feasible but contextually misaligned with B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

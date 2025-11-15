@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "James Rivera"
+  ],
+  "ask_from_B": [
+    "Caleb Foster"
+  ],
+  "rationale": "Team B is 3-5 and desperately needs RB help. This 2-for-1 gives him a starter by trading from his WR depth.",
+  "p_accept_B": 0.65
+}

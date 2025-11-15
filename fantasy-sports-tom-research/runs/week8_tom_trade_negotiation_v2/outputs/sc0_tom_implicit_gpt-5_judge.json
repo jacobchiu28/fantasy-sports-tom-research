@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Proposal ignores B\u2019s preference for pocket passers/possession WRs and their tendency to buy injured players, not sell them. Asking B to trade a Tier 1 QB while thin at TE (and giving up Anderson) is unlikely. A, who avoids injury risk, is targeting a Doubtful TE despite already having a TE1, reducing fit. Rationale is generic and doesn\u2019t address roster contexts, stacks, or schedules. Some minimal two-sided intent is present but poorly aligned.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Rationale is generic and misses key beliefs. Team A is conservative and values workhorse RBs; trading a Tier 1 RB for an injured TE undermines A\u2019s floor. Calling Tyler Anderson a \u201cstability\u201d upgrade ignores his Doubtful status. Team B likes upside and buys injured players, so selling their established Tier 1 TE isn\u2019t well-motivated, though RB need exists. The offer is feasible but misaligned with profiles, and the explanation lacks scenario-specific detail.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

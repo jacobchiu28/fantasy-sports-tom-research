@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Shows some ToM by pitching B a ceiling RB upgrade that fits B\u2019s risk profile and consensus-leaning tendencies, but it barely references B\u2019s reliance on expert rankings and ignores that B parts with rookies they value. Trade is broadly coherent (B upgrades RB; A gains rookie depth), yet rationale misstates \u201cinjury-prone vets\u201d and overgeneralizes schedules (only Darian has friendly playoffs). Explanation is brief and vague, with limited evidence-based detail.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

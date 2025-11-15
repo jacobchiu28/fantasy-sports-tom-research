@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Kyle Garcia"
+  ],
+  "ask_from_B": [
+    "Austin Martin"
+  ],
+  "rationale": "Two stable veteran RBs for one low-volatility rookie RB. Appeals to B's veteran preference while consolidating depth.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

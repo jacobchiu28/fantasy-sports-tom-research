@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Rationale is A-centric and misreads contexts. It claims a TE upgrade while asking for an Out Tier 3 TE despite A already having a Tier 1 TE and preferring healthy players. It ignores B\u2019s preference for dual-threat QBs and their consensus-trusting mindset. B is 1-7 and RB-thin; giving up Devon Reed for a second QB (already has a Tier 2) is questionable. Trade is feasible but poorly aligned with B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

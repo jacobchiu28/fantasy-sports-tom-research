@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Trevor Brown"
+  ],
+  "rationale": "You need RB help and like young, stable players. I need a reliable WR. Let's swap my low-volatility rookie for your vet.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

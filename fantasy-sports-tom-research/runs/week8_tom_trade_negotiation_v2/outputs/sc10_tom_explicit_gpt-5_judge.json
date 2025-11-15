@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B\u2019s desire for floor/volume, but misses key nuances: B prefers proven veterans, possession WRs, and workhorse RBs; Alex White is a doubtful committee back, not ideal for urgent wins. Calling James Rivera a playoff-upside add contradicts his tough playoff slate. The proposal does consider A\u2019s and B\u2019s aims, but superficially. Value and role fit are inconsistent (A overpays; B gains), and the rationale is brief and partially inaccurate.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

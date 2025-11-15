@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Sean Hernandez",
+    "Austin Williams"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team A consolidates roster depth at RB and WR to acquire a high-end, pass-catching TE, addressing its biggest need."
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Robinson"],
+  "ask_from_B": ["Eric Allen", "David Flores"],
+  "rationale": "Conservative B needs RB floor; Robinson fits. B trades surplus boom WR + spare TE. Floor for B, upside for A.",
+  "p_accept_B": 0.58
+}

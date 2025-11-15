@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Malik Moore",
+    "Darian Moore"
+  ],
+  "ask_from_B": [
+    "Ethan Campbell",
+    "Ethan Turner"
+  ],
+  "rationale": "RB/TE upgrades; swap surplus boom/bust WR + committee RB for steadier starters",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_baseline_gpt-5.txt"
+  }
+}

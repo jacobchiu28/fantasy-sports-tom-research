@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "David Baker",
+    "Isaiah Adams"
+  ],
+  "ask_from_B": [
+    "David Campbell",
+    "Ethan Turner"
+  ],
+  "rationale": "Consolidate depth to upgrade WR stability (Campbell) and TE targets (Turner), raising Team A's weekly floor.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_baseline_gpt-5.txt"
+  }
+}

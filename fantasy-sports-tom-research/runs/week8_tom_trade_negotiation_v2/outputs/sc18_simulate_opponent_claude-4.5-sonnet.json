@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Turner",
+    "Ben King"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "B gets low-volatility TE upgrade + RB depth. A gets workhorse RB for playoff push.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

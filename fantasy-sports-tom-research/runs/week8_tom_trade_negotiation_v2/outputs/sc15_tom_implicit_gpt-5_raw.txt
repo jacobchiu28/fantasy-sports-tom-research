@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Chris Garcia", "Nick Torres"],
+  "ask_from_B": ["Ben King", "Cameron Scott"],
+  "rationale": "B gains ceiling WRs (Garcia + rookie); A gets steady RB (Ben King) and consistent WR (Scott).",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Recognizes B\u2019s appetite for ceiling and injured buy-lows, but misreads needs: B is RB-strong and would lose RB depth by giving up a workhorse. At 3-5 and trusting expert rankings, B is unlikely to trade a Tier 1 RB for an out QB and doubtful WR. The stated rationale contradicts itself and lacks detail. Acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

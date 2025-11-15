@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "The proposal focuses on Team A\u2019s needs and largely ignores Team B\u2019s mindset (zero RB, values targets/touches, trusts consensus, prefers high-upside). Asking for a pass-catching TE depth piece that aligns with B\u2019s values in exchange for a low-upside, declining-role RB is unlikely to appeal to B. Calling it an upgrade for A is questionable (Tier 3 TE to Tier 4 TE). Still, the trade is positionally feasible and the rationale is concise though generic.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

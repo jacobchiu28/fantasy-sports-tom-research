@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It notes B\u2019s need for stable floors and win-now help, but overlooks key beliefs: B prefers workhorse RBs (not committee backs) and values targets/touches\u2014Noah Brown is a high-target TE and B\u2019s only TE. A already has a Tier 2 TE, reducing A\u2019s urgency. The trade is feasible but mismatched to B\u2019s conservative mindset and positional needs; acceptance probability seems overstated. Rationale is brief and generic without scenario-specific support.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

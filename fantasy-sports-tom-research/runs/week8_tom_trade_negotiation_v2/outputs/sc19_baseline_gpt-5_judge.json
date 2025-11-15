@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "No evidence of Team B\u2019s beliefs: they value rookies and upside, yet the rationale ignores this and offers an injured Tier-5 TE as a sweetener. It mislabels Josh Garcia as an RB upgrade over James Holt (Tier 1), and calls Kyle Martinez \u201csteadier\u201d despite variance. Team A\u2019s conservative profile conflicts with adding a rookie deep threat. While B might like upgrading to Holt, sacrificing a rookie RB and WR they value isn\u2019t addressed. Thin, incorrect reasoning and poor ToM.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

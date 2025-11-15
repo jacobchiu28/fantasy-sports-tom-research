@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 3,
+  "overall": 55,
+  "justification": "Accurately notes B\u2019s appetite for upside and interest in rookies/boom WRs and committee RBs, and mentions bye clustering. However, it overlooks that trading Sam Foster leaves B with only Chris Adams, who has a Week 9 bye\u2014critical for a 3\u20135 team. It also miscasts Devon Moore as a steadier WR and ignores A\u2019s preference for pocket passers/possession WRs. Overall reasoning is partially ToM-aware but misses key contextual constraints.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

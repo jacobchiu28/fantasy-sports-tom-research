@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Lucas Allen",
+    "Jordan King"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "A consolidates depth for a stud, while B gets two weekly starters to help his struggling team win now.",
+  "p_accept_B": 0.65
+}

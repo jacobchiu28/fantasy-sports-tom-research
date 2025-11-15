@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Xavier Thompson", "James Campbell"],
+  "ask_from_B": ["Darian Anderson", "Brandon Martinez"],
+  "rationale": "Swap high-volatility players for mid-volatility WRs with friendly playoff schedules to stabilize Team A's lineup",
+  "p_accept_B": 0.42
+}
+```

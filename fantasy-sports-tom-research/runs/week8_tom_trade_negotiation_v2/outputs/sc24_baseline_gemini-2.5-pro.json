@@ -1,0 +1,15 @@
+{
+  "offer_from_A": [
+    "Nick Holt"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Trading from WR depth to acquire a high-end, pass-catching TE, significantly upgrading a position of need.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_baseline_gemini-2.5-pro.txt"
+  }
+}

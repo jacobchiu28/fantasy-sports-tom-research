@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Recognizes B\u2019s urgency but ignores B\u2019s preference for reliable workhorse RBs and established talent. Trading Sam Lewis (stable Tier 2 RB) weakens B\u2019s thin RB room, while Moore (Tier 3, declining role) and Wright (Tier 5 deep threat) don\u2019t fit B\u2019s consistency bias and WR depth. The rationale is generic and overstates value (\u201ctwo solid starters\u201d), with little two-sided reasoning. Feasible but poorly aligned with B\u2019s beliefs and needs.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

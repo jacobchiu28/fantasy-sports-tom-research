@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "B prioritizes volume, stability, SOS, and possession WRs. Cameron Holt (T2, steady usage) fits B perfectly, while Nick Holt (T4, more volatile) is a downgrade, not a \u2018possession WR upgrade.\u2019 B also loses Josh Garcia (T2 RB, friendly playoff schedule) for Alex Mitchell (T3 RB, mixed outlook), conflicting with B\u2019s SOS/volume focus. Both managers are conservative; this increases B\u2019s volatility. The acceptance probability is unrealistic. Rationale is brief and mischaracterizes player profiles, showing weak ToM for B.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

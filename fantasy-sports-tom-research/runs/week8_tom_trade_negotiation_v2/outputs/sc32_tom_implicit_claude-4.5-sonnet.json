@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Chris Adams",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Eric Allen",
+    "Devon Reed"
+  ],
+  "rationale": "Dual-threat QB upgrade + deep threat for deep threat + RB depth",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

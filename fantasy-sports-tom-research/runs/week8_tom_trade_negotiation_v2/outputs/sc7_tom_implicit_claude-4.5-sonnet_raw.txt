@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["David Nelson", "Caleb Foster"],
+  "ask_from_B": ["Chris Adams", "Matt Wright"],
+  "rationale": "Swapping stable QB/WR for dual-threat QB + rookie upside; fits both timelines and styles",
+  "p_accept_B": 0.62
+}
+```

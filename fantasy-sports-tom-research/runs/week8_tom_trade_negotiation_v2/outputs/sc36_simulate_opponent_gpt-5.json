@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Logan Clark"
+  ],
+  "ask_from_B": [
+    "Xavier Carter"
+  ],
+  "rationale": "B gains ceiling dual-threat QB now; A bolsters thin RB room with young upside",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_simulate_opponent_gpt-5.txt"
+  }
+}

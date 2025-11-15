@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Mason Robinson",
+    "Nick Torres"
+  ],
+  "ask_from_B": [
+    "Ryan Moore"
+  ],
+  "rationale": "A consolidates depth for a playoff run. B gets two solid starters to help them win now, addressing immediate needs.",
+  "p_accept_B": 0.65
+}

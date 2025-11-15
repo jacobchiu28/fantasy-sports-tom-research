@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Darian Moore", "Darian Taylor"],
+  "ask_from_B": ["Noah Brown"],
+  "rationale": "Upgrade to target-heavy TE; move expendable WR/TE depth to strengthen weakest slot"
+}

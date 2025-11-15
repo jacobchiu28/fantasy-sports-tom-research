@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "Austin Torres"],
+  "ask_from_B": ["Sam Lewis", "Nick Torres"],
+  "rationale": "Upgrading QB stability + possession WR for low-volatility workhorse RB",
+  "p_accept_B": 0.62
+}
+```

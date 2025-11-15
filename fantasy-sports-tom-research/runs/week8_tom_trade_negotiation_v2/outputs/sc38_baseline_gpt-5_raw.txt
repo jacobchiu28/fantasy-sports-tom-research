@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Mason Garcia", "Jordan Wilson"],
+  "ask_from_B": ["Austin Harris", "Liam Green"],
+  "rationale": "Flip QB surplus for TE upgrade and RB depth; boosts Team A's weekly starters."
+}

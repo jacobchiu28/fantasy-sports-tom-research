@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Chris Adams",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Turn surplus QB/WR into workhorse RB to fix RB depth and stabilize weekly scoring",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc13_baseline_gpt-5.txt"
+  }
+}

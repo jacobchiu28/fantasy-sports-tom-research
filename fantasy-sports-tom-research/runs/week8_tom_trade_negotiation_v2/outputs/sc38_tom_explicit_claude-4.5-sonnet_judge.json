@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Understands Team B values deep-threat WRs, but misses their injury aversion and need for RB stability\u2014trading away Brian Harris leaves B reliant on a Questionable Liam Green. Perspective-taking is present but shallow; rationale is generic and ignores consensus-trusting tendencies and roster balance. Trade is plausible, but not well-aligned with B\u2019s incentives; acceptance probability seems overly optimistic.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

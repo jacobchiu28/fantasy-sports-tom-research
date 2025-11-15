@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brandon Martinez", "Ethan Turner"],
+  "ask_from_B": ["Xavier Rodriguez"],
+  "rationale": "Stable veteran RB for WR depth + TE upgrade; fits both conservative styles",
+  "p_accept_B": 0.62
+}
+```

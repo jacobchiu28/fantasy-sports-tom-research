@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies B\u2019s interest in a dual-threat QB and RB depth, but ignores B\u2019s zero-RB and injured-player buying tendencies. Perspective-taking is shallow and mixes viewpoints (\u201cwe fix TE\u201d) while A already has a Tier 1 TE. The trade is highly lopsided (A gives elite QB and RB for a mid WR and low-end TE), and p_accept is understated for B. Rationale is terse and not grounded in roster context or playoff outlooks.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

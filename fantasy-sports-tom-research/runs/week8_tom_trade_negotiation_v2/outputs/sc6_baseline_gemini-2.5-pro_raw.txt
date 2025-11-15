@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Sean Hernandez"
+  ],
+  "ask_from_B": [
+    "James Jones"
+  ],
+  "rationale": "Team A consolidates a position of strength (RB) to secure a significant upgrade at its weakest position (QB)."
+}

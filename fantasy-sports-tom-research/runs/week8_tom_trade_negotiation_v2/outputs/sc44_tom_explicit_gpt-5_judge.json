@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges B trusts rankings, but ignores B\u2019s strong injury aversion and urgency. Offers an OUT WR (Harris) while calling the deal injury-free\u2014contradictory and misaligned with B\u2019s risk profile. B also prefers pocket passers and already has a Tier 1 QB, reducing need for James Jones. Rationale is terse and factually off (Harris not a steady, available vet). Trade construction doesn\u2019t fit B\u2019s needs for immediate, healthy production.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

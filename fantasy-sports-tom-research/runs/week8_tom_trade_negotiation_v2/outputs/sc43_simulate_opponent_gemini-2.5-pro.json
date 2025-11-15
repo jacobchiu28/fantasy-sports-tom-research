@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Austin Torres",
+    "Sam Reed"
+  ],
+  "rationale": "Team B gets the stable workhorse RB he craves. Team A, at 0-8, cashes in its top asset for two younger breakout pieces.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

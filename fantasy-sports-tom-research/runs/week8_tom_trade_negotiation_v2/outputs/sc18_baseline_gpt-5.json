@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex Nelson",
+    "Ben King"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Flip QB surplus and committee RB for workhorse with friendly playoffs; upgrades RB1, keeps depth.",
+  "p_accept_B": 0.28,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_baseline_gpt-5.txt"
+  }
+}

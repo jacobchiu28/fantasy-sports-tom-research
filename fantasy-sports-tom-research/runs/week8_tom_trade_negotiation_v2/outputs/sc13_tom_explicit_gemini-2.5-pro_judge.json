@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Correctly notes Team B\u2019s TE hole and 8-0 context, but misreads their preferences (they favor proven, consistent vets) by offering a rookie TE. Misvalues Noah Carter\u2014he\u2019s a Tier 1, likely starter, not a bench RB\u2014making the trade unrealistic and lopsided. Reasoning is minimal and not well grounded in roster realities or psychology (e.g., B targets injured buy-lows).",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

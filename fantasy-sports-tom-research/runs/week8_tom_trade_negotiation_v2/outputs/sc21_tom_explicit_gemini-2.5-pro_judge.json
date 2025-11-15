@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s needs and preferences: B is conservative, seeks stable possession WRs, and needs immediate wins, yet receives a doubtful RB (Alex White) and a volatile rookie WR (David Baker). Calling B\u2019s RB room \u201cawful\u201d is inaccurate (they have a Tier 2 and Tier 3 RB). The offer benefits A\u2019s floor preference by acquiring a low-variance veteran (David Campbell) but doesn\u2019t address B\u2019s mindset. Rationale is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

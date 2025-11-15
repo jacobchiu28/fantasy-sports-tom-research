@@ -1,0 +1,88 @@
+{
+  "player_id": "rb32_2025",
+  "name": "Alex White",
+  "position": "RB",
+  "team": "MIA",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      41,
+      81
+    ],
+    "rush_share_pct_range": [
+      35,
+      71
+    ],
+    "target_share_pct_range": [
+      5,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      28,
+      54
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      13,
+      31
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Doubtful",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "Med",
+    "expected_workload_cap_pct": [
+      30,
+      60
+    ],
+    "confidence": 0.43
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "Low",
+    "confidence": 0.64,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.66
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, mid production volatility",
+  "summary_text": "Doubtful with availability unclear Tier 2 RB in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, mid production volatility",
+    "volatility": "Mid",
+    "health": "Doubtful",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

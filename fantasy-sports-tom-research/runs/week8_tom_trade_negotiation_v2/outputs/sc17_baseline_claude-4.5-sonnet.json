@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Isaiah Lee",
+    "Xavier Rodriguez"
+  ],
+  "ask_from_B": [
+    "James Jones",
+    "Devon Lewis"
+  ],
+  "rationale": "Upgrade to dual-threat QB and add RB depth; trade away pocket passer and committee back",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc17_baseline_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Liam Wright",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Noah Carter"
+  ],
+  "rationale": "A consolidates depth for a high-upside RB. B trades volatility for two players who boast friendly playoff schedules.",
+  "p_accept_B": 0.45
+}

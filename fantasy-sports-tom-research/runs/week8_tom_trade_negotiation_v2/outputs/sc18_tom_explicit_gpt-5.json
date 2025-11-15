@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Ben King",
+    "Ethan Turner",
+    "Liam Torres"
+  ],
+  "ask_from_B": [
+    "Austin Torres",
+    "Cameron Harris"
+  ],
+  "rationale": "B wants floor/depth; TE upgrade + stable RBs. A gets friendly-SoS QB and steady WR. Fair by consensus.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_explicit_gpt-5.txt"
+  }
+}

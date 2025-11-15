@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "The offer hints that B might swap an injured QB for immediate RB help, but it misses B\u2019s stated love of dual-threat QBs and buying low on injured players\u2014making parting with Logan Clark unlikely. The rationale is A-centric and sparse. The move also contradicts A\u2019s conservative, floor-first style by trading a workhorse RB and steady WR for two injured assets and a QB with tough playoff matchups. Overall coherence is middling and the explanation lacks detail.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Reasonably models B\u2019s needs: TE surplus, willingness to stash an injured RB, and interest in deep threats. A\u2019s need for an immediate TE upgrade is clear. Trade is roster-coherent for both sides. However, it overlooks B\u2019s contrarian tendencies and doesn\u2019t address Kyle Martinez\u2019s declining role, which may reduce appeal for a 6\u20132 team. Explanation is terse and light on specifics.",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

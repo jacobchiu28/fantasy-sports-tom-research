@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Limited ToM: ignores B\u2019s conservative preference for possession WRs and injured buy-low targets, and overstates King as a \u2018safe floor\u2019 despite declining role and tough playoffs. The offer sends a Tier 1 high-variance WR plus a Tier 3 RB for a Tier 5 workhorse in a low-volume offense, conflicting with A\u2019s high-powered offense preference and poor value for A. Some two-sided framing exists, but rationale lacks specifics on schedule, rankings, and risk tolerance.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

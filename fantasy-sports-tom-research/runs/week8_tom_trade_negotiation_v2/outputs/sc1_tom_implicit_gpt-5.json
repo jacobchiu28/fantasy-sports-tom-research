@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trevor Roberts",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Alex White",
+    "Liam Adams"
+  ],
+  "rationale": "A gains RB/TE stability; B gets safe pocket QB and slot WR to boost weekly floor.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_tom_implicit_gpt-5.txt"
+  }
+}

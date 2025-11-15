@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Holt",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Noah Brown",
+    "Devon Green"
+  ],
+  "rationale": "Upgrade TE to Brown; keep QB depth via Green by moving surplus Holt and mid-tier TE",
+  "_meta": {
+    "scenario_id": 39,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc39_baseline_gpt-5.txt"
+  }
+}

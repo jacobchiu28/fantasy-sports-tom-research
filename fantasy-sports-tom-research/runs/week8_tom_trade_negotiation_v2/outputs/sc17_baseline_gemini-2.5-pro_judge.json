@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 25,
+  "justification": "The proposal centers on Team A\u2019s desire to get a dual\u2011threat QB and ignores Team B\u2019s perspective. Team B is 0-8, values dual\u2011threat QBs, and James Jones is their only healthy QB; no replacement QB is offered. While Ryan Taylor is elite, the deal leaves B without a starter at QB and clashes with their archetype preferences. The rationale is generic and doesn\u2019t address B\u2019s incentives, making acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

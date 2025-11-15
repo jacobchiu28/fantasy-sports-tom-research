@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Acknowledges B\u2019s desire for reliability by swapping Sean\u2019s high variance for Wright\u2019s steadier veteran profile and adds a healthy TE. However, it overstates the TE as an upgrade (Tier 4 vs B\u2019s Tier 3s) and ignores B\u2019s 8-0 consolidation tendencies and preference for possession targets. Reasoning separates A\u2019s upside goals from B\u2019s consistency, but is minimal and lacks detail on roles, byes, or playoff schedules. Overall coherent but lightly argued.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

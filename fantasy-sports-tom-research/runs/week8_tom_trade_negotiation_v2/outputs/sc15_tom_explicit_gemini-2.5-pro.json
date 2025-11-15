@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Chris Garcia"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Team B gets a high-ceiling WR for a low-volatility RB. This trade helps A's weekly floor and B's upside, a win for both styles.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

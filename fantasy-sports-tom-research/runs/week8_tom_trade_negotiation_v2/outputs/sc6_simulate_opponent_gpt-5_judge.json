@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 65,
+  "justification": "Understands B\u2019s win-now needs and that Clark (Out) is expendable alongside Jones; a TE1 plus ascending RB fits B\u2019s TE weakness and injury aversion. Takes B\u2019s perspective by framing Jones as the starter. But the rationale is very brief and calls Clark a \u201cbackup,\u201d downplaying his Tier 1 value and B\u2019s preference for dual-threat QBs. Some coherence issues for A (giving up TE2 with Walker doubtful and acquiring an injured QB despite needing wins).",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Noah Green"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Devon Lewis"
+  ],
+  "rationale": "B gains workhorse touches; A upgrades to high-target TE while retaining RB depth.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_simulate_opponent_gpt-5.txt"
+  }
+}

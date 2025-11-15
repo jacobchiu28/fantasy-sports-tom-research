@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Taylor"],
+  "ask_from_B": ["Trevor Martin", "Sean Hernandez"],
+  "rationale": "Workhorse RB for WR depth+committee back; fits zero-RB rebuild",
+  "p_accept_B": 0.68
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges B\u2019s need for wins and RB depth, but ignores B\u2019s consensus-driven approach and preference for possession WRs\u2014trading a Tier 1 ascending WR (Torres) is unlikely. Calling Alex White \u201cimmediate\u201d help clashes with his Doubtful status and B\u2019s urgency. Value is lopsided (RB2-injured + RB3 for a Tier 1 WR). Rationale is generic and overlooks injuries, roster context, and B\u2019s priorities. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

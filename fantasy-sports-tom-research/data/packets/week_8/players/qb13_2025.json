@@ -1,0 +1,83 @@
+{
+  "player_id": "qb13_2025",
+  "name": "Alex Nelson",
+  "position": "QB",
+  "team": "LAR",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      30,
+      41
+    ],
+    "completion_pct_range": [
+      63,
+      70
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      17
+    ],
+    "rush_share_pct_range": [
+      4,
+      15
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.88
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.78,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.7
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with mid week-to-week variance",
+  "summary_text": "Healthy Tier 2 QB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

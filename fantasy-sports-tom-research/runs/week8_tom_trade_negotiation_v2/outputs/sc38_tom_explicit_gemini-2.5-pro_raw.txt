@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez"
+  ],
+  "ask_from_B": [
+    "Matt Nelson"
+  ],
+  "rationale": "Team B gets a dual-threat QB upgrade with a friendly playoff schedule for a volatile RB from its deepest position.",
+  "p_accept_B": 0.75
+}

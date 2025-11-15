@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Sean Hernandez", "Adam Anderson"],
+  "ask_from_B": ["Lucas Allen"],
+  "rationale": "B gains RB depth and a possession WR; A upgrades to Lucas Allen's steadier weekly floor.",
+  "p_accept_B": 0.68
+}

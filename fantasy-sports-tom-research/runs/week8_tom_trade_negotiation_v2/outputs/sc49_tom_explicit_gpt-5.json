@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Kyle Garcia"
+  ],
+  "ask_from_B": [
+    "Chris Garcia"
+  ],
+  "rationale": "B is 2-6, conservative, wants safe RB touches now; we send two low-vol RBs for your boom/bust WR depth\u2014fair floor-for-ceiling.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_tom_explicit_gpt-5.txt"
+  }
+}

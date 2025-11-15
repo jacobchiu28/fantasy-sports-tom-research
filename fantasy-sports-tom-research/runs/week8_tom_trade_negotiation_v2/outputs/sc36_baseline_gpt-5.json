@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "Trevor Martin"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "Convert surplus TE/WR into a workhorse RB; boosts RB floor/ceiling while TE/WR depth remains solid.",
+  "p_accept_B": 0.46,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_baseline_gpt-5.txt"
+  }
+}

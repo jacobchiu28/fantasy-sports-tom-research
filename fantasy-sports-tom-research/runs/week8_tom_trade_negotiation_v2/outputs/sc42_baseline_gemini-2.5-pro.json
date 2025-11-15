@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Turner",
+    "Alex King",
+    "Cameron Holt"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Team A consolidates its RB/WR depth for a true workhorse RB, improving its starting lineup and playoff schedule significantly.",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc42_baseline_gemini-2.5-pro.txt"
+  }
+}

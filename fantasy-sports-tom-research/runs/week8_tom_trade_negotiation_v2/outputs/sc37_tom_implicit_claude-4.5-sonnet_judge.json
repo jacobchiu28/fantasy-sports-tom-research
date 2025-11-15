@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Team B is conservative and values stable volume, especially RBs. Asking for Tier 1 Sean Hernandez while offering a volatile deep-threat WR (Justin Reed, declining role) and a doubtful Tier 3 RB (Mason Robinson) misreads B\u2019s priorities. Lucas Carter is out and expendable for B, and A\u2019s interest in an injured dual-threat fits A, but the return for Sean is inadequate. The rationale is generic and the 0.62 accept probability is unrealistic. Trade value and motivations are not well aligned.",
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

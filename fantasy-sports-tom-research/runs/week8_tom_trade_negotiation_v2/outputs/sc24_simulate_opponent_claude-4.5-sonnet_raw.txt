@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Nick Holt", "Alex Mitchell"],
+  "ask_from_B": ["Josh Garcia", "Cameron Holt"],
+  "rationale": "Swapping similar volatility players; B gets possession WR upgrade, A gets friendly schedule RB",
+  "p_accept_B": 0.62
+}
+```

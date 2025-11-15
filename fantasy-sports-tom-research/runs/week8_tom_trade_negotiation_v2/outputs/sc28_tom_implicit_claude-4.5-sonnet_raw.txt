@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Lucas Hall", "Derek Harris"],
+  "ask_from_B": ["Ben King", "Austin Torres"],
+  "rationale": "Veteran pocket QB + stable WR for low-volatility RB + consistent target WR",
+  "p_accept_B": 0.72
+}
+```

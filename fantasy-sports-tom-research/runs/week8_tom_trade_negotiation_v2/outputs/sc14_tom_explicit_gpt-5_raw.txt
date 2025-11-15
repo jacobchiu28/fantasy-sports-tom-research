@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Isaiah Thompson (WR)", "Eric Torres (WR)"],
+  "ask_from_B": ["Noah Brown (TE)", "Sean Thompson (WR)"],
+  "rationale": "B conservative: trades surplus TE+boom WR for steadier WR (Isaiah) + vet depth; A upgrades TE, keeps upside.",
+  "p_accept_B": 0.62
+}

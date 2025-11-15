@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Ben Martin"
+  ],
+  "ask_from_B": [
+    "Isaiah Lee",
+    "Jake Garcia"
+  ],
+  "rationale": "B 8-0, chases ceiling: gets dual-threat QB + boom WR; A gains pocket QB + steadier RB depth. Fair by consensus.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_explicit_gpt-5.txt"
+  }
+}

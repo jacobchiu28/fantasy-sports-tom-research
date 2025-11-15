@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Mitchell",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "Darian Campbell"
+  ],
+  "rationale": "You get a TE to fill a huge roster hole plus a high-upside rookie WR. I get an RB I desperately need. Helps us both.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

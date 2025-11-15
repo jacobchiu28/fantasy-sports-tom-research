@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Cameron Scott", "Brian Harris"],
+  "ask_from_B": ["Xavier Thompson", "Darian Campbell"],
+  "rationale": "Low-variance vets for high-upside young RBs with friendly schedules",
+  "p_accept_B": 0.68
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "This offer downgrades A at RB (T2 Holt to Out T4 King) and is lateral at WR (T4 to T4), so the \u201cupgrade stability\u201d rationale is incorrect. It ignores B\u2019s incentives and needs (QB/TE injuries, upside leaning) and underestimates B\u2019s likely acceptance; B would probably accept more than 0.42. No clear ToM or separation of perspectives. Feasible but strategically incoherent for A and misaligned with both managers\u2019 stated preferences.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

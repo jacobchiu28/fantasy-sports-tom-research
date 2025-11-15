@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Matt Nelson", "Liam White"],
+  "ask_from_B": ["Ben King", "Michael Flores"],
+  "rationale": "Upgrade RB consistency, add TE depth. Trade away high-variance players for low-volatility assets with better roles.",
+  "p_accept_B": 0.45
+}
+```

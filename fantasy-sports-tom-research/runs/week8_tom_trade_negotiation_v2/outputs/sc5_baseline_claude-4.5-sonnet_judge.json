@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offer ignores Team B\u2019s conservative, floor-focused mindset and their value on workhorse RBs; Ryan Taylor is exactly their archetype. Return pieces are a questionable committee RB (Liam Green), a fringe committee RB (Trey Mitchell), and a low-tier, high-variance WR (Marcus Taylor), which don\u2019t match B\u2019s preferences (possession WR with steady targets, proven vets). Rationale centers only on Team A. Trade is structurally feasible as a 3-for-1 but misaligned with B\u2019s needs, making acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

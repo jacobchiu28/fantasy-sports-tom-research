@@ -1,0 +1,87 @@
+{
+  "player_id": "te34_2025",
+  "name": "Chris Lewis",
+  "position": "TE",
+  "team": "ARI",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      57,
+      84
+    ],
+    "route_participation_pct_range": [
+      59,
+      83
+    ],
+    "target_share_pct_range": [
+      12,
+      20
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      20
+    ],
+    "inline_block_rate_pct_range": [
+      36,
+      60
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Doubtful",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      30,
+      60
+    ],
+    "confidence": 0.41
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.7,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.5
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, low usage consistency",
+  "summary_text": "Doubtful with availability unclear Tier 3 TE in high-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, low usage consistency",
+    "volatility": "Low",
+    "health": "Doubtful",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 3 (Very High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

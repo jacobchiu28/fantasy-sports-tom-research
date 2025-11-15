@@ -1,0 +1,88 @@
+{
+  "player_id": "wr24_2025",
+  "name": "Adam Anderson",
+  "position": "WR",
+  "team": "IND",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      68,
+      92
+    ],
+    "route_participation_pct_range": [
+      69,
+      96
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      26
+    ],
+    "target_share_pct_range": [
+      16,
+      31
+    ],
+    "air_yards_share_pct_range": [
+      20,
+      36
+    ],
+    "slot_rate_pct_range": [
+      32,
+      78
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.73
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.84,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 1-2",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.57
+  },
+  "archetype_tags": [
+    "possession_wr"
+  ],
+  "role_description": "Possession receiver operating from slot, high weekly variance",
+  "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Possession receiver operating from slot, high weekly variance",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 2 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "The offer ignores Team B\u2019s preferences and incentives. B values dual\u2011threat QBs and rookies; Devon Green is a pocket passer, and Eric Torres is a veteran. Asking B to give up their RB1 (Jake Garcia) and TE1 (Cameron Gonzalez) guts B\u2019s core while returning no TE and weakening RB depth, despite B being a contender. The rationale is A\u2011centric and generic, only noting A\u2019s stability needs. While A\u2019s internal logic (move surplus QB, stabilize TE/RB) is coherent, the proposal is unrealistic for B and lacks ToM reasoning.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It nods to Team B\u2019s preference for stability but overlooks their reliance on expert rankings and preference for possession WRs. Trey Adams is a Tier 4 RB with a declining role\u2014unlikely to appeal to a conservative, consensus-driven 8-0 team with ample RB depth. Darian Anderson is a Tier 5 outside WR, not a possession type. The rationale is generic and doesn\u2019t address roster context or playoff planning. The offer is feasible but not compelling; acceptance probability seems overstated.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

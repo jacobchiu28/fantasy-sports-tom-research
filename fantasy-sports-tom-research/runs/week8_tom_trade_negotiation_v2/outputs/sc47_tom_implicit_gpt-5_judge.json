@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Identifies that B would like RB depth and a possession WR, but ignores B\u2019s injury aversion and consensus mindset. Misreads A\u2019s priorities and urgency: A trades a healthy Tier 1 RB and Tier 2 WR for an Out, Tier 5 WR, contradicting A\u2019s conservative, floor-seeking style. Rationale wrongly calls Lucas Allen a steady-floor upgrade. The offer is wildly lopsided toward B and internally inconsistent with roles and health statuses. Explanation is brief but inaccurate.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal asks B to give up a Tier 2 dual-threat QB and a Tier 1 RB for a Tier 4 WR and Tier 3 RB, ignoring B\u2019s urgent need for wins and preference to keep high-upside, dual-threat QBs. Rationale centers on A\u2019s upgrades with no substantive case for B. While the pieces are valid and B has QB depth, the value gap and misfit with manager profiles (A prefers pocket QBs) make acceptance unlikely and the explanation thin.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

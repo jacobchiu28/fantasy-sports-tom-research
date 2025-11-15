@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Darian Campbell"
+  ],
+  "ask_from_B": [
+    "James Jones"
+  ],
+  "rationale": "You get a high-upside rookie RB to shake up your winless team. I get the dual-threat QB I need to make a playoff push.",
+  "p_accept_B": 0.65
+}

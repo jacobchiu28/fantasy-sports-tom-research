@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Cameron Harris",
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "Low-volatility QB+RB for young RB. Fits B's conservative style, friendly schedules, helps desperate 0-8 team.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 34,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc34_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

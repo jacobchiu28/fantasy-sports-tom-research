@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Team B prioritizes consistency and possession WRs and urgently needs weekly stability; trading away Caleb Foster (their reliable slot WR) for two high-variance WRs conflicts with their preferences. The rationale focuses on Team A\u2019s floor and mislabels Mason Mitchell as a lower-variance option. While the 2-for-2 WR swap is feasible, it\u2019s misaligned with B\u2019s incentives and A\u2019s stated goal (Mitchell isn\u2019t a floor play). Explanation is brief and not grounded in B\u2019s context.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

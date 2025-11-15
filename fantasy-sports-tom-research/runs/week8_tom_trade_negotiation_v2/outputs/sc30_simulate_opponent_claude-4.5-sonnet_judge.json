@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Assumes B \u201cneeds RB help\u201d but only swaps Tier 3 RBs (no depth gain) and asks B to add a WR despite already-strong WR room and a fade of low-volume pass offenses. Ignores B\u2019s 0-8 urgency for clear, immediate upgrades. A\u2019s TE upgrade is marginal (both Tier 4). Trade is plausible but rationale is shallow and misses B\u2019s incentives and roster context.",
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

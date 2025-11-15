@@ -1,0 +1,88 @@
+{
+  "player_id": "qb23_2025",
+  "name": "David Young",
+  "position": "QB",
+  "team": "NO",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      29,
+      45
+    ],
+    "completion_pct_range": [
+      62,
+      67
+    ],
+    "deep_attempt_rate_pct": [
+      10,
+      18
+    ],
+    "rush_share_pct_range": [
+      4,
+      14
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.15
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.66,
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [
+      "Stack candidate"
+    ],
+    "confidence": 0.75
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with low week-to-week variance",
+  "summary_text": "Out with availability unclear Tier 3 QB in high-volume passing offense, fast tempo with steady usage pattern. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with low week-to-week variance",
+    "volatility": "Low",
+    "health": "Out",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 3 (Very High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

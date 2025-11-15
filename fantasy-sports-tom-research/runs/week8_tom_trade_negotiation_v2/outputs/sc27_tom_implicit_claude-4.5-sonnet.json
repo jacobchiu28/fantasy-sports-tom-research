@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Austin Torres"
+  ],
+  "ask_from_B": [
+    "Sam Lewis",
+    "Nick Torres"
+  ],
+  "rationale": "Upgrading QB stability + possession WR for low-volatility workhorse RB",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc27_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

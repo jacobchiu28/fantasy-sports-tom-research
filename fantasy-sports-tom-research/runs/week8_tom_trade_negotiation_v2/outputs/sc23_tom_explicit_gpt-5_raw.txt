@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Martin", "Ben Martin"],
+  "ask_from_B": ["James Rivera", "Sam Lewis"],
+  "rationale": "4-4 B favors rookies/big plays: gets workhorse RB + rookie WR. A gets safer RB + breakout WR for playoffs.",
+  "p_accept_B": 0.5
+}

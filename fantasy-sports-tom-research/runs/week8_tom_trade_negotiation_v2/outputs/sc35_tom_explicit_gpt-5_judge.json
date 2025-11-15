@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 70,
+  "justification": "Good read on B: contrarian, prefers vets, healthy players, and playoff schedules; QB depth and WR help match B\u2019s needs. Clear that A seeks a young upside RB. Minor flaws: calling Johnson a \u201csafe\u201d start ignores his volatility; rationale doesn\u2019t note A\u2019s risk of trading away their only healthy reliable QB. Overall coherent and plausible for B\u2019s situation.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Ethan Turner",
+    "Cameron Scott"
+  ],
+  "rationale": "I solve my TE weakness and add a stable WR, while you get a true workhorse RB to anchor your backfield."
+}

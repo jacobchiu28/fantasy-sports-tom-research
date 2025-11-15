@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Kevin Flores", "Noah Garcia", "Isaiah Adams"],
+  "ask_from_B": ["James Jones"],
+  "rationale": "Upgrade pocket QB to dual-threat QB; trade surplus TEs for positional strength at QB",
+  "p_accept_B": 0.15
+}
+```

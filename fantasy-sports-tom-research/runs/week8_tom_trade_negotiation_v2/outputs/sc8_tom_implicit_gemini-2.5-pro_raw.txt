@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Trevor Martin",
+    "Noah Brown"
+  ],
+  "ask_from_B": [
+    "Darian Thomas"
+  ],
+  "rationale": "Team A gets its ideal stable WR. Team B upgrades two starting spots (WR/TE) to salvage a 1-7 season.",
+  "p_accept_B": 0.55
+}

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Kyle Mitchell",
+    "Brian Scott"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "Convert WR surplus + low-upside TE into high-target TE1; plugs A\u2019s biggest positional hole",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc2_baseline_gpt-5.txt"
+  }
+}

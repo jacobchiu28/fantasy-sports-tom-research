@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 0,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 10,
+  "justification": "No evidence of Team B\u2019s priorities or mindset. The proposal claims an upgrade at TE but trades away a healthy Tier 1 TE (Thomas) for an out Tier 5 TE (Justin Wright), contradicting roster facts and A\u2019s stated preferences. No rationale for why conservative Team B would accept beyond obvious windfall, and B\u2019s profile isn\u2019t referenced. Explanation is brief and factually incorrect.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

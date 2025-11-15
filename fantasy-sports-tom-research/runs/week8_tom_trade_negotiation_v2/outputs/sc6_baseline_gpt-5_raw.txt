@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Kevin Flores", "Jordan Green"],
+  "ask_from_B": ["James Jones"],
+  "rationale": "Upgrade to dual-threat QB; sell RB with tough playoffs; A keeps RB depth and opens roster spot"
+}

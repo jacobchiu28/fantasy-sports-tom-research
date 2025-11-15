@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Nick Torres",
+    "Sam Reed"
+  ],
+  "ask_from_B": [
+    "Lucas Carter"
+  ],
+  "rationale": "Giving you a stable possession WR your roster needs and RB depth for my target QB. Fills needs for both of us.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

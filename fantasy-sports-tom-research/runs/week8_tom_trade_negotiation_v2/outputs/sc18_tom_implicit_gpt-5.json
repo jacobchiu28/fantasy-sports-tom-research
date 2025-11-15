@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Liam Torres",
+    "Sean Hernandez",
+    "Ethan Turner"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "A consolidates for workhorse; B gets TE upgrade + two RBs with friendly playoff slates for safer depth.",
+  "p_accept_B": 0.4,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_implicit_gpt-5.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Fails to model Team B: they value possession WR consistency and Thomas is their only such WR; asking for him conflicts with B\u2019s preferences. Team A trades away both RBs, leaving no starting RBs and violating practical roster needs. It also targets a Questionable player despite A\u2019s strict injury aversion. The \u2018consolidates\u2019 rationale is incorrect and ignores B\u2019s incentives and depth. Explanation is generic and not evidence-based.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Proposal ignores B\u2019s conservative, possession-WR preference and injury-buy-low tendency. It mislabels Josh Robinson (Tier 5) as a \u201cstud\u201d and calls Brandon Hernandez/Ben King \u201cconsistent\u201d despite deep-threat volatility and a declining RB role with tough playoff matchups. While the swap could fit B\u2019s WR need, the rationale lacks specifics on schedule, roles, or rankings B trusts. Feasible but weak ToM and thin justification.",
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

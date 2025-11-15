@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Identifies B\u2019s desire for a workhorse but ignores B\u2019s preference for proven vets and fading run-heavy offenses; Robinson is a rookie in a low-pass (likely run-heavy) setup. Trade asks B to give a Tier 2 WR (Torres) plus depth for a Tier 5 RB\u2014hurts B\u2019s WR floor and is value-skewed. Mislabels Robinson as A\u2019s \u201ctop asset.\u201d Rationale is brief and not evidence-based; acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

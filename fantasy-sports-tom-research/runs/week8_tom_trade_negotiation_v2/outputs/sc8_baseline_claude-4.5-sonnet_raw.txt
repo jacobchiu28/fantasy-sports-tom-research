@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Xavier Carter", "Malik Moore"],
+  "ask_from_B": ["Darian Thomas"],
+  "rationale": "Team A upgrades to low-variance possession WR, consolidates two committee RBs for consistent floor",
+  "p_accept_B": 0.35
+}
+```

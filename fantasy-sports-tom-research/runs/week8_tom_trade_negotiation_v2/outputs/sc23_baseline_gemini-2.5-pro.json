@@ -1,0 +1,15 @@
+{
+  "offer_from_A": [
+    "Josh Martin"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Team A leverages its workhorse RB depth to acquire a high-usage TE, strengthening its starting lineup for a championship run.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc23_baseline_gemini-2.5-pro.txt"
+  }
+}

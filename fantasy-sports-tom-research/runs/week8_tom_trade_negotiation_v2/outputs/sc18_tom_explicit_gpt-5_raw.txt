@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ben King", "Ethan Turner", "Liam Torres"],
+  "ask_from_B": ["Austin Torres", "Cameron Harris"],
+  "rationale": "B wants floor/depth; TE upgrade + stable RBs. A gets friendly-SoS QB and steady WR. Fair by consensus.",
+  "p_accept_B": 0.55
+}

@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Trey Adams",
+    "Ben Miller"
+  ],
+  "ask_from_B": [
+    "Darian Anderson"
+  ],
+  "rationale": "B gets a low-volatility RB and a solid young WR for a playoff run. A consolidates depth to get a needed veteran starter.",
+  "p_accept_B": 0.55
+}

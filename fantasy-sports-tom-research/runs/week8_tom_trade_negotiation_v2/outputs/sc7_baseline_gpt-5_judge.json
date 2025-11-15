@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "A-centric and lopsided. It asks B to give up a Tier 1 RB and a preferred dual-threat QB for a Tier 4 pocket QB, a WR2, and an injured Tier 4 RB\u2014misaligned with B\u2019s urgent need to win and upside preferences. It ignores B\u2019s values (dual-threat QBs, big-play upside) and playoff-slate thinking. It also conflicts with A\u2019s stated preference for pocket passers. The rationale is generic and doesn\u2019t address B\u2019s incentives or constraints.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

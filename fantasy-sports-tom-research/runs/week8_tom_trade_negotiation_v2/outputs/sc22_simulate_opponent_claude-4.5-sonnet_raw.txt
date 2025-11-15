@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Moore", "Ethan Campbell"],
+  "ask_from_B": ["Liam Torres"],
+  "rationale": "Offering consistent low-volatility RB for high-variance WR+RB. Targets B's preference for workhorses and consistency.",
+  "p_accept_B": 0.72
+}
+```

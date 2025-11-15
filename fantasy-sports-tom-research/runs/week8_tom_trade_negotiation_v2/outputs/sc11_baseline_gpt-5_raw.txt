@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Nick Roberts", "Sam Martin"],
+  "ask_from_B": ["Brandon Miller"],
+  "rationale": "Consolidate depth; upgrade WR by swapping a replaceable RB and volatile WR for a breakout WR."
+}

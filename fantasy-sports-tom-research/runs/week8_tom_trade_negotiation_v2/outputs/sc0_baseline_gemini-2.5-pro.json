@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Chris Reed",
+    "Trevor Brown"
+  ],
+  "rationale": "Team A trades its elite RB from a position of depth to acquire a stable QB and a reliable veteran WR, filling two holes.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_baseline_gemini-2.5-pro.txt"
+  }
+}

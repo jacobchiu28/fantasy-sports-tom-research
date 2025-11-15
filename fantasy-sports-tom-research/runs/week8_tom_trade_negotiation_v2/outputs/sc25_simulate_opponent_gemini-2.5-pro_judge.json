@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Shows minimal ToM: notes B\u2019s title run but ignores B\u2019s zero-RB philosophy and strong preference for rookies\u2014making Cameron Scott a core, unlikely trade piece. Two-for-one ask (Scott + Rodriguez) for Taylor feels value-heavy for A and clashes with B\u2019s tendencies. Acceptance at 0.75 is optimistic. Rationale is brief and lacks engagement with B\u2019s consensus-driven mindset or roster construction.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

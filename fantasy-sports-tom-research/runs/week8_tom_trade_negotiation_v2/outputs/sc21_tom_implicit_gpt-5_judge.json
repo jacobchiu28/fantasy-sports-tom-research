@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Shows basic ToM by noting B\u2019s RB need and A\u2019s desire for stable WRs, but ignores B\u2019s urgent-win context (playoff schedule cited instead) and B\u2019s preference for consensus/possession profiles. Trade is feasible: Tier 3 steady RB for Tier 4 steady-ish WR fits both rosters, though value may favor B. Explanation is overly brief and misses roster depth, bye impacts, and usage details. Overall, passable but shallow perspective-taking.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Chris Lee"
+  ],
+  "ask_from_B": [
+    "Sam Foster",
+    "Marcus Reed"
+  ],
+  "rationale": "B gains workhorse RB + steady QB; A gets dual-threat QB + upside RB\u2014fits both managers\u2019 styles.",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_implicit_gpt-5.txt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Xavier Johnson",
+    "Logan Holt"
+  ],
+  "ask_from_B": [
+    "Josh Flores"
+  ],
+  "rationale": "B gains steady QB + veteran WR (friendly playoffs); A consolidates into young RB with upside and playoff fit.",
+  "p_accept_B": 0.53,
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_implicit_gpt-5.txt"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Darian Moore",
+    "Sean Holt"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team A consolidates depth at WR and RB to acquire a high-upside TE, addressing its most significant roster weakness.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc14_baseline_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Minimal ToM. It nods to Team B\u2019s desire for consistency but ignores their strong adherence to expert rankings and preference for workhorse RBs. Asking for a Tier 1 WR (Sean Thompson) in exchange for a committee Tier 3 RB (Ethan Campbell) is value-incoherent, especially for an 8-0 team. The 0.55 acceptance probability is unrealistic. Rationale is brief and generic without role, workload, or ranking context.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

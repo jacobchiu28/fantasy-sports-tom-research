@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Cameron Harris", "Ethan Campbell"],
+  "ask_from_B": ["Josh Flores"],
+  "rationale": "Low-volatility QB+RB for young RB. Fits B's conservative style, friendly schedules, helps desperate 0-8 team.",
+  "p_accept_B": 0.72
+}
+```

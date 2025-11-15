@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Misreads Team B: they prefer proven veterans and high-powered offenses; Josh Robinson is a rookie in a low-volume offense and not a clear \u2018stud\u2019 (Tier 5). Asking B to give up a stable veteran RB (Ethan Campbell, Tier 3) plus a WR for a riskier back contradicts B\u2019s conservative approach. The rationale is brief and generic, overstates B\u2019s \u2018desire for a workhorse,\u2019 and the acceptance probability seems unrealistic given the value and fit.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

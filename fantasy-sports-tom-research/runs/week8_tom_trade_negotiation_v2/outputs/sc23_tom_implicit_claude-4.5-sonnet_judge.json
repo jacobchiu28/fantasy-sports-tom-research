@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Recognizes B could swap an injured RB for a healthy workload back, but overlooks B\u2019s appetite for buying low on injuries and their stronger RB depth vs. bigger QB/TE/WR needs. A\u2019s motive (\u201cconsolidates talent\u201d) is inaccurate for a 2-for-2 lateral swap. Trade is feasible but not well-aligned with team contexts or B\u2019s upside preference. Rationale is generic and thin on scenario specifics.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

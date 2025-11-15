@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Kevin Flores", "Matt Wright", "Kyle Martin"],
+  "ask_from_B": ["James Jones", "Eric Torres"],
+  "rationale": "Upgrading to dual-threat QB, swapping high-variance rookie WRs for veteran deep threat",
+  "p_accept_B": 0.62
+}
+```

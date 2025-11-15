@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Justin Reed",
+    "Mason Robinson"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "You get a quality rookie WR for your volatile corps and a solid RB, while selling high on Taylor before his tough playoff run.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Trevor Roberts", "Marcus Taylor"],
+  "ask_from_B": ["Josh Flores"],
+  "rationale": "Conservative B wants floor and Week10 QB cover; Roberts+Taylor add stability. Flores is expendable RB depth.",
+  "p_accept_B": 0.68
+}

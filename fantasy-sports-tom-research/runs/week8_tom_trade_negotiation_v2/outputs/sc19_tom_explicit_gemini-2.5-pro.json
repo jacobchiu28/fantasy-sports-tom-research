@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "David Baker"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "Team B gets a massive TE upgrade and a high-upside rookie WR, addressing its biggest need by trading from RB depth.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc19_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

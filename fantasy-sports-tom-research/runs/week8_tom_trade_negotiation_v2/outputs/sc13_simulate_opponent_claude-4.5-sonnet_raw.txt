@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Jordan Williams", "Adam Anderson"],
+  "ask_from_B": ["Josh Robinson"],
+  "rationale": "Offering high-variance committee back + volatile WR for consistent workhorse RB B values for playoff push",
+  "p_accept_B": 0.72
+}
+```

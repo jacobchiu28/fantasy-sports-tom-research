@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 20,
+  "justification": "Ignores Team B\u2019s stated values: they prize workhorse RBs and possession WRs yet are asked to give them up for a dual-threat QB (they prefer pocket passers) and an injured deep-threat WR. B already has a Tier 1 QB, so Derek White adds little. Mason Mitchell\u2019s questionable status clashes with B\u2019s injury caution. Trade guts B\u2019s RB core and offers no stack benefit. Rationale is vague and mislabels \u2018stability\u2019; acceptance probability is unrealistic.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

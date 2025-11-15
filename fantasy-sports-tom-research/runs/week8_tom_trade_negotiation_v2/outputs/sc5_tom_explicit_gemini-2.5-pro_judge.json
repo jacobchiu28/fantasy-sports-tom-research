@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Mentions B\u2019s desire for stability and roster consolidation, but misreads needs: B already has a workhorse RB and highly values low-variance Devon Miller, making him unlikely to trade. Asks for B\u2019s Tier 1 QB plus an out TE for A\u2019s Tier 5 RB\u2014poor value and mismatched to B\u2019s conservative style. Claims A has a TE hole despite rostering a Tier 1 TE. Rationale is brief and not grounded in roster/context specifics.",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Trey Mitchell", "Liam Green", "Marcus Taylor"],
+  "ask_from_B": ["Ryan Taylor"],
+  "rationale": "Upgrade to workhorse RB by consolidating depth; Team A strengthens RB1 position for playoff push",
+  "p_accept_B": 0.35
+}
+```

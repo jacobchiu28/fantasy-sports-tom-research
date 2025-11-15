@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Captures some of Team B\u2019s incentives (zero-RB, dual-threat QB upgrade) but ignores B\u2019s strong preference for rookies/consensus\u2014Cameron Scott is a Tier 1 rookie likely valued highly. Minimal attention to B\u2019s injury-buy tendency and QB bye overlap (Green/Holt both Week 10). Trade is roster-coherent and plausible, but A overpays and rationale is thin, lacking specifics on roles, byes, and playoff outlooks.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

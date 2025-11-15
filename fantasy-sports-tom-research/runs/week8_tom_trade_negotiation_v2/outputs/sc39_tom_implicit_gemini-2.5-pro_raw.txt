@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Liam Wright",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Noah Carter",
+    "Noah Brown"
+  ],
+  "rationale": "Swapping my WR/TE depth for your upside RB/TE. Wright's playoff schedule should help your title run.",
+  "p_accept_B": 0.55
+}

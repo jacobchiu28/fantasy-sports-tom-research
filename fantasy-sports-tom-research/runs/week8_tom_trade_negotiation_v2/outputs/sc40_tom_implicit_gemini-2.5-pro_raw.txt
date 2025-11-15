@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Austin Martin"
+  ],
+  "ask_from_B": [
+    "Sean Scott",
+    "Brian Hill"
+  ],
+  "rationale": "A gets a high-ceiling WR and a starting TE. B gets two stable players with great playoff schedules, improving depth and floor.",
+  "p_accept_B": 0.65
+}

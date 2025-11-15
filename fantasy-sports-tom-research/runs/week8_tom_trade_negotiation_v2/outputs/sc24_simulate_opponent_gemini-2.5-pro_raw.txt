@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Nick Holt",
+    "Alex Mitchell"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Team B gets a stable possession WR to fix their biggest need, plus RB depth, for their high-volatility TE.",
+  "p_accept_B": 0.65
+}

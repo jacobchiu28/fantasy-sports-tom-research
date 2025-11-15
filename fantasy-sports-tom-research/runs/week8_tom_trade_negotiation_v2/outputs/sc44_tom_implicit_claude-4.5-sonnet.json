@@ -1,0 +1,19 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Derek Harris"
+  ],
+  "ask_from_B": [
+    "Kyle Garcia",
+    "Austin Torres",
+    "Caleb Foster"
+  ],
+  "rationale": "Workhorse RB + stable WR for depth pieces; B gets floor, A gets consistency",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc44_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

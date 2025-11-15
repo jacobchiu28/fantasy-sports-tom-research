@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Chris Adams",
+    "Jamal Lopez"
+  ],
+  "ask_from_B": [
+    "Ryan Moore",
+    "Xavier Foster"
+  ],
+  "rationale": "B gets a needed QB upgrade & RB help to win now. A consolidates depth for a major TE upgrade and a playoff-friendly WR.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc32_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

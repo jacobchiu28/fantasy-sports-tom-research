@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Correctly notes B\u2019s TE weakness and preference for committee RBs/dual-threat QBs, but wrongly assumes QB surplus despite Clark being out. Offers an injured RB (Taylor, Q) to a manager who avoids injuries, undercutting fit. B needs immediate starters and would be left without a healthy QB. Rationale is concise but includes inaccuracies (\u201cwithout injury risk,\u201d TE1 claim) and overlooks B\u2019s risk tolerance and urgent need at QB.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

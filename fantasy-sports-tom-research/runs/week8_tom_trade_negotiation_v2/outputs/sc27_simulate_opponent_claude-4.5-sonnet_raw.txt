@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "Liam Carter"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "B gets stable QB+RB depth for playoff push; A gets consistent high-target TE matching conservative style",
+  "p_accept_B": 0.72
+}
+```

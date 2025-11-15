@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s conservatism but misreads needs: claims TE surplus when B\u2019s only strong TE is Noah Brown, and labels Isaiah as \u201csteadier\u201d despite Q tag and breakout profile. Eric Torres is boom/bust, not floor-friendly. Trade fits A\u2019s TE need but leaves B with TE4 and swaps a Tier-1 WR for two volatile WRs. Rationale is terse and light on specifics; acceptance probability seems optimistic.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

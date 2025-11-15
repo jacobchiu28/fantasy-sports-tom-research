@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Alex Thomas",
+    "Michael Mitchell"
+  ],
+  "ask_from_B": [
+    "Justin Wright"
+  ],
+  "rationale": "Upgrade TE from blocker to high-usage; move surplus deep WR with tough playoff slate",
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_baseline_gpt-5.txt"
+  }
+}

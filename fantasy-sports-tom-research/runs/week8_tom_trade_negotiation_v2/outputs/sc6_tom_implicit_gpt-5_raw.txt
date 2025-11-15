@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Noah Brown", "Sean Hernandez"],
+  "ask_from_B": ["Logan Clark"],
+  "rationale": "A upgrades to dual-threat QB; B gains TE starter and RB depth for immediate help",
+  "p_accept_B": 0.62
+}

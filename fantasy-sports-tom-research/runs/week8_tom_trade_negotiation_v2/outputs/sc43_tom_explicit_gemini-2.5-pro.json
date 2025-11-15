@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Michael Mitchell",
+    "Noah Carter"
+  ],
+  "rationale": "Team B gets the stable, workhorse RB they crave by trading away two high-volatility players who frustrate their style.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Identifies B\u2019s RB need but ignores A\u2019s preference for workhorse RBs and weekly floor; swapping Josh Martin for an injured TE conflicts with A\u2019s style. Calling Tyler Anderson a \u201cstable upgrade\u201d overlooks his Doubtful status and tough playoffs. Little engagement with B\u2019s upside/stack preferences or injury buy-low tendency (they\u2019d be selling the injured player). Offer is feasible but value and fit are off, and the rationale is generic rather than roster- and context-grounded.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

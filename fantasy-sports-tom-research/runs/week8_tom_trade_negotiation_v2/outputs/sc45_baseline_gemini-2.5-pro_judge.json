@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Proposal ignores Team B\u2019s ceiling-chasing, expert-consensus mindset and their preference for young ascending players with strong playoff schedules\u2014traits Isaiah Thompson has. Offering a Tier 5 workhorse RB for a Tier 2 ascending WR is a value mismatch; no argument why B would part with Isaiah or how it fits B\u2019s roster. P_accept is optimistic; rationale is generic and mislabels Isaiah as a \u201creliable WR1.\u201d",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ben King",
+    "Brandon Hernandez"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Bolstering your RB/WR depth for the playoff push with two solid, consistent starters for your one stud.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 18,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc18_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

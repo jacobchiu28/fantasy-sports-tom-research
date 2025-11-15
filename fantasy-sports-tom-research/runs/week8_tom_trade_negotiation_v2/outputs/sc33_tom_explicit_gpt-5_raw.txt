@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Trey Adams"],
+  "ask_from_B": ["Darian Anderson"],
+  "rationale": "Conservative, consensus-driven B wants floor; Trey Adams fits. Trade WR depth (Darian Anderson). A gains steady WR now.",
+  "p_accept_B": 0.55
+}

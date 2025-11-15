@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 0,
+  "perspective_taking": 0,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 10,
+  "justification": "Offer ignores Team B\u2019s mindset and needs. B is conservative, prefers pocket passers/veterans, and needs wins; trading a Tier 1 QB (Chris Reed) plus a starter WR for a rookie Tier 5 RB is implausible, especially with B\u2019s RB depth. It mislabels Josh Robinson as \u201celite\u201d and claims A has RB depth despite injuries. Rationale is A-centric, doesn\u2019t address B\u2019s incentives (injured buy-lows, possession WRs), and conflicts with A\u2019s own preference for workhorse RB stability and stacks.",
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

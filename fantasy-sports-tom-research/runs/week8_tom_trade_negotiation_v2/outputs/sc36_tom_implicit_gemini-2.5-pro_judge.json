@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Recognizes B\u2019s appetite for ceiling via dual-threat QB and deep-threat WR, but ignores B\u2019s urgent need for immediate points; both incoming pieces are out/doubtful. Overlooks A\u2019s stated avoidance of injury concerns while targeting a Questionable workhorse. Value/timeline mismatch makes B unlikely to part with a Tier 1 RB now. Rationale is brief and generic, lacking specifics on statuses, roster fit, and timing. Acceptance probability seems optimistic.",
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

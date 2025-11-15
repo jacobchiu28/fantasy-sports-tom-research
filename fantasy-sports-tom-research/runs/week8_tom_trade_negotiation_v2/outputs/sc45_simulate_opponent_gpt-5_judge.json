@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Identifies Team B\u2019s WR surplus and playoff-schedule interest, but misses B\u2019s consensus-driven nature implying near-auto accept for a Tier 1 RB + TE for a Tier 4 WR (p_accept likely far higher). Poor separation of A\u2019s needs: A is 2-6 and trades away its Tier 1 RB, undermining urgent win-now goals. Kyle Taylor isn\u2019t a deep-threat, only a Tier 4 outside WR, mismatching A\u2019s stated preferences. The offer is lopsided and unrealistic from A\u2019s side. Rationale is brief and lacks concrete, player-tier evidence.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

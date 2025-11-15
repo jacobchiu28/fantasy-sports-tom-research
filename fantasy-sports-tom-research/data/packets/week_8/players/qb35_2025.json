@@ -1,0 +1,83 @@
+{
+  "player_id": "qb35_2025",
+  "name": "Isaiah Lee",
+  "position": "QB",
+  "team": "CLE",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      30,
+      44
+    ],
+    "completion_pct_range": [
+      62,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      17
+    ],
+    "rush_share_pct_range": [
+      3,
+      14
+    ],
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "Low",
+    "confidence": 0.85,
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.65
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with mid week-to-week variance",
+  "summary_text": "Healthy Tier 4 QB in mid-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 4 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 25,
+  "justification": "Rationale focuses only on Team A\u2019s desire for stability and ignores Team B\u2019s incentives. No modeling of B\u2019s upside preference or willingness to take on injured/volatile assets. The trade is wildly lopsided (A sends a Tier 1 RB and Tier 2 WR for B\u2019s Tier 3 RB with declining role), conflicting with A\u2019s urgent need to win and conservative style. Explanation is concise but generic, with minimal scenario grounding and no discussion of B\u2019s motivations.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

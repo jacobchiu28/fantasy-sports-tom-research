@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 60,
+  "justification": "Offers B a slot WR and TE, loosely matching B\u2019s consistency/possession lean and TE need, but mislabels Liam Adams as steady despite a declining role and overlooks B\u2019s veteran bias and 8-0 risk profile. Distinguishes A\u2019s upside pursuit from B\u2019s return, yet shallow. The trade is plausible given B\u2019s RB depth and Lewis\u2019s volatility, though playoff/context details are thin. Explanation is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

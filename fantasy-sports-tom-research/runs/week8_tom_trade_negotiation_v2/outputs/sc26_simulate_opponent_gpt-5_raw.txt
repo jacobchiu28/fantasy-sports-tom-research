@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ryan Taylor", "Liam Adams"],
+  "ask_from_B": ["Tyler Anderson"],
+  "rationale": "B gets a workhorse RB plus upside TE; A upgrades to a high-usage TE for stability.",
+  "p_accept_B": 0.7
+}

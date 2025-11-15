@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Josh Robinson", "James Campbell"],
+  "ask_from_B": ["Austin Torres", "Austin Wright"],
+  "rationale": "Aggressive, consensus-leaning B wants young playoff RB ceiling; Robinson fits. Trades WR surplus (Torres)+RB depth.",
+  "p_accept_B": 0.68
+}

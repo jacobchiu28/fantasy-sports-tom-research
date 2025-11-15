@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Lucas Hernandez", "Liam White"],
+  "ask_from_B": ["Ben King", "Cameron Harris"],
+  "rationale": "Fits B: gains dual-threat QB and rookie with friendly playoffs; trades surplus pocket QB and RB with tough SoS.",
+  "p_accept_B": 0.62
+}

@@ -1,0 +1,12 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "Adam Anderson"],
+  "ask_from_B": ["Derek Foster", "Lucas Flores"],
+  "rationale": "B gets high-variance dual-threat QB + volatile WR. A gets committee RB w/ friendly playoff schedule + young TE.",
+  "p_accept_B": 0.42,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B is WR-heavy (9 WRs) but thin at RB (only Derek Foster) and TE (2 blocking TEs). However, B's manager favors high-upside players and committee backs with breakout potential.",
+    "team_b_psychology": "Manager B: (1) loves high-variance players - Ethan Torres (dual-threat, mid volatility) and Adam Anderson (possession WR, high volatility) fit this profile, (2) trusts expert consensus - both are likely ranked as startable assets, (3) actively buys injured players and values upside, (4) already in strong playoff position (7-1) so can afford risk.",
+    "fairness_perception": "B likely sees this as giving up their only true RB (Derek Foster) which creates positional scarcity. However, Foster is high-volatility committee back - exactly what B likes but also expendable given their WR depth. Lucas Flores is a blocking TE with limited value. B gets a dual-threat QB (depth/upside) and high-variance WR to add to their collection.",
+    "team_a_motivation": "Team A (0-8, desperate) needs RB help badly - all their RBs are committee backs. Derek Foster has friendly playoff schedule which matters for A's slim playoff hopes. A has 4 TEs (excessive depth) and can spare Anderson given WR depth. Trading away backup QB Ethan Torres for RB upgrade makes sense.",
+    "acceptance_likelihood": "Moderate-low (42%). B might reject because: (1) giving up only RB creates hole, (2) not enough value return for starting RB. B might accept because: (1) loves high-variance players like Anderson, (2) has QB depth need, (3

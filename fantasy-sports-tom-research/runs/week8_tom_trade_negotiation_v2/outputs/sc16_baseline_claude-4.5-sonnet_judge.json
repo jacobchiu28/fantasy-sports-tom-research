@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Offer ignores Team B\u2019s preferences: they value healthy, reliable workhorse RBs and possession WRs, making a swap of Ryan Taylor for a committee RB plus a doubtful, volatile WR misaligned. The rationale is A-centric and doesn\u2019t address B\u2019s incentives or roster needs, though the low p_accept hints at some awareness. The trade is feasible but unlikely given both teams need immediate, consistent production. Explanation is brief and not evidence-based.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

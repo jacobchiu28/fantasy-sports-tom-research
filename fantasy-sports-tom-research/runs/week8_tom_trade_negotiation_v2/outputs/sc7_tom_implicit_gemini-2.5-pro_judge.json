@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges B\u2019s need for upside but ignores that B trusts consensus rankings and would highly value a Tier 1, ascending RB. Asking B to trade Justin Garcia for a volatile rookie WR with a declining role is unrealistic, especially when B needs immediate points. Perspective-taking is shallow and the 0.65 acceptance probability is implausible. Rationale is generic and lacks player/tier/context specifics.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

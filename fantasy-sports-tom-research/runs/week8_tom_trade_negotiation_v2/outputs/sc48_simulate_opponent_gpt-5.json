@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Logan Mitchell",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "David Adams"
+  ],
+  "rationale": "B adds needed Week 10 TE (friendly playoffs) and upside rookie WR; trades surplus volatile RB to RB-needy A.",
+  "p_accept_B": 0.56,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_simulate_opponent_gpt-5.txt"
+  }
+}

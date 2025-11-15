@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Darian Allen",
+    "Caleb Turner"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Consolidate RB depth and a quality WR to acquire a true workhorse running back for the playoff push."
+}

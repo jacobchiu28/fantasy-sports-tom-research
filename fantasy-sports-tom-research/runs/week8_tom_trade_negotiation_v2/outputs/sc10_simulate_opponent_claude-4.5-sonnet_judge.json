@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B\u2019s needs: a 1-7, conservative, volume-first manager is unlikely to trade a Tier 1 RB (Justin Garcia) and a veteran WR for a mid-variance WR (Torres) and an OUT TE. Torres is mislabeled as a low-volatility possession WR, and injured TE depth doesn\u2019t help urgent wins. The offer is value-imbalanced and the high accept probability is unrealistic. Rationale is generic, not grounded in roles, injuries, or Team B\u2019s contrarian profile.",
+  "_meta": {
+    "scenario_id": 10,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

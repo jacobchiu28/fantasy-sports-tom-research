@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Trey Adams"
+  ],
+  "ask_from_B": [
+    "Michael Roberts"
+  ],
+  "rationale": "Team A upgrades its biggest weakness (TE) by trading from a position of relative depth (RB), acquiring a high-target pass-catcher."
+}

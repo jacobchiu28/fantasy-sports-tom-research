@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Jake Green",
+    "Marcus Reed"
+  ],
+  "ask_from_B": [
+    "Ethan Turner",
+    "Kevin Allen"
+  ],
+  "rationale": "You get dual-threat QB + RB depth; we fix TE and add a boom WR for balance.",
+  "p_accept_B": 0.58,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_tom_implicit_gpt-5.txt"
+  }
+}

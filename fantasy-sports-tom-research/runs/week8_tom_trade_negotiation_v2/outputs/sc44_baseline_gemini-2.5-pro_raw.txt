@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Austin Wright",
+    "David Flores"
+  ],
+  "ask_from_B": [
+    "Austin Torres"
+  ],
+  "rationale": "Consolidate RB/TE depth for an upgrade at WR to improve starting lineup and target a friendly playoff schedule."
+}

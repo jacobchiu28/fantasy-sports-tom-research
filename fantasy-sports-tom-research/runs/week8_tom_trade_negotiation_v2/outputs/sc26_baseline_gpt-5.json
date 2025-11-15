@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Justin Miller",
+    "Liam Adams"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson"
+  ],
+  "rationale": "Upgrade to high-target TE; move expendable WR with tough playoff slate plus TE depth",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_baseline_gpt-5.txt"
+  }
+}

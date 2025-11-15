@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Xavier Johnson",
+    "Logan Holt"
+  ],
+  "ask_from_B": [
+    "Austin Allen"
+  ],
+  "rationale": "B gets a veteran WR and safe QB with a good schedule to win now. A consolidates for a high-upside rookie TE.",
+  "p_accept_B": 0.65
+}

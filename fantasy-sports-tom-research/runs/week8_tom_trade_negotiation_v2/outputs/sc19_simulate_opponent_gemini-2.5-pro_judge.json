@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "B trusts consensus and SoS; trading a Tier 2 RB with a friendly playoff schedule (Josh Garcia) for an OUT Tier 5 TE (Wright) and a volatile rookie WR (Baker) with tough playoff matchups misreads B\u2019s incentives. Calling Garcia a \u201cstable RB\u201d and Wright a TE fix is inconsistent. The rationale is brief and generic, lacking role/tier/schedule specifics. Acceptance probability is overstated.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

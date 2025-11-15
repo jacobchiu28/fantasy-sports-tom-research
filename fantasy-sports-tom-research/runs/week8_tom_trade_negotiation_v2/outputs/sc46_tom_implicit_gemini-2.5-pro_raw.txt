@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Justin Hernandez"
+  ],
+  "ask_from_B": [
+    "Liam Adams",
+    "Malik Carter"
+  ],
+  "rationale": "I add consistent depth at TE/RB. You get a high-upside young QB with a great playoff schedule. Helps both our builds.",
+  "p_accept_B": 0.65
+}

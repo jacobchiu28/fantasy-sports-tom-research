@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ryan Taylor", "Jake Green"],
+  "ask_from_B": ["Ryan Moore", "Ethan Turner"],
+  "rationale": "B 6-2 zero-RB, consensus-leaning; gets RB1+dual-threat, keeps rookie WR. A gets WR boom + TE. Needs swap.",
+  "p_accept_B": 0.52
+}

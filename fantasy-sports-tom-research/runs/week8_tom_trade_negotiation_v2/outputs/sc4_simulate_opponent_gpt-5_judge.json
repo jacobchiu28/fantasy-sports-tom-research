@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Acknowledges Team B\u2019s appetite for rookie ceiling by offering Trevor Rodriguez, but overlooks B\u2019s TE depth and A\u2019s injury-averse stance in seeking a questionable Tier-4 TE. The deal is incoherent for Team A: surrendering a Tier-1 WR for a marginal TE upgrade (arguably a downgrade vs Holt) doesn\u2019t fit A\u2019s needs. Rationale is generic and lacks role/tier/schedule context.",
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

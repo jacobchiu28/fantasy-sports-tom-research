@@ -1,0 +1,83 @@
+{
+  "player_id": "qb27_2025",
+  "name": "Tyler Lewis",
+  "position": "QB",
+  "team": "DAL",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      27,
+      46
+    ],
+    "completion_pct_range": [
+      61,
+      67
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      18
+    ],
+    "rush_share_pct_range": [
+      6,
+      17
+    ],
+    "trend_5g": "Down",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.72
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.5,
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 8,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.87
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with high week-to-week variance",
+  "summary_text": "Healthy Tier 3 QB in mid-volume passing offense, mid tempo with declining role. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with high week-to-week variance",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 3 (High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

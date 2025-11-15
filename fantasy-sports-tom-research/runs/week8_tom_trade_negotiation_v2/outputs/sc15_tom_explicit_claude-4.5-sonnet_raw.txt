@@ -1,0 +1,31 @@
+```json
+{
+  "offer_from_A": ["Darian Anderson", "Liam Green"],
+  "ask_from_B": ["Ben King", "Cameron Scott"],
+  "rationale": "Team B gets young breakout RB + mid-variance WR; Team A gets stable floor RB + low-variance possession WR",
+  "p_accept_B": 0.62
+}
+```
+
+**Reasoning about Team B's perspective:**
+
+Team B's manager is an aggressive risk-taker (6-2 record) who chases ceiling over floor and values rookies with breakout potential. They actively buy low on injured players and make independent evaluations.
+
+What Team B likely wants:
+- Young players with upside (Liam Green is a young breakout RB)
+- Players with boom potential to maximize ceiling
+- Not concerned about volatility or floor
+
+How Team B perceives fairness:
+- Values upside over consistency
+- Willing to give up stable players (Ben King - low volatility, Cameron Scott - low variance rookie) for higher-ceiling options
+- Sees Liam Green as a young breakout RB with growth potential
+- Darian Anderson provides mid-variance veteran depth at WR
+
+Why this works for Team A:
+- Desperately needs wins (1-7) with conservative approach
+- Ben King offers low volatility RB production (stable floor)
+- Cameron Scott is low-variance possession-style WR (outside receiver, rookie with friendly playoff schedule)
+- Both align with Team A's preference for stable weekly floors over boom/bust
+
+The trade addresses Team A's need for consistency while giving Team B the young breakout upside they prefer.

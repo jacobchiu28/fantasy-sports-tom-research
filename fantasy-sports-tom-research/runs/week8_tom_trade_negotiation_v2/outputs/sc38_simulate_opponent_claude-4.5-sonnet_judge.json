@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 65,
+  "justification": "Accurately notes B\u2019s desire for a QB upgrade and big-play WR, aligned with consensus trust. Misses B\u2019s strong injury aversion and creates RB depth risk by sending away Harris plus Nelson, leaving B reliant on a Questionable RB. Reasoning separates A\u2019s need for RB depth from B\u2019s upgrades but is terse and light on specifics (tiers, schedules). Trade is coherent and plausible, but ToM about B\u2019s risk tolerance and depth needs is only partial.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

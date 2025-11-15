@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "The proposal centers on Team A\u2019s upgrade and ignores Team B\u2019s preferences for healthy, consistent players and favorable schedules. B\u2019s Josh Robinson has a friendly playoff schedule and workhorse role, aligning with B\u2019s values; A offers an injured RB (Alex King), a volatile committee RB (Caleb Turner) with tough playoffs, and a deep-threat WR (Cameron Holt) with tough playoffs\u2014poor fit for B. Rationale is brief and A-centric despite a modest p_accept. Trade is feasible but poorly tailored to B.",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

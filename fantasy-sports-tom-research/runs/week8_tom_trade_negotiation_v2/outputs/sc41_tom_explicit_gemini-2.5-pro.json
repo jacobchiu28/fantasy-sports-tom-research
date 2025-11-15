@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Lucas Allen",
+    "Jordan King"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team B gets a consistent veteran WR and a solid RB for a TE from their strength, helping their immediate need for wins.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Marcus Reed",
+    "Sean Holt"
+  ],
+  "ask_from_B": [
+    "Ethan Turner",
+    "Cameron Scott"
+  ],
+  "rationale": "Upgrades TE position with receiving threat, adds low-variance WR depth while consolidating committee RBs",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_baseline_claude-4.5-sonnet.txt"
+  }
+}

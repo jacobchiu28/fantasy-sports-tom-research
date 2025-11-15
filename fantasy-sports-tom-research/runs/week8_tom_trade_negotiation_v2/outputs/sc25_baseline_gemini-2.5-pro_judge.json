@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Minimal ToM: it assumes B wants an RB anchor but ignores B\u2019s zero-RB approach and strong preference for breakout rookies like Cameron Scott. It misreads A\u2019s roster\u2014A already has a Tier 1 TE (Adam Wilson), so claiming a TE weakness is incoherent, especially when asking for a Tier 4 TE. The value framing is shallow and doesn\u2019t address B\u2019s incentives or playoff posture. Rationale is generic and not grounded in roster context.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

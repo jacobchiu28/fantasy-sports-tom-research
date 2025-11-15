@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Acknowledges B\u2019s preference for low-variance pocket QBs and steady vets, but ignores B already has a Tier 1 QB and values RB workloads\u2014making Alex White unlikely to be moved for depth. A is 0-8 yet targets a Doubtful RB and an Out TE, contradicting urgent win needs. The TE is mislabeled as \u2018usable.\u2019 Rationale is brief and not grounded in roster context or injuries.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

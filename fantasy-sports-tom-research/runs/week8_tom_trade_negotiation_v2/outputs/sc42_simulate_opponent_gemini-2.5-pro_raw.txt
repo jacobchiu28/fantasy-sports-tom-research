@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "David Campbell"
+  ],
+  "ask_from_B": [
+    "Isaiah Adams"
+  ],
+  "rationale": "B swaps a TE with a tough playoff schedule for a low-volatility veteran WR to stabilize his volatile receiving corps.",
+  "p_accept_B": 0.7
+}

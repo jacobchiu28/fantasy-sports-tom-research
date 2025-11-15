@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Ignores Team B\u2019s preferences and situation: B values dual-threat QBs and immediate upside at 0-8; Jones fits that, Flores doesn\u2019t. B already has strong RB depth, so a Tier-4 RB adds little. The \u201ctough playoff\u201d angle helps A, not B. The swap is mechanically feasible (QB-for-QB plus RB) but misaligned with B\u2019s incentives. Rationale is terse and A-centric with minimal evidence.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Acknowledges Team B might want young breakout players, but ignores B\u2019s urgent need for safe floors, consensus-following, and comfort buying low on injured. Mislabels David Campbell as a high-floor upgrade for A despite Tier 4 status and low-volume offense. Trade is legal but heavily favors B in value, making A\u2019s motive incoherent. Rationale is generic and lacks specifics on tiers, roles, injuries, or bye/usage context.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

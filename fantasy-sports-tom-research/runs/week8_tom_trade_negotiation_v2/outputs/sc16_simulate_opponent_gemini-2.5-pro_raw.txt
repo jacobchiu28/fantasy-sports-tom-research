@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "David Nelson",
+    "Matt Adams"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "A offers a stable veteran QB and WR for B's high-volatility workhorse. Both desperate teams get a needed shake-up.",
+  "p_accept_B": 0.55
+}

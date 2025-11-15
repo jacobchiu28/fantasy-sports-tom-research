@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex Thompson",
+    "Ben Martin"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Team A offers two high-upside young players for B's stable RB. A needs a safe floor to win now; B can chase a higher ceiling.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

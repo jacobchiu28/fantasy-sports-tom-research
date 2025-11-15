@@ -1,0 +1,83 @@
+{
+  "player_id": "qb1_2025",
+  "name": "Trey Rodriguez",
+  "position": "QB",
+  "team": "MIA",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      29,
+      41
+    ],
+    "completion_pct_range": [
+      61,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      9,
+      17
+    ],
+    "rush_share_pct_range": [
+      3,
+      14
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.89
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Slow",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.67,
+    "ol_pass_block_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 7,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Tough",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.61
+  },
+  "archetype_tags": [
+    "pocket_qb"
+  ],
+  "role_description": "Traditional pocket passer with low week-to-week variance",
+  "summary_text": "Healthy Tier 4 QB in high-volume passing offense, slow tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Traditional pocket passer with low week-to-week variance",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "High pass rate, Slow tempo",
+    "market": "Tier 4 (Low trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

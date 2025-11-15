@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 4,
+  "consistency": 2,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Good read on B\u2019s WR depth, RB scarcity, youth and playoff-schedule preferences, and A\u2019s upside focus. However, asking two Tier-2 WRs for a Tier-5 RB plus Tier-3 WR is value-skewed, clashing with B\u2019s consensus-trusting profile. Calling A\u2019s return \u201chealthier WRs\u201d ignores Isaiah Thompson\u2019s Q tag and A\u2019s injury caution. The acceptance probability is optimistic. Reasoning is mostly grounded but has gaps and an incomplete rationale.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

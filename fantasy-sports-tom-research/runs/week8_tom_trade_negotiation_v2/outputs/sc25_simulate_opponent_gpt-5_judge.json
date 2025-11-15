@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s desire for dual-threat QB and WR surplus, but overlooks key factors: Jake Green and B\u2019s QB share the same bye (Week 10), A\u2019s injury-cautious approach conflicts with acquiring a Questionable WR, and A would lose their only healthy elite dual-threat QB during a playoff push. Rationale is brief and lacks detail on value, roles, and team philosophies (e.g., B\u2019s zero-RB WR depth preservation). Coherence and ToM are only moderate.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

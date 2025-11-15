@@ -1,0 +1,89 @@
+{
+  "player_id": "wr68_2025",
+  "name": "James Rivera",
+  "position": "WR",
+  "team": "NYG",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      64,
+      87
+    ],
+    "route_participation_pct_range": [
+      74,
+      95
+    ],
+    "targets_per_route_run_pct_range": [
+      22,
+      32
+    ],
+    "target_share_pct_range": [
+      17,
+      29
+    ],
+    "air_yards_share_pct_range": [
+      30,
+      45
+    ],
+    "slot_rate_pct_range": [
+      22,
+      71
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Down",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.78
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "None",
+    "confidence": 0.73,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 6,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Tough",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.58
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, high weekly variance",
+  "summary_text": "Healthy Tier 2 WR in high-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, high weekly variance",
+    "volatility": "High",
+    "health": "Healthy",
+    "context": "High pass rate, Fast tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

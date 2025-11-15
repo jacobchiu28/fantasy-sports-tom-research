@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Some nod to B\u2019s buy-low-on-injury tendency by including an injured TE, but it mislabels Justin Wright as high-upside and Josh Robinson as a \u201cstable RB1.\u201d Benefits to both sides are asserted without linking to B\u2019s stated preferences (deep threats, committee backs, urgent wins). The offer is feasible but internally inconsistent with player tiers/roles. Rationale is a one-liner lacking roster/context specifics.",
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

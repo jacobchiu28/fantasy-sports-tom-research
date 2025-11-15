@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Misreads Team B: they already have a Tier 1 TE, so Noah Brown is a downgrade, and Derek Harris is out and volatile, not a floor play for a conservative, win-now manager. Asking for Austin Torres (healthy, ascending, favorable schedule) contradicts B\u2019s immediate needs. Rationale is brief and relies on generic TE scarcity, ignoring B\u2019s roster context. Minimal separation of A vs. B incentives.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

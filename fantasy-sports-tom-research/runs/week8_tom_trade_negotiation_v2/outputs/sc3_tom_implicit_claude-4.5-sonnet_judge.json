@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Fails to model B\u2019s consensus-driven, rookie/upside preferences; asks B to give up a Tier 2 breakout WR with a friendly playoff slate for a Tier 3 Q-tag possession WR and a worse RB. Minimal separation of A vs. B incentives and ignores B\u2019s playoff-schedule focus (which favors keeping Torres). Trade value is lopsided and p_accept is overstated. Rationale is generic and not grounded in tiers, roles, or injury context.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

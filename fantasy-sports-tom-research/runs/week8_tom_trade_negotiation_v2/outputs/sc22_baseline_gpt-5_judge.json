@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "A-centric rationale. It ignores B\u2019s preference for consistent, workhorse RBs and reliance on expert consensus; Michael Walker is a volatile committee back, and David Young is an uncertain injured QB. No mention of B\u2019s WR depth or injured-buy strategy. Calling Justin Young a \u201cstable\u201d upgrade misreads his deep-threat variance. Trade value is plausible but reasoning lacks ToM depth.",
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

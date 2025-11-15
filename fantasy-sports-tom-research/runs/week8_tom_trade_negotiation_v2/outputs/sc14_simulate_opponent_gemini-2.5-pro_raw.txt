@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Noah Brown",
+    "Ethan Campbell"
+  ],
+  "rationale": "You get the workhorse RB to reduce team variance, I upgrade my TE and get a stable RB with a great playoff schedule.",
+  "p_accept_B": 0.75
+}

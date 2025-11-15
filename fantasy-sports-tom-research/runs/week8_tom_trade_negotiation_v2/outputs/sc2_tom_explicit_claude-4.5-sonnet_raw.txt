@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Taylor"],
+  "ask_from_B": ["Trevor Martin", "Michael Roberts"],
+  "rationale": "Team B follows zero-RB; gets workhorse RB. Team A gets deep threat WR + receiving TE for playoff push.",
+  "p_accept_B": 0.72
+}
+```

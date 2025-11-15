@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Nick Holt"
+  ],
+  "ask_from_B": [
+    "Josh Garcia"
+  ],
+  "rationale": "B gets a stable, veteran possession WR to fix his volatile corps. A gets a needed RB with a friendly playoff schedule.",
+  "p_accept_B": 0.7
+}

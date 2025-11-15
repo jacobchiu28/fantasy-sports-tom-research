@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Torres", "Marcus Gonzalez", "Matt Wright"],
+  "ask_from_B": ["Derek Foster"],
+  "rationale": "Team A upgrades RB depth by consolidating surplus TEs and WR for high-upside committee back with friendly playoff schedule",
+  "p_accept_B": 0.42
+}
+```

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "B values healthy workhorse RBs and reliability; offering a Doubtful, high-variance WR plus a Tier 2 QB for B\u2019s Tier 1 workhorse ignores those preferences. While noting both teams need a shake-up, it fails to address B\u2019s injury caution and RB-centric priorities. B already has a Tier 1 QB, so Nelson isn\u2019t a clear need. The rationale is generic and mislabels the RB as merely high-volatility, making 0.55 acceptance unlikely.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

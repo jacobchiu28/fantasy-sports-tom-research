@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Kyle Garcia"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team B is 2-6 and needs immediate, stable production. Two low-volatility veteran RBs provide that floor over their boom/bust guys.",
+  "p_accept_B": 0.65
+}

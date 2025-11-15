@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Tyler Miller",
+    "Nick Torres"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "B wants floor/targets & playoff QB (conservative, zero-RB). Trades volatile workhorse RB for Tyler + steadier WR.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc9_tom_explicit_gpt-5.txt"
+  }
+}

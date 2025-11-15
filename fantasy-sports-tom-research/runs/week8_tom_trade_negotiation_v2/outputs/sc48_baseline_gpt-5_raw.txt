@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Trevor Roberts", "Michael Mitchell"],
+  "ask_from_B": ["Jordan Williams"],
+  "rationale": "Turn surplus QB+volatile WR into RB depth with friendly playoff slate; avoids Week 11 bye stack."
+}

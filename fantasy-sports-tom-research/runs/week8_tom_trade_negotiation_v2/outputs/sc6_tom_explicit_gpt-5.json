@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Matt Wright",
+    "Darian Campbell"
+  ],
+  "ask_from_B": [
+    "Logan Clark"
+  ],
+  "rationale": "0-8 B keeps Jones, gets rookie upside + no injury risk and QB bye cover; A gets dual-threat ceiling in Clark.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_tom_explicit_gpt-5.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Understands B\u2019s preference for dual-threat QBs and A\u2019s QB surplus, and targets a playoff-friendly deep threat for A. However, it overlooks B already having a Tier 2 QB (Holt), B\u2019s urgent need for immediate points versus Adams\u2019 Q tag and Week 9 bye risk, and B\u2019s WR depth that makes Moore expendable (partially implied but unstated). Rationale is concise but thin on scenario details. Trade is coherent and feasible, but ToM depth is only moderate.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

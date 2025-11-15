@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Shallow ToM. It vaguely assumes Team B needs RB help but ignores B\u2019s zero-RB approach, consensus-trusting, and injury caution (though Ryan Taylor is healthy). It misstates that A is upgrading at TE by acquiring a Tier 4 TE, while A already has a Tier 3 TE. The trade is wildly lopsided (Tier 1 RB for Tier 4 TE) and incoherent with A\u2019s risk/ceiling profile. Explanation is generic and not grounded in roster or playoff context.",
+  "_meta": {
+    "scenario_id": 2,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

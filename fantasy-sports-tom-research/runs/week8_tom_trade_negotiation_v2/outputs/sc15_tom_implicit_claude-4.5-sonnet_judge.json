@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Shows some ToM by framing A as floor-seeking and B as upside-seeking, but misses B\u2019s strong rookie preference and likely reluctance to trade a Tier 1 rookie (Cameron Scott). Overstates Anderson\u2019s appeal to B. The swap is feasible and partially fits A\u2019s need for stability (Scott, Ben King low variance) but conflicts with A\u2019s valuing of workhorse RBs by moving Tier 1 Liam Green. Rationale is brief and generic, with little concrete player/context detail.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

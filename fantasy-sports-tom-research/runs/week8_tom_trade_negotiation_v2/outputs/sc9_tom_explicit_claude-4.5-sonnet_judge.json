@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 4,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "Shows ToM by noting B\u2019s floor needs and WR volatility, offering Sam Lewis as a stable RB and giving A ceiling with Ryan Taylor. But it misses B\u2019s preference for possession WRs (Mason Torres isn\u2019t one) and clashes with B\u2019s zero-RB mindset by asking them to swap a top workhorse RB for another RB. Value feels lopsided (Taylor > Lewis; Moore \u2265 Torres), so acceptance is unlikely. Rationale is concise but light on specifics.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

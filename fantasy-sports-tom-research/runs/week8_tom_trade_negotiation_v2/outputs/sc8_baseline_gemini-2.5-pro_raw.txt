@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Xavier Carter"
+  ],
+  "ask_from_B": [
+    "Darian Thomas",
+    "Devon Reed"
+  ],
+  "rationale": "Upgrade at RB with a better committee back and acquire a stable WR floor by trading a top TE and a comparable RB.",
+  "p_accept_B": 0.45
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Darian Anderson",
+    "Caleb Turner"
+  ],
+  "ask_from_B": [
+    "Cameron Gonzalez"
+  ],
+  "rationale": "Team A consolidates WR/RB depth to acquire a high-usage, weekly-starter at a thin TE position, a major roster weakness.",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc15_baseline_gemini-2.5-pro.txt"
+  }
+}

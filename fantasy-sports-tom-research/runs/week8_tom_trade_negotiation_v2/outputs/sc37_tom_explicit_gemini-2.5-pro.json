@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Justin Reed",
+    "Mason Robinson"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor"
+  ],
+  "rationale": "You get a quality rookie WR for your volatile corps and a solid RB, while selling high on Taylor before his tough playoff run.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Derek Allen"
+  ],
+  "ask_from_B": [
+    "Nick Holt",
+    "Alex White"
+  ],
+  "rationale": "A gets needed stability at RB/WR, while B acquires the high-upside workhorse RB he's missing for a playoff push.",
+  "p_accept_B": 0.65
+}

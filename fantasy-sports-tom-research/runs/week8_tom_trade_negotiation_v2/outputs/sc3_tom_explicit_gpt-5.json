@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "Liam White"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Cameron Harris"
+  ],
+  "rationale": "Fits B: gains dual-threat QB and rookie with friendly playoffs; trades surplus pocket QB and RB with tough SoS.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_tom_explicit_gpt-5.txt"
+  }
+}

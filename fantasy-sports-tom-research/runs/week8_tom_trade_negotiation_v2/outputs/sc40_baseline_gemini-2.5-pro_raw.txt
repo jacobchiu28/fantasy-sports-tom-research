@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Mason Holt"
+  ],
+  "rationale": "Team A trades from its WR depth to acquire a starting TE with a favorable playoff schedule, solving its biggest roster weakness."
+}

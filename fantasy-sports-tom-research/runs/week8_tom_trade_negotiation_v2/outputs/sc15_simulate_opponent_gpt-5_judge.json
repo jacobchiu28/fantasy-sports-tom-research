@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Considers B\u2019s ceiling-chasing and RB depth, but overestimates appeal of Chris Garcia (Tier 5, declining) and Caleb Turner (Tier 4, tough playoffs) as true upside. Ignores B\u2019s already strong WR room and preference for dual-threat QBs/injured buys. A\u2019s need for floor is noted, but rationale is shallow and not roster-specific. Coherence for B is weak; acceptance likely overstated.",
+  "_meta": {
+    "scenario_id": 15,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Shows basic awareness that B needs win-now pieces, but ignores B\u2019s stated preference for workhorse RBs and their acute TE need. Treats Sam Lewis as a stable RB1 for A (fits A\u2019s conservative style), but doesn\u2019t explain why B would surrender their most reliable RB. Reasoning is brief and generic, lacking details on roles, volatility, or playoff schedules. Trade is feasible and coherent, but ToM depth is limited.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

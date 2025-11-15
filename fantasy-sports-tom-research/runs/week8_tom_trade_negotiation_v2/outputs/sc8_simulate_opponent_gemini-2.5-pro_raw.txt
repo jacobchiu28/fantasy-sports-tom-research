@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Matt Nguyen",
+    "Xavier Carter"
+  ],
+  "ask_from_B": [
+    "Darian Thomas"
+  ],
+  "rationale": "Team B gets two starters to fill holes on a struggling roster. Team A consolidates assets to get a low-volatility WR.",
+  "p_accept_B": 0.65
+}

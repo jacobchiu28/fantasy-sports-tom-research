@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Sean Adams", "Liam Wright", "Chris Torres"],
+  "ask_from_B": ["Noah Carter", "Noah Brown"],
+  "rationale": "B: contrarian, values big-play WRs; TE-rich, RB-thin. Adams+Wright+Torres for Noah Brown+Noah Carter balances needs.",
+  "p_accept_B": 0.56
+}

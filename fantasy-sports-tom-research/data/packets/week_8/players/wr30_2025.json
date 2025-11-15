@@ -1,0 +1,89 @@
+{
+  "player_id": "wr30_2025",
+  "name": "Malik Scott",
+  "position": "WR",
+  "team": "WAS",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      60,
+      89
+    ],
+    "route_participation_pct_range": [
+      75,
+      95
+    ],
+    "targets_per_route_run_pct_range": [
+      19,
+      27
+    ],
+    "target_share_pct_range": [
+      20,
+      32
+    ],
+    "air_yards_share_pct_range": [
+      25,
+      43
+    ],
+    "slot_rate_pct_range": [
+      20,
+      78
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.81
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.66,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Loose",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.62
+  },
+  "archetype_tags": [
+    "deep_threat_wr",
+    "outside_wr"
+  ],
+  "role_description": "Deep-threat receiver with big-play ability, mid weekly variance",
+  "summary_text": "Healthy Tier 2 WR in mid-volume passing offense, fast tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Deep-threat receiver with big-play ability, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

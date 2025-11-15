@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Tyler Miller (QB)", "Trevor Rodriguez (WR)", "Mason Holt (TE)"],
+  "ask_from_B": ["Cameron Harris (QB)", "Brandon Taylor (TE)"],
+  "rationale": "B gets ceiling QB + rookie WR; A gets steady QB and a needed pass-catching TE",
+  "p_accept_B": 0.64
+}

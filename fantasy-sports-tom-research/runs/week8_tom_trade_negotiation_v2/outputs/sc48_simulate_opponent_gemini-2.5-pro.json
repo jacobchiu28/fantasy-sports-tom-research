@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Alex Thompson",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "Jordan Williams"
+  ],
+  "rationale": "A consolidates two young assets for a vet RB. B gets two high-ceiling lottery tickets, fitting their aggressive style.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc48_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

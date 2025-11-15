@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Darian Moore",
+    "Sean Holt"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team A consolidates depth at WR and RB to acquire a high-upside TE, addressing its most significant roster weakness."
+}

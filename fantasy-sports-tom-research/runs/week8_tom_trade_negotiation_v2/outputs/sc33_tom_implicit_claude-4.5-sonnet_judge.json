@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "It nods to Team B\u2019s preference for stable floors by offering a pocket QB and low-vol RB, but misses that B already has a pocket QB and prefers possession WRs. The asked WRs aren\u2019t true \u2018consistent\u2019 targets, and the incoming QB is Tier 4 with a declining role. Reasoning doesn\u2019t reference B\u2019s 8-0, playoff-focused incentives or depth needs. The trade is feasible, but the rationale is generic and thin on roster/context specifics.",
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Rationale misreads Team B\u2019s preferences by asking for their dual-threat QB and rookie upside while offering floor players, despite B valuing upside. Minimal separation of A vs. B motives. Trade is feasible (B has QB depth and could use a WR upgrade), but it conflicts with Team A\u2019s conservative style and sacrifices a Tier 2 possession WR. Explanation is generic and lacks roster/context details.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

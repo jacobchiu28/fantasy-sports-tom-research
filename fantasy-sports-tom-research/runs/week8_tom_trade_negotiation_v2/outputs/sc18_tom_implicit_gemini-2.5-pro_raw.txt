@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Ben King"
+  ],
+  "ask_from_B": [
+    "Austin Torres"
+  ],
+  "rationale": "I have RB depth to spare and need a reliable WR. You get a low-volatility RB2 to add a stable floor behind your workhorse.",
+  "p_accept_B": 0.65
+}

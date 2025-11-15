@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Josh Martin",
+    "Austin Torres"
+  ],
+  "rationale": "A gets needed stability at RB/WR by trading high-volatility players. B gets a higher-ceiling RB, fitting their aggressive style.",
+  "p_accept_B": 0.6
+}

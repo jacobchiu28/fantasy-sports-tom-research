@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Logan Clark", "Eric Davis"],
+  "ask_from_B": ["Josh Martin"],
+  "rationale": "B (3-5) chases ceiling, trusts rankings—dual-threat QB + boom WR for safe workhorse. Need-fit, fair upside trade.",
+  "p_accept_B": 0.44
+}

@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell"
+  ],
+  "ask_from_B": [
+    "Sean Thompson"
+  ],
+  "rationale": "Trading my consistent, veteran RB for your high-upside young WR. You get a reliable floor piece for your playoff run.",
+  "p_accept_B": 0.55
+}

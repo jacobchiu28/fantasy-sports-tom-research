@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Kevin Flores", "Noah Brown", "Kyle Martin"],
+  "ask_from_B": ["James Jones", "Logan Walker"],
+  "rationale": "Team B gets receiving TE + high-upside rookie WR. Team A gets dual-threat QB B values but has backup.",
+  "p_accept_B": 0.42
+}
+```

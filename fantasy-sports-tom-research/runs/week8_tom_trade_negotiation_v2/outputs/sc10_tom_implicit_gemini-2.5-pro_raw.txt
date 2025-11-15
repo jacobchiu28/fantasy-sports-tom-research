@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Alex White",
+    "Austin Torres"
+  ],
+  "ask_from_B": [
+    "Sean Thompson"
+  ],
+  "rationale": "Giving you two reliable weekly starters for one of your volatile receivers. Helps your immediate need for stable points.",
+  "p_accept_B": 0.65
+}

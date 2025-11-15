@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Sean Holt",
+    "Ben Martin"
+  ],
+  "ask_from_B": [
+    "Trevor Martin"
+  ],
+  "rationale": "Consolidating my depth for a more reliable WR. You get two high-upside young players for your playoff push.",
+  "p_accept_B": 0.65
+}

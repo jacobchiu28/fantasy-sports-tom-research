@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trevor Roberts",
+    "Liam Torres"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Cameron Holt"
+  ],
+  "rationale": "Stable QB+RB for conservative manager; King's low volatility + Holt's targets fit A's contrarian buy-low approach",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "offer_from_A": [
+    "Jordan King"
+  ],
+  "ask_from_B": [
+    "Austin Torres"
+  ],
+  "rationale": "Team A trades an RB from a position of depth for a needed WR with a more favorable playoff schedule to balance its roster.",
+  "_meta": {
+    "scenario_id": 43,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc43_baseline_gemini-2.5-pro.txt"
+  }
+}

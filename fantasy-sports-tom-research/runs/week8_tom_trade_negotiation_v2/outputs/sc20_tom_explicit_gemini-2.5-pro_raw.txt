@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Josh Garcia"
+  ],
+  "ask_from_B": [
+    "Jake Green"
+  ],
+  "rationale": "You upgrade your RB room for the playoffs with a promising rookie, and get a solid dual-threat QB back from my team.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B: they already have strong RB depth and prefer workhorse volume, making a committee Tier 3 RB unappealing. B\u2019s conservative, injury-averse approach plus a doubtful TE1 means trading away their healthy Tier 2 TE (Roberts) is unlikely. The rationale is generic and ignores B\u2019s TE dependence and RB surplus. Technically feasible and helps A\u2019s TE floor, but poorly aligned with B\u2019s incentives.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

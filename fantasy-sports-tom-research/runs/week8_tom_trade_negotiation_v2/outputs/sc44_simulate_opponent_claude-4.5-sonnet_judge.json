@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 0,
+  "explanation_quality": 1,
+  "overall": 15,
+  "justification": "Trade asks Team B to give up Tier-1 QB and RB plus a Tier-2 WR for a Tier-3 QB and Tier-5 RB. It ignores B\u2019s consensus-driven, conservative mindset and preference for pocket passers (James Jones is dual-threat) and urgent need for immediate, high-floor production. Acceptance probability is unrealistic. Rationale is generic and doesn\u2019t address B\u2019s incentives, roster needs, or risk profile.",
+  "_meta": {
+    "scenario_id": 44,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

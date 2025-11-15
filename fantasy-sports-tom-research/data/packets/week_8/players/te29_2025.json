@@ -1,0 +1,84 @@
+{
+  "player_id": "te29_2025",
+  "name": "Logan Mitchell",
+  "position": "TE",
+  "team": "CIN",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      59,
+      80
+    ],
+    "route_participation_pct_range": [
+      58,
+      87
+    ],
+    "target_share_pct_range": [
+      13,
+      21
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      19
+    ],
+    "inline_block_rate_pct_range": [
+      30,
+      56
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Up",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.83
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.62,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 3-4",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 1",
+    "expert_spread": "Tight",
+    "start_rate_band": "90-100%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.5
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+  "summary_text": "Healthy Tier 1 TE in high-volume passing offense, mid tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, mid usage consistency",
+    "volatility": "Mid",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 1 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

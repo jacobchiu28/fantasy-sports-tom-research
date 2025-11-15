@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Trey Adams"],
+  "ask_from_B": ["Brandon Martinez"],
+  "rationale": "B gains a low-variance RB to stabilize floors; A gains a steadier WR for must-win weeks.",
+  "p_accept_B": 0.56
+}

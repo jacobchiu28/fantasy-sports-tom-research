@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Misreads Team B\u2019s valuation: they trust consensus and wouldn\u2019t swap a Tier 1 TE (Walker) and an RB with a friendly playoff slate (Josh Garcia) for an injured TE5 (Wright) and an out RB (Hill). While B tolerates injury for upside, calling Wright a TE1 upgrade is incorrect. Team A\u2019s conservative, injury-averse style also clashes with targeting a doubtful TE and a committee RB rather than a workhorse. Rationale is brief and factually off, showing weak multi-agent reasoning.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

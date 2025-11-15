@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Austin Wright", "Derek Allen"],
+  "ask_from_B": ["Kyle Garcia", "Austin Torres"],
+  "rationale": "Upgrade RB floor with Garcia's low volatility, add WR depth with Torres' mid variance and friendly playoff schedule",
+  "p_accept_B": 0.35
+}
+```

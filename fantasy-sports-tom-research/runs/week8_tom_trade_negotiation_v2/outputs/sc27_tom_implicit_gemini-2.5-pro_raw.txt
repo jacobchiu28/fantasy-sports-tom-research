@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Austin Torres",
+    "Liam Carter"
+  ],
+  "ask_from_B": [
+    "Sam Lewis"
+  ],
+  "rationale": "A consolidates depth for a stable RB1. B gets a promising WR and a veteran RB to help a struggling team win now.",
+  "p_accept_B": 0.55
+}

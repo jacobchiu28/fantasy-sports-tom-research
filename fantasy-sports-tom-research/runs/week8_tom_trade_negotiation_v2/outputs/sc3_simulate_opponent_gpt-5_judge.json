@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Recognizes B\u2019s interest in dual-threat QB, rookie upside, and playoff angle. However, ignores that B already has a Tier 1 QB (Cameron Harris) and shaky TE depth. For A, labeling Flores as \u201cTE stability\u201d conflicts with A\u2019s injury-avoidance and Flores\u2019s doubtful status; A also downgrades from a Tier 2 to Tier 4 QB, clashing with A\u2019s reliability preference. Reasoning is brief and lacks detail on each team\u2019s roster context.",
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

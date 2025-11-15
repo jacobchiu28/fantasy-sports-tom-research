@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Garcia",
+    "Justin Nelson"
+  ],
+  "ask_from_B": [
+    "Devon Reed",
+    "Darian Thomas"
+  ],
+  "rationale": "Flip backup QB and boom WR for RB depth and steady slot WR; improves starting lineup and bye balance.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc8_baseline_gpt-5.txt"
+  }
+}

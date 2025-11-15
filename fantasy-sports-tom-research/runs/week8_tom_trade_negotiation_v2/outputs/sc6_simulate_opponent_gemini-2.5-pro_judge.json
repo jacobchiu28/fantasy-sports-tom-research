@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "The offer overlooks Team B's preference for dual-threat QBs, asking them to give up their only healthy dual-threat (Jones) for a pocket passer despite their need for upside. Adding rookie RB Campbell fits B's rookie/upside bias but RB is already a strength. Calling it a QB upgrade is debatable (both Tier 3; Jones has a declining role). The 0.65 accept probability seems high. Rationale is brief and lacks roster and schedule context.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

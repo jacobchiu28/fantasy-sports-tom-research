@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Eric Davis"
+  ],
+  "ask_from_B": [
+    "Logan Clark",
+    "Isaiah Thompson"
+  ],
+  "rationale": "A playoff schedule upgrade at QB for you, which we both value. You get a high-upside WR, which fits your style.",
+  "p_accept_B": 0.55,
+  "_meta": {
+    "scenario_id": 29,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc29_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

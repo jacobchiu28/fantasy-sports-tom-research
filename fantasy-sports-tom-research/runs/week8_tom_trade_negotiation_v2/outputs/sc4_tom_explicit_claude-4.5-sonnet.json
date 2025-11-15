@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor",
+    "Trevor Rodriguez"
+  ],
+  "ask_from_B": [
+    "Josh Martin",
+    "Austin Torres"
+  ],
+  "rationale": "Team B gets high-ceiling workhorse RB + rookie WR upside; Team A gets consistency + friendly schedule",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 4,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc4_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

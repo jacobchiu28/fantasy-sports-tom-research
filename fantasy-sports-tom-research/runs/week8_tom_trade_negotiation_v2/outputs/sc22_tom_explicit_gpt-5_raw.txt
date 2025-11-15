@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Campbell", "Marcus Taylor"],
+  "ask_from_B": ["Sean Thompson"],
+  "rationale": "B prefers consistency and RB depth; we send steady RB + possession WR for their volatile WR; consensus-fair",
+  "p_accept_B": 0.5
+}

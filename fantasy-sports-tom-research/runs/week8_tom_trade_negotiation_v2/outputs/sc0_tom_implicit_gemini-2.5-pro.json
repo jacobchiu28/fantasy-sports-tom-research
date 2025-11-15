@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Chris Reed",
+    "Trevor Brown"
+  ],
+  "rationale": "Team A gets a stable QB and veteran WR to stop the bleeding. Team B gets the young workhorse RB they desperately need.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 0,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc0_tom_implicit_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brandon Martinez", "Austin Martin"],
+  "ask_from_B": ["Josh Flores", "Austin Torres"],
+  "rationale": "A offers friendly schedule WRs for B's stable RBs with friendly schedules; fits B's floor preference",
+  "p_accept_B": 0.42
+}
+```

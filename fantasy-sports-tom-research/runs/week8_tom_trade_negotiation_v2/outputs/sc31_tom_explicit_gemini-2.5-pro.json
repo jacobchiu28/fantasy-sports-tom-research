@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Liam Torres",
+    "Alex White"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera"
+  ],
+  "rationale": "You get two young, upside RBs to solve your critical depth issue. I consolidate to chase wins with a high-ceiling WR.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

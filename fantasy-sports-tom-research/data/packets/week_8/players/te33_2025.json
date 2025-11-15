@@ -1,0 +1,84 @@
+{
+  "player_id": "te33_2025",
+  "name": "Jamal Garcia",
+  "position": "TE",
+  "team": "SF",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      65,
+      81
+    ],
+    "route_participation_pct_range": [
+      58,
+      82
+    ],
+    "target_share_pct_range": [
+      13,
+      20
+    ],
+    "air_yards_share_pct_range": [
+      10,
+      17
+    ],
+    "inline_block_rate_pct_range": [
+      31,
+      55
+    ],
+    "red_zone_target_share_tier": "Bottom",
+    "trend_5g": "Up",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.89
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.62,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 6,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Tough",
+      "17": "Tough"
+    },
+    "stack_tags": [],
+    "confidence": 0.69
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, low usage consistency",
+  "summary_text": "Healthy Tier 4 TE in high-volume passing offense, mid tempo with ascending usage trend. Tough playoff matchups.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, low usage consistency",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 4 (Very High trade interest)",
+    "schedule": "Tough playoff matchups"
+  }
+}

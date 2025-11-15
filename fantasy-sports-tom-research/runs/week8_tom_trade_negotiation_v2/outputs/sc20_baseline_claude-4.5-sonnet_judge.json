@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Minimal ToM: notes low accept probability but ignores B\u2019s stated preferences. B prefers healthy, young, ascending deep-threats; Austin Williams fits that, so asking for him is misaligned, and offering injured vets (White Q, Adams doubtful) clashes with B\u2019s injury caution. Trade logic is weak: A gives two Tier 2 RBs for a Tier 3 RB and Tier 5 WR, contradicting the \u2018consolidation into higher quality\u2019 rationale and A\u2019s injury aversion (acquiring a Q WR). Explanation is generic and not grounded in roster/context.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

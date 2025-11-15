@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Captures B\u2019s urgency and preference for dual\u2011threat QBs and RB depth, but misses that B already has a Tier 2 QB (Holt) and values expert consensus. A\u2019s rationale is off: acquiring an Out TE contradicts A\u2019s injury-cautious profile and doesn\u2019t improve TE floor (A already has a Tier 1 TE). The playoff WR \u2018upgrade\u2019 is modest. Explanation is brief and generic, with key preference mismatches unaddressed.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

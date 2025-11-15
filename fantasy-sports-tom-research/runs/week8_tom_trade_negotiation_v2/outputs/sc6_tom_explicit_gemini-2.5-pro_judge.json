@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 55,
+  "justification": "Acknowledges Team B\u2019s 0-8 state and offers a rookie upside RB, but overlooks B\u2019s strong RB depth and stated preference for dual-threat QBs by asking for their only healthy one and replacing him with a pocket QB. The trade itself is feasible and value-positive for B (2-for-1, both healthy), and A\u2019s need is clear, but rationale is thin and lacks concrete, scenario-grounded detail. Acceptance probability seems optimistic.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brandon Martinez", "Sean Hernandez"],
+  "ask_from_B": ["Xavier Rodriguez"],
+  "rationale": "B gets stable possession-like WR + RB depth. A gets workhorse RB for playoff push. Fits both conservative styles.",
+  "p_accept_B": 0.72
+}
+```

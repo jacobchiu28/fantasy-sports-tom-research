@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Noah Brown",
+    "Darian Campbell"
+  ],
+  "ask_from_B": [
+    "Logan Clark"
+  ],
+  "rationale": "You keep Jones; trade backup QB for TE1 plus upside rookie RB to help win now.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_simulate_opponent_gpt-5.txt"
+  }
+}

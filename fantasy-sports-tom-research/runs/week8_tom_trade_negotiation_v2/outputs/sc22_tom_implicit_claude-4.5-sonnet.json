@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ryan Moore",
+    "Marcus Taylor"
+  ],
+  "ask_from_B": [
+    "Liam Torres",
+    "Ethan Turner"
+  ],
+  "rationale": "Trading high-variance WRs for consistent RB workload and reliable TE target share",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

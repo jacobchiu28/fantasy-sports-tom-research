@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Marcus Taylor",
+    "Austin Allen"
+  ],
+  "ask_from_B": [
+    "Liam Torres"
+  ],
+  "rationale": "Upgrade RB depth by trading surplus WR/TE; Torres has friendly playoff schedule and mid volatility",
+  "p_accept_B": 0.35,
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_baseline_claude-4.5-sonnet.txt"
+  }
+}

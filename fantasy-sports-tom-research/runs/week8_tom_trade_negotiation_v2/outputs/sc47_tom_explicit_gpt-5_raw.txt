@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Turner", "Jamal Lopez"],
+  "ask_from_B": ["Xavier Rodriguez", "Jamal Adams"],
+  "rationale": "B is 7-1, conservative; values TE floor, trusts consensus—Turner>Adams. RB swap is lateral, keeps depth, low risk.",
+  "p_accept_B": 0.64
+}

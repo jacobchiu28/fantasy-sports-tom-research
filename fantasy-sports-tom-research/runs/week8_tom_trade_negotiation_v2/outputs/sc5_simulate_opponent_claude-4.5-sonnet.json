@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Darian Anderson"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor",
+    "Eric Allen"
+  ],
+  "rationale": "Offering stable workhorse RB + consistent WR for volatile pieces B would fade per contrarian style",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

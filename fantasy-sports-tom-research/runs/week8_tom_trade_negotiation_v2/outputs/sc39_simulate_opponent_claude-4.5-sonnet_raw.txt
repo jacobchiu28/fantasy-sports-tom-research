@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Derek White", "Liam Wright"],
+  "ask_from_B": ["Noah Carter", "Jordan Moore"],
+  "rationale": "A trades dual-threat QB depth for high-upside RB/WR B values; contrarian B sells consensus players",
+  "p_accept_B": 0.62
+}
+```

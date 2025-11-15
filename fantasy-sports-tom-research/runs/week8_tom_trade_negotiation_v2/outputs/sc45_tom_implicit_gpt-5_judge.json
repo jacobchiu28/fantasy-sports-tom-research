@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Mentions B\u2019s playoff view and a \u2018workhorse,\u2019 but ignores B\u2019s deep-threat bias and consensus-driven rankings (Josh Robinson is Tier 5). Misstates A\u2019s outcome: A loses two RBs and gains only one (no RB depth gain) and the WR isn\u2019t a deep threat, weakening fit with A\u2019s stated preferences and urgent win-now needs. Trade is feasible roster-wise and B\u2019s WR depth makes Taylor expendable, but the rationale is generic and partially incorrect, with limited multi-agent reasoning.",
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

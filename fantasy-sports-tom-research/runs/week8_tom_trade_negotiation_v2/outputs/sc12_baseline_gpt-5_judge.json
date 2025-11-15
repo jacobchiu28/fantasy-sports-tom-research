@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Minor ToM: sending a dual-threat QB incidentally fits B\u2019s preferences, but the write-up ignores B\u2019s needs (IR QB, upside bias) and motivations. Calling Lewis a \u201csurplus QB\u201d is incorrect\u2014A would have no healthy QB after the trade, conflicting with A\u2019s conservative style and urgent need to win. B might consider the deal for QB help, but the rationale doesn\u2019t articulate that. The explanation is terse and not grounded in roster context, injuries, or archetypes.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

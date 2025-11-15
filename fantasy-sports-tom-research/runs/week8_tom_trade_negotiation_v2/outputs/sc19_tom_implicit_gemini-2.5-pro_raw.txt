@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Justin Wright",
+    "David Baker"
+  ],
+  "ask_from_B": [
+    "Josh Garcia",
+    "Kyle Martinez"
+  ],
+  "rationale": "Team A consolidates volatile youth for stabler floors. Team B solves its huge TE need with a high-upside breakout player.",
+  "p_accept_B": 0.65
+}

@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Alex Mitchell"
+  ],
+  "ask_from_B": [
+    "Jamal Roberts"
+  ],
+  "rationale": "B gains RB volume depth; A gets steadier TE floor; aligns with both conservative styles",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc24_simulate_opponent_gpt-5.txt"
+  }
+}

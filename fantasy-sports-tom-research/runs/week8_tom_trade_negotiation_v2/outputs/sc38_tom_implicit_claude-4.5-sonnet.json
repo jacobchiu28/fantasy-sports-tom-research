@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sam Martin",
+    "Sean Thompson"
+  ],
+  "ask_from_B": [
+    "Brian Harris",
+    "Matt Nelson"
+  ],
+  "rationale": "High-upside WRs for stable RB depth; A gets floor, B gets ceiling with friendly playoff schedules",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc38_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

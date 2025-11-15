@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Caleb Jackson", "Jordan Rivera"],
+  "ask_from_B": ["Malik Carter", "Liam Adams"],
+  "rationale": "B gets upside: Caleb (dual-threat) + Rivera; gives Malik (low-ceiling vet) + Liam (sell high), still has Taylor at TE.",
+  "p_accept_B": 0.6
+}

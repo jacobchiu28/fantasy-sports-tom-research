@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Liam Torres",
+    "Chris Torres"
+  ],
+  "ask_from_B": [
+    "Jordan Rivera"
+  ],
+  "rationale": "Team B fills huge RB/TE needs with young players who have great playoff schedules. Team A gets a high-ceiling WR to chase wins.",
+  "p_accept_B": 0.75,
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

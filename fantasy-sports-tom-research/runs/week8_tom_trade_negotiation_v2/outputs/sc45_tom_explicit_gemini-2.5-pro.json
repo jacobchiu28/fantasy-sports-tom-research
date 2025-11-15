@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Isaiah Thompson",
+    "Nick Roberts"
+  ],
+  "rationale": "Team B gets a workhorse RB for their playoff run, trading from WR depth. A gets a solid WR and an RB to win now.",
+  "p_accept_B": 0.6,
+  "_meta": {
+    "scenario_id": 45,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc45_tom_explicit_gemini-2.5-pro.txt"
+  }
+}

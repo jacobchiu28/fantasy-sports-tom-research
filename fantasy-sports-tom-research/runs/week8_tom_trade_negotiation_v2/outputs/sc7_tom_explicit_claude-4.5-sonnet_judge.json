@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Misreads Team B\u2019s needs: they already have two Tier-2 dual-threat QBs, making Nelson redundant, while trading away RB2 Sean Holt depletes RB depth. Incorrectly labels Holt as injured and overstates QB volatility (Sam Foster is low variance). Assumes B will pivot to floor despite stated upside preference and playoff-schedule focus. For Team A, acquiring a high-volatility RB conflicts with a conservative, floor-focused profile. Reasoning is structured but factually inconsistent; acceptance probability is inflated.",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

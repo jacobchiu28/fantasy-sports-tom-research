@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "The offer notes A\u2019s TE upgrade but barely models B\u2019s beliefs: B likes upside and is comfortable with injured stars, making them unlikely to sell a Tier 1 TE (even Doubtful) for a committee RB and a possession WR. Perspective-taking is shallow, citing generic \u2018depth\u2019 without B\u2019s style fit. The trade is structurally coherent (A needs TE; B could use RB/WR depth) but misaligned with B\u2019s preferences. Explanation is brief and not grounded in scenario specifics.",
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

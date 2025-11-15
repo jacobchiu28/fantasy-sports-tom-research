@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "They note B can keep the preferred pocket QB and trade a surplus QB, but misread B\u2019s win-now needs and consistency bias. Offering an \u2018Out\u2019 Tier 5 committee RB and a high-variance WR for a Tier 1 QB is misaligned with B\u2019s priorities (workhorse RBs, reliable targets). Value is lopsided and calling it \u201cRB stability\u201d is inaccurate. Rationale is brief and generic, with little evidence or context.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

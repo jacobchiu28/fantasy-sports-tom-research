@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Minor ToM attempt by offering a steady pocket QB for B\u2019s consistency bias, but it ignores B\u2019s strong preference for workhorse RBs by asking for Ryan Taylor. The TE piece is a downgrade (B has a Tier 2 TE; A offers Tier 4), contradicting the stated \u201cTE upgrade.\u201d B already has a Tier 1 QB, making Nelson redundant. The valuation and fit are incoherent, and the explanation is brief and factually off.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

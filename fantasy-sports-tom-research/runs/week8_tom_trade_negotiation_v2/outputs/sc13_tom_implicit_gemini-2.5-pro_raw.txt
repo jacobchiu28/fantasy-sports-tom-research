@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Michael Roberts",
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Noah Carter",
+    "Justin Hernandez"
+  ],
+  "rationale": "A gets needed RB depth and a rookie WR. B gets a major TE upgrade and a more stable WR for his playoff run.",
+  "p_accept_B": 0.7
+}

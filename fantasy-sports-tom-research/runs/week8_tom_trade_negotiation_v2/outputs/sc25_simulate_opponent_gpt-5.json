@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Jake Green"
+  ],
+  "ask_from_B": [
+    "Kevin Allen"
+  ],
+  "rationale": "B upgrades to dual-threat QB depth; A adds needed WR depth from B\u2019s surplus",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc25_simulate_opponent_gpt-5.txt"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Cameron Harris", "Ethan Campbell"],
+  "ask_from_B": ["Josh Flores"],
+  "rationale": "Stable QB+RB for young RB; A gets upside, B gets floor and friendly schedules",
+  "p_accept_B": 0.72
+}
+```

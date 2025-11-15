@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Brian Harris", "Kyle Garcia"],
+  "ask_from_B": ["Devon Martinez", "Chris Garcia"],
+  "rationale": "Two stable veteran RBs for high-upside rookie WRs - fits both team needs and manager styles",
+  "p_accept_B": 0.68
+}
+```

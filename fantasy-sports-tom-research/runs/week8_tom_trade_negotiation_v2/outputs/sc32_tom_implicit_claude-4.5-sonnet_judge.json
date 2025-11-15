@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 3,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges B\u2019s preference for dual-threat QBs and deep threats, and Harris as an injury buy, but ignores B\u2019s urgent need for immediate points and that B already has a Tier-2 QB (Holt). Asking B to give up an active WR2 and RB depth for a lateral QB and an out WR is misaligned with their record. Feasible trade, but 0.72 accept is optimistic; rationale is too terse and lacks roster/role context.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

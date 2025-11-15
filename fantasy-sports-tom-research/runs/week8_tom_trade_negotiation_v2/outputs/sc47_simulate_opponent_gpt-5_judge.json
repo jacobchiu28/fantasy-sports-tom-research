@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Minimal ToM. It notes B\u2019s depth gain but ignores B\u2019s conservative, consensus-driven preferences and injury caution. A\u2019s rationale mislabels Lucas Allen (Out, Tier 5, declining) as a steady floor, conflicting with A\u2019s urgent need for wins and floor preference. B already has a TE4; Ethan Turner (TE4, inconsistent) and a Tier 5 RB don\u2019t align with B\u2019s floor/value priorities. The offer is feasible but poorly justified and mismatched to both managers\u2019 stated profiles.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

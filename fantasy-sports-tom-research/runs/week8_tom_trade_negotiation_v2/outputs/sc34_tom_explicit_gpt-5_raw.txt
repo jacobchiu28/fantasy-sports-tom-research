@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Campbell (RB)", "Cameron Harris (QB)"],
+  "ask_from_B": ["Marcus Reed (RB)", "Caleb Jackson (QB)"],
+  "rationale": "B is conservative/0-8: wants floor. Harris+Campbell give steady, friendly SOS; A takes Reed+Caleb upside. Fair need fit.",
+  "p_accept_B": 0.55
+}

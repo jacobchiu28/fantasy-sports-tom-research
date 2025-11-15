@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 4,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Reasonable roster fit (B has RB depth, WR scarcity), but minimal ToM. It ignores B\u2019s contrarian, injury-averse preference for established, healthy players and playoff schedules: Justin Miller is questionable with tough playoff matchups; Foster\u2019s role is declining; Liam Carter has a friendly playoff slate. Rationale describes only A\u2019s benefit and offers no B-centric incentives. Feasible, but unlikely to match B\u2019s motivations.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

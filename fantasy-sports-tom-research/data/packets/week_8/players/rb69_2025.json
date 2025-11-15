@@ -1,0 +1,85 @@
+{
+  "player_id": "rb69_2025",
+  "name": "Ethan Campbell",
+  "position": "RB",
+  "team": "BUF",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      42,
+      78
+    ],
+    "rush_share_pct_range": [
+      40,
+      71
+    ],
+    "target_share_pct_range": [
+      7,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      32,
+      52
+    ],
+    "red_zone_target_share_tier": "Top",
+    "pass_block_snap_share_pct_range": [
+      14,
+      32
+    ],
+    "trend_5g": "Up",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Healthy",
+    "practice_trend": [
+      "FP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": null,
+    "confidence": 0.87
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.7,
+    "qb_quality_tier": "Top",
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Falling",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Loose",
+    "start_rate_band": "80-90%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.75
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, low production volatility",
+  "summary_text": "Healthy Tier 3 RB in mid-volume passing offense, fast tempo with ascending usage trend. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, low production volatility",
+    "volatility": "Low",
+    "health": "Healthy",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 3 (Very High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

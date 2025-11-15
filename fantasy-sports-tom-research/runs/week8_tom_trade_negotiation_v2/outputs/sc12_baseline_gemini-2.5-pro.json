@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Isaiah Thompson",
+    "Alex Thompson"
+  ],
+  "ask_from_B": [
+    "Ben King"
+  ],
+  "rationale": "Consolidating WR depth and a volatile RB to acquire a stable, low-volatility starting running back to address a position of need.",
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_baseline_gemini-2.5-pro.txt"
+  }
+}

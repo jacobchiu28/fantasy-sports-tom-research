@@ -1,0 +1,1 @@
+{"offer_from_A":["Ryan Taylor","Noah Green"],"ask_from_B":["Michael Roberts","Devon Lewis"],"rationale":"B gains workhorse touches; A upgrades to high-target TE while retaining RB depth.","p_accept_B":0.62}

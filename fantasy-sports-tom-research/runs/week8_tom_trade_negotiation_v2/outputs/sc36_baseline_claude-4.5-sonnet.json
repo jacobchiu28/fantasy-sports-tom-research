@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Logan Mitchell"
+  ],
+  "ask_from_B": [
+    "Josh Martin"
+  ],
+  "rationale": "Upgrade committee back to workhorse RB; Team A has TE depth to spare",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 36,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc36_baseline_claude-4.5-sonnet.txt"
+  }
+}

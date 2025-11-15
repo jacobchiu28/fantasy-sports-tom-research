@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Jordan King", "Derek Allen"],
+  "ask_from_B": ["Noah Brown"],
+  "rationale": "Upgrades Team A's TE position with receiving-focused asset while clearing committee RBs and volatile WR depth",
+  "p_accept_B": 0.35
+}
+```

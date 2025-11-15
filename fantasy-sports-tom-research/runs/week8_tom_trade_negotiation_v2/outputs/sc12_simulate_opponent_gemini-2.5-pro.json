@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Alex Thompson"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Isaiah Lee"
+  ],
+  "rationale": "I get stable floors to win now. You get high-upside players to bolster your championship run. A style-based win-win.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 12,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc12_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

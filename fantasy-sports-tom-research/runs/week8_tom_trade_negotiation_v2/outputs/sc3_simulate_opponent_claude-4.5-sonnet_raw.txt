@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Lucas Hernandez", "Trey Adams"],
+  "ask_from_B": ["Ben King", "Cameron Harris"],
+  "rationale": "B gets dual-threat QB + young RB; A gets low-variance pocket passer + consistent RB for playoff push",
+  "p_accept_B": 0.72
+}
+```

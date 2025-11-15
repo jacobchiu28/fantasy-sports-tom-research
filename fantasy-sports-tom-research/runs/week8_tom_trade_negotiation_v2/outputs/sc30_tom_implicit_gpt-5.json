@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Kyle Garcia",
+    "Devon Lewis"
+  ],
+  "ask_from_B": [
+    "Sean Thompson",
+    "Michael Roberts"
+  ],
+  "rationale": "B gains immediate RB depth; A upgrades TE and balances WR risk; aligns with consensus tiers.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 30,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc30_tom_implicit_gpt-5.txt"
+  }
+}

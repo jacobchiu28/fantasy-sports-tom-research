@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Sam Martin",
+    "Derek Allen"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "Team B gets consistent possession WR + upside; Team A gets receiving TE upgrade with lower variance",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 41,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc41_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

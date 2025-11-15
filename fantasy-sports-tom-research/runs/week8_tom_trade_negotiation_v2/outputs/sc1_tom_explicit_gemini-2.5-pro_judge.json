@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Identifies B\u2019s WR volatility but misreads B\u2019s conservative, consensus-driven preference for stable workhorse RBs\u2014Flores precisely fits that. Offering a mid-variance WR3 (Brown) and a committee RB3 (Carter) won\u2019t appeal, especially with B\u2019s RB depth stressed by Alex White\u2019s injury. The 2-for-1 de-consolidation clashes with B\u2019s risk profile. Rationale is brief and generic, lacking usage/bye considerations and B\u2019s playoff incentives. Trade is coherent but unlikely.",
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "tom_explicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

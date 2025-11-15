@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Understands B needs immediate help and offers healthy pieces, but ignores B\u2019s stated preference for workhorse RBs and trust in established talent (giving up a Tier 1 TE). Calling Anderson an upgrade in \u201cstability\u201d conflicts with A\u2019s injury aversion since he\u2019s Doubtful. Return for B is a Tier 4 TE and a mid-variance WR, not aligned with B\u2019s consistency goals. Rationale is brief and generic.",
+  "_meta": {
+    "scenario_id": 27,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

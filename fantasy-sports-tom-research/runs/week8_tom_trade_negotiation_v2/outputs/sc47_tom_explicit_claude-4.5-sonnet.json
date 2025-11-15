@@ -1,0 +1,24 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez",
+    "Ethan Turner"
+  ],
+  "ask_from_B": [
+    "Xavier Rodriguez"
+  ],
+  "rationale": "Team B needs stable WR; gets mid-vol possession target + TE depth for committee RB they can spare",
+  "p_accept_B": 0.62,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B is WR-heavy with deep threats (high/mid volatility) but lacks possession receivers. Manager B values stable floors and is 7-1, so can afford depth consolidation.",
+    "team_b_psychology": "Manager B trusts consensus, prefers healthy veterans, and values low volatility. Brandon Martinez (mid-vol, young breakout, friendly playoff schedule) fits better than their boom/bust deep threats. Ethan Turner is a healthy veteran TE with low volatility.",
+    "team_b_perception_of_fairness": "Manager B likely sees this as fair because: (1) they're getting two players for one, (2) Martinez provides the stable possession-style target volume they lack, (3) Turner adds TE depth with low variance, (4) Xavier Rodriguez is expendable given their RB committee depth and tough playoff matchups.",
+    "team_a_motivation": "Team A (3-5, needs wins) targets Xavier Rodriguez as a contrarian buy-low on a young RB in a committee. Manager A fades consensus and focuses on playoff schedule. Giving up Martinez (their most stable WR) hurts but addresses desperate RB need.",
+    "why_this_works": "Both managers are conservative and prefer stability. Team B consolidates depth for immediate lineup improvement at WR. Team A gets the workhorse-adjacent RB they covet while exploiting Team B's WR scarcity."
+  },
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_explicit_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Josh Martin", "Caleb Foster"],
+  "ask_from_B": ["Logan Clark", "Alex White"],
+  "rationale": "Acquiring dual-threat QB for playoffs; offering workhorse RB depth and stable possession WR",
+  "p_accept_B": 0.62
+}
+```

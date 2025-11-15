@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Chris Adams"],
+  "ask_from_B": ["Tyler Lewis", "Devon Reed"],
+  "rationale": "Team B gets stable dual-threat QB upgrade; Team A adds RB depth trading QB surplus",
+  "p_accept_B": 0.42
+}
+```

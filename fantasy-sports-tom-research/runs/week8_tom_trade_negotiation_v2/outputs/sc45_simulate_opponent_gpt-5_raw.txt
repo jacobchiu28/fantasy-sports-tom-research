@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Alex Baker", "Sean Hernandez"],
+  "ask_from_B": ["Kyle Taylor"],
+  "rationale": "B flips WR surplus for RB depth and TE upgrade (friendly playoffs); A gains young upside WR with friendly schedule.",
+  "p_accept_B": 0.56
+}

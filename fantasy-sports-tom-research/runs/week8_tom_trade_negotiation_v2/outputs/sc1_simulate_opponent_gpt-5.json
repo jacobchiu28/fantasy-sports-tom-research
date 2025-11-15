@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Trevor Roberts",
+    "Trevor Brown"
+  ],
+  "ask_from_B": [
+    "Alex White",
+    "Xavier Foster"
+  ],
+  "rationale": "B gains a low-variance pocket QB + steady vet WR; A shores up RB touches and a usable hybrid TE.",
+  "p_accept_B": 0.7,
+  "_meta": {
+    "scenario_id": 1,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc1_simulate_opponent_gpt-5.txt"
+  }
+}

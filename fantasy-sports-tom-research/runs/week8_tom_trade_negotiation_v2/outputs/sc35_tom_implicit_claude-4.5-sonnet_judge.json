@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Trade frames a veteran WR + rookie RB for established RB + young WR and nods at playoff schedules, but it barely models Team B\u2019s urgent-win mindset or preference for established talent (they\u2019d be losing Liam Carter). It also ignores Team A\u2019s injury-cautious stance while asking for an Out WR (Ben Miller). Roster fit is plausible\u2014B upgrades WR now and has RB depth\u2014yet the rationale is generic and thin on specific motivations or uncertainties.",
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

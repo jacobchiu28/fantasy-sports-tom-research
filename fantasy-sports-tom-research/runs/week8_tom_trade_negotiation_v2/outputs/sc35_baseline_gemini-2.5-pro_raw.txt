@@ -1,0 +1,9 @@
+{
+  "offer_from_A": [
+    "Chris Adams"
+  ],
+  "ask_from_B": [
+    "Austin Allen"
+  ],
+  "rationale": "Team A trades from its significant QB depth to acquire a high-usage TE, directly addressing its weakest starting position."
+}

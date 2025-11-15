@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Martin",
+    "Caleb Foster"
+  ],
+  "ask_from_B": [
+    "Tyler Anderson",
+    "Xavier Johnson"
+  ],
+  "rationale": "A gets stable TE upgrade; B gets workhorse RB they lack. Both contrarians value proven vets over hype.",
+  "p_accept_B": 0.72,
+  "_meta": {
+    "scenario_id": 26,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc26_simulate_opponent_claude-4.5-sonnet.txt"
+  }
+}

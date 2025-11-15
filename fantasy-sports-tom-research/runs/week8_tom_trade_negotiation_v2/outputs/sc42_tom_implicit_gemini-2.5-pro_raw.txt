@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "David Campbell",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Darian Anderson",
+    "Isaiah Adams"
+  ],
+  "rationale": "You get a consistent veteran WR and RB depth with a great playoff schedule. I fill my need at TE. A solid win-win.",
+  "p_accept_B": 0.6
+}

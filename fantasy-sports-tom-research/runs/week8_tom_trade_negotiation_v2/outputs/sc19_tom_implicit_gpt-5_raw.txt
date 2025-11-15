@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Justin Wright", "Matt Hill"],
+  "ask_from_B": ["Josh Garcia", "Jordan Walker"],
+  "rationale": "A gets steadier RB with friendly playoff slate; B gets TE1 upgrade plus young RB depth.",
+  "p_accept_B": 0.6
+}

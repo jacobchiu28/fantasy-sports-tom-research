@@ -1,0 +1,12 @@
+```json
+{
+  "offer_from_A": ["Josh Robinson", "James Campbell"],
+  "ask_from_B": ["Devon Martinez", "Isaiah Thompson"],
+  "rationale": "Workhorse RB upgrade for B's committee; deep threats swap. B gets playoff schedule RB, A gets healthier WRs.",
+  "p_accept_B": 0.62,
+  "perspective_taking_analysis": {
+    "team_b_needs": "Team B (6-2, playoff-bound) has only committee RBs with mid/low volatility. Manager B is an aggressive risk-taker who chases ceiling and prefers young ascending players with friendly playoff schedules. They value deep-threat WRs but have depth there (Devon Martinez, Nick Torres, Justin Miller, Kyle Taylor).",
+    "team_b_perception_of_value": "Josh Robinson is a workhorse RB rookie with friendly playoff schedule - exactly what B's manager profile indicates they want (young, ascending, playoff schedule advantage). James Campbell is a high-volatility deep-threat rookie fitting B's risk-taking style. Both are rookies (B prefers young players) and healthy (B is injury-cautious).",
+    "what_b_would_give_up": "Devon Martinez and Isaiah Thompson are both young with upside, but B has WR depth and needs RB help more urgently. Martinez has mixed playoff outlook vs Robinson's friendly schedule. Isaiah Thompson has friendly schedule but B can afford to trade WR depth for RB scarcity.",
+    "fairness_perception": "Manager B follows expert consensus and would see workhorse RB > committee backs as consensus wisdom. Trading from WR depth for RB need is rational. The playoff schedule upgrade (Robinson friendly vs Martinez mixed) aligns with B's stated preference. High-volatility Campbell appeals to B's ceiling-chasing nature.",
+    "why_a_does_this": "Manager A (2-6, desperate) is contrarian and cautious about injuries. Trading away their best RB seems counterintuitive BUT A needs multiple wins NOW and is getting two healthy WRs with upside. A values deep threats and committee backs anyway. Isaiah Thompson (young breakout, friendly playoff schedule) and Devon Martinez (high-variance deep threat rookie)

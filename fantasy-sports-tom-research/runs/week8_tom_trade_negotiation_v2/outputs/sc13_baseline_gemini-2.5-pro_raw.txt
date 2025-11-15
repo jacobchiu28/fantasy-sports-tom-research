@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Michael Roberts",
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Team A acquires a needed workhorse RB by packaging a high-upside TE and a young WR from positions of depth."
+}

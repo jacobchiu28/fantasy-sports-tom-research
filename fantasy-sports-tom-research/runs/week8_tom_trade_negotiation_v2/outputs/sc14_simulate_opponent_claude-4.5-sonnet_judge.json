@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Trade overlooks B\u2019s conservative, veteran-leaning preference and targeting of high-powered offenses. Josh Robinson is a rookie in a low-volume offense, while Ethan Campbell is a stable veteran with a friendly playoff schedule\u2014precisely B\u2019s profile fit. A 2-for-1 also hurts B\u2019s depth, making the 0.72 accept probability optimistic. The rationale mentions volume and playoff schedule but lacks nuanced alignment with B\u2019s priorities or roster context, though the trade is mechanically feasible.",
+  "_meta": {
+    "scenario_id": 14,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

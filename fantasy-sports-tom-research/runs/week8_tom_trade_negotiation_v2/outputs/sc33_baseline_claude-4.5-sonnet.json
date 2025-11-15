@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Xavier Thompson",
+    "James Campbell"
+  ],
+  "ask_from_B": [
+    "Darian Anderson",
+    "Brandon Martinez"
+  ],
+  "rationale": "Swap high-volatility players for mid-volatility WRs with friendly playoff schedules to stabilize Team A's lineup",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 33,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc33_baseline_claude-4.5-sonnet.txt"
+  }
+}

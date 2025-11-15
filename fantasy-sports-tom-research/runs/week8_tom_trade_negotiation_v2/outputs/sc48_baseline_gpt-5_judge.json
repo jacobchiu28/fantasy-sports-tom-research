@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 2,
+  "overall": 30,
+  "justification": "Offer ignores Team B\u2019s mindset and needs. B trusts consensus and likely values Jordan Williams (Tier 3, friendly playoff slate) far above Trevor Roberts (Tier 5) and Michael Mitchell (Tier 5). B already has Mason Garcia and James Jones at QB, so Roberts doesn\u2019t solve a need. The bye-week claim is incorrect (Jordan Bye 12, not 11). Rationale is concise but largely A-centric and factually shaky, making the proposal unrealistic for B.",
+  "_meta": {
+    "scenario_id": 48,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

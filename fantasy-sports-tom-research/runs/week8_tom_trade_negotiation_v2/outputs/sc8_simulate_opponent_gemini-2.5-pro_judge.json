@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Minimal ToM: only notes B \u201cgets two starters,\u201d ignoring B\u2019s stated preference for workhorse RBs and health. Trade contradicts A\u2019s injury-avoidance by acquiring a Questionable WR. Value is wildly lopsided (Tier 1 RB + Tier 1 WR for a Tier 3 WR), and \u201cconsolidates assets\u201d is misapplied. Feasible but logically incoherent; B\u2019s acceptance would be near-certain, not 0.65.",
+  "_meta": {
+    "scenario_id": 8,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

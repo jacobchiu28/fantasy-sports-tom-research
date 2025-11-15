@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Ethan Campbell",
+    "David Young"
+  ],
+  "ask_from_B": [
+    "Justin Young"
+  ],
+  "rationale": "B gains steady RB and safe QB depth; A adds big-play WR upside. Fits both rosters.",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 22,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc22_tom_implicit_gpt-5.txt"
+  }
+}

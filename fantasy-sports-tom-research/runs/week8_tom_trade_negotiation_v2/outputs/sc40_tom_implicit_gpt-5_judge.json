@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It recognizes B\u2019s desire for stability and playoff schedules, but overlooks that B is 8-0, extremely conservative, and would likely avoid downgrading from their only healthy Tier 2 TE (Brian Hill) to a shaky TE room. The WR swap modestly improves floor, and Austin Martin adds low-volatility depth, but not the workhorse profile B prefers. A\u2019s upside chase with Sean Scott and TE upgrade fits A. The acceptance probability seems overstated.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

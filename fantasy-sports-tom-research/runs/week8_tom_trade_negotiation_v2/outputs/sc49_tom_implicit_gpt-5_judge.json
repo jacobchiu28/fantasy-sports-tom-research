@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 4,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 3,
+  "overall": 65,
+  "justification": "The offer targets B\u2019s floor-first mindset and aversion to boom/bust rookies, and the TE bye coverage is a thoughtful touch. However, B prioritizes workhorse RB usage and heavy touches; Kyle Garcia is a committee back, and TE depth is redundant behind a Tier 2 TE. The rationale is very brief and doesn\u2019t address B\u2019s workload bias. Value-wise, A appears to overpay, making B\u2019s acceptance likely higher than 0.63. Overall ToM is decent but not nuanced.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

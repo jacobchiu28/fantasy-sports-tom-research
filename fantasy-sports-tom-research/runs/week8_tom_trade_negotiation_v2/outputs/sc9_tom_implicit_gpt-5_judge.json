@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "It vaguely targets B\u2019s desire for stability and a possession WR but mislabels Nick Torres (more deep-threat) and ignores B\u2019s zero-RB mindset and urgent win-now needs. It minimally distinguishes A\u2019s consolidation goal from B\u2019s floor/depth aims. The 3-for-1 is feasible and could add depth for B, but QB need is questionable given B\u2019s roster. Rationale is generic and not grounded in roster/SSO details.",
+  "_meta": {
+    "scenario_id": 9,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

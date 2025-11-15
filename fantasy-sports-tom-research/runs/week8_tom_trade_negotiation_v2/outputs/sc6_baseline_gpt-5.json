@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Kevin Flores",
+    "Jordan Green"
+  ],
+  "ask_from_B": [
+    "James Jones"
+  ],
+  "rationale": "Upgrade to dual-threat QB; sell RB with tough playoffs; A keeps RB depth and opens roster spot",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc6_baseline_gpt-5.txt"
+  }
+}

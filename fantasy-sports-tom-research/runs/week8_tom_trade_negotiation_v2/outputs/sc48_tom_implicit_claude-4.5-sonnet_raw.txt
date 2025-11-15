@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Alex Thompson", "Justin Nelson"],
+  "ask_from_B": ["Darian Campbell", "James Campbell"],
+  "rationale": "Swapping high-variance pieces: rookie RB+WR for volatile RB+rookie WR with upside",
+  "p_accept_B": 0.62
+}
+```

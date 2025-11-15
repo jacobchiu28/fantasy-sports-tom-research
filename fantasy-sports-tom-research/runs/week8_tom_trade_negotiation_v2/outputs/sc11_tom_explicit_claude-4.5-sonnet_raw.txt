@@ -1,0 +1,45 @@
+Let me analyze Team B's manager profile and situation:
+
+**Team B's Context:**
+- 0-8 record = desperate for immediate wins, not building for future
+- Prefers consistency/reliability over variance
+- Values workhorse RBs and possession WRs
+- Contrarian thinker who buys injured players
+- Follows zero-RB but targets high-powered offenses
+- Needs players who can produce NOW
+
+**Team B's Roster Gaps:**
+- All RBs are committee backs with mid/high volatility - no workhorse
+- WR corps is mostly deep-threat/high-variance players
+- Lacks the consistent possession receivers they prefer
+- Has adequate QB depth with two low-volatility dual-threat/pocket passers
+
+**What Team B Would Value:**
+- Low-volatility possession WRs (consistent weekly floors)
+- Any upgrade to stable, reliable players
+- Players with friendly playoff schedules (still mathematically alive)
+- Would NOT value high-variance players or future upside
+
+**Team A's Assets Team B Would Want:**
+- Darian Thomas: possession WR, low volatility, veteran, friendly playoff schedule - PERFECT fit
+- Ethan Turner: receiving TE, low volatility, veteran, high target share
+
+**What Team A Needs:**
+- As a 6-2 team following zero-RB, I need RB depth for playoffs
+- Prefer players with friendly playoff schedules
+- Can afford to trade away consistent WRs since I have depth
+
+**Fair Trade Construction:**
+Team B gets: Darian Thomas (exactly what they need - consistent possession WR)
+Team A gets: Josh Flores (RB with friendly playoff schedule, mid volatility acceptable for depth)
+
+This addresses Team B's desperate need for consistency while giving Team A playoff-schedule RB depth.
+
+```json
+{
+  "offer_from_A": ["Darian Thomas"],
+  "ask_from_B": ["Josh Flores"],
+  "rationale": "Low-volatility possession WR for playoff-schedule RB; addresses B's desperate need for consistency",
+  "p_accept_B": 0.72
+}
+```

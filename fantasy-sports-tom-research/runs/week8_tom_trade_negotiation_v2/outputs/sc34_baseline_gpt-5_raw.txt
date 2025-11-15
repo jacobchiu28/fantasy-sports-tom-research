@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Ben Jackson (WR)", "Jordan Walker (TE)"],
+  "ask_from_B": ["Josh Flores (RB)"],
+  "rationale": "Trade WR/TE depth for RB with friendly playoffs; strengthens A's thin RB room without hurting starters."
+}

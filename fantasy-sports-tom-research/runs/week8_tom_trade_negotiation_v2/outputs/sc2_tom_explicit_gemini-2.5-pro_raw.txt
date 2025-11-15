@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ryan Taylor"
+  ],
+  "ask_from_B": [
+    "Michael Roberts",
+    "Trey Scott"
+  ],
+  "rationale": "Team B's Zero RB build needs a workhorse. I'll trade my high-touch RB for a major TE upgrade and a solid WR.",
+  "p_accept_B": 0.7
+}

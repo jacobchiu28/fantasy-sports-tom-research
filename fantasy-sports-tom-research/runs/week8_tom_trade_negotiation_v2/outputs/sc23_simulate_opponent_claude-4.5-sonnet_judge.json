@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "Acknowledges B might want a workhorse with a friendly playoff slate, but ignores B\u2019s preference for high-upside deep-threat WRs and buying low on injured players (they\u2019re giving up Alex King). B\u2019s RB depth is already strong while WR depth is thinner, so losing Trevor Martin for a Tier 5 slot WR plus a Tier 5 RB is misaligned. A\u2019s aim to upgrade WR is coherent, but the rationale is superficial and lacks roster/injury context. Feasible trade, but weak ToM and optimistic accept probability.",
+  "_meta": {
+    "scenario_id": 23,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

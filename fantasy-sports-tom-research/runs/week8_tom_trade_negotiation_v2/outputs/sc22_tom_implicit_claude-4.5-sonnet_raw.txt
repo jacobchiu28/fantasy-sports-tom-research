@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Ryan Moore", "Marcus Taylor"],
+  "ask_from_B": ["Liam Torres", "Ethan Turner"],
+  "rationale": "Trading high-variance WRs for consistent RB workload and reliable TE target share",
+  "p_accept_B": 0.68
+}
+```

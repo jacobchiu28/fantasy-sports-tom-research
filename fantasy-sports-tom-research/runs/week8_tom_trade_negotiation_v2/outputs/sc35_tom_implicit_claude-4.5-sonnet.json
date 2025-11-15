@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Xavier Johnson",
+    "Darian Campbell"
+  ],
+  "ask_from_B": [
+    "Liam Carter",
+    "Ben Miller"
+  ],
+  "rationale": "Veteran WR + rookie RB for established RB + young WR; playoff schedules align with both team needs",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 35,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc35_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

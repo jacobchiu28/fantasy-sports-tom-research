@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Matt Adams",
+    "Josh Garcia"
+  ],
+  "ask_from_B": [
+    "Devon Lewis"
+  ],
+  "rationale": "Consolidating depth pieces to acquire a superior starting running back, directly addressing my roster's primary weakness.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc20_baseline_gemini-2.5-pro.txt"
+  }
+}

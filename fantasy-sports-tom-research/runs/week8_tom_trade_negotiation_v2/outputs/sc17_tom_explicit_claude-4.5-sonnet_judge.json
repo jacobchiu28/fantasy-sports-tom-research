@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Asks Team B to give up its only healthy QB (dual-threat, a stated preference) while 0-8, leaving no starter\u2014poor ToM. B prefers committee RBs, yet is offered a workhorse without acknowledging this mismatch. Rationale is generic and omits B\u2019s urgency, roster constraints, and role trends. Though value may favor B, the trade is operationally unrealistic and minimally justified.",
+  "_meta": {
+    "scenario_id": 17,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

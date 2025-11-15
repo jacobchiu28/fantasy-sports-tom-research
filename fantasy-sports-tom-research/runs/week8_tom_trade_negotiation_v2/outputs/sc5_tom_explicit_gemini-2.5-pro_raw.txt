@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Josh Robinson"
+  ],
+  "ask_from_B": [
+    "Justin Wright",
+    "Devon Miller"
+  ],
+  "rationale": "You get the stable, workhorse RB you need for a playoff push. I fill my TE hole & you clear a roster spot.",
+  "p_accept_B": 0.65
+}

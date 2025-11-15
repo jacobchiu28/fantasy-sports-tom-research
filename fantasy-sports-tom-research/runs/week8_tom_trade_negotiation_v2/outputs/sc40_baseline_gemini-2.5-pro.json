@@ -1,0 +1,15 @@
+{
+  "offer_from_A": [
+    "Brandon Martinez"
+  ],
+  "ask_from_B": [
+    "Mason Holt"
+  ],
+  "rationale": "Team A trades from its WR depth to acquire a starting TE with a favorable playoff schedule, solving its biggest roster weakness.",
+  "_meta": {
+    "scenario_id": 40,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc40_baseline_gemini-2.5-pro.txt"
+  }
+}

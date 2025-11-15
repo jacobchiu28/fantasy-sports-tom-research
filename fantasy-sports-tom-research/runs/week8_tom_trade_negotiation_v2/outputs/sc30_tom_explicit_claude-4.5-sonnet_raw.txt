@@ -1,0 +1,33 @@
+```json
+{
+  "offer_from_A": ["Ethan Campbell", "Justin Young"],
+  "ask_from_B": ["Michael Roberts", "Sean Thompson"],
+  "rationale": "B needs RB help urgently; Campbell has friendly playoff schedule. A upgrades TE position for playoff push.",
+  "p_accept_B": 0.62
+}
+```
+
+**Reasoning about Team B's perspective:**
+
+Team B is 0-8 and desperate for wins NOW. Their manager:
+- Trusts expert consensus (likely values proven veterans)
+- Needs immediate production, not long-term upside
+- Has only ONE RB (Alex Mitchell) vs. six WRs - severe positional imbalance
+- Fades run-heavy offenses but still needs RB depth to field a competitive lineup
+
+What B likely wants:
+- Immediate-impact RB with consistency (Ethan Campbell: veteran, LOW volatility, FRIENDLY playoff schedule)
+- Stable floor players to stop the bleeding
+- Fair value that addresses their glaring RB shortage
+
+What B likely perceives as fair:
+- Getting a veteran RB with proven floor + a solid WR
+- Giving up depth at their stacked WR position and a TE (they have 4 TEs)
+
+Trade construction:
+- **Ethan Campbell** (RB, veteran, low volatility, friendly playoffs) solves B's RB crisis with immediate stable production
+- **Justin Young** (WR, veteran, mid volatility, deep-threat) adds a reliable WR2/3
+- **Michael Roberts** (TE, rookie receiving TE) upgrades A's TE position for playoff push
+- **Sean Thompson** (WR, young breakout, friendly schedule) gives A upside depth
+
+Both managers trust consensus, so veteran stability (Campbell) appeals to B's urgency while A gets playoff-schedule upside pieces.

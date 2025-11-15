@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Asking B to give a Tier 1 RB (Rodriguez) for A\u2019s Tier 5 outside WR (Martinez) ignores B\u2019s conservative, consensus-driven approach and preference for stable floors and possession WRs. The rationale only reflects A\u2019s needs, not B\u2019s incentives. While the trade is mechanically feasible, it\u2019s highly imbalanced and misaligned with B\u2019s priorities. Explanation is generic and lacks evidence-based reasoning.",
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

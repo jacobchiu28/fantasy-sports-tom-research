@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Correctly notes B\u2019s QB surplus and interest in young deep\u2011threat WRs, but misses key beliefs: B is injury\u2011cautious and both incoming players are questionable; B also values dual\u2011threat QBs and would be parting with a healthy Tier\u20111 dual\u2011threat. The claim that B is WR\u2011thin is debatable with two Tier\u20112 WRs. The trade is feasible and could fit roster needs, but rationale is thin and overlooks bye/injury risks and B\u2019s preferences, making acceptance less likely.",
+  "_meta": {
+    "scenario_id": 20,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

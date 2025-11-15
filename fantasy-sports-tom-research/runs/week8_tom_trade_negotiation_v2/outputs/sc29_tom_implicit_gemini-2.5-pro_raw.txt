@@ -1,0 +1,13 @@
+{
+  "offer_from_A": [
+    "Caleb Jackson",
+    "Eric Davis",
+    "Noah Carter"
+  ],
+  "ask_from_B": [
+    "Josh Robinson",
+    "Logan Clark"
+  ],
+  "rationale": "Team B improves its QB playoff schedule and adds two young, high-upside players. Team A gets a true workhorse RB.",
+  "p_accept_B": 0.6
+}

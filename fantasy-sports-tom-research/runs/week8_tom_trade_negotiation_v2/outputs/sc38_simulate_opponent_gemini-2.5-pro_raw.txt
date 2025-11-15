@@ -1,0 +1,10 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez"
+  ],
+  "ask_from_B": [
+    "Brian Harris"
+  ],
+  "rationale": "I'm desperate for an RB and have QB depth. You get a huge upgrade to a dual-threat QB for your championship push.",
+  "p_accept_B": 0.85
+}

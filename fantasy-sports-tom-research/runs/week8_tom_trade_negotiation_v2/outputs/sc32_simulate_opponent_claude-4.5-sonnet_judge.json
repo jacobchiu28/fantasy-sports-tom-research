@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 50,
+  "justification": "Acknowledges A\u2019s QB surplus and B\u2019s taste for dual-threat QBs, but overstates B\u2019s QB urgency despite B having Logan Holt (Tier 2). Ignores B\u2019s stronger needs (TE upgrade, RB depth) and stacking preference. Trade is feasible, yet swaps B\u2019s Tier 2 WR for a lateral QB upgrade with minor injury risk. Rationale is brief and not grounded in roster specifics, making the 0.72 accept estimate optimistic.",
+  "_meta": {
+    "scenario_id": 32,
+    "variant": "simulate_opponent",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

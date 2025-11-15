@@ -1,0 +1,11 @@
+{
+  "offer_from_A": [
+    "Ben King",
+    "Brandon Hernandez"
+  ],
+  "ask_from_B": [
+    "Josh Robinson"
+  ],
+  "rationale": "Bolstering your RB/WR depth for the playoff push with two solid, consistent starters for your one stud.",
+  "p_accept_B": 0.6
+}

@@ -1,0 +1,5 @@
+{
+  "offer_from_A": ["Justin Wright", "James Holt"],
+  "ask_from_B": ["Josh Garcia", "Kyle Martinez"],
+  "rationale": "Turn TE surplus into RB upgrade (Josh Garcia) and add steadier WR depth (Kyle Martinez)."
+}

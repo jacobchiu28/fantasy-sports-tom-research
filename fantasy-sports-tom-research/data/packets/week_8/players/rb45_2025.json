@@ -1,0 +1,88 @@
+{
+  "player_id": "rb45_2025",
+  "name": "Noah Brown",
+  "position": "RB",
+  "team": "LV",
+  "week": 8,
+  "career_stage": "rookie",
+  "role_usage": {
+    "snap_share_pct_range": [
+      38,
+      77
+    ],
+    "rush_share_pct_range": [
+      35,
+      66
+    ],
+    "target_share_pct_range": [
+      6,
+      12
+    ],
+    "red_zone_carry_share_pct_range": [
+      31,
+      52
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "pass_block_snap_share_pct_range": [
+      11,
+      30
+    ],
+    "trend_5g": "Up",
+    "volatility": "Low"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "FP",
+      "FP"
+    ],
+    "reinjury_risk": "Med",
+    "expected_workload_cap_pct": [
+      55,
+      75
+    ],
+    "confidence": 0.71
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Neutral",
+    "weather_risk": "None",
+    "confidence": 0.51,
+    "qb_quality_tier": "Mid",
+    "ol_pass_block_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Loose",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Low"
+  },
+  "schedule_fit": {
+    "bye_week": 5,
+    "playoff_matchup_tiers": {
+      "15": "Tough",
+      "16": "Friendly",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.79
+  },
+  "archetype_tags": [
+    "standard"
+  ],
+  "role_description": "Committee back sharing touches, low production volatility",
+  "summary_text": "Minor injury concern Tier 4 RB in low-volume passing offense, mid tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "RB",
+    "role": "Committee back sharing touches, low production volatility",
+    "volatility": "Low",
+    "health": "Questionable",
+    "context": "Low pass rate, Mid tempo",
+    "market": "Tier 4 (Low trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

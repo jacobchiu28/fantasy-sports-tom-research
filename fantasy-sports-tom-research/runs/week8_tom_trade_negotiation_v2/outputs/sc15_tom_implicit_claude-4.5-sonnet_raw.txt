@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Darian Anderson", "Liam Green"],
+  "ask_from_B": ["Ben King", "Cameron Scott"],
+  "rationale": "Swapping depth: A gets stable floor RB+WR, B gets upside pieces with breakout potential",
+  "p_accept_B": 0.62
+}
+```

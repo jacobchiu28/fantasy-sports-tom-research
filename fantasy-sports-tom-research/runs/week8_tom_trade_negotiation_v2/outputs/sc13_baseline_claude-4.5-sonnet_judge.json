@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 45,
+  "justification": "A\u2019s rationale centers on its own needs and barely models B\u2019s preferences for consistency or veteran reliability. Offering a possession WR loosely fits B\u2019s archetype, but both incoming players carry volatility. Calling Robinson an upgrade is questionable given his Tier 5 status and slow, low-volume offense. The trade is feasible but the reasoning is thin and A-centric; p_accept_B=0.15 shows some awareness but without specific justification from B\u2019s perspective.",
+  "_meta": {
+    "scenario_id": 13,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

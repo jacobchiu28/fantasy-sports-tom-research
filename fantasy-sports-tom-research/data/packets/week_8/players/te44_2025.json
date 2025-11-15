@@ -1,0 +1,87 @@
+{
+  "player_id": "te44_2025",
+  "name": "Marcus Garcia",
+  "position": "TE",
+  "team": "DEN",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      58,
+      82
+    ],
+    "route_participation_pct_range": [
+      60,
+      81
+    ],
+    "target_share_pct_range": [
+      13,
+      19
+    ],
+    "air_yards_share_pct_range": [
+      9,
+      18
+    ],
+    "inline_block_rate_pct_range": [
+      33,
+      57
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Up",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "LP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.59
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "Low",
+    "confidence": 0.74,
+    "qb_quality_tier": "Mid"
+  },
+  "market_signals": {
+    "adp_band": "Round 9-10",
+    "adp_7d_movement": "Rising",
+    "ecr_tier": "Tier 4",
+    "expert_spread": "Tight",
+    "start_rate_band": "20-40%",
+    "trade_interest": "Med"
+  },
+  "schedule_fit": {
+    "bye_week": 11,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Neutral"
+    },
+    "stack_tags": [],
+    "confidence": 0.5
+  },
+  "archetype_tags": [
+    "hybrid_te"
+  ],
+  "role_description": "Balanced TE splitting inline/receiving duties, high usage consistency",
+  "summary_text": "Minor injury concern Tier 4 TE in mid-volume passing offense, fast tempo with ascending usage trend. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Balanced TE splitting inline/receiving duties, high usage consistency",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "Mid pass rate, Fast tempo",
+    "market": "Tier 4 (Med trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Brian Harris",
+    "Kyle Garcia"
+  ],
+  "ask_from_B": [
+    "Noah Brown"
+  ],
+  "rationale": "B gets two low-volatility, veteran RBs to stabilize their floor and win now. A consolidates bench depth for an elite TE.",
+  "p_accept_B": 0.65,
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "simulate_opponent",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc49_simulate_opponent_gemini-2.5-pro.txt"
+  }
+}

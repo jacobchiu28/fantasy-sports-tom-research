@@ -1,0 +1,28 @@
+```json
+{
+  "offer_from_A": ["Ethan Torres", "Austin Torres"],
+  "ask_from_B": ["Sam Lewis", "Nick Torres"],
+  "rationale": "B gets stable QB+WR stack; A gets low-volatility RB+possession WR for playoff push",
+  "p_accept_B": 0.42
+}
+```
+
+**Reasoning about Team B's perspective:**
+
+Team B is 0-8 and desperate for wins NOW, not playoff preparation. Their manager values:
+- Workhorse RBs (but has only committee backs)
+- QB-WR stacks (currently has Tyler Miller/Sam Martinez but no stacked WRs)
+- Consistency over variance
+- Established talent over hype
+
+Team B would perceive value in:
+1. **Ethan Torres (QB)**: Mid-volatility dual-threat veteran with more upside than their pocket passers, creates immediate stack opportunity
+2. **Austin Torres (WR)**: Mid-volatility outside WR with friendly playoff schedule - provides the stack partner and consistent target share
+
+What Team B gives up:
+- **Sam Lewis (RB)**: Low-volatility committee back - their most consistent RB but not a workhorse anyway
+- **Nick Torres (WR)**: Mid-volatility possession/deep threat - redundant depth given their WR surplus
+
+Team B likely sees this as acquiring a QB upgrade with immediate stack synergy (Torres-Torres) while only sacrificing depth pieces. The 0-8 record means they need upside NOW, and the QB-WR stack offers weekly correlation that could generate wins.
+
+From Team A's perspective: Acquiring the low-volatility RB (Sam Lewis) aligns with conservative playoff preparation, and Nick Torres adds possession receiver traits preferred by Manager A.

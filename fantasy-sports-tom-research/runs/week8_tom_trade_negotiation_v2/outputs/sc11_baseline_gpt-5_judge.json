@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "Rationale is A-centric and generic, with no reference to B\u2019s urgent need for wins, preference for consistency/workhorse RBs, or TE weakness. Asking B to give a Tier 1 WR for a volatile WR plus an RB lacks alignment with B\u2019s stated values. It also clashes with A\u2019s conservative, possession-WR preference by targeting a high-variance outside WR. The trade is feasible roster-wise but contextually incoherent with manager profiles. Little evidence of ToM reasoning.",
+  "_meta": {
+    "scenario_id": 11,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

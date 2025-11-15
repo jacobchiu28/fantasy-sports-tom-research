@@ -1,0 +1,86 @@
+{
+  "player_id": "qb39_2025",
+  "name": "Chris Adams",
+  "position": "QB",
+  "team": "IND",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      98,
+      100
+    ],
+    "pass_attempts_range": [
+      28,
+      41
+    ],
+    "completion_pct_range": [
+      60,
+      69
+    ],
+    "deep_attempt_rate_pct": [
+      8,
+      18
+    ],
+    "rush_share_pct_range": [
+      4,
+      18
+    ],
+    "trend_5g": "Flat",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "LP"
+    ],
+    "reinjury_risk": "Med",
+    "expected_workload_cap_pct": [
+      55,
+      75
+    ],
+    "confidence": 0.69
+  },
+  "context": {
+    "team_proe_tier": "High",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Friendly",
+    "weather_risk": "Low",
+    "confidence": 0.69,
+    "ol_pass_block_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 2",
+    "expert_spread": "Tight",
+    "start_rate_band": "60-80%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 9,
+    "playoff_matchup_tiers": {
+      "15": "Friendly",
+      "16": "Neutral",
+      "17": "Friendly"
+    },
+    "stack_tags": [],
+    "confidence": 0.78
+  },
+  "archetype_tags": [
+    "dual_threat_qb"
+  ],
+  "role_description": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+  "summary_text": "Minor injury concern Tier 2 QB in high-volume passing offense, mid tempo with steady usage pattern. Friendly playoff schedule.",
+  "prompt_summary": {
+    "position": "QB",
+    "role": "Dual-threat QB who adds rushing value with mid week-to-week variance",
+    "volatility": "Mid",
+    "health": "Questionable",
+    "context": "High pass rate, Mid tempo",
+    "market": "Tier 2 (High trade interest)",
+    "schedule": "Friendly playoff schedule"
+  }
+}

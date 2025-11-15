@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Proposal ignores Team B\u2019s conservative, floor-first preferences and need for stable targets/touches. It asks B to give up a steady, high-target TE (Noah Brown) for two volatile committee RBs, misaligned with B\u2019s risk profile. Rationale centers only on Team A\u2019s playoff push and \u2018consolidation,\u2019 despite A already rostering a Tier 2 TE. The offer is feasible roster-wise but poorly targeted to B. Low p_accept is reasonable but not justified.",
+  "_meta": {
+    "scenario_id": 49,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

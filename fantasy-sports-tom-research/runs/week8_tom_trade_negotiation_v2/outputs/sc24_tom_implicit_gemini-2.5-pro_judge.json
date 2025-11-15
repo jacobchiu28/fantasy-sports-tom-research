@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 40,
+  "justification": "Identifies B\u2019s RB depth but misreads B\u2019s preferences: Holt is a Tier 4 deep threat with mid variance, not a stable possession WR. Ignores B\u2019s volume/SoS focus and that Josh Garcia has a friendly playoff schedule, making him harder to pry away. TE sweetener (Isaiah Adams) offers low, inconsistent usage where B already has a healthy Tier 2 TE. Rationale is generic and inaccurate.",
+  "_meta": {
+    "scenario_id": 24,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

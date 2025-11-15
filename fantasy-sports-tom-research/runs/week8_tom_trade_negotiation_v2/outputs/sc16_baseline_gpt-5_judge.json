@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 2,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "A-centric rationale. It ignores B\u2019s strong preference to keep a workhorse RB and aversion to injuries; offering a doubtful, high-variance WR misfits B\u2019s tastes. While Nelson matches B\u2019s pocket-passer preference, B already has a Tier 1 QB, limiting appeal. The proposal is lopsided and unlikely given B\u2019s needs and philosophy, and the explanation doesn\u2019t engage B\u2019s motivations or constraints.",
+  "_meta": {
+    "scenario_id": 16,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

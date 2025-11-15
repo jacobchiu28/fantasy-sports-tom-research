@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Lucas Hernandez",
+    "Caleb Foster"
+  ],
+  "ask_from_B": [
+    "Brian Harris",
+    "Jordan Moore"
+  ],
+  "rationale": "My dual-threat QB is your playoff answer. Harris gives my RB room a floor. You swap a volatile WR for a steady one.",
+  "p_accept_B": 0.65
+}

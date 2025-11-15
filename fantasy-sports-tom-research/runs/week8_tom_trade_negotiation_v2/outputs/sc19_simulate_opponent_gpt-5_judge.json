@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 1,
+  "overall": 25,
+  "justification": "B doesn\u2019t need a TE upgrade: they have a Tier 1 (Walker, doubtful) and a Tier 2 (Allen). Justin Wright is Tier 5, out, declining role, and tough playoff matchups\u2014contrary to B\u2019s consensus-driven, upside-focused approach. A is conservative and injury-averse yet targets Malik White (questionable, committee, declining role), not a steady workhorse. The rationale is terse and mislabels Wright as a breakout. Offer is unlikely and internally inconsistent.",
+  "_meta": {
+    "scenario_id": 19,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

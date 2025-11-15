@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Austin Torres", "Alex White", "Michael Wright"],
+  "ask_from_B": ["Marcus Garcia", "James Jones"],
+  "rationale": "B gets startable WR/RB depth plus TE replacement; A upgrades TE and adds steady QB for playoffs.",
+  "p_accept_B": 0.46
+}

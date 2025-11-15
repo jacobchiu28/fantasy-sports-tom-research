@@ -1,0 +1,8 @@
+```json
+{
+  "offer_from_A": ["Nick Holt", "Alex Mitchell"],
+  "ask_from_B": ["Josh Garcia", "Cameron Holt"],
+  "rationale": "B gets possession WR + RB depth; A gets stable RB w/friendly schedule + consistent possession WR",
+  "p_accept_B": 0.62
+}
+```

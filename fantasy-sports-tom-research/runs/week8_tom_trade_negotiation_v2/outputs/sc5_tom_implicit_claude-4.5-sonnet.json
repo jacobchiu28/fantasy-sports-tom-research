@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Josh Robinson",
+    "Matt Wright"
+  ],
+  "ask_from_B": [
+    "Ryan Taylor",
+    "Devon Moore"
+  ],
+  "rationale": "Swapping workhorse RBs + WRs; A gets higher upside, B gets stability and friendly playoff schedule",
+  "p_accept_B": 0.42,
+  "_meta": {
+    "scenario_id": 5,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc5_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

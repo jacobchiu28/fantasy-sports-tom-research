@@ -1,0 +1,93 @@
+{
+  "player_id": "wr73_2025",
+  "name": "Austin Garcia",
+  "position": "WR",
+  "team": "WAS",
+  "week": 8,
+  "career_stage": "young breakout",
+  "role_usage": {
+    "snap_share_pct_range": [
+      64,
+      92
+    ],
+    "route_participation_pct_range": [
+      73,
+      90
+    ],
+    "targets_per_route_run_pct_range": [
+      18,
+      27
+    ],
+    "target_share_pct_range": [
+      12,
+      23
+    ],
+    "air_yards_share_pct_range": [
+      18,
+      35
+    ],
+    "slot_rate_pct_range": [
+      16,
+      72
+    ],
+    "red_zone_target_share_tier": "Mid",
+    "trend_5g": "Down",
+    "volatility": "Mid"
+  },
+  "health": {
+    "status": "Out",
+    "practice_trend": [
+      "DNP",
+      "DNP",
+      "DNP"
+    ],
+    "reinjury_risk": "High",
+    "expected_workload_cap_pct": [
+      0,
+      20
+    ],
+    "confidence": 0.12
+  },
+  "context": {
+    "team_proe_tier": "Low",
+    "pace_tier": "Fast",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "High",
+    "confidence": 0.85,
+    "qb_quality_tier": "Bottom"
+  },
+  "market_signals": {
+    "adp_band": "Round 7-8",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "Very High"
+  },
+  "schedule_fit": {
+    "bye_week": 12,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Tough"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.75
+  },
+  "archetype_tags": [
+    "outside_wr"
+  ],
+  "role_description": "Outside receiver with varied route tree, mid weekly variance",
+  "summary_text": "Out with availability unclear Tier 3 WR in low-volume passing offense, fast tempo with declining role. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "WR",
+    "role": "Outside receiver with varied route tree, mid weekly variance",
+    "volatility": "Mid",
+    "health": "Out",
+    "context": "Low pass rate, Fast tempo",
+    "market": "Tier 3 (Very High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}

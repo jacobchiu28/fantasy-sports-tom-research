@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Ethan Torres",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Derek Foster",
+    "Lucas Flores"
+  ],
+  "rationale": "Dual-threat QB + high-variance WR for committee RB + young TE with friendly playoff schedule",
+  "p_accept_B": 0.62,
+  "_meta": {
+    "scenario_id": 31,
+    "variant": "tom_implicit",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc31_tom_implicit_claude-4.5-sonnet.txt"
+  }
+}

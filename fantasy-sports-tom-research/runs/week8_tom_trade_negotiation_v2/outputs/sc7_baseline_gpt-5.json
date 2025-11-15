@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Isaiah Lee",
+    "Cameron Holt",
+    "Alex King"
+  ],
+  "ask_from_B": [
+    "Chris Adams",
+    "Justin Garcia"
+  ],
+  "rationale": "Upgrade QB to dual-threat and stabilize RB; trade surplus WR/RB while keeping depth for playoffs",
+  "_meta": {
+    "scenario_id": 7,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc7_baseline_gpt-5.txt"
+  }
+}

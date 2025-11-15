@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Sam Reed",
+    "Mason Robinson",
+    "Nick Torres"
+  ],
+  "ask_from_B": [
+    "Lucas Carter"
+  ],
+  "rationale": "QB-rich B wants floor/depth; gains two RBs + mid-variance WR. A consolidates for low-var dual-threat QB for playoffs.",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 37,
+    "variant": "tom_explicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc37_tom_explicit_gpt-5.txt"
+  }
+}

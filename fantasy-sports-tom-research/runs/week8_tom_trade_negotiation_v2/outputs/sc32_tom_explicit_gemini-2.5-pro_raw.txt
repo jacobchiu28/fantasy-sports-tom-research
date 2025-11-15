@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Chris Adams",
+    "Jamal Lopez"
+  ],
+  "ask_from_B": [
+    "Xavier Foster",
+    "Ryan Moore"
+  ],
+  "rationale": "Team B gets a dual-threat QB upgrade to win now. Team A trades from depth to fill its TE hole for a playoff run.",
+  "p_accept_B": 0.65
+}

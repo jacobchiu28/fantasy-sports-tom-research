@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 2,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 35,
+  "justification": "Misreads Team B\u2019s conservative, floor-first values by offering a volatile committee RB and a high-variance rookie deep threat for B\u2019s low-vol RB and steadier WR. While it notes different aims for A and B, it incorrectly assumes B wants upside rookies. The trade is structurally feasible, but risk profiles and player archetypes don\u2019t fit B\u2019s stated preferences. Rationale is sparse and not grounded in the scenario\u2019s specific priorities.",
+  "_meta": {
+    "scenario_id": 28,
+    "variant": "tom_explicit",
+    "model": "claude-4.5-sonnet",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

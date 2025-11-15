@@ -1,0 +1,6 @@
+{
+  "offer_from_A": ["Ethan Campbell (RB)"],
+  "ask_from_B": ["Marcus Reed (RB)"],
+  "rationale": "B gets steady RB with friendly playoff slate; A takes upside swing.",
+  "p_accept_B": 0.62
+}

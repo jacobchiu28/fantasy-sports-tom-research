@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 3,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 40,
+  "justification": "Acknowledges B\u2019s liking for deep-threat WRs and RB surplus, and A\u2019s thin RB depth. However, it ignores B\u2019s strong injury aversion by offering an IR QB and mislabels him as \u201cstable.\u201d Value is incoherent for A (T2 WR + IR T1 QB for a T4 RB), clashing with A\u2019s risk-seeking, buy-injured profile. Rationale is brief and misses key context (B\u2019s QB need vs. injury policy, schedules). Acceptance probability seems miscalibrated.",
+  "_meta": {
+    "scenario_id": 38,
+    "variant": "simulate_opponent",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "offer_from_A": [
+    "Sean Hernandez",
+    "Adam Anderson"
+  ],
+  "ask_from_B": [
+    "Lucas Allen"
+  ],
+  "rationale": "B gains RB depth and a possession WR; A upgrades to Lucas Allen's steadier weekly floor.",
+  "p_accept_B": 0.68,
+  "_meta": {
+    "scenario_id": 47,
+    "variant": "tom_implicit",
+    "model": "gpt-5",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc47_tom_implicit_gpt-5.txt"
+  }
+}

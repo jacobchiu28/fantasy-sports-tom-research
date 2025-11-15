@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Offer ignores Team B\u2019s consistency/schedule focus. B gives a healthy workhorse with a friendly playoff slate for two committee RBs (one with declining role) and a volatile deep-threat WR with tough playoff matchups\u2014poor fit for B\u2019s preferences. Rationale is A-centric and vague, not explaining B\u2019s incentive or leveraging B\u2019s TE depth convincingly. Trade is feasible and offloads B\u2019s Q TE, but value logic is muddled (requesting a Tier-5 \u2018workhorse\u2019 while A ships a Tier-1 RB).",
+  "_meta": {
+    "scenario_id": 42,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

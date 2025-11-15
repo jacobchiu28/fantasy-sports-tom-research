@@ -1,0 +1,16 @@
+{
+  "offer_from_A": [
+    "Caleb Turner",
+    "David Baker"
+  ],
+  "ask_from_B": [
+    "David Campbell"
+  ],
+  "rationale": "Consolidates two bench players with tough playoff matchups for a stable, low-volatility starting WR to solidify the roster.",
+  "_meta": {
+    "scenario_id": 21,
+    "variant": "baseline",
+    "model": "gemini-2.5-pro",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc21_baseline_gemini-2.5-pro.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "offer_from_A": [
+    "Tyler Lewis",
+    "Alex Thompson"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Isaiah Lee"
+  ],
+  "rationale": "I get stable floors to win now. You get high-upside players to bolster your championship run. A style-based win-win.",
+  "p_accept_B": 0.7
+}

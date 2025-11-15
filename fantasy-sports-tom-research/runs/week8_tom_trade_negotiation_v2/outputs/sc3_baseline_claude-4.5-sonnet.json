@@ -1,0 +1,18 @@
+{
+  "offer_from_A": [
+    "Matt Nelson",
+    "Liam White"
+  ],
+  "ask_from_B": [
+    "Ben King",
+    "Michael Flores"
+  ],
+  "rationale": "Upgrade RB consistency, add TE depth. Trade away high-variance players for low-volatility assets with better roles.",
+  "p_accept_B": 0.45,
+  "_meta": {
+    "scenario_id": 3,
+    "variant": "baseline",
+    "model": "claude-4.5-sonnet",
+    "prompt_path": "runs/week8_tom_trade_negotiation_v2/prompts/sc3_baseline_claude-4.5-sonnet.txt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 1,
+  "perspective_taking": 1,
+  "consistency": 3,
+  "explanation_quality": 1,
+  "overall": 30,
+  "justification": "Fails to model B: they value rookies and zero-RB/injury buys; asking for Cameron Scott (Tier 1 rookie) conflicts, while Adams is a weak injured buy. Green (Tier 1 dual-threat) might appeal, but the rationale never references B\u2019s incentives or consensus lean. Claim that \u201cTurner starts\u201d ignores A already has a Tier 1 TE. The QB-for-WR framework is plausible, but the reasoning is shallow and misaligned.",
+  "_meta": {
+    "scenario_id": 25,
+    "variant": "baseline",
+    "model": "gpt-5",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

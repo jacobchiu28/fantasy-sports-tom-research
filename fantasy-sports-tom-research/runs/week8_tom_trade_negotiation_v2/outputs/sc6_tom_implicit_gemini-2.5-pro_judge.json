@@ -1,0 +1,15 @@
+{
+  "belief_modeling": 2,
+  "perspective_taking": 2,
+  "consistency": 1,
+  "explanation_quality": 2,
+  "overall": 35,
+  "justification": "Offer misreads Team B\u2019s situation. B\u2019s only healthy QB is James Jones; trading him leaves them with an Out QB (Logan Clark), despite needing wins now and valuing dual-threat QBs. While the rookies match B\u2019s upside preference and are healthy, they don\u2019t address B\u2019s immediate need at QB. The claim that B has QB depth is false, and the 0.7 acceptance is unrealistic. Rationale is generic and not grounded in specific roster constraints.",
+  "_meta": {
+    "scenario_id": 6,
+    "variant": "tom_implicit",
+    "model": "gemini-2.5-pro",
+    "judge_model": "gpt-5",
+    "experiment": "week8_tom_trade_judging"
+  }
+}

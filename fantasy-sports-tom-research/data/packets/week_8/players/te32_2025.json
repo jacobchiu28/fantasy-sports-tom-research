@@ -1,0 +1,89 @@
+{
+  "player_id": "te32_2025",
+  "name": "Brandon Robinson",
+  "position": "TE",
+  "team": "DAL",
+  "week": 8,
+  "career_stage": "veteran",
+  "role_usage": {
+    "snap_share_pct_range": [
+      60,
+      84
+    ],
+    "route_participation_pct_range": [
+      58,
+      82
+    ],
+    "target_share_pct_range": [
+      13,
+      19
+    ],
+    "air_yards_share_pct_range": [
+      9,
+      19
+    ],
+    "inline_block_rate_pct_range": [
+      32,
+      62
+    ],
+    "red_zone_target_share_tier": "Top",
+    "trend_5g": "Flat",
+    "volatility": "High"
+  },
+  "health": {
+    "status": "Questionable",
+    "practice_trend": [
+      "DNP",
+      "LP",
+      "FP"
+    ],
+    "reinjury_risk": "Low",
+    "expected_workload_cap_pct": [
+      60,
+      85
+    ],
+    "confidence": 0.55
+  },
+  "context": {
+    "team_proe_tier": "Mid",
+    "pace_tier": "Mid",
+    "opponent_dvp_tier": "Tough",
+    "weather_risk": "None",
+    "confidence": 0.87,
+    "qb_quality_tier": "Top"
+  },
+  "market_signals": {
+    "adp_band": "Round 5-6",
+    "adp_7d_movement": "Flat",
+    "ecr_tier": "Tier 3",
+    "expert_spread": "Tight",
+    "start_rate_band": "80-90%",
+    "trade_interest": "High"
+  },
+  "schedule_fit": {
+    "bye_week": 4,
+    "playoff_matchup_tiers": {
+      "15": "Neutral",
+      "16": "Neutral",
+      "17": "Tough"
+    },
+    "stack_tags": [
+      "Stacks with QB1"
+    ],
+    "confidence": 0.6
+  },
+  "archetype_tags": [
+    "blocking_te"
+  ],
+  "role_description": "Inline blocker with limited receiving role, high usage consistency",
+  "summary_text": "Minor injury concern Tier 3 TE in mid-volume passing offense, mid tempo with steady usage pattern. Mixed playoff outlook.",
+  "prompt_summary": {
+    "position": "TE",
+    "role": "Inline blocker with limited receiving role, high usage consistency",
+    "volatility": "High",
+    "health": "Questionable",
+    "context": "Mid pass rate, Mid tempo",
+    "market": "Tier 3 (High trade interest)",
+    "schedule": "Mixed playoff outlook"
+  }
+}
